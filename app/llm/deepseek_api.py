@@ -1,10 +1,11 @@
 from langchain_deepseek import ChatDeepSeek
+from app.config import api_key
 
 
 model = ChatDeepSeek(
     base_url="https://api.deepseek.com",
     model="deepseek-chat",
-    api_key="sk-b5eb2d64fbc449c7b6c0c7eea58002e9",
+    api_key=api_key,
     temperature=0,
     max_retries=3 
 )
