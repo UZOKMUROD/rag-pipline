@@ -1,0 +1,129 @@
+Chat Log #275
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Davis | Truck: #544 (reefer)
+Operator: Ashley
+Load: LD-53745 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-05-22
+--------------------------------------------------
+[07:44] Ashley: Carlos, got a minute?
+[07:45] Carlos Davis: Morning, all good on my end.
+[07:47] Ashley: Got a load for you - LD-53745, reefer, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[07:49] Carlos Davis: Ok, what's the pickup window?
+[07:51] Ashley: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[07:53] Carlos Davis: What's the rate on this one?
+[07:55] Ashley: $2650 all in, 978 miles.
+[07:57] Carlos Davis: Sounds good, I'll take it.
+[07:59] Ashley: Great, sending the rate confirmation now.
+[08:02] Carlos Davis: Got it, signed and sent back.
+[08:38] Ashley: What's your status?
+[08:40] Carlos Davis: Roads are wet, taking it easy.
+[09:01] Ashley: What's your status?
+[09:03] Carlos Davis: Accident up ahead, traffic's backed up.
+[09:05] Ashley: What's your ETA?
+[09:07] Carlos Davis: Should be there around 7pm.
+[10:13] Ashley: Any updates on your progress?
+[10:15] Carlos Davis: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[10:18] Ashley: Long trip, huh? Get some rest when you can.
+[10:20] Carlos Davis: Will do, thanks for checking in.
+[10:22] Ashley: What's your ETA?
+[10:24] Carlos Davis: Looking at 3pm if traffic stays clear.
+[10:39] Ashley: Any updates on your progress?
+[10:41] Carlos Davis: Doing alright, just tired.
+[10:43] Ashley: What's your ETA?
+[10:45] Carlos Davis: Probably 5pm, maybe a bit earlier.
+[11:56] Ashley: What's your status?
+[11:58] Carlos Davis: Just topped off the tank.
+[12:56] Ashley: Still on schedule?
+[12:58] Carlos Davis: No problem, just doing my job.
+[13:01] Ashley: Let me know if you need anything.
+[13:03] Carlos Davis: Yeah, long one, but manageable.
+[14:20] Ashley: Any updates on your progress?
+[14:22] Carlos Davis: Yeah, long one, but manageable.
+[14:25] Ashley: Appreciate you keeping me posted.
+[14:27] Carlos Davis: No problem, just doing my job.
+[14:49] Ashley: Still on schedule?
+[14:51] Carlos Davis: Construction zone slowing everyone down.
+[16:19] Ashley: Where are you at right now?
+[16:21] Carlos Davis: Just crossed the state line, all good.
+[17:11] Ashley: What's your status?
+[17:13] Carlos Davis: About 117 miles out from Phoenix, AZ now.
+[18:22] Ashley: What's your status?
+[18:24] Carlos Davis: Making good time, no issues so far.
+[19:28] Ashley: Where are you at right now?
+[19:30] Carlos Davis: Fuel prices are decent around here.
+[19:33] Ashley: Appreciate you keeping me posted.
+[19:35] Carlos Davis: Doing alright, just tired.
+[21:03] Ashley: How's LD-53745 looking?
+[21:05] Carlos Davis: Doing alright, just tired.
+[21:08] Ashley: Let me know if you need anything.
+[21:10] Carlos Davis: Doing alright, just tired.
+[22:33] Ashley: Where are you at right now?
+[22:35] Carlos Davis: About 489 miles out from Phoenix, AZ now.
+[23:09] Ashley: How's LD-53745 looking?
+[23:11] Carlos Davis: Doing alright, just tired.
+[23:44] Ashley: How's LD-53745 looking?
+[23:46] Carlos Davis: Traffic's a bit heavy but I'm still on schedule.
+[00:12] Carlos Davis: I've got a problem, road construction slowing things down on LD-53745. Pulled over on the shoulder.
+[00:13] Ashley: Are you safe? Anyone hurt?
+[00:15] Carlos Davis: Yeah I'm fine, just need roadside assistance.
+[00:17] Ashley: Mile marker 311 on I-80.
+[00:22] Ashley: Truck is on the way, ETA about 45 min.
+[01:23] Carlos Davis: Fixed and rolling again.
+[02:06] Ashley: Still on schedule?
+[02:08] Carlos Davis: Just crossed the state line, all good.
+[03:05] Ashley: Any updates on your progress?
+[03:07] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[03:57] Ashley: Still on schedule?
+[03:59] Carlos Davis: Just crossed the state line, all good.
+[04:42] Ashley: How's LD-53745 looking?
+[04:44] Carlos Davis: About 280 miles out from Phoenix, AZ now.
+[05:04] Ashley: What's your status?
+[05:06] Carlos Davis: Just passed Phoenix, AZ, everything's fine.
+[05:33] Ashley: How's LD-53745 looking?
+[05:35] Carlos Davis: Making good time, no issues so far.
+[05:55] Ashley: Any updates on your progress?
+[05:57] Carlos Davis: Just crossed the state line, all good.
+[06:31] Ashley: Where are you at right now?
+[06:33] Carlos Davis: About 179 miles out from Phoenix, AZ now.
+[07:11] Ashley: Any updates on your progress?
+[07:13] Carlos Davis: Traffic's a bit heavy but I'm still on schedule.
+[07:59] Ashley: How's LD-53745 looking?
+[08:01] Carlos Davis: Just crossed the state line, all good.
+[08:21] Ashley: Any updates on your progress?
+[08:23] Carlos Davis: About 596 miles out from Phoenix, AZ now.
+[09:12] Ashley: Any updates on your progress?
+[09:14] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[09:37] Ashley: Where are you at right now?
+[09:39] Carlos Davis: About 36 miles out from Phoenix, AZ now.
+[10:16] Ashley: How's LD-53745 looking?
+[10:18] Carlos Davis: About 380 miles out from Phoenix, AZ now.
+[10:45] Ashley: Still on schedule?
+[10:47] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[11:31] Ashley: Where are you at right now?
+[11:33] Carlos Davis: Making good time, no issues so far.
+[12:30] Ashley: Still on schedule?
+[12:32] Carlos Davis: Traffic's a bit heavy but I'm still on schedule.
+[12:56] Ashley: Where are you at right now?
+[12:58] Carlos Davis: Just passed Los Angeles, CA, everything's fine.
+[13:54] Ashley: Still on schedule?
+[13:56] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[14:11] Ashley: What's your status?
+[14:13] Carlos Davis: Just passed Los Angeles, CA, everything's fine.
+[14:39] Ashley: What's your status?
+[14:41] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[15:14] Ashley: How's LD-53745 looking?
+[15:16] Carlos Davis: Just crossed the state line, all good.
+[15:55] Ashley: Where are you at right now?
+[15:57] Carlos Davis: Making good time, no issues so far.
+[16:12] Ashley: What's your status?
+[16:14] Carlos Davis: Stopped for a quick break, back on the road in a few.
+[16:46] Ashley: Where are you at right now?
+[16:48] Carlos Davis: About 532 miles out from Phoenix, AZ now.
+[17:45] Carlos Davis: Just delivered LD-53745 at Phoenix, AZ, all good, no damages.
+[17:47] Ashley: Do you have the signed BOL?
+[17:49] Carlos Davis: Yep, taking a picture now.
+[17:50] Carlos Davis: [Image attached: signed_bol.jpg]
+[17:52] Ashley: Sending you the next load details shortly.
+[17:54] Carlos Davis: Understood.
+[17:56] Ashley: Appreciate it, talk soon.

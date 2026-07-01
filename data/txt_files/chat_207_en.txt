@@ -1,0 +1,131 @@
+Chat Log #207
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin White | Truck: #431 (flatbed)
+Operator: Amanda
+Load: LD-94218 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-04-15
+--------------------------------------------------
+[18:20] Amanda: Hey Kevin, how's it going?
+[18:21] Kevin White: Yeah, go ahead.
+[18:23] Amanda: Got a load for you - LD-94218, flatbed, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[18:25] Kevin White: Ok, what's the pickup window?
+[18:27] Amanda: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[18:29] Kevin White: What's the rate on this one?
+[18:31] Amanda: $4186 all in, 718 miles.
+[18:33] Kevin White: Sounds good, I'll take it.
+[18:35] Amanda: Great, sending the rate confirmation now.
+[18:38] Kevin White: Got it, signed and sent back.
+[19:54] Amanda: What's your status?
+[19:56] Kevin White: Traffic's a bit heavy but I'm still on schedule.
+[19:59] Amanda: Appreciate you keeping me posted.
+[20:01] Kevin White: Doing alright, just tired.
+[20:17] Amanda: How's LD-94218 looking?
+[20:19] Kevin White: Stopping for fuel in a bit.
+[20:22] Amanda: Long trip, huh? Get some rest when you can.
+[20:24] Kevin White: No problem, just doing my job.
+[20:52] Amanda: How's LD-94218 looking?
+[20:54] Kevin White: Weather's getting rough up ahead, heads up.
+[21:31] Amanda: How's LD-94218 looking?
+[21:33] Kevin White: Rain is picking up here, slowing down a bit.
+[21:36] Amanda: Let me know if you need anything.
+[21:38] Kevin White: Yeah, long one, but manageable.
+[22:41] Amanda: Any updates on your progress?
+[22:43] Kevin White: Construction zone slowing everyone down.
+[23:03] Amanda: Where are you at right now?
+[23:05] Kevin White: About 579 miles out from Louisville, KY now.
+[23:08] Amanda: Appreciate you keeping me posted.
+[23:10] Kevin White: No problem, just doing my job.
+[23:53] Amanda: Still on schedule?
+[23:55] Kevin White: Doing alright, just tired.
+[23:57] Amanda: What's your ETA?
+[23:59] Kevin White: Should be there around 3pm.
+[01:13] Amanda: Still on schedule?
+[01:15] Kevin White: Just passed Indianapolis, IN, everything's fine.
+[01:55] Amanda: Still on schedule?
+[01:57] Kevin White: Making good time, no issues so far.
+[03:09] Amanda: How's LD-94218 looking?
+[03:11] Kevin White: About 227 miles out from Louisville, KY now.
+[04:22] Amanda: Where are you at right now?
+[04:24] Kevin White: Making good time, no issues so far.
+[04:27] Amanda: Let me know if you need anything.
+[04:29] Kevin White: No problem, just doing my job.
+[05:40] Amanda: Still on schedule?
+[05:42] Kevin White: Construction zone slowing everyone down.
+[05:45] Amanda: Let me know if you need anything.
+[05:47] Kevin White: No problem, just doing my job.
+[05:49] Amanda: What's your ETA?
+[05:51] Kevin White: Probably noon, maybe a bit earlier.
+[06:08] Amanda: Where are you at right now?
+[06:10] Kevin White: Stopped for a quick break, back on the road in a few.
+[06:50] Amanda: How's LD-94218 looking?
+[06:52] Kevin White: Roads are wet, taking it easy.
+[06:55] Amanda: Appreciate you keeping me posted.
+[06:57] Kevin White: Doing alright, just tired.
+[07:25] Amanda: Still on schedule?
+[07:27] Kevin White: Yeah, long one, but manageable.
+[07:30] Amanda: Let me know if you need anything.
+[07:32] Kevin White: Yeah, long one, but manageable.
+[08:17] Amanda: Any updates on your progress?
+[08:19] Kevin White: Just passed Louisville, KY, everything's fine.
+[08:36] Amanda: Still on schedule?
+[08:38] Kevin White: Just passed Louisville, KY, everything's fine.
+[09:28] Amanda: Any updates on your progress?
+[09:30] Kevin White: Stopped for a quick break, back on the road in a few.
+[09:51] Amanda: Where are you at right now?
+[09:53] Kevin White: Making good time, no issues so far.
+[10:10] Amanda: What's your status?
+[10:12] Kevin White: Making good time, no issues so far.
+[11:02] Amanda: Any updates on your progress?
+[11:04] Kevin White: Just crossed the state line, all good.
+[11:30] Amanda: Still on schedule?
+[11:32] Kevin White: Traffic's a bit heavy but I'm still on schedule.
+[11:47] Amanda: Where are you at right now?
+[11:49] Kevin White: Traffic's a bit heavy but I'm still on schedule.
+[12:09] Amanda: Where are you at right now?
+[12:11] Kevin White: Just crossed the state line, all good.
+[12:48] Amanda: What's your status?
+[12:50] Kevin White: Just passed Indianapolis, IN, everything's fine.
+[13:29] Amanda: What's your status?
+[13:31] Kevin White: Stopped for a quick break, back on the road in a few.
+[14:29] Amanda: Where are you at right now?
+[14:31] Kevin White: About 189 miles out from Louisville, KY now.
+[15:16] Amanda: Any updates on your progress?
+[15:18] Kevin White: Just passed Louisville, KY, everything's fine.
+[15:42] Amanda: Still on schedule?
+[15:44] Kevin White: Making good time, no issues so far.
+[16:02] Amanda: What's your status?
+[16:04] Kevin White: About 159 miles out from Louisville, KY now.
+[16:28] Amanda: Where are you at right now?
+[16:30] Kevin White: Just passed Louisville, KY, everything's fine.
+[16:51] Amanda: What's your status?
+[16:53] Kevin White: Making good time, no issues so far.
+[17:10] Amanda: What's your status?
+[17:12] Kevin White: Stopped for a quick break, back on the road in a few.
+[18:11] Amanda: How's LD-94218 looking?
+[18:13] Kevin White: Making good time, no issues so far.
+[19:02] Amanda: How's LD-94218 looking?
+[19:04] Kevin White: Traffic's a bit heavy but I'm still on schedule.
+[19:59] Amanda: Any updates on your progress?
+[20:01] Kevin White: Making good time, no issues so far.
+[20:49] Amanda: How's LD-94218 looking?
+[20:51] Kevin White: About 343 miles out from Louisville, KY now.
+[21:37] Amanda: Where are you at right now?
+[21:39] Kevin White: Just crossed the state line, all good.
+[22:03] Amanda: Any updates on your progress?
+[22:05] Kevin White: Just crossed the state line, all good.
+[22:35] Amanda: Still on schedule?
+[22:37] Kevin White: Making good time, no issues so far.
+[23:19] Amanda: Any updates on your progress?
+[23:21] Kevin White: Just passed Louisville, KY, everything's fine.
+[00:12] Amanda: How's LD-94218 looking?
+[00:14] Kevin White: About 401 miles out from Louisville, KY now.
+[01:08] Amanda: Any updates on your progress?
+[01:10] Kevin White: Just crossed the state line, all good.
+[02:19] Kevin White: Just delivered LD-94218 at Louisville, KY, all good, no damages.
+[02:21] Amanda: Do you have the signed BOL?
+[02:23] Kevin White: Yep, taking a picture now.
+[02:24] Kevin White: [Image attached: signed_bol.jpg]
+[02:26] Amanda: Sending you the next load details shortly.
+[02:28] Kevin White: Will do.
+[02:30] Amanda: Appreciate it, talk soon.

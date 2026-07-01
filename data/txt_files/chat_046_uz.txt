@@ -1,0 +1,151 @@
+Chat Log #046
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #821 (past ramali tirkama)
+Operator: Nodira
+Load: LD-75346 | Route: Namangan -> Toshkent
+Date: 2026-01-25
+--------------------------------------------------
+[18:31] Nodira: Jasur, bir daqiqa bormi?
+[18:32] Jasur Toshpulatov: Xayrli tong, menda hammasi yaxshi.
+[18:34] Nodira: Siz uchun yuk bor - LD-75346, past ramali tirkama, Namangandan yuklanadi, Toshkentga tushiriladi.
+[18:36] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[18:38] Nodira: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[18:40] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[18:42] Nodira: 1869 ming so'm, 1022 km.
+[18:44] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[18:46] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[18:49] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[20:08] Nodira: Yo'lda yangilik bormi?
+[20:10] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[20:13] Nodira: Xabar berib turganingiz uchun rahmat.
+[20:15] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[20:52] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[20:54] Jasur Toshpulatov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[22:00] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:02] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:04] Nodira: Taxminan qachon yetib borasiz?
+[22:06] Jasur Toshpulatov: Ehtimol noon, balki ertaroq.
+[22:22] Nodira: Hozir qayerdasiz?
+[22:24] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[23:46] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:48] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[23:51] Nodira: O'zingizni qalay his qilyapsiz?
+[23:53] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[00:59] Nodira: Holatingiz qanday?
+[01:01] Jasur Toshpulatov: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[01:32] Nodira: Holatingiz qanday?
+[01:34] Jasur Toshpulatov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[01:37] Nodira: Xabar berib turganingiz uchun rahmat.
+[01:39] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[01:41] Nodira: Taxminan qachon yetib borasiz?
+[01:43] Jasur Toshpulatov: Taxminan 7pmda yetib boraman.
+[02:57] Nodira: Yo'lda yangilik bormi?
+[02:59] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:43] Nodira: Holatingiz qanday?
+[03:45] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[04:51] Nodira: Holatingiz qanday?
+[04:53] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[05:48] Nodira: Yo'lda yangilik bormi?
+[05:50] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[05:52] Nodira: Taxminan qachon yetib borasiz?
+[05:54] Jasur Toshpulatov: Taxminan 3pmda yetib boraman.
+[07:18] Nodira: LD-75346 bilan ishlar qalay?
+[07:20] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:54] Nodira: Holatingiz qanday?
+[07:56] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:52] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:54] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[08:57] Nodira: Biror narsa kerak bo'lsa ayting.
+[08:59] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[09:53] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[09:55] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[10:33] Nodira: Holatingiz qanday?
+[10:35] Jasur Toshpulatov: Toshkentgacha taxminan 521 km qoldi.
+[11:14] Nodira: Yo'lda yangilik bormi?
+[11:16] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:08] Nodira: Hozir qayerdasiz?
+[12:10] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[13:06] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:08] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:58] Nodira: Holatingiz qanday?
+[14:00] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:33] Nodira: Holatingiz qanday?
+[14:35] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:51] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:53] Jasur Toshpulatov: Toshkentgacha taxminan 536 km qoldi.
+[15:24] Nodira: Holatingiz qanday?
+[15:26] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:26] Nodira: LD-75346 bilan ishlar qalay?
+[16:28] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[16:56] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:58] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:22] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:24] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:06] Nodira: Hozir qayerdasiz?
+[18:08] Jasur Toshpulatov: Toshkentgacha taxminan 570 km qoldi.
+[19:00] Nodira: Holatingiz qanday?
+[19:02] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:56] Nodira: LD-75346 bilan ishlar qalay?
+[19:58] Jasur Toshpulatov: Toshkentgacha taxminan 151 km qoldi.
+[20:47] Nodira: Hozir qayerdasiz?
+[20:49] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:16] Nodira: Yo'lda yangilik bormi?
+[21:18] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:36] Nodira: Hozir qayerdasiz?
+[21:38] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:55] Nodira: Holatingiz qanday?
+[21:57] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:57] Nodira: Yo'lda yangilik bormi?
+[22:59] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[23:30] Nodira: Holatingiz qanday?
+[23:32] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:04] Nodira: LD-75346 bilan ishlar qalay?
+[00:06] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:43] Nodira: Holatingiz qanday?
+[00:45] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:34] Nodira: Yo'lda yangilik bormi?
+[01:36] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:28] Nodira: Holatingiz qanday?
+[02:30] Jasur Toshpulatov: Toshkentgacha taxminan 323 km qoldi.
+[03:02] Nodira: Holatingiz qanday?
+[03:04] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:26] Nodira: LD-75346 bilan ishlar qalay?
+[03:28] Jasur Toshpulatov: Toshkentgacha taxminan 109 km qoldi.
+[04:06] Nodira: Yo'lda yangilik bormi?
+[04:08] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:03] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:05] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:53] Nodira: LD-75346 bilan ishlar qalay?
+[05:55] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:43] Nodira: Hozir qayerdasiz?
+[06:45] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:04] Nodira: Yo'lda yangilik bormi?
+[07:06] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:46] Nodira: Yo'lda yangilik bormi?
+[07:48] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:26] Nodira: Yo'lda yangilik bormi?
+[08:28] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:23] Nodira: Yo'lda yangilik bormi?
+[09:25] Jasur Toshpulatov: Toshkentgacha taxminan 273 km qoldi.
+[09:44] Nodira: Yo'lda yangilik bormi?
+[09:46] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:09] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[10:11] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:35] Nodira: LD-75346 bilan ishlar qalay?
+[10:37] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:29] Nodira: LD-75346 bilan ishlar qalay?
+[11:31] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[11:51] Nodira: LD-75346 bilan ishlar qalay?
+[11:53] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:20] Nodira: Yo'lda yangilik bormi?
+[12:22] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:17] Nodira: Hozir qayerdasiz?
+[13:19] Jasur Toshpulatov: Toshkentgacha taxminan 152 km qoldi.
+[14:37] Jasur Toshpulatov: LD-75346 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[14:39] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[14:41] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[14:42] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[14:44] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[14:46] Jasur Toshpulatov: Xo'p bo'ladi.
+[14:48] Nodira: Ajoyib ish, rahmat.

@@ -1,0 +1,155 @@
+Chat Log #260
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #668 (refrijerator)
+Operator: Gulnora
+Load: LD-75942 | Route: Andijon -> Farg'ona
+Date: 2026-02-05
+--------------------------------------------------
+[12:48] Gulnora: Xayrli tong, Shavkat, aloqadamisiz?
+[12:49] Shavkat Ergashev: Ha, aytavering.
+[12:51] Gulnora: Siz uchun yuk bor - LD-75942, refrijerator, Andijondan yuklanadi, Farg'onaga tushiriladi.
+[12:53] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[12:55] Gulnora: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[12:57] Shavkat Ergashev: Bu reys uchun narx qancha?
+[12:59] Gulnora: 3184 ming so'm, 785 km.
+[13:01] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[13:03] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:06] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[14:24] Gulnora: LD-75942 bilan ishlar qalay?
+[14:26] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:28] Gulnora: Taxminan qachon yetib borasiz?
+[14:30] Shavkat Ergashev: Ehtimol noon, balki ertaroq.
+[15:38] Gulnora: LD-75942 bilan ishlar qalay?
+[15:40] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[15:42] Gulnora: Taxminan qachon yetib borasiz?
+[15:44] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[16:22] Gulnora: Holatingiz qanday?
+[16:24] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[16:27] Gulnora: Xabar berib turganingiz uchun rahmat.
+[16:29] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[16:31] Gulnora: Taxminan qachon yetib borasiz?
+[16:33] Shavkat Ergashev: Agar tirbandlik bo'lmasa 3pmda.
+[17:57] Gulnora: Hozir qayerdasiz?
+[17:59] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[18:02] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:04] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[18:06] Gulnora: Taxminan qachon yetib borasiz?
+[18:08] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[19:26] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[19:28] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[19:31] Gulnora: O'zingizni qalay his qilyapsiz?
+[19:33] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:35] Gulnora: Taxminan qachon yetib borasiz?
+[19:37] Shavkat Ergashev: Agar tirbandlik bo'lmasa 5pmda.
+[20:56] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:58] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:14] Gulnora: LD-75942 bilan ishlar qalay?
+[21:16] Shavkat Ergashev: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[22:25] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[22:27] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[22:30] Gulnora: O'zingizni qalay his qilyapsiz?
+[22:32] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[23:02] Gulnora: Hozir qayerdasiz?
+[23:04] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[00:11] Gulnora: Hozir qayerdasiz?
+[00:13] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[00:46] Gulnora: LD-75942 bilan ishlar qalay?
+[00:48] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[00:50] Gulnora: Taxminan qachon yetib borasiz?
+[00:52] Shavkat Ergashev: Agar tirbandlik bo'lmasa 7pmda.
+[01:10] Gulnora: LD-75942 bilan ishlar qalay?
+[01:12] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[01:57] Gulnora: Holatingiz qanday?
+[01:59] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[02:27] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:29] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:04] Gulnora: Yo'lda yangilik bormi?
+[03:06] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:57] Gulnora: Hozir qayerdasiz?
+[03:59] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[04:02] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[04:04] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[04:31] Shavkat Ergashev: Muammo chiqdi, kuchli qor yog'moqda LD-75942da. Yo'l chetiga to'xtadim.
+[04:32] Gulnora: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[04:34] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[04:36] Gulnora: A380 yo'lida 334-belgida turibman.
+[04:41] Gulnora: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[05:31] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[05:51] Gulnora: Holatingiz qanday?
+[05:53] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:30] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[06:32] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:28] Gulnora: Hozir qayerdasiz?
+[07:30] Shavkat Ergashev: Farg'onagacha taxminan 94 km qoldi.
+[07:57] Gulnora: Holatingiz qanday?
+[07:59] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:57] Gulnora: Hozir qayerdasiz?
+[08:59] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:47] Gulnora: LD-75942 bilan ishlar qalay?
+[09:49] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:31] Gulnora: Yo'lda yangilik bormi?
+[10:33] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:59] Gulnora: Holatingiz qanday?
+[11:01] Shavkat Ergashev: Farg'onagacha taxminan 477 km qoldi.
+[11:56] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[11:58] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:47] Gulnora: Holatingiz qanday?
+[12:49] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:14] Gulnora: Holatingiz qanday?
+[13:16] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:48] Gulnora: Hozir qayerdasiz?
+[13:50] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[14:33] Gulnora: Yo'lda yangilik bormi?
+[14:35] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:55] Gulnora: LD-75942 bilan ishlar qalay?
+[14:57] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[15:48] Gulnora: LD-75942 bilan ishlar qalay?
+[15:50] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[16:10] Gulnora: Yo'lda yangilik bormi?
+[16:12] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:44] Gulnora: Yo'lda yangilik bormi?
+[16:46] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:02] Gulnora: Holatingiz qanday?
+[17:04] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:02] Gulnora: Holatingiz qanday?
+[18:04] Shavkat Ergashev: Farg'onagacha taxminan 519 km qoldi.
+[19:03] Gulnora: Hozir qayerdasiz?
+[19:05] Shavkat Ergashev: Farg'onagacha taxminan 76 km qoldi.
+[19:42] Gulnora: LD-75942 bilan ishlar qalay?
+[19:44] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:24] Gulnora: Holatingiz qanday?
+[20:26] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:59] Gulnora: Hozir qayerdasiz?
+[21:01] Shavkat Ergashev: Farg'onagacha taxminan 532 km qoldi.
+[21:18] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[21:20] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:17] Gulnora: Yo'lda yangilik bormi?
+[22:19] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[23:16] Gulnora: Hozir qayerdasiz?
+[23:18] Shavkat Ergashev: Farg'onagacha taxminan 114 km qoldi.
+[23:35] Gulnora: LD-75942 bilan ishlar qalay?
+[23:37] Shavkat Ergashev: Farg'onagacha taxminan 181 km qoldi.
+[00:17] Gulnora: LD-75942 bilan ishlar qalay?
+[00:19] Shavkat Ergashev: Farg'onagacha taxminan 592 km qoldi.
+[00:40] Gulnora: Hozir qayerdasiz?
+[00:42] Shavkat Ergashev: Farg'onagacha taxminan 550 km qoldi.
+[01:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[01:26] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:12] Gulnora: Yo'lda yangilik bormi?
+[02:14] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[03:05] Gulnora: Hozir qayerdasiz?
+[03:07] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[03:44] Gulnora: LD-75942 bilan ishlar qalay?
+[03:46] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:21] Gulnora: Hozir qayerdasiz?
+[04:23] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[04:41] Gulnora: Holatingiz qanday?
+[04:43] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:26] Shavkat Ergashev: LD-75942 yukini Farg'onada hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:28] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[05:30] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[05:31] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:33] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:35] Shavkat Ergashev: Tushundim.
+[05:37] Gulnora: Rahmat, aloqada bo'lamiz.

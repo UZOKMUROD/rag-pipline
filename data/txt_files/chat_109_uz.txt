@@ -1,0 +1,151 @@
+Chat Log #109
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #307 (past ramali tirkama)
+Operator: Zarina
+Load: LD-89319 | Route: Farg'ona -> Andijon
+Date: 2026-04-19
+--------------------------------------------------
+[16:46] Zarina: Bakhtiyor, bir daqiqa bormi?
+[16:47] Bakhtiyor Karimov: Ha, aytavering.
+[16:49] Zarina: Siz uchun yuk bor - LD-89319, past ramali tirkama, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[16:51] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[16:53] Zarina: Yuklash 09:00-11:00, tushirish esa ertaga 14:00 bo'ladi.
+[16:55] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[16:57] Zarina: 4147 ming so'm, 812 km.
+[16:59] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[17:01] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:04] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[17:59] Zarina: Yo'lda yangilik bormi?
+[18:01] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[18:25] Zarina: Hozir qayerdasiz?
+[18:27] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[18:29] Zarina: Taxminan qachon yetib borasiz?
+[18:31] Bakhtiyor Karimov: Ehtimol 3pm, balki ertaroq.
+[18:55] Zarina: LD-89319 bilan ishlar qalay?
+[18:57] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[19:00] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:02] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[19:34] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[19:36] Bakhtiyor Karimov: Osmon ochiq, muammo yo'q.
+[20:20] Zarina: Holatingiz qanday?
+[20:22] Bakhtiyor Karimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[20:24] Zarina: Taxminan qachon yetib borasiz?
+[20:26] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[21:33] Zarina: Yo'lda yangilik bormi?
+[21:35] Bakhtiyor Karimov: Andijongacha taxminan 41 km qoldi.
+[21:55] Zarina: Hozir qayerdasiz?
+[21:57] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:59] Zarina: Taxminan qachon yetib borasiz?
+[22:01] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 10amda.
+[23:06] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[23:08] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:10] Zarina: Taxminan qachon yetib borasiz?
+[23:12] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 7pmda.
+[23:49] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[23:51] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[00:07] Zarina: Hozir qayerdasiz?
+[00:09] Bakhtiyor Karimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[01:13] Zarina: Hozir qayerdasiz?
+[01:15] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[01:18] Zarina: Biror narsa kerak bo'lsa ayting.
+[01:20] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:07] Zarina: Holatingiz qanday?
+[02:09] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[02:51] Zarina: Hozir qayerdasiz?
+[02:53] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[03:23] Zarina: LD-89319 bilan ishlar qalay?
+[03:25] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[03:28] Zarina: Xabar berib turganingiz uchun rahmat.
+[03:30] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[04:08] Zarina: Yo'lda yangilik bormi?
+[04:10] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[04:34] Zarina: LD-89319 bilan ishlar qalay?
+[04:36] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[04:54] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[04:56] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[06:11] Zarina: Yo'lda yangilik bormi?
+[06:13] Bakhtiyor Karimov: Andijongacha taxminan 568 km qoldi.
+[06:16] Zarina: Xabar berib turganingiz uchun rahmat.
+[06:18] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:36] Zarina: Hozir qayerdasiz?
+[07:38] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[08:10] Zarina: Yo'lda yangilik bormi?
+[08:12] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:29] Zarina: Yo'lda yangilik bormi?
+[09:31] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:34] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:36] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:38] Zarina: Taxminan qachon yetib borasiz?
+[09:40] Bakhtiyor Karimov: Taxminan 5pmda yetib boraman.
+[10:27] Zarina: Hozir qayerdasiz?
+[10:29] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:27] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[11:29] Bakhtiyor Karimov: Andijongacha taxminan 304 km qoldi.
+[11:54] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[11:56] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:29] Zarina: Hozir qayerdasiz?
+[12:31] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:09] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[13:11] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:59] Zarina: Hozir qayerdasiz?
+[14:01] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:24] Zarina: Yo'lda yangilik bormi?
+[14:26] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:23] Zarina: Hozir qayerdasiz?
+[15:25] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:44] Zarina: Yo'lda yangilik bormi?
+[15:46] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:23] Zarina: LD-89319 bilan ishlar qalay?
+[16:25] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:12] Zarina: LD-89319 bilan ishlar qalay?
+[17:14] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:40] Zarina: LD-89319 bilan ishlar qalay?
+[17:42] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:35] Zarina: LD-89319 bilan ishlar qalay?
+[18:37] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:24] Zarina: Yo'lda yangilik bormi?
+[19:26] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:09] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[20:11] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:11] Zarina: LD-89319 bilan ishlar qalay?
+[21:13] Bakhtiyor Karimov: Andijongacha taxminan 109 km qoldi.
+[21:39] Zarina: Hozir qayerdasiz?
+[21:41] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:15] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:17] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[22:59] Zarina: LD-89319 bilan ishlar qalay?
+[23:01] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:36] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[23:38] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:17] Zarina: Hozir qayerdasiz?
+[00:19] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:08] Zarina: Holatingiz qanday?
+[01:10] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:41] Zarina: Yo'lda yangilik bormi?
+[01:43] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:59] Zarina: Hozir qayerdasiz?
+[02:01] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:33] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:35] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:51] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:53] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[03:20] Zarina: LD-89319 bilan ishlar qalay?
+[03:22] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:54] Zarina: Hozir qayerdasiz?
+[03:56] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:51] Zarina: Hozir qayerdasiz?
+[04:53] Bakhtiyor Karimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[05:34] Zarina: Holatingiz qanday?
+[05:36] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:22] Zarina: Yo'lda yangilik bormi?
+[06:24] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:54] Zarina: Holatingiz qanday?
+[06:56] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:05] Bakhtiyor Karimov: LD-89319 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[08:07] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[08:09] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[08:10] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[08:12] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[08:14] Bakhtiyor Karimov: Yaxshi.
+[08:16] Zarina: Ajoyib ish, rahmat.

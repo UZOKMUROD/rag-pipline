@@ -1,0 +1,129 @@
+Chat Log #198
+Company: Silk Road Logistics
+Language: English
+Driver: William Brown | Truck: #139 (flatbed)
+Operator: Amanda
+Load: LD-68771 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-01-03
+--------------------------------------------------
+[18:25] Amanda: William, got a minute?
+[18:26] William Brown: Hey, yeah I'm here.
+[18:28] Amanda: Got a load for you - LD-68771, flatbed, pickup in Nashville, TN, delivery to Birmingham, AL.
+[18:30] William Brown: Ok, what's the pickup window?
+[18:32] Amanda: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[18:34] William Brown: What's the rate on this one?
+[18:36] Amanda: $1967 all in, 967 miles.
+[18:38] William Brown: Sounds good, I'll take it.
+[18:40] Amanda: Great, sending the rate confirmation now.
+[18:43] William Brown: Got it, signed and sent back.
+[20:06] Amanda: Where are you at right now?
+[20:08] William Brown: No problem, just doing my job.
+[20:11] Amanda: Let me know if you need anything.
+[20:13] William Brown: Will do, thanks for checking in.
+[21:10] Amanda: What's your status?
+[21:12] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[21:38] Amanda: Where are you at right now?
+[21:40] William Brown: Roads are wet, taking it easy.
+[21:43] Amanda: Appreciate you keeping me posted.
+[21:45] William Brown: Will do, thanks for checking in.
+[23:14] Amanda: How's LD-68771 looking?
+[23:16] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[23:41] Amanda: Any updates on your progress?
+[23:43] William Brown: Just passed Birmingham, AL, everything's fine.
+[01:08] Amanda: What's your status?
+[01:10] William Brown: Doing alright, just tired.
+[01:12] Amanda: What's your ETA?
+[01:14] William Brown: Probably 5pm, maybe a bit earlier.
+[02:33] Amanda: Where are you at right now?
+[02:35] William Brown: Accident up ahead, traffic's backed up.
+[02:38] Amanda: How are you holding up out there?
+[02:40] William Brown: Yeah, long one, but manageable.
+[03:43] Amanda: How's LD-68771 looking?
+[03:45] William Brown: Weather's getting rough up ahead, heads up.
+[03:48] Amanda: How are you holding up out there?
+[03:50] William Brown: Will do, thanks for checking in.
+[03:52] Amanda: What's your ETA?
+[03:54] William Brown: Probably 7pm, maybe a bit earlier.
+[04:58] Amanda: Still on schedule?
+[05:00] William Brown: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[05:03] Amanda: Let me know if you need anything.
+[05:05] William Brown: Doing alright, just tired.
+[05:51] Amanda: How's LD-68771 looking?
+[05:53] William Brown: Fuel prices are decent around here.
+[06:44] Amanda: How's LD-68771 looking?
+[06:46] William Brown: Just crossed the state line, all good.
+[07:12] Amanda: Still on schedule?
+[07:14] William Brown: Just topped off the tank.
+[07:58] Amanda: Any updates on your progress?
+[08:00] William Brown: About 128 miles out from Birmingham, AL now.
+[09:10] Amanda: What's your status?
+[09:12] William Brown: Weather's getting rough up ahead, heads up.
+[09:15] Amanda: How are you holding up out there?
+[09:17] William Brown: Yeah, long one, but manageable.
+[09:19] Amanda: What's your ETA?
+[09:21] William Brown: Probably 7pm, maybe a bit earlier.
+[10:44] Amanda: How's LD-68771 looking?
+[10:46] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[10:48] Amanda: What's your ETA?
+[10:50] William Brown: Probably 10am, maybe a bit earlier.
+[11:24] William Brown: Coming up on my HOS limit, only got about 30 minutes left.
+[11:26] Amanda: Understood, get your rest, I'll let the receiver know.
+[12:13] Amanda: Any updates on your progress?
+[12:15] William Brown: About 383 miles out from Birmingham, AL now.
+[12:56] Amanda: Where are you at right now?
+[12:58] William Brown: Stopped for a quick break, back on the road in a few.
+[13:22] Amanda: What's your status?
+[13:24] William Brown: Making good time, no issues so far.
+[14:00] Amanda: Still on schedule?
+[14:02] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[14:34] Amanda: Still on schedule?
+[14:36] William Brown: Just crossed the state line, all good.
+[15:04] Amanda: Where are you at right now?
+[15:06] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[15:37] Amanda: Still on schedule?
+[15:39] William Brown: About 364 miles out from Birmingham, AL now.
+[16:25] Amanda: Any updates on your progress?
+[16:27] William Brown: Just passed Birmingham, AL, everything's fine.
+[17:23] Amanda: How's LD-68771 looking?
+[17:25] William Brown: Stopped for a quick break, back on the road in a few.
+[18:11] Amanda: How's LD-68771 looking?
+[18:13] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[18:57] Amanda: Still on schedule?
+[18:59] William Brown: Just crossed the state line, all good.
+[19:59] Amanda: Where are you at right now?
+[20:01] William Brown: Just crossed the state line, all good.
+[20:58] Amanda: Where are you at right now?
+[21:00] William Brown: Just passed Birmingham, AL, everything's fine.
+[21:55] Amanda: Still on schedule?
+[21:57] William Brown: Making good time, no issues so far.
+[22:41] Amanda: How's LD-68771 looking?
+[22:43] William Brown: Stopped for a quick break, back on the road in a few.
+[23:14] Amanda: Still on schedule?
+[23:16] William Brown: Just crossed the state line, all good.
+[00:12] Amanda: Still on schedule?
+[00:14] William Brown: About 389 miles out from Birmingham, AL now.
+[00:44] Amanda: What's your status?
+[00:46] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[01:01] Amanda: Where are you at right now?
+[01:03] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[01:47] Amanda: How's LD-68771 looking?
+[01:49] William Brown: Just crossed the state line, all good.
+[02:08] Amanda: How's LD-68771 looking?
+[02:10] William Brown: Just passed Birmingham, AL, everything's fine.
+[02:41] Amanda: Still on schedule?
+[02:43] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[03:00] Amanda: How's LD-68771 looking?
+[03:02] William Brown: Traffic's a bit heavy but I'm still on schedule.
+[03:31] Amanda: Any updates on your progress?
+[03:33] William Brown: Making good time, no issues so far.
+[04:24] Amanda: Where are you at right now?
+[04:26] William Brown: Stopped for a quick break, back on the road in a few.
+[05:10] Amanda: How's LD-68771 looking?
+[05:12] William Brown: Making good time, no issues so far.
+[06:13] William Brown: Just delivered LD-68771 at Birmingham, AL, all good, no damages.
+[06:15] Amanda: Do you have the signed BOL?
+[06:17] William Brown: Yep, taking a picture now.
+[06:18] William Brown: [Image attached: signed_bol.jpg]
+[06:20] Amanda: Sending you the next load details shortly.
+[06:22] William Brown: Understood.
+[06:24] Amanda: Great work, thank you.

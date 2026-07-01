@@ -1,0 +1,131 @@
+Chat Log #002
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Taylor | Truck: #812 (flatbed)
+Operator: Nicole
+Load: LD-14469 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-06-14
+--------------------------------------------------
+[16:43] Nicole: Morning Eric, you there?
+[16:44] Eric Taylor: Hey, yeah I'm here.
+[16:46] Nicole: Got a load for you - LD-14469, flatbed, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[16:48] Eric Taylor: Ok, what's the pickup window?
+[16:50] Nicole: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[16:52] Eric Taylor: What's the rate on this one?
+[16:54] Nicole: $3867 all in, 419 miles.
+[16:56] Eric Taylor: Sounds good, I'll take it.
+[16:58] Nicole: Great, sending the rate confirmation now.
+[17:01] Eric Taylor: Got it, signed and sent back.
+[18:19] Nicole: Any updates on your progress?
+[18:21] Eric Taylor: About 496 miles out from Louisville, KY now.
+[18:24] Nicole: Let me know if you need anything.
+[18:26] Eric Taylor: Doing alright, just tired.
+[19:44] Nicole: Still on schedule?
+[19:46] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[19:48] Nicole: What's your ETA?
+[19:50] Eric Taylor: Looking at 3pm if traffic stays clear.
+[20:32] Nicole: How's LD-14469 looking?
+[20:34] Eric Taylor: Yeah, long one, but manageable.
+[21:12] Nicole: What's your status?
+[21:14] Eric Taylor: Accident up ahead, traffic's backed up.
+[22:11] Nicole: Any updates on your progress?
+[22:13] Eric Taylor: Just crossed the state line, all good.
+[22:16] Nicole: Appreciate you keeping me posted.
+[22:18] Eric Taylor: Will do, thanks for checking in.
+[23:29] Nicole: Any updates on your progress?
+[23:31] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[00:57] Nicole: Any updates on your progress?
+[00:59] Eric Taylor: Accident up ahead, traffic's backed up.
+[01:02] Nicole: Appreciate you keeping me posted.
+[01:04] Eric Taylor: Yeah, long one, but manageable.
+[02:16] Nicole: Any updates on your progress?
+[02:18] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[02:20] Nicole: What's your ETA?
+[02:22] Eric Taylor: Probably 7pm, maybe a bit earlier.
+[02:42] Nicole: What's your status?
+[02:44] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[02:47] Nicole: How are you holding up out there?
+[02:49] Eric Taylor: Will do, thanks for checking in.
+[03:46] Nicole: Still on schedule?
+[03:48] Eric Taylor: Just crossed the state line, all good.
+[04:11] Nicole: How's LD-14469 looking?
+[04:13] Eric Taylor: Stopping for fuel in a bit.
+[05:17] Nicole: Where are you at right now?
+[05:19] Eric Taylor: No problem, just doing my job.
+[05:22] Nicole: Appreciate you keeping me posted.
+[05:24] Eric Taylor: Yeah, long one, but manageable.
+[05:26] Nicole: What's your ETA?
+[05:28] Eric Taylor: Probably noon, maybe a bit earlier.
+[06:02] Nicole: Still on schedule?
+[06:04] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[07:24] Nicole: Any updates on your progress?
+[07:26] Eric Taylor: Construction zone slowing everyone down.
+[08:42] Nicole: Still on schedule?
+[08:44] Eric Taylor: Construction zone slowing everyone down.
+[09:32] Nicole: Still on schedule?
+[09:34] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[09:37] Nicole: Long trip, huh? Get some rest when you can.
+[09:39] Eric Taylor: No problem, just doing my job.
+[10:24] Nicole: Still on schedule?
+[10:26] Eric Taylor: Fuel prices are decent around here.
+[10:44] Eric Taylor: Coming up on my HOS limit, only got about 30 minutes left.
+[10:46] Nicole: Understood, get your rest, I'll let the receiver know.
+[11:37] Nicole: Where are you at right now?
+[11:39] Eric Taylor: Making good time, no issues so far.
+[12:06] Nicole: What's your status?
+[12:08] Eric Taylor: About 271 miles out from Louisville, KY now.
+[12:38] Nicole: Any updates on your progress?
+[12:40] Eric Taylor: Making good time, no issues so far.
+[12:59] Nicole: What's your status?
+[13:01] Eric Taylor: Making good time, no issues so far.
+[13:49] Nicole: Any updates on your progress?
+[13:51] Eric Taylor: Just crossed the state line, all good.
+[14:08] Nicole: How's LD-14469 looking?
+[14:10] Eric Taylor: Just passed Louisville, KY, everything's fine.
+[14:53] Nicole: Where are you at right now?
+[14:55] Eric Taylor: Just passed Louisville, KY, everything's fine.
+[15:17] Nicole: How's LD-14469 looking?
+[15:19] Eric Taylor: About 96 miles out from Louisville, KY now.
+[15:57] Nicole: Still on schedule?
+[15:59] Eric Taylor: About 286 miles out from Louisville, KY now.
+[16:56] Nicole: How's LD-14469 looking?
+[16:58] Eric Taylor: Just passed Louisville, KY, everything's fine.
+[17:15] Nicole: Where are you at right now?
+[17:17] Eric Taylor: Making good time, no issues so far.
+[17:45] Nicole: Where are you at right now?
+[17:47] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[18:22] Nicole: What's your status?
+[18:24] Eric Taylor: Just crossed the state line, all good.
+[19:18] Nicole: Where are you at right now?
+[19:20] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[20:06] Nicole: Still on schedule?
+[20:08] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[20:29] Nicole: What's your status?
+[20:31] Eric Taylor: Just crossed the state line, all good.
+[20:51] Nicole: Any updates on your progress?
+[20:53] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[21:26] Nicole: Where are you at right now?
+[21:28] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:19] Nicole: Where are you at right now?
+[22:21] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:59] Nicole: Any updates on your progress?
+[23:01] Eric Taylor: Traffic's a bit heavy but I'm still on schedule.
+[23:16] Nicole: What's your status?
+[23:18] Eric Taylor: About 136 miles out from Louisville, KY now.
+[23:38] Nicole: What's your status?
+[23:40] Eric Taylor: Stopped for a quick break, back on the road in a few.
+[00:05] Nicole: Any updates on your progress?
+[00:07] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[00:31] Nicole: What's your status?
+[00:33] Eric Taylor: Just passed Louisville, KY, everything's fine.
+[00:58] Nicole: Any updates on your progress?
+[01:00] Eric Taylor: Making good time, no issues so far.
+[01:48] Nicole: Any updates on your progress?
+[01:50] Eric Taylor: Just passed Indianapolis, IN, everything's fine.
+[02:51] Eric Taylor: Just delivered LD-14469 at Louisville, KY, all good, no damages.
+[02:53] Nicole: Do you have the signed BOL?
+[02:55] Eric Taylor: Yep, taking a picture now.
+[02:56] Eric Taylor: [Image attached: signed_bol.jpg]
+[02:58] Nicole: Sending you the next load details shortly.
+[03:00] Eric Taylor: Will do.
+[03:02] Nicole: Appreciate it, talk soon.

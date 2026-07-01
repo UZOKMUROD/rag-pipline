@@ -1,0 +1,129 @@
+Chat Log #270
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Lewis | Truck: #249 (reefer)
+Operator: Kayla
+Load: LD-65801 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-02-04
+--------------------------------------------------
+[11:50] Kayla: Morning Eric, you there?
+[11:51] Eric Lewis: Yeah, go ahead.
+[11:53] Kayla: Got a load for you - LD-65801, reefer, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[11:55] Eric Lewis: Ok, what's the pickup window?
+[11:57] Kayla: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[11:59] Eric Lewis: What's the rate on this one?
+[12:01] Kayla: $3350 all in, 572 miles.
+[12:03] Eric Lewis: Sounds good, I'll take it.
+[12:05] Kayla: Great, sending the rate confirmation now.
+[12:08] Eric Lewis: Got it, signed and sent back.
+[13:13] Kayla: Any updates on your progress?
+[13:15] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[13:18] Kayla: Long trip, huh? Get some rest when you can.
+[13:20] Eric Lewis: Will do, thanks for checking in.
+[14:06] Kayla: Any updates on your progress?
+[14:08] Eric Lewis: Clear skies here, no problems.
+[15:31] Kayla: Where are you at right now?
+[15:33] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[15:36] Kayla: Appreciate you keeping me posted.
+[15:38] Eric Lewis: No problem, just doing my job.
+[15:40] Kayla: What's your ETA?
+[15:42] Eric Lewis: Looking at noon if traffic stays clear.
+[16:18] Kayla: How's LD-65801 looking?
+[16:20] Eric Lewis: Rain is picking up here, slowing down a bit.
+[16:22] Kayla: What's your ETA?
+[16:24] Eric Lewis: Looking at 5pm if traffic stays clear.
+[17:30] Kayla: What's your status?
+[17:32] Eric Lewis: Rain is picking up here, slowing down a bit.
+[18:00] Kayla: Still on schedule?
+[18:02] Eric Lewis: Will do, thanks for checking in.
+[18:04] Kayla: What's your ETA?
+[18:06] Eric Lewis: Looking at noon if traffic stays clear.
+[19:16] Kayla: Any updates on your progress?
+[19:18] Eric Lewis: Stopping for fuel in a bit.
+[19:21] Kayla: How are you holding up out there?
+[19:23] Eric Lewis: No problem, just doing my job.
+[19:25] Kayla: What's your ETA?
+[19:27] Eric Lewis: Should be there around noon.
+[20:07] Kayla: Where are you at right now?
+[20:09] Eric Lewis: About 118 miles out from Pittsburgh, PA now.
+[20:12] Kayla: Long trip, huh? Get some rest when you can.
+[20:14] Eric Lewis: No problem, just doing my job.
+[20:45] Kayla: Still on schedule?
+[20:47] Eric Lewis: Just topped off the tank.
+[21:22] Kayla: What's your status?
+[21:24] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[21:26] Kayla: What's your ETA?
+[21:28] Eric Lewis: Probably 5pm, maybe a bit earlier.
+[22:25] Kayla: How's LD-65801 looking?
+[22:27] Eric Lewis: Accident up ahead, traffic's backed up.
+[22:30] Kayla: How are you holding up out there?
+[22:32] Eric Lewis: Doing alright, just tired.
+[23:47] Kayla: What's your status?
+[23:49] Eric Lewis: Fuel prices are decent around here.
+[23:52] Kayla: How are you holding up out there?
+[23:54] Eric Lewis: Doing alright, just tired.
+[00:17] Kayla: Where are you at right now?
+[00:19] Eric Lewis: Traffic's a bit heavy but I'm still on schedule.
+[00:22] Kayla: How are you holding up out there?
+[00:24] Eric Lewis: No problem, just doing my job.
+[00:26] Kayla: What's your ETA?
+[00:28] Eric Lewis: Looking at 5pm if traffic stays clear.
+[01:29] Kayla: How's LD-65801 looking?
+[01:31] Eric Lewis: Roads are wet, taking it easy.
+[01:34] Kayla: Let me know if you need anything.
+[01:36] Eric Lewis: Will do, thanks for checking in.
+[02:57] Kayla: Where are you at right now?
+[02:59] Eric Lewis: No problem, just doing my job.
+[03:01] Kayla: What's your ETA?
+[03:03] Eric Lewis: Looking at noon if traffic stays clear.
+[03:59] Kayla: Still on schedule?
+[04:01] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[04:54] Kayla: Still on schedule?
+[04:56] Eric Lewis: About 408 miles out from Pittsburgh, PA now.
+[05:12] Kayla: Where are you at right now?
+[05:14] Eric Lewis: Just crossed the state line, all good.
+[05:39] Kayla: Still on schedule?
+[05:41] Eric Lewis: Just crossed the state line, all good.
+[06:10] Kayla: Still on schedule?
+[06:12] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[07:03] Kayla: Where are you at right now?
+[07:05] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[07:40] Kayla: How's LD-65801 looking?
+[07:42] Eric Lewis: About 253 miles out from Pittsburgh, PA now.
+[08:05] Kayla: Still on schedule?
+[08:07] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[08:40] Kayla: Still on schedule?
+[08:42] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[09:16] Kayla: How's LD-65801 looking?
+[09:18] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[10:17] Kayla: Still on schedule?
+[10:19] Eric Lewis: Making good time, no issues so far.
+[10:48] Kayla: What's your status?
+[10:50] Eric Lewis: Just passed Columbus, OH, everything's fine.
+[11:07] Kayla: Any updates on your progress?
+[11:09] Eric Lewis: Traffic's a bit heavy but I'm still on schedule.
+[11:48] Kayla: Still on schedule?
+[11:50] Eric Lewis: Making good time, no issues so far.
+[12:28] Kayla: How's LD-65801 looking?
+[12:30] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[12:56] Kayla: Where are you at right now?
+[12:58] Eric Lewis: Just passed Pittsburgh, PA, everything's fine.
+[13:54] Kayla: What's your status?
+[13:56] Eric Lewis: Just crossed the state line, all good.
+[14:12] Kayla: Any updates on your progress?
+[14:14] Eric Lewis: Traffic's a bit heavy but I'm still on schedule.
+[14:36] Kayla: How's LD-65801 looking?
+[14:38] Eric Lewis: Just crossed the state line, all good.
+[15:16] Kayla: What's your status?
+[15:18] Eric Lewis: About 241 miles out from Pittsburgh, PA now.
+[15:52] Kayla: Where are you at right now?
+[15:54] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[16:19] Kayla: Any updates on your progress?
+[16:21] Eric Lewis: Stopped for a quick break, back on the road in a few.
+[17:45] Eric Lewis: Just delivered LD-65801 at Pittsburgh, PA, all good, no damages.
+[17:47] Kayla: Do you have the signed BOL?
+[17:49] Eric Lewis: Yep, taking a picture now.
+[17:50] Eric Lewis: [Image attached: signed_bol.jpg]
+[17:52] Kayla: Sending you the next load details shortly.
+[17:54] Eric Lewis: Copy that.
+[17:56] Kayla: Thanks for the update, drive safe.

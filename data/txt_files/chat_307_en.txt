@@ -1,0 +1,127 @@
+Chat Log #307
+Company: Silk Road Logistics
+Language: English
+Driver: Steve Smith | Truck: #251 (reefer)
+Operator: Emily
+Load: LD-17365 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-05-23
+--------------------------------------------------
+[17:26] Emily: Steve, got a minute?
+[17:27] Steve Smith: Yeah, go ahead.
+[17:29] Emily: Got a load for you - LD-17365, reefer, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[17:31] Steve Smith: Ok, what's the pickup window?
+[17:33] Emily: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[17:35] Steve Smith: What's the rate on this one?
+[17:37] Emily: $2112 all in, 578 miles.
+[17:39] Steve Smith: Sounds good, I'll take it.
+[17:41] Emily: Great, sending the rate confirmation now.
+[17:44] Steve Smith: Got it, signed and sent back.
+[18:16] Emily: What's your status?
+[18:18] Steve Smith: Just crossed the state line, all good.
+[18:21] Emily: Let me know if you need anything.
+[18:23] Steve Smith: Yeah, long one, but manageable.
+[18:25] Emily: What's your ETA?
+[18:27] Steve Smith: Probably noon, maybe a bit earlier.
+[19:00] Emily: How's LD-17365 looking?
+[19:02] Steve Smith: Roads are clear now, moving well.
+[19:18] Emily: Still on schedule?
+[19:20] Steve Smith: About 585 miles out from Las Vegas, NV now.
+[19:50] Emily: How's LD-17365 looking?
+[19:52] Steve Smith: Roads are clear now, moving well.
+[19:54] Emily: What's your ETA?
+[19:56] Steve Smith: Probably 3pm, maybe a bit earlier.
+[20:16] Emily: Where are you at right now?
+[20:18] Steve Smith: Just passed Las Vegas, NV, everything's fine.
+[20:35] Emily: How's LD-17365 looking?
+[20:37] Steve Smith: Stopped for a quick break, back on the road in a few.
+[20:39] Emily: What's your ETA?
+[20:41] Steve Smith: Looking at 7pm if traffic stays clear.
+[21:33] Emily: What's your status?
+[21:35] Steve Smith: Hit some traffic near Las Vegas, NV, adding maybe 20 minutes.
+[22:11] Emily: Still on schedule?
+[22:13] Steve Smith: Hit some traffic near Las Vegas, NV, adding maybe 20 minutes.
+[22:41] Emily: How's LD-17365 looking?
+[22:43] Steve Smith: Just topped off the tank.
+[23:00] Emily: What's your status?
+[23:02] Steve Smith: Traffic's a bit heavy but I'm still on schedule.
+[00:10] Emily: Any updates on your progress?
+[00:12] Steve Smith: Rain is picking up here, slowing down a bit.
+[00:15] Emily: Appreciate you keeping me posted.
+[00:17] Steve Smith: Doing alright, just tired.
+[00:57] Emily: Any updates on your progress?
+[00:59] Steve Smith: Rain is picking up here, slowing down a bit.
+[01:42] Emily: How's LD-17365 looking?
+[01:44] Steve Smith: Just passed Fresno, CA, everything's fine.
+[01:47] Emily: Long trip, huh? Get some rest when you can.
+[01:49] Steve Smith: No problem, just doing my job.
+[02:59] Emily: Still on schedule?
+[03:01] Steve Smith: Just crossed the state line, all good.
+[03:27] Emily: Any updates on your progress?
+[03:29] Steve Smith: Hit some traffic near Las Vegas, NV, adding maybe 20 minutes.
+[03:31] Emily: What's your ETA?
+[03:33] Steve Smith: Should be there around 5pm.
+[05:02] Emily: Still on schedule?
+[05:04] Steve Smith: Roads are wet, taking it easy.
+[06:09] Emily: What's your status?
+[06:11] Steve Smith: Traffic's a bit heavy but I'm still on schedule.
+[06:59] Emily: How's LD-17365 looking?
+[07:01] Steve Smith: Just passed Las Vegas, NV, everything's fine.
+[07:04] Emily: How are you holding up out there?
+[07:06] Steve Smith: No problem, just doing my job.
+[07:08] Emily: What's your ETA?
+[07:10] Steve Smith: Should be there around noon.
+[07:43] Emily: Where are you at right now?
+[07:45] Steve Smith: About 513 miles out from Las Vegas, NV now.
+[07:47] Emily: What's your ETA?
+[07:49] Steve Smith: Should be there around noon.
+[08:21] Steve Smith: I've got a problem, bad weather - heavy snow on LD-17365. Pulled over on the shoulder.
+[08:22] Emily: Are you safe? Anyone hurt?
+[08:24] Steve Smith: Yeah I'm fine, just need roadside assistance.
+[08:26] Emily: Mile marker 219 on I-40.
+[08:31] Emily: Truck is on the way, ETA about 1 hour.
+[09:16] Steve Smith: Fixed and rolling again.
+[09:58] Emily: Where are you at right now?
+[10:00] Steve Smith: About 586 miles out from Las Vegas, NV now.
+[10:39] Emily: Any updates on your progress?
+[10:41] Steve Smith: Just crossed the state line, all good.
+[11:01] Emily: What's your status?
+[11:03] Steve Smith: Stopped for a quick break, back on the road in a few.
+[11:56] Emily: Where are you at right now?
+[11:58] Steve Smith: Making good time, no issues so far.
+[12:54] Emily: Still on schedule?
+[12:56] Steve Smith: Just passed Fresno, CA, everything's fine.
+[13:23] Emily: Any updates on your progress?
+[13:25] Steve Smith: Stopped for a quick break, back on the road in a few.
+[13:53] Emily: Still on schedule?
+[13:55] Steve Smith: Traffic's a bit heavy but I'm still on schedule.
+[14:17] Emily: What's your status?
+[14:19] Steve Smith: About 99 miles out from Las Vegas, NV now.
+[15:13] Emily: How's LD-17365 looking?
+[15:15] Steve Smith: Making good time, no issues so far.
+[15:36] Emily: How's LD-17365 looking?
+[15:38] Steve Smith: Just passed Las Vegas, NV, everything's fine.
+[16:26] Emily: Still on schedule?
+[16:28] Steve Smith: Just passed Las Vegas, NV, everything's fine.
+[16:52] Emily: Still on schedule?
+[16:54] Steve Smith: Just passed Fresno, CA, everything's fine.
+[17:17] Emily: Still on schedule?
+[17:19] Steve Smith: Just passed Fresno, CA, everything's fine.
+[17:41] Emily: What's your status?
+[17:43] Steve Smith: Making good time, no issues so far.
+[18:26] Emily: Where are you at right now?
+[18:28] Steve Smith: About 191 miles out from Las Vegas, NV now.
+[18:43] Emily: Still on schedule?
+[18:45] Steve Smith: Stopped for a quick break, back on the road in a few.
+[19:26] Emily: How's LD-17365 looking?
+[19:28] Steve Smith: Stopped for a quick break, back on the road in a few.
+[20:17] Emily: How's LD-17365 looking?
+[20:19] Steve Smith: Making good time, no issues so far.
+[20:44] Emily: Where are you at right now?
+[20:46] Steve Smith: Traffic's a bit heavy but I'm still on schedule.
+[21:34] Steve Smith: Just delivered LD-17365 at Las Vegas, NV, all good, no damages.
+[21:36] Emily: Do you have the signed BOL?
+[21:38] Steve Smith: Yep, taking a picture now.
+[21:39] Steve Smith: [Image attached: signed_bol.jpg]
+[21:41] Emily: Sending you the next load details shortly.
+[21:43] Steve Smith: Understood.
+[21:45] Emily: Great work, thank you.

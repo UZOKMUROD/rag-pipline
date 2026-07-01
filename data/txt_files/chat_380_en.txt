@@ -1,0 +1,126 @@
+Chat Log #380
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas White | Truck: #939 (flatbed)
+Operator: Megan
+Load: LD-87486 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-06-10
+--------------------------------------------------
+[07:39] Megan: Hey Thomas, how's it going?
+[07:40] Thomas White: Yeah, go ahead.
+[07:42] Megan: Got a load for you - LD-87486, flatbed, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[07:44] Thomas White: Ok, what's the pickup window?
+[07:46] Megan: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[07:48] Thomas White: What's the rate on this one?
+[07:50] Megan: $4035 all in, 886 miles.
+[07:52] Thomas White: Sounds good, I'll take it.
+[07:54] Megan: Great, sending the rate confirmation now.
+[07:57] Thomas White: Got it, signed and sent back.
+[08:18] Megan: Any updates on your progress?
+[08:20] Thomas White: Making good time, no issues so far.
+[08:22] Megan: What's your ETA?
+[08:24] Thomas White: Should be there around 3pm.
+[09:04] Megan: What's your status?
+[09:06] Thomas White: Just crossed the state line, all good.
+[09:35] Megan: What's your status?
+[09:37] Thomas White: Roads are clear now, moving well.
+[10:13] Megan: Where are you at right now?
+[10:15] Thomas White: About 503 miles out from Las Vegas, NV now.
+[11:09] Megan: Where are you at right now?
+[11:11] Thomas White: Stopped for a quick break, back on the road in a few.
+[11:13] Megan: What's your ETA?
+[11:15] Thomas White: Should be there around 7pm.
+[12:45] Megan: What's your status?
+[12:47] Thomas White: Just passed Las Vegas, NV, everything's fine.
+[12:50] Megan: Appreciate you keeping me posted.
+[12:52] Thomas White: Doing alright, just tired.
+[13:45] Megan: Still on schedule?
+[13:47] Thomas White: Just crossed the state line, all good.
+[13:50] Megan: How are you holding up out there?
+[13:52] Thomas White: Doing alright, just tired.
+[14:11] Megan: Where are you at right now?
+[14:13] Thomas White: Just crossed the state line, all good.
+[15:37] Megan: How's LD-87486 looking?
+[15:39] Thomas White: About 50 miles out from Las Vegas, NV now.
+[16:28] Megan: What's your status?
+[16:30] Thomas White: Rain is picking up here, slowing down a bit.
+[16:33] Megan: Long trip, huh? Get some rest when you can.
+[16:35] Thomas White: Will do, thanks for checking in.
+[18:01] Megan: Where are you at right now?
+[18:03] Thomas White: Making good time, no issues so far.
+[19:21] Megan: Where are you at right now?
+[19:23] Thomas White: No problem, just doing my job.
+[19:46] Megan: What's your status?
+[19:48] Thomas White: Construction zone slowing everyone down.
+[19:50] Megan: What's your ETA?
+[19:52] Thomas White: Looking at 3pm if traffic stays clear.
+[20:41] Megan: What's your status?
+[20:43] Thomas White: Just topped off the tank.
+[20:46] Megan: Long trip, huh? Get some rest when you can.
+[20:48] Thomas White: No problem, just doing my job.
+[21:47] Megan: Still on schedule?
+[21:49] Thomas White: No problem, just doing my job.
+[23:14] Megan: Still on schedule?
+[23:16] Thomas White: Just passed Fresno, CA, everything's fine.
+[00:35] Megan: What's your status?
+[00:37] Thomas White: Stopping for fuel in a bit.
+[00:40] Megan: Long trip, huh? Get some rest when you can.
+[00:42] Thomas White: Will do, thanks for checking in.
+[01:27] Megan: Any updates on your progress?
+[01:29] Thomas White: Yeah, long one, but manageable.
+[01:32] Megan: Long trip, huh? Get some rest when you can.
+[01:34] Thomas White: No problem, just doing my job.
+[01:58] Thomas White: Still sitting at the shipper, been here almost 3 hours already.
+[02:00] Megan: Let me call them and see what's going on.
+[02:10] Megan: Ok talked to them, they said 30 more minutes, forklift issue.
+[02:12] Thomas White: Make sure detention pay gets logged for this.
+[02:14] Megan: Already noted, don't worry, you'll get paid for the wait.
+[03:03] Megan: What's your status?
+[03:05] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[03:40] Megan: Where are you at right now?
+[03:42] Thomas White: Just passed Fresno, CA, everything's fine.
+[04:27] Megan: How's LD-87486 looking?
+[04:29] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[05:01] Megan: Where are you at right now?
+[05:03] Thomas White: Making good time, no issues so far.
+[05:34] Megan: Still on schedule?
+[05:36] Thomas White: Just crossed the state line, all good.
+[06:34] Megan: What's your status?
+[06:36] Thomas White: About 428 miles out from Las Vegas, NV now.
+[07:04] Megan: Still on schedule?
+[07:06] Thomas White: Just passed Las Vegas, NV, everything's fine.
+[07:49] Megan: Any updates on your progress?
+[07:51] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[08:32] Megan: How's LD-87486 looking?
+[08:34] Thomas White: Stopped for a quick break, back on the road in a few.
+[08:58] Megan: What's your status?
+[09:00] Thomas White: About 205 miles out from Las Vegas, NV now.
+[10:00] Megan: How's LD-87486 looking?
+[10:02] Thomas White: About 75 miles out from Las Vegas, NV now.
+[10:33] Megan: Where are you at right now?
+[10:35] Thomas White: Just passed Fresno, CA, everything's fine.
+[11:20] Megan: Where are you at right now?
+[11:22] Thomas White: Just crossed the state line, all good.
+[11:38] Megan: Where are you at right now?
+[11:40] Thomas White: Making good time, no issues so far.
+[12:11] Megan: Still on schedule?
+[12:13] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[13:10] Megan: Any updates on your progress?
+[13:12] Thomas White: Stopped for a quick break, back on the road in a few.
+[14:08] Megan: Still on schedule?
+[14:10] Thomas White: Just crossed the state line, all good.
+[15:02] Megan: What's your status?
+[15:04] Thomas White: Just crossed the state line, all good.
+[15:30] Megan: Where are you at right now?
+[15:32] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[16:01] Megan: Still on schedule?
+[16:03] Thomas White: Making good time, no issues so far.
+[16:40] Megan: How's LD-87486 looking?
+[16:42] Thomas White: Just crossed the state line, all good.
+[17:17] Thomas White: Just delivered LD-87486 at Las Vegas, NV, all good, no damages.
+[17:19] Megan: Do you have the signed BOL?
+[17:21] Thomas White: Yep, taking a picture now.
+[17:22] Thomas White: [Image attached: signed_bol.jpg]
+[17:24] Megan: Sending you the next load details shortly.
+[17:26] Thomas White: Will do.
+[17:28] Megan: Thanks for the update, drive safe.

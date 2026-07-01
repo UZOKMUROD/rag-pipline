@@ -1,0 +1,125 @@
+Chat Log #432
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Taylor | Truck: #664 (flatbed)
+Operator: Amanda
+Load: LD-92224 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-02-28
+--------------------------------------------------
+[12:00] Amanda: Morning Andrew, you there?
+[12:01] Andrew Taylor: Morning, all good on my end.
+[12:03] Amanda: Got a load for you - LD-92224, flatbed, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[12:05] Andrew Taylor: Ok, what's the pickup window?
+[12:07] Amanda: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[12:09] Andrew Taylor: What's the rate on this one?
+[12:11] Amanda: $2348 all in, 952 miles.
+[12:13] Andrew Taylor: Sounds good, I'll take it.
+[12:15] Amanda: Great, sending the rate confirmation now.
+[12:18] Andrew Taylor: Got it, signed and sent back.
+[13:47] Amanda: What's your status?
+[13:49] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[13:52] Amanda: Appreciate you keeping me posted.
+[13:54] Andrew Taylor: No problem, just doing my job.
+[15:18] Amanda: Still on schedule?
+[15:20] Andrew Taylor: Weather's getting rough up ahead, heads up.
+[15:23] Amanda: Let me know if you need anything.
+[15:25] Andrew Taylor: Will do, thanks for checking in.
+[16:24] Amanda: How's LD-92224 looking?
+[16:26] Andrew Taylor: Roads are wet, taking it easy.
+[16:45] Amanda: Any updates on your progress?
+[16:47] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[16:49] Amanda: What's your ETA?
+[16:51] Andrew Taylor: Looking at noon if traffic stays clear.
+[17:45] Amanda: What's your status?
+[17:47] Andrew Taylor: Rain is picking up here, slowing down a bit.
+[18:12] Amanda: Still on schedule?
+[18:14] Andrew Taylor: Roads are clear now, moving well.
+[18:16] Amanda: What's your ETA?
+[18:18] Andrew Taylor: Looking at 7pm if traffic stays clear.
+[18:35] Amanda: Any updates on your progress?
+[18:37] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[18:40] Amanda: Long trip, huh? Get some rest when you can.
+[18:42] Andrew Taylor: Doing alright, just tired.
+[18:58] Amanda: How's LD-92224 looking?
+[19:00] Andrew Taylor: Just passed Jacksonville, FL, everything's fine.
+[19:03] Amanda: Appreciate you keeping me posted.
+[19:05] Andrew Taylor: Yeah, long one, but manageable.
+[20:02] Amanda: Still on schedule?
+[20:04] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[20:07] Amanda: Appreciate you keeping me posted.
+[20:09] Andrew Taylor: Will do, thanks for checking in.
+[20:11] Amanda: What's your ETA?
+[20:13] Andrew Taylor: Probably 5pm, maybe a bit earlier.
+[21:29] Amanda: Any updates on your progress?
+[21:31] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[21:34] Amanda: Appreciate you keeping me posted.
+[21:36] Andrew Taylor: Will do, thanks for checking in.
+[21:54] Amanda: What's your status?
+[21:56] Andrew Taylor: Rain is picking up here, slowing down a bit.
+[22:40] Amanda: How's LD-92224 looking?
+[22:42] Andrew Taylor: Making good time, no issues so far.
+[22:44] Amanda: What's your ETA?
+[22:46] Andrew Taylor: Probably 10am, maybe a bit earlier.
+[23:23] Amanda: How's LD-92224 looking?
+[23:25] Andrew Taylor: Will do, thanks for checking in.
+[00:31] Amanda: How's LD-92224 looking?
+[00:33] Andrew Taylor: Roads are clear now, moving well.
+[01:09] Andrew Taylor: I've got a problem, a blown fuse on the trailer lights on LD-92224. Pulled over on the shoulder.
+[01:10] Amanda: Are you safe? Anyone hurt?
+[01:12] Andrew Taylor: Yeah I'm fine, just need roadside assistance.
+[01:14] Amanda: Mile marker 138 on I-70.
+[01:19] Amanda: Truck is on the way, ETA about 45 min.
+[02:13] Andrew Taylor: Fixed and rolling again.
+[03:13] Amanda: Any updates on your progress?
+[03:15] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[03:57] Amanda: Still on schedule?
+[03:59] Andrew Taylor: About 591 miles out from Tampa, FL now.
+[04:42] Amanda: Any updates on your progress?
+[04:44] Andrew Taylor: About 146 miles out from Tampa, FL now.
+[05:31] Amanda: What's your status?
+[05:33] Andrew Taylor: About 403 miles out from Tampa, FL now.
+[06:18] Amanda: What's your status?
+[06:20] Andrew Taylor: Just crossed the state line, all good.
+[07:13] Amanda: How's LD-92224 looking?
+[07:15] Andrew Taylor: Making good time, no issues so far.
+[07:31] Amanda: What's your status?
+[07:33] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[08:07] Amanda: What's your status?
+[08:09] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[08:33] Amanda: Where are you at right now?
+[08:35] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[09:33] Amanda: Still on schedule?
+[09:35] Andrew Taylor: Just crossed the state line, all good.
+[10:33] Amanda: Any updates on your progress?
+[10:35] Andrew Taylor: Just passed Jacksonville, FL, everything's fine.
+[11:19] Amanda: Where are you at right now?
+[11:21] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[12:18] Amanda: Any updates on your progress?
+[12:20] Andrew Taylor: Just crossed the state line, all good.
+[12:37] Amanda: Any updates on your progress?
+[12:39] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[13:01] Amanda: What's your status?
+[13:03] Andrew Taylor: Just crossed the state line, all good.
+[13:24] Amanda: Any updates on your progress?
+[13:26] Andrew Taylor: Making good time, no issues so far.
+[13:53] Amanda: Where are you at right now?
+[13:55] Andrew Taylor: Making good time, no issues so far.
+[14:11] Amanda: What's your status?
+[14:13] Andrew Taylor: Just passed Jacksonville, FL, everything's fine.
+[14:37] Amanda: Any updates on your progress?
+[14:39] Andrew Taylor: Just passed Tampa, FL, everything's fine.
+[15:23] Amanda: Any updates on your progress?
+[15:25] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[16:12] Amanda: Where are you at right now?
+[16:14] Andrew Taylor: Just passed Tampa, FL, everything's fine.
+[16:36] Amanda: Where are you at right now?
+[16:38] Andrew Taylor: Just crossed the state line, all good.
+[17:26] Amanda: How's LD-92224 looking?
+[17:28] Andrew Taylor: Making good time, no issues so far.
+[18:31] Andrew Taylor: Just delivered LD-92224 at Tampa, FL, all good, no damages.
+[18:33] Amanda: Do you have the signed BOL?
+[18:35] Andrew Taylor: Yep, taking a picture now.
+[18:36] Andrew Taylor: [Image attached: signed_bol.jpg]
+[18:38] Amanda: Sending you the next load details shortly.
+[18:40] Andrew Taylor: Copy that.
+[18:42] Amanda: Appreciate it, talk soon.

@@ -1,0 +1,124 @@
+Chat Log #331
+Company: Silk Road Logistics
+Language: English
+Driver: John Williams | Truck: #171 (dry van)
+Operator: Sarah
+Load: LD-10982 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-02-12
+--------------------------------------------------
+[07:09] Sarah: John, got a minute?
+[07:10] John Williams: Hey, yeah I'm here.
+[07:12] Sarah: Got a load for you - LD-10982, dry van, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[07:14] John Williams: Ok, what's the pickup window?
+[07:16] Sarah: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[07:18] John Williams: What's the rate on this one?
+[07:20] Sarah: $2492 all in, 961 miles.
+[07:22] John Williams: Sounds good, I'll take it.
+[07:24] Sarah: Great, sending the rate confirmation now.
+[07:27] John Williams: Got it, signed and sent back.
+[08:33] Sarah: What's your status?
+[08:35] John Williams: Clear skies here, no problems.
+[08:38] Sarah: Let me know if you need anything.
+[08:40] John Williams: Yeah, long one, but manageable.
+[09:55] Sarah: Any updates on your progress?
+[09:57] John Williams: Roads are clear now, moving well.
+[10:33] Sarah: Any updates on your progress?
+[10:35] John Williams: Just crossed the state line, all good.
+[10:52] Sarah: What's your status?
+[10:54] John Williams: Weather's getting rough up ahead, heads up.
+[10:56] Sarah: What's your ETA?
+[10:58] John Williams: Probably 3pm, maybe a bit earlier.
+[12:13] Sarah: Any updates on your progress?
+[12:15] John Williams: Stopped for a quick break, back on the road in a few.
+[12:46] Sarah: What's your status?
+[12:48] John Williams: Weather's getting rough up ahead, heads up.
+[13:38] Sarah: Still on schedule?
+[13:40] John Williams: Just passed Milwaukee, WI, everything's fine.
+[13:58] Sarah: How's LD-10982 looking?
+[14:00] John Williams: Rain is picking up here, slowing down a bit.
+[14:34] Sarah: Where are you at right now?
+[14:36] John Williams: Construction zone slowing everyone down.
+[14:38] Sarah: What's your ETA?
+[14:40] John Williams: Should be there around 10am.
+[15:14] Sarah: What's your status?
+[15:16] John Williams: Rain is picking up here, slowing down a bit.
+[15:18] Sarah: What's your ETA?
+[15:20] John Williams: Probably noon, maybe a bit earlier.
+[16:48] Sarah: Where are you at right now?
+[16:50] John Williams: Traffic's a bit heavy but I'm still on schedule.
+[17:39] Sarah: Any updates on your progress?
+[17:41] John Williams: Stopped for a quick break, back on the road in a few.
+[17:43] Sarah: What's your ETA?
+[17:45] John Williams: Looking at 7pm if traffic stays clear.
+[18:26] Sarah: How's LD-10982 looking?
+[18:28] John Williams: Fuel prices are decent around here.
+[18:30] Sarah: What's your ETA?
+[18:32] John Williams: Probably 3pm, maybe a bit earlier.
+[19:21] Sarah: Where are you at right now?
+[19:23] John Williams: Roads are wet, taking it easy.
+[20:53] Sarah: What's your status?
+[20:55] John Williams: Clear skies here, no problems.
+[21:12] John Williams: Still sitting at the warehouse dock, been here almost 4 hours already.
+[21:14] Sarah: Let me call them and see what's going on.
+[21:24] Sarah: Ok talked to them, they said 30 more minutes, forklift issue.
+[21:26] John Williams: Make sure detention pay gets logged for this.
+[21:28] Sarah: Already noted, don't worry, you'll get paid for the wait.
+[21:58] Sarah: Still on schedule?
+[22:00] John Williams: About 31 miles out from Milwaukee, WI now.
+[22:46] Sarah: Any updates on your progress?
+[22:48] John Williams: Making good time, no issues so far.
+[23:26] Sarah: Where are you at right now?
+[23:28] John Williams: Making good time, no issues so far.
+[00:13] Sarah: Any updates on your progress?
+[00:15] John Williams: Stopped for a quick break, back on the road in a few.
+[00:56] Sarah: Any updates on your progress?
+[00:58] John Williams: About 532 miles out from Milwaukee, WI now.
+[01:54] Sarah: Still on schedule?
+[01:56] John Williams: Stopped for a quick break, back on the road in a few.
+[02:42] Sarah: Where are you at right now?
+[02:44] John Williams: Traffic's a bit heavy but I'm still on schedule.
+[03:03] Sarah: Any updates on your progress?
+[03:05] John Williams: About 76 miles out from Milwaukee, WI now.
+[03:29] Sarah: Where are you at right now?
+[03:31] John Williams: Stopped for a quick break, back on the road in a few.
+[04:26] Sarah: Where are you at right now?
+[04:28] John Williams: About 296 miles out from Milwaukee, WI now.
+[04:58] Sarah: Any updates on your progress?
+[05:00] John Williams: Just passed Milwaukee, WI, everything's fine.
+[05:31] Sarah: Where are you at right now?
+[05:33] John Williams: Just passed Minneapolis, MN, everything's fine.
+[06:33] Sarah: Where are you at right now?
+[06:35] John Williams: Making good time, no issues so far.
+[07:00] Sarah: Still on schedule?
+[07:02] John Williams: About 281 miles out from Milwaukee, WI now.
+[07:55] Sarah: What's your status?
+[07:57] John Williams: Making good time, no issues so far.
+[08:52] Sarah: Any updates on your progress?
+[08:54] John Williams: Stopped for a quick break, back on the road in a few.
+[09:19] Sarah: Still on schedule?
+[09:21] John Williams: Traffic's a bit heavy but I'm still on schedule.
+[09:59] Sarah: Where are you at right now?
+[10:01] John Williams: Just passed Minneapolis, MN, everything's fine.
+[10:26] Sarah: What's your status?
+[10:28] John Williams: Traffic's a bit heavy but I'm still on schedule.
+[11:16] Sarah: Still on schedule?
+[11:18] John Williams: Just passed Milwaukee, WI, everything's fine.
+[11:42] Sarah: Still on schedule?
+[11:44] John Williams: Stopped for a quick break, back on the road in a few.
+[12:40] Sarah: Where are you at right now?
+[12:42] John Williams: Stopped for a quick break, back on the road in a few.
+[13:33] Sarah: Any updates on your progress?
+[13:35] John Williams: About 470 miles out from Milwaukee, WI now.
+[14:32] Sarah: How's LD-10982 looking?
+[14:34] John Williams: Making good time, no issues so far.
+[15:02] Sarah: Any updates on your progress?
+[15:04] John Williams: Making good time, no issues so far.
+[15:37] Sarah: Any updates on your progress?
+[15:39] John Williams: Stopped for a quick break, back on the road in a few.
+[16:34] John Williams: Just delivered LD-10982 at Milwaukee, WI, all good, no damages.
+[16:36] Sarah: Do you have the signed BOL?
+[16:38] John Williams: Yep, taking a picture now.
+[16:39] John Williams: [Image attached: signed_bol.jpg]
+[16:41] Sarah: Sending you the next load details shortly.
+[16:43] John Williams: Will do.
+[16:45] Sarah: Thanks for the update, drive safe.

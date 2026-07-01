@@ -1,0 +1,131 @@
+Chat Log #330
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Wilson | Truck: #111 (flatbed)
+Operator: Megan
+Load: LD-39207 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-01-09
+--------------------------------------------------
+[05:04] Megan: Morning Luis, you there?
+[05:05] Luis Wilson: Morning, all good on my end.
+[05:07] Megan: Got a load for you - LD-39207, flatbed, pickup in Chicago, IL, delivery to Memphis, TN.
+[05:09] Luis Wilson: Ok, what's the pickup window?
+[05:11] Megan: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[05:13] Luis Wilson: What's the rate on this one?
+[05:15] Megan: $3927 all in, 639 miles.
+[05:17] Luis Wilson: Sounds good, I'll take it.
+[05:19] Megan: Great, sending the rate confirmation now.
+[05:22] Luis Wilson: Got it, signed and sent back.
+[05:49] Megan: Where are you at right now?
+[05:51] Luis Wilson: Doing alright, just tired.
+[05:53] Megan: What's your ETA?
+[05:55] Luis Wilson: Looking at 5pm if traffic stays clear.
+[06:22] Megan: How's LD-39207 looking?
+[06:24] Luis Wilson: Fuel prices are decent around here.
+[06:27] Megan: Appreciate you keeping me posted.
+[06:29] Luis Wilson: Yeah, long one, but manageable.
+[07:04] Megan: What's your status?
+[07:06] Luis Wilson: Just passed Memphis, TN, everything's fine.
+[07:09] Megan: Appreciate you keeping me posted.
+[07:11] Luis Wilson: Will do, thanks for checking in.
+[08:36] Megan: What's your status?
+[08:38] Luis Wilson: Fuel prices are decent around here.
+[08:40] Megan: What's your ETA?
+[08:42] Luis Wilson: Looking at 5pm if traffic stays clear.
+[09:21] Megan: Any updates on your progress?
+[09:23] Luis Wilson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[09:48] Megan: What's your status?
+[09:50] Luis Wilson: Roads are wet, taking it easy.
+[09:52] Megan: What's your ETA?
+[09:54] Luis Wilson: Looking at noon if traffic stays clear.
+[10:27] Megan: What's your status?
+[10:29] Luis Wilson: Traffic's a bit heavy but I'm still on schedule.
+[11:20] Megan: Any updates on your progress?
+[11:22] Luis Wilson: Accident up ahead, traffic's backed up.
+[11:38] Megan: Any updates on your progress?
+[11:40] Luis Wilson: About 67 miles out from Memphis, TN now.
+[12:06] Megan: Any updates on your progress?
+[12:08] Luis Wilson: Making good time, no issues so far.
+[12:11] Megan: Appreciate you keeping me posted.
+[12:13] Luis Wilson: No problem, just doing my job.
+[12:15] Megan: What's your ETA?
+[12:17] Luis Wilson: Looking at noon if traffic stays clear.
+[12:51] Megan: Still on schedule?
+[12:53] Luis Wilson: Making good time, no issues so far.
+[12:55] Megan: What's your ETA?
+[12:57] Luis Wilson: Should be there around 3pm.
+[13:18] Megan: How's LD-39207 looking?
+[13:20] Luis Wilson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[14:40] Megan: What's your status?
+[14:42] Luis Wilson: Fuel prices are decent around here.
+[14:45] Megan: Appreciate you keeping me posted.
+[14:47] Luis Wilson: Yeah, long one, but manageable.
+[14:49] Megan: What's your ETA?
+[14:51] Luis Wilson: Probably 5pm, maybe a bit earlier.
+[15:23] Megan: What's your status?
+[15:25] Luis Wilson: Roads are wet, taking it easy.
+[16:32] Megan: Where are you at right now?
+[16:34] Luis Wilson: Doing alright, just tired.
+[17:17] Megan: What's your status?
+[17:19] Luis Wilson: Just crossed the state line, all good.
+[17:22] Megan: Appreciate you keeping me posted.
+[17:24] Luis Wilson: No problem, just doing my job.
+[17:26] Megan: What's your ETA?
+[17:28] Luis Wilson: Looking at 3pm if traffic stays clear.
+[18:12] Megan: Where are you at right now?
+[18:14] Luis Wilson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[18:16] Megan: What's your ETA?
+[18:18] Luis Wilson: Looking at noon if traffic stays clear.
+[18:58] Megan: How's LD-39207 looking?
+[19:00] Luis Wilson: Just crossed the state line, all good.
+[19:30] Megan: Any updates on your progress?
+[19:32] Luis Wilson: Just passed Memphis, TN, everything's fine.
+[19:58] Megan: How's LD-39207 looking?
+[20:00] Luis Wilson: Traffic's a bit heavy but I'm still on schedule.
+[20:57] Megan: Where are you at right now?
+[20:59] Luis Wilson: Traffic's a bit heavy but I'm still on schedule.
+[21:25] Megan: Where are you at right now?
+[21:27] Luis Wilson: Making good time, no issues so far.
+[21:59] Megan: Still on schedule?
+[22:01] Luis Wilson: Making good time, no issues so far.
+[22:32] Megan: Still on schedule?
+[22:34] Luis Wilson: Just passed Memphis, TN, everything's fine.
+[23:21] Megan: Still on schedule?
+[23:23] Luis Wilson: About 323 miles out from Memphis, TN now.
+[00:17] Megan: Still on schedule?
+[00:19] Luis Wilson: Stopped for a quick break, back on the road in a few.
+[00:40] Megan: Any updates on your progress?
+[00:42] Luis Wilson: About 515 miles out from Memphis, TN now.
+[01:17] Megan: Still on schedule?
+[01:19] Luis Wilson: About 579 miles out from Memphis, TN now.
+[02:07] Megan: Where are you at right now?
+[02:09] Luis Wilson: About 583 miles out from Memphis, TN now.
+[02:49] Megan: Still on schedule?
+[02:51] Luis Wilson: About 290 miles out from Memphis, TN now.
+[03:16] Megan: How's LD-39207 looking?
+[03:18] Luis Wilson: Just crossed the state line, all good.
+[04:08] Megan: What's your status?
+[04:10] Luis Wilson: Just passed Chicago, IL, everything's fine.
+[05:05] Megan: How's LD-39207 looking?
+[05:07] Luis Wilson: Stopped for a quick break, back on the road in a few.
+[05:48] Megan: Any updates on your progress?
+[05:50] Luis Wilson: Just crossed the state line, all good.
+[06:33] Megan: How's LD-39207 looking?
+[06:35] Luis Wilson: Stopped for a quick break, back on the road in a few.
+[07:07] Megan: Any updates on your progress?
+[07:09] Luis Wilson: Just crossed the state line, all good.
+[08:07] Megan: Any updates on your progress?
+[08:09] Luis Wilson: Stopped for a quick break, back on the road in a few.
+[08:26] Megan: What's your status?
+[08:28] Luis Wilson: Traffic's a bit heavy but I'm still on schedule.
+[09:19] Megan: How's LD-39207 looking?
+[09:21] Luis Wilson: Traffic's a bit heavy but I'm still on schedule.
+[09:55] Megan: Still on schedule?
+[09:57] Luis Wilson: Stopped for a quick break, back on the road in a few.
+[10:58] Luis Wilson: Just delivered LD-39207 at Memphis, TN, all good, no damages.
+[11:00] Megan: Do you have the signed BOL?
+[11:02] Luis Wilson: Yep, taking a picture now.
+[11:03] Luis Wilson: [Image attached: signed_bol.jpg]
+[11:05] Megan: Sending you the next load details shortly.
+[11:07] Luis Wilson: Copy that.
+[11:09] Megan: Thanks for the update, drive safe.

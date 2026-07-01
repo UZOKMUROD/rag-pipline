@@ -1,0 +1,128 @@
+Chat Log #229
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Rodriguez | Truck: #863 (dry van)
+Operator: Nicole
+Load: LD-56071 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-03-07
+--------------------------------------------------
+[10:27] Nicole: Hey Andre, how's it going?
+[10:28] Andre Rodriguez: Morning, all good on my end.
+[10:30] Nicole: Got a load for you - LD-56071, dry van, pickup in Detroit, MI, delivery to Cleveland, OH.
+[10:32] Andre Rodriguez: Ok, what's the pickup window?
+[10:34] Nicole: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[10:36] Andre Rodriguez: What's the rate on this one?
+[10:38] Nicole: $4131 all in, 568 miles.
+[10:40] Andre Rodriguez: Sounds good, I'll take it.
+[10:42] Nicole: Great, sending the rate confirmation now.
+[10:45] Andre Rodriguez: Got it, signed and sent back.
+[12:07] Nicole: What's your status?
+[12:09] Andre Rodriguez: Hit some traffic near Cleveland, OH, adding maybe 20 minutes.
+[13:21] Nicole: Where are you at right now?
+[13:23] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[14:53] Nicole: Where are you at right now?
+[14:55] Andre Rodriguez: Weather's getting rough up ahead, heads up.
+[15:52] Nicole: Still on schedule?
+[15:54] Andre Rodriguez: Roads are clear now, moving well.
+[17:00] Nicole: How's LD-56071 looking?
+[17:02] Andre Rodriguez: Accident up ahead, traffic's backed up.
+[18:24] Nicole: Still on schedule?
+[18:26] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[19:07] Nicole: Still on schedule?
+[19:09] Andre Rodriguez: Rain is picking up here, slowing down a bit.
+[20:16] Nicole: Any updates on your progress?
+[20:18] Andre Rodriguez: Roads are wet, taking it easy.
+[20:21] Nicole: Long trip, huh? Get some rest when you can.
+[20:23] Andre Rodriguez: Will do, thanks for checking in.
+[21:39] Nicole: How's LD-56071 looking?
+[21:41] Andre Rodriguez: Accident up ahead, traffic's backed up.
+[22:13] Nicole: What's your status?
+[22:15] Andre Rodriguez: No problem, just doing my job.
+[23:17] Nicole: How's LD-56071 looking?
+[23:19] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[23:22] Nicole: How are you holding up out there?
+[23:24] Andre Rodriguez: Doing alright, just tired.
+[00:44] Nicole: Any updates on your progress?
+[00:46] Andre Rodriguez: Doing alright, just tired.
+[01:21] Nicole: What's your status?
+[01:23] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[01:26] Nicole: Long trip, huh? Get some rest when you can.
+[01:28] Andre Rodriguez: No problem, just doing my job.
+[01:56] Nicole: Still on schedule?
+[01:58] Andre Rodriguez: Doing alright, just tired.
+[02:00] Nicole: What's your ETA?
+[02:02] Andre Rodriguez: Probably 3pm, maybe a bit earlier.
+[02:27] Andre Rodriguez: Still sitting at the shipper, been here almost 2 hours already.
+[02:29] Nicole: Let me call them and see what's going on.
+[02:39] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[02:41] Andre Rodriguez: Make sure detention pay gets logged for this.
+[02:43] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[03:15] Nicole: How's LD-56071 looking?
+[03:17] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[04:14] Nicole: Any updates on your progress?
+[04:16] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[04:50] Nicole: Where are you at right now?
+[04:52] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[05:51] Nicole: Any updates on your progress?
+[05:53] Andre Rodriguez: Making good time, no issues so far.
+[06:49] Nicole: What's your status?
+[06:51] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[07:09] Nicole: Where are you at right now?
+[07:11] Andre Rodriguez: Making good time, no issues so far.
+[08:11] Nicole: How's LD-56071 looking?
+[08:13] Andre Rodriguez: Just crossed the state line, all good.
+[08:38] Nicole: Still on schedule?
+[08:40] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[09:09] Nicole: Any updates on your progress?
+[09:11] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[09:59] Nicole: What's your status?
+[10:01] Andre Rodriguez: Just crossed the state line, all good.
+[10:52] Nicole: What's your status?
+[10:54] Andre Rodriguez: About 360 miles out from Cleveland, OH now.
+[11:12] Nicole: What's your status?
+[11:14] Andre Rodriguez: About 538 miles out from Cleveland, OH now.
+[11:42] Nicole: Any updates on your progress?
+[11:44] Andre Rodriguez: Just crossed the state line, all good.
+[12:22] Nicole: Any updates on your progress?
+[12:24] Andre Rodriguez: About 203 miles out from Cleveland, OH now.
+[12:39] Nicole: What's your status?
+[12:41] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[13:11] Nicole: Where are you at right now?
+[13:13] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[14:02] Nicole: Where are you at right now?
+[14:04] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[14:51] Nicole: What's your status?
+[14:53] Andre Rodriguez: Making good time, no issues so far.
+[15:45] Nicole: How's LD-56071 looking?
+[15:47] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[16:17] Nicole: Still on schedule?
+[16:19] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[16:48] Nicole: Any updates on your progress?
+[16:50] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[17:50] Nicole: Where are you at right now?
+[17:52] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[18:33] Nicole: Still on schedule?
+[18:35] Andre Rodriguez: About 335 miles out from Cleveland, OH now.
+[19:27] Nicole: Where are you at right now?
+[19:29] Andre Rodriguez: Just crossed the state line, all good.
+[20:25] Nicole: How's LD-56071 looking?
+[20:27] Andre Rodriguez: About 441 miles out from Cleveland, OH now.
+[20:54] Nicole: What's your status?
+[20:56] Andre Rodriguez: Just passed Detroit, MI, everything's fine.
+[21:28] Nicole: What's your status?
+[21:30] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[22:24] Nicole: How's LD-56071 looking?
+[22:26] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[23:24] Nicole: What's your status?
+[23:26] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[00:07] Nicole: What's your status?
+[00:09] Andre Rodriguez: Making good time, no issues so far.
+[00:44] Nicole: Any updates on your progress?
+[00:46] Andre Rodriguez: Just passed Cleveland, OH, everything's fine.
+[02:07] Andre Rodriguez: Just delivered LD-56071 at Cleveland, OH, all good, no damages.
+[02:09] Nicole: Do you have the signed BOL?
+[02:11] Andre Rodriguez: Yep, taking a picture now.
+[02:12] Andre Rodriguez: [Image attached: signed_bol.jpg]
+[02:14] Nicole: Sending you the next load details shortly.
+[02:16] Andre Rodriguez: Understood.
+[02:18] Nicole: Appreciate it, talk soon.

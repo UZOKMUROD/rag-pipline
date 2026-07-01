@@ -1,0 +1,151 @@
+Chat Log #243
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #938 (past ramali tirkama)
+Operator: Nodira
+Load: LD-85352 | Route: Jizzax -> Guliston
+Date: 2026-02-08
+--------------------------------------------------
+[08:11] Nodira: Bakhtiyor, bir daqiqa bormi?
+[08:12] Bakhtiyor Karimov: Ha, aloqadaman.
+[08:14] Nodira: Siz uchun yuk bor - LD-85352, past ramali tirkama, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[08:16] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[08:18] Nodira: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[08:20] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[08:22] Nodira: 3799 ming so'm, 682 km.
+[08:24] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[08:26] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:29] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[09:57] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[09:59] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:05] Nodira: LD-85352 bilan ishlar qalay?
+[11:07] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:58] Nodira: Yo'lda yangilik bormi?
+[12:00] Bakhtiyor Karimov: Gulistongacha taxminan 325 km qoldi.
+[12:02] Nodira: Taxminan qachon yetib borasiz?
+[12:04] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[13:15] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:17] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[14:37] Nodira: Yo'lda yangilik bormi?
+[14:39] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:42] Nodira: O'zingizni qalay his qilyapsiz?
+[14:44] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:10] Nodira: Holatingiz qanday?
+[16:12] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[17:23] Nodira: Hozir qayerdasiz?
+[17:25] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:28] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:30] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:25] Nodira: Holatingiz qanday?
+[19:27] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[19:30] Nodira: Xabar berib turganingiz uchun rahmat.
+[19:32] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[20:53] Nodira: Holatingiz qanday?
+[20:55] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:58] Nodira: O'zingizni qalay his qilyapsiz?
+[21:00] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[21:02] Nodira: Taxminan qachon yetib borasiz?
+[21:04] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa noonda.
+[21:46] Nodira: Holatingiz qanday?
+[21:48] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:16] Nodira: Yo'lda yangilik bormi?
+[22:18] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[22:21] Nodira: Xabar berib turganingiz uchun rahmat.
+[22:23] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:25] Nodira: Taxminan qachon yetib borasiz?
+[22:27] Bakhtiyor Karimov: Taxminan 3pmda yetib boraman.
+[22:52] Nodira: Yo'lda yangilik bormi?
+[22:54] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:56] Nodira: Taxminan qachon yetib borasiz?
+[22:58] Bakhtiyor Karimov: Taxminan 5pmda yetib boraman.
+[00:23] Nodira: Hozir qayerdasiz?
+[00:25] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:28] Nodira: Biror narsa kerak bo'lsa ayting.
+[00:30] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[00:54] Nodira: LD-85352 bilan ishlar qalay?
+[00:56] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[00:58] Nodira: Taxminan qachon yetib borasiz?
+[01:00] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 7pmda.
+[01:19] Nodira: Holatingiz qanday?
+[01:21] Bakhtiyor Karimov: Osmon ochiq, muammo yo'q.
+[01:24] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:26] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[01:28] Nodira: Taxminan qachon yetib borasiz?
+[01:30] Bakhtiyor Karimov: Ehtimol 7pm, balki ertaroq.
+[02:56] Nodira: LD-85352 bilan ishlar qalay?
+[02:58] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:01] Nodira: Xabar berib turganingiz uchun rahmat.
+[03:03] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[03:05] Nodira: Taxminan qachon yetib borasiz?
+[03:07] Bakhtiyor Karimov: Taxminan 5pmda yetib boraman.
+[04:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[04:09] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[04:11] Nodira: Taxminan qachon yetib borasiz?
+[04:13] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 7pmda.
+[05:17] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:19] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[05:21] Nodira: Taxminan qachon yetib borasiz?
+[05:23] Bakhtiyor Karimov: Ehtimol 7pm, balki ertaroq.
+[05:48] Nodira: Hozir qayerdasiz?
+[05:50] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:49] Nodira: LD-85352 bilan ishlar qalay?
+[06:51] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:14] Nodira: Holatingiz qanday?
+[07:16] Bakhtiyor Karimov: Gulistongacha taxminan 255 km qoldi.
+[08:15] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:17] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:12] Nodira: LD-85352 bilan ishlar qalay?
+[09:14] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:14] Nodira: Holatingiz qanday?
+[10:16] Bakhtiyor Karimov: Gulistongacha taxminan 513 km qoldi.
+[10:33] Nodira: LD-85352 bilan ishlar qalay?
+[10:35] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[10:57] Nodira: Holatingiz qanday?
+[10:59] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[11:29] Nodira: LD-85352 bilan ishlar qalay?
+[11:31] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:59] Nodira: Hozir qayerdasiz?
+[12:01] Bakhtiyor Karimov: Gulistongacha taxminan 341 km qoldi.
+[12:33] Nodira: Hozir qayerdasiz?
+[12:35] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[12:55] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[12:57] Bakhtiyor Karimov: Gulistongacha taxminan 577 km qoldi.
+[13:50] Nodira: Yo'lda yangilik bormi?
+[13:52] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:51] Nodira: Hozir qayerdasiz?
+[14:53] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[15:52] Nodira: Holatingiz qanday?
+[15:54] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:12] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:14] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:47] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:49] Bakhtiyor Karimov: Gulistongacha taxminan 505 km qoldi.
+[17:49] Nodira: Yo'lda yangilik bormi?
+[17:51] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:12] Nodira: Hozir qayerdasiz?
+[18:14] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:11] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:13] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:13] Nodira: Hozir qayerdasiz?
+[20:15] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:49] Nodira: LD-85352 bilan ishlar qalay?
+[20:51] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:33] Nodira: Hozir qayerdasiz?
+[21:35] Bakhtiyor Karimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[22:00] Nodira: Yo'lda yangilik bormi?
+[22:02] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[22:25] Nodira: LD-85352 bilan ishlar qalay?
+[22:27] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[22:49] Nodira: Yo'lda yangilik bormi?
+[22:51] Bakhtiyor Karimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[23:18] Nodira: LD-85352 bilan ishlar qalay?
+[23:20] Bakhtiyor Karimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[23:47] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:49] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:29] Bakhtiyor Karimov: LD-85352 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:31] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[00:33] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[00:34] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:36] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:38] Bakhtiyor Karimov: Yaxshi.
+[00:40] Nodira: Rahmat, aloqada bo'lamiz.

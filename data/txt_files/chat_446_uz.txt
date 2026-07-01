@@ -1,0 +1,149 @@
+Chat Log #446
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #480 (past ramali tirkama)
+Operator: Dilnoza
+Load: LD-86496 | Route: Farg'ona -> Andijon
+Date: 2026-04-18
+--------------------------------------------------
+[10:00] Dilnoza: Salom, Jasur, ishlar qalay?
+[10:01] Jasur Toshpulatov: Ha, aloqadaman.
+[10:03] Dilnoza: Siz uchun yuk bor - LD-86496, past ramali tirkama, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[10:05] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[10:07] Dilnoza: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[10:09] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[10:11] Dilnoza: 3093 ming so'm, 355 km.
+[10:13] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[10:15] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:18] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[11:48] Dilnoza: Yo'lda yangilik bormi?
+[11:50] Jasur Toshpulatov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[12:49] Dilnoza: Hozir qayerdasiz?
+[12:51] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[12:54] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:56] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:22] Dilnoza: LD-86496 bilan ishlar qalay?
+[13:24] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:48] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:50] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[14:53] Dilnoza: O'zingizni qalay his qilyapsiz?
+[14:55] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[15:40] Dilnoza: LD-86496 bilan ishlar qalay?
+[15:42] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[15:45] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[15:47] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[17:02] Dilnoza: Holatingiz qanday?
+[17:04] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[17:07] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[17:09] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[17:11] Dilnoza: Taxminan qachon yetib borasiz?
+[17:13] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 10amda.
+[18:17] Dilnoza: Holatingiz qanday?
+[18:19] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[18:21] Dilnoza: Taxminan qachon yetib borasiz?
+[18:23] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 10amda.
+[19:14] Dilnoza: Yo'lda yangilik bormi?
+[19:16] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:19] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[19:21] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:23] Dilnoza: Taxminan qachon yetib borasiz?
+[19:25] Jasur Toshpulatov: Ehtimol 5pm, balki ertaroq.
+[20:38] Dilnoza: Yo'lda yangilik bormi?
+[20:40] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[20:43] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[20:45] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:25] Dilnoza: Holatingiz qanday?
+[21:27] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:30] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:32] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[21:51] Dilnoza: LD-86496 bilan ishlar qalay?
+[21:53] Jasur Toshpulatov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[22:39] Dilnoza: LD-86496 bilan ishlar qalay?
+[22:41] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[23:16] Dilnoza: LD-86496 bilan ishlar qalay?
+[23:18] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[23:50] Dilnoza: Hozir qayerdasiz?
+[23:52] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:55] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:57] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:21] Dilnoza: Holatingiz qanday?
+[01:23] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[01:26] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[01:28] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[01:30] Dilnoza: Taxminan qachon yetib borasiz?
+[01:32] Jasur Toshpulatov: Taxminan noonda yetib boraman.
+[02:17] Dilnoza: Holatingiz qanday?
+[02:19] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[02:41] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:43] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:31] Dilnoza: LD-86496 bilan ishlar qalay?
+[03:33] Jasur Toshpulatov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[03:36] Dilnoza: O'zingizni qalay his qilyapsiz?
+[03:38] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[04:45] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:47] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:49] Dilnoza: Taxminan qachon yetib borasiz?
+[04:51] Jasur Toshpulatov: Taxminan 7pmda yetib boraman.
+[05:09] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:11] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[05:13] Dilnoza: Taxminan qachon yetib borasiz?
+[05:15] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 3pmda.
+[05:48] Dilnoza: Hozir qayerdasiz?
+[05:50] Jasur Toshpulatov: Andijongacha taxminan 236 km qoldi.
+[06:25] Dilnoza: Holatingiz qanday?
+[06:27] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:14] Dilnoza: Holatingiz qanday?
+[07:16] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:31] Dilnoza: Hozir qayerdasiz?
+[07:33] Jasur Toshpulatov: Andijongacha taxminan 495 km qoldi.
+[08:27] Dilnoza: Yo'lda yangilik bormi?
+[08:29] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:06] Dilnoza: Holatingiz qanday?
+[09:08] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:42] Dilnoza: Yo'lda yangilik bormi?
+[09:44] Jasur Toshpulatov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[10:10] Dilnoza: LD-86496 bilan ishlar qalay?
+[10:12] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:37] Dilnoza: Holatingiz qanday?
+[10:39] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:31] Dilnoza: Holatingiz qanday?
+[11:33] Jasur Toshpulatov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[11:59] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:01] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:49] Dilnoza: Holatingiz qanday?
+[12:51] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:45] Dilnoza: Holatingiz qanday?
+[13:47] Jasur Toshpulatov: Andijongacha taxminan 217 km qoldi.
+[14:16] Dilnoza: Holatingiz qanday?
+[14:18] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:47] Dilnoza: Yo'lda yangilik bormi?
+[14:49] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:36] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:38] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:15] Dilnoza: Holatingiz qanday?
+[16:17] Jasur Toshpulatov: Andijongacha taxminan 508 km qoldi.
+[16:55] Dilnoza: Yo'lda yangilik bormi?
+[16:57] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:37] Dilnoza: Hozir qayerdasiz?
+[17:39] Jasur Toshpulatov: Andijongacha taxminan 305 km qoldi.
+[18:08] Dilnoza: Hozir qayerdasiz?
+[18:10] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:35] Dilnoza: LD-86496 bilan ishlar qalay?
+[18:37] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:57] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:59] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:19] Dilnoza: Hozir qayerdasiz?
+[19:21] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:02] Dilnoza: LD-86496 bilan ishlar qalay?
+[20:04] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:47] Dilnoza: Hozir qayerdasiz?
+[20:49] Jasur Toshpulatov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[21:28] Dilnoza: LD-86496 bilan ishlar qalay?
+[21:30] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:48] Jasur Toshpulatov: LD-86496 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[22:50] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[22:52] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[22:53] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[22:55] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[22:57] Jasur Toshpulatov: Yaxshi.
+[22:59] Dilnoza: Ajoyib ish, rahmat.

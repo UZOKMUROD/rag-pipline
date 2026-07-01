@@ -1,0 +1,131 @@
+Chat Log #205
+Company: Silk Road Logistics
+Language: English
+Driver: Anthony Martinez | Truck: #258 (dry van)
+Operator: Megan
+Load: LD-70230 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-05-02
+--------------------------------------------------
+[09:11] Megan: Anthony, got a minute?
+[09:12] Anthony Martinez: Morning, all good on my end.
+[09:14] Megan: Got a load for you - LD-70230, dry van, pickup in Houston, TX, delivery to New Orleans, LA.
+[09:16] Anthony Martinez: Ok, what's the pickup window?
+[09:18] Megan: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[09:20] Anthony Martinez: What's the rate on this one?
+[09:22] Megan: $3157 all in, 652 miles.
+[09:24] Anthony Martinez: Sounds good, I'll take it.
+[09:26] Megan: Great, sending the rate confirmation now.
+[09:29] Anthony Martinez: Got it, signed and sent back.
+[10:10] Megan: Any updates on your progress?
+[10:12] Anthony Martinez: Yeah, long one, but manageable.
+[10:37] Megan: How's LD-70230 looking?
+[10:39] Anthony Martinez: Roads are clear now, moving well.
+[10:41] Megan: What's your ETA?
+[10:43] Anthony Martinez: Should be there around 10am.
+[11:36] Megan: How's LD-70230 looking?
+[11:38] Anthony Martinez: Construction zone slowing everyone down.
+[12:47] Megan: What's your status?
+[12:49] Anthony Martinez: Roads are wet, taking it easy.
+[12:51] Megan: What's your ETA?
+[12:53] Anthony Martinez: Probably 7pm, maybe a bit earlier.
+[13:35] Megan: What's your status?
+[13:37] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[14:09] Megan: What's your status?
+[14:11] Anthony Martinez: Weather's getting rough up ahead, heads up.
+[14:13] Megan: What's your ETA?
+[14:15] Anthony Martinez: Looking at noon if traffic stays clear.
+[15:41] Megan: What's your status?
+[15:43] Anthony Martinez: Just passed Houston, TX, everything's fine.
+[16:29] Megan: What's your status?
+[16:31] Anthony Martinez: Rain is picking up here, slowing down a bit.
+[16:34] Megan: Appreciate you keeping me posted.
+[16:36] Anthony Martinez: No problem, just doing my job.
+[17:01] Megan: Still on schedule?
+[17:03] Anthony Martinez: Just topped off the tank.
+[18:33] Megan: Any updates on your progress?
+[18:35] Anthony Martinez: Doing alright, just tired.
+[19:43] Megan: Still on schedule?
+[19:45] Anthony Martinez: Clear skies here, no problems.
+[19:47] Megan: What's your ETA?
+[19:49] Anthony Martinez: Probably 3pm, maybe a bit earlier.
+[20:13] Megan: Any updates on your progress?
+[20:15] Anthony Martinez: Rain is picking up here, slowing down a bit.
+[20:17] Megan: What's your ETA?
+[20:19] Anthony Martinez: Probably 3pm, maybe a bit earlier.
+[21:26] Megan: How's LD-70230 looking?
+[21:28] Anthony Martinez: Accident up ahead, traffic's backed up.
+[21:59] Megan: Still on schedule?
+[22:01] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[23:08] Megan: How's LD-70230 looking?
+[23:10] Anthony Martinez: Making good time, no issues so far.
+[23:13] Megan: Let me know if you need anything.
+[23:15] Anthony Martinez: Yeah, long one, but manageable.
+[00:39] Megan: How's LD-70230 looking?
+[00:41] Anthony Martinez: Accident up ahead, traffic's backed up.
+[01:38] Megan: Still on schedule?
+[01:40] Anthony Martinez: Making good time, no issues so far.
+[02:03] Megan: What's your status?
+[02:05] Anthony Martinez: About 451 miles out from New Orleans, LA now.
+[02:08] Megan: Let me know if you need anything.
+[02:10] Anthony Martinez: Will do, thanks for checking in.
+[02:32] Megan: How's LD-70230 looking?
+[02:34] Anthony Martinez: Yeah, long one, but manageable.
+[02:37] Megan: How are you holding up out there?
+[02:39] Anthony Martinez: Will do, thanks for checking in.
+[03:36] Megan: How's LD-70230 looking?
+[03:38] Anthony Martinez: Will do, thanks for checking in.
+[03:50] Anthony Martinez: Coming up on my HOS limit, only got about 45 minutes left.
+[03:52] Megan: Understood, get your rest, I'll let the receiver know.
+[04:49] Megan: How's LD-70230 looking?
+[04:51] Anthony Martinez: Making good time, no issues so far.
+[05:41] Megan: Still on schedule?
+[05:43] Anthony Martinez: Just crossed the state line, all good.
+[06:30] Megan: What's your status?
+[06:32] Anthony Martinez: Just crossed the state line, all good.
+[07:25] Megan: What's your status?
+[07:27] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[08:03] Megan: Any updates on your progress?
+[08:05] Anthony Martinez: Just passed Houston, TX, everything's fine.
+[08:46] Megan: Any updates on your progress?
+[08:48] Anthony Martinez: Just crossed the state line, all good.
+[09:06] Megan: What's your status?
+[09:08] Anthony Martinez: About 501 miles out from New Orleans, LA now.
+[09:31] Megan: Where are you at right now?
+[09:33] Anthony Martinez: Making good time, no issues so far.
+[09:49] Megan: What's your status?
+[09:51] Anthony Martinez: About 560 miles out from New Orleans, LA now.
+[10:41] Megan: How's LD-70230 looking?
+[10:43] Anthony Martinez: About 577 miles out from New Orleans, LA now.
+[11:38] Megan: Where are you at right now?
+[11:40] Anthony Martinez: Just crossed the state line, all good.
+[12:31] Megan: Any updates on your progress?
+[12:33] Anthony Martinez: Just passed New Orleans, LA, everything's fine.
+[13:10] Megan: Still on schedule?
+[13:12] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[13:48] Megan: What's your status?
+[13:50] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[14:25] Megan: Still on schedule?
+[14:27] Anthony Martinez: About 94 miles out from New Orleans, LA now.
+[14:44] Megan: Still on schedule?
+[14:46] Anthony Martinez: About 319 miles out from New Orleans, LA now.
+[15:02] Megan: Any updates on your progress?
+[15:04] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[15:48] Megan: Where are you at right now?
+[15:50] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[16:49] Megan: Where are you at right now?
+[16:51] Anthony Martinez: Just passed New Orleans, LA, everything's fine.
+[17:49] Megan: Still on schedule?
+[17:51] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[18:46] Megan: Any updates on your progress?
+[18:48] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[19:39] Megan: What's your status?
+[19:41] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[20:06] Megan: How's LD-70230 looking?
+[20:08] Anthony Martinez: Just passed Houston, TX, everything's fine.
+[21:01] Anthony Martinez: Just delivered LD-70230 at New Orleans, LA, all good, no damages.
+[21:03] Megan: Do you have the signed BOL?
+[21:05] Anthony Martinez: Yep, taking a picture now.
+[21:06] Anthony Martinez: [Image attached: signed_bol.jpg]
+[21:08] Megan: Sending you the next load details shortly.
+[21:10] Anthony Martinez: Copy that.
+[21:12] Megan: Appreciate it, talk soon.

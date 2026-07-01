@@ -1,0 +1,147 @@
+Chat Log #114
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #568 (tentli furgon)
+Operator: Nodira
+Load: LD-36055 | Route: Samarqand -> Buxoro
+Date: 2026-05-18
+--------------------------------------------------
+[08:53] Nodira: Xayrli tong, Farrukh, aloqadamisiz?
+[08:54] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[08:56] Nodira: Siz uchun yuk bor - LD-36055, tentli furgon, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[08:58] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[09:00] Nodira: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[09:02] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[09:04] Nodira: 1940 ming so'm, 1082 km.
+[09:06] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[09:08] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:11] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[09:47] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[09:49] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[10:59] Nodira: LD-36055 bilan ishlar qalay?
+[11:01] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:03] Nodira: Taxminan qachon yetib borasiz?
+[11:05] Farrukh Tashkentov: Ehtimol 7pm, balki ertaroq.
+[12:23] Nodira: Hozir qayerdasiz?
+[12:25] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:28] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:30] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:04] Nodira: Holatingiz qanday?
+[13:06] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[13:08] Nodira: Taxminan qachon yetib borasiz?
+[13:10] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[13:51] Nodira: Yo'lda yangilik bormi?
+[13:53] Farrukh Tashkentov: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[13:56] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:58] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[15:02] Nodira: Holatingiz qanday?
+[15:04] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[16:06] Nodira: Holatingiz qanday?
+[16:08] Farrukh Tashkentov: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[17:26] Nodira: LD-36055 bilan ishlar qalay?
+[17:28] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[17:45] Nodira: LD-36055 bilan ishlar qalay?
+[17:47] Farrukh Tashkentov: Buxorogacha taxminan 136 km qoldi.
+[18:15] Nodira: LD-36055 bilan ishlar qalay?
+[18:17] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[18:20] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:22] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:01] Nodira: Hozir qayerdasiz?
+[19:03] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[19:05] Nodira: Taxminan qachon yetib borasiz?
+[19:07] Farrukh Tashkentov: Ehtimol 5pm, balki ertaroq.
+[20:03] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[20:05] Farrukh Tashkentov: Buxorogacha taxminan 336 km qoldi.
+[20:55] Nodira: LD-36055 bilan ishlar qalay?
+[20:57] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[21:54] Nodira: Hozir qayerdasiz?
+[21:56] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:58] Nodira: Taxminan qachon yetib borasiz?
+[22:00] Farrukh Tashkentov: Taxminan 3pmda yetib boraman.
+[23:23] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:25] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[23:40] Farrukh Tashkentov: Haydash vaqtim limitiga yaqinlashyapman, atigi 1 hour qoldi.
+[23:42] Nodira: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[00:06] Nodira: Holatingiz qanday?
+[00:08] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:58] Nodira: Holatingiz qanday?
+[01:00] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:23] Nodira: Hozir qayerdasiz?
+[01:25] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:44] Nodira: Holatingiz qanday?
+[01:46] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:42] Nodira: Hozir qayerdasiz?
+[02:44] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[03:28] Nodira: Holatingiz qanday?
+[03:30] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:54] Nodira: LD-36055 bilan ishlar qalay?
+[03:56] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:45] Nodira: LD-36055 bilan ishlar qalay?
+[04:47] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:03] Nodira: LD-36055 bilan ishlar qalay?
+[05:05] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:53] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:55] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:22] Nodira: Hozir qayerdasiz?
+[06:24] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:23] Nodira: Holatingiz qanday?
+[07:25] Farrukh Tashkentov: Buxorogacha taxminan 141 km qoldi.
+[07:51] Nodira: LD-36055 bilan ishlar qalay?
+[07:53] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:42] Nodira: Hozir qayerdasiz?
+[08:44] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[09:29] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[09:31] Farrukh Tashkentov: Buxorogacha taxminan 495 km qoldi.
+[10:22] Nodira: Yo'lda yangilik bormi?
+[10:24] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:52] Nodira: Hozir qayerdasiz?
+[10:54] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:10] Nodira: Yo'lda yangilik bormi?
+[11:12] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[11:57] Nodira: Holatingiz qanday?
+[11:59] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:50] Nodira: LD-36055 bilan ishlar qalay?
+[12:52] Farrukh Tashkentov: Buxorogacha taxminan 297 km qoldi.
+[13:18] Nodira: Holatingiz qanday?
+[13:20] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:58] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:00] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:41] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:43] Farrukh Tashkentov: Buxorogacha taxminan 322 km qoldi.
+[15:42] Nodira: Holatingiz qanday?
+[15:44] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:10] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:12] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[17:03] Nodira: Hozir qayerdasiz?
+[17:05] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:33] Nodira: Hozir qayerdasiz?
+[17:35] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:08] Nodira: LD-36055 bilan ishlar qalay?
+[18:10] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:25] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:27] Farrukh Tashkentov: Buxorogacha taxminan 506 km qoldi.
+[18:54] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:56] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:43] Nodira: Yo'lda yangilik bormi?
+[19:45] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:39] Nodira: LD-36055 bilan ishlar qalay?
+[20:41] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:23] Nodira: LD-36055 bilan ishlar qalay?
+[21:25] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[21:56] Nodira: Yo'lda yangilik bormi?
+[21:58] Farrukh Tashkentov: Buxorogacha taxminan 299 km qoldi.
+[22:53] Nodira: Yo'lda yangilik bormi?
+[22:55] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:42] Nodira: Hozir qayerdasiz?
+[23:44] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[00:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:09] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:35] Nodira: LD-36055 bilan ishlar qalay?
+[00:37] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:55] Farrukh Tashkentov: LD-36055 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[01:57] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[01:59] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[02:00] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:02] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:04] Farrukh Tashkentov: Xo'p bo'ladi.
+[02:06] Nodira: Rahmat, aloqada bo'lamiz.

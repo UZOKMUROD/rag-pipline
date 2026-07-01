@@ -1,0 +1,148 @@
+Chat Log #074
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #600 (tentli furgon)
+Operator: Malika
+Load: LD-59277 | Route: Nukus -> Urganch
+Date: 2026-02-10
+--------------------------------------------------
+[09:11] Malika: Jasur, bir daqiqa bormi?
+[09:12] Jasur Toshpulatov: Ha, aloqadaman.
+[09:14] Malika: Siz uchun yuk bor - LD-59277, tentli furgon, Nukusdan yuklanadi, Urganchga tushiriladi.
+[09:16] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[09:18] Malika: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[09:20] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[09:22] Malika: 3887 ming so'm, 710 km.
+[09:24] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[09:26] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:29] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[10:17] Malika: Hozir qayerdasiz?
+[10:19] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:55] Malika: Holatingiz qanday?
+[10:57] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[11:36] Malika: Hozir qayerdasiz?
+[11:38] Jasur Toshpulatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[11:40] Malika: Taxminan qachon yetib borasiz?
+[11:42] Jasur Toshpulatov: Taxminan 5pmda yetib boraman.
+[12:54] Malika: LD-59277 bilan ishlar qalay?
+[12:56] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[12:59] Malika: O'zingizni qalay his qilyapsiz?
+[13:01] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[13:45] Malika: Holatingiz qanday?
+[13:47] Jasur Toshpulatov: Osmon ochiq, muammo yo'q.
+[13:50] Malika: Xabar berib turganingiz uchun rahmat.
+[13:52] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[14:08] Malika: Hozir qayerdasiz?
+[14:10] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[14:13] Malika: Xabar berib turganingiz uchun rahmat.
+[14:15] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[15:07] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[15:09] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[15:11] Malika: Taxminan qachon yetib borasiz?
+[15:13] Jasur Toshpulatov: Ehtimol 3pm, balki ertaroq.
+[15:45] Malika: Yo'lda yangilik bormi?
+[15:47] Jasur Toshpulatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[16:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[16:06] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[16:08] Malika: Taxminan qachon yetib borasiz?
+[16:10] Jasur Toshpulatov: Agar tirbandlik bo'lmasa noonda.
+[16:27] Malika: Hozir qayerdasiz?
+[16:29] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:55] Malika: Holatingiz qanday?
+[16:57] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[17:00] Malika: Xabar berib turganingiz uchun rahmat.
+[17:02] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[18:18] Malika: Hozir qayerdasiz?
+[18:20] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[18:22] Malika: Taxminan qachon yetib borasiz?
+[18:24] Jasur Toshpulatov: Agar tirbandlik bo'lmasa noonda.
+[19:12] Malika: Yo'lda yangilik bormi?
+[19:14] Jasur Toshpulatov: Nukus yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:29] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:31] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:50] Malika: Hozir qayerdasiz?
+[21:52] Jasur Toshpulatov: Urganchgacha taxminan 594 km qoldi.
+[21:55] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:57] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:59] Malika: Taxminan qachon yetib borasiz?
+[22:01] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 10amda.
+[23:07] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[23:09] Jasur Toshpulatov: Osmon ochiq, muammo yo'q.
+[00:02] Malika: Hozir qayerdasiz?
+[00:04] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[00:07] Malika: O'zingizni qalay his qilyapsiz?
+[00:09] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[01:14] Malika: Yo'lda yangilik bormi?
+[01:16] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[01:19] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:21] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[01:23] Malika: Taxminan qachon yetib borasiz?
+[01:25] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 7pmda.
+[01:43] Jasur Toshpulatov: Hali ham qabul qiluvchida turibman, deyarli 2 soat bo'ldi.
+[01:45] Malika: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[01:55] Malika: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[01:57] Jasur Toshpulatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[01:59] Malika: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[02:27] Malika: Holatingiz qanday?
+[02:29] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:51] Malika: Holatingiz qanday?
+[02:53] Jasur Toshpulatov: Urganchgacha taxminan 142 km qoldi.
+[03:47] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:49] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:28] Malika: Hozir qayerdasiz?
+[04:30] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:54] Malika: Holatingiz qanday?
+[04:56] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:19] Malika: Hozir qayerdasiz?
+[05:21] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:09] Malika: LD-59277 bilan ishlar qalay?
+[06:11] Jasur Toshpulatov: Urganchgacha taxminan 458 km qoldi.
+[06:36] Malika: Holatingiz qanday?
+[06:38] Jasur Toshpulatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[06:55] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[06:57] Jasur Toshpulatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[07:38] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:40] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:02] Malika: LD-59277 bilan ishlar qalay?
+[08:04] Jasur Toshpulatov: Urganchgacha taxminan 167 km qoldi.
+[08:26] Malika: Yo'lda yangilik bormi?
+[08:28] Jasur Toshpulatov: Urganchgacha taxminan 345 km qoldi.
+[09:06] Malika: Holatingiz qanday?
+[09:08] Jasur Toshpulatov: Urganchgacha taxminan 257 km qoldi.
+[09:27] Malika: LD-59277 bilan ishlar qalay?
+[09:29] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[10:06] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:57] Malika: Yo'lda yangilik bormi?
+[10:59] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:52] Malika: Yo'lda yangilik bormi?
+[11:54] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:29] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[12:31] Jasur Toshpulatov: Urganchgacha taxminan 516 km qoldi.
+[13:08] Malika: Holatingiz qanday?
+[13:10] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:53] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[13:55] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:37] Malika: LD-59277 bilan ishlar qalay?
+[14:39] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:34] Malika: LD-59277 bilan ishlar qalay?
+[15:36] Jasur Toshpulatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[16:21] Malika: LD-59277 bilan ishlar qalay?
+[16:23] Jasur Toshpulatov: Urganchgacha taxminan 482 km qoldi.
+[17:21] Malika: Yo'lda yangilik bormi?
+[17:23] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:04] Malika: Holatingiz qanday?
+[18:06] Jasur Toshpulatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[18:27] Malika: Hozir qayerdasiz?
+[18:29] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:25] Malika: LD-59277 bilan ishlar qalay?
+[19:27] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:47] Malika: Yo'lda yangilik bormi?
+[19:49] Jasur Toshpulatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[20:48] Jasur Toshpulatov: LD-59277 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[20:50] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[20:52] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[20:53] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[20:55] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[20:57] Jasur Toshpulatov: Tushunarli.
+[20:59] Malika: Ajoyib ish, rahmat.

@@ -1,0 +1,148 @@
+Chat Log #303
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #507 (past ramali tirkama)
+Operator: Gulnora
+Load: LD-14574 | Route: Namangan -> Toshkent
+Date: 2026-04-05
+--------------------------------------------------
+[16:44] Gulnora: Bakhtiyor, bir daqiqa bormi?
+[16:45] Bakhtiyor Karimov: Xayrli tong, menda hammasi yaxshi.
+[16:47] Gulnora: Siz uchun yuk bor - LD-14574, past ramali tirkama, Namangandan yuklanadi, Toshkentga tushiriladi.
+[16:49] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[16:51] Gulnora: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[16:53] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[16:55] Gulnora: 2720 ming so'm, 918 km.
+[16:57] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[16:59] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:02] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[17:58] Gulnora: LD-14574 bilan ishlar qalay?
+[18:00] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[18:02] Gulnora: Taxminan qachon yetib borasiz?
+[18:04] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 3pmda.
+[18:40] Gulnora: Hozir qayerdasiz?
+[18:42] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:45] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:47] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[18:49] Gulnora: Taxminan qachon yetib borasiz?
+[18:51] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[19:07] Gulnora: Yo'lda yangilik bormi?
+[19:09] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:39] Gulnora: Holatingiz qanday?
+[19:41] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:44] Gulnora: Biror narsa kerak bo'lsa ayting.
+[19:46] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[19:48] Gulnora: Taxminan qachon yetib borasiz?
+[19:50] Bakhtiyor Karimov: Ehtimol 5pm, balki ertaroq.
+[20:13] Gulnora: LD-14574 bilan ishlar qalay?
+[20:15] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:18] Gulnora: Xabar berib turganingiz uchun rahmat.
+[20:20] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[20:22] Gulnora: Taxminan qachon yetib borasiz?
+[20:24] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa noonda.
+[20:39] Gulnora: Yo'lda yangilik bormi?
+[20:41] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[20:44] Gulnora: Xabar berib turganingiz uchun rahmat.
+[20:46] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[21:30] Gulnora: Hozir qayerdasiz?
+[21:32] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:56] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[22:58] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:01] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[00:03] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[01:26] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[02:19] Gulnora: Holatingiz qanday?
+[02:21] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[02:53] Gulnora: Holatingiz qanday?
+[02:55] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[02:58] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:00] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[03:53] Gulnora: Hozir qayerdasiz?
+[03:55] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:57] Gulnora: Taxminan qachon yetib borasiz?
+[03:59] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa noonda.
+[05:04] Gulnora: Holatingiz qanday?
+[05:06] Bakhtiyor Karimov: Toshkentgacha taxminan 130 km qoldi.
+[05:41] Bakhtiyor Karimov: Hali ham qabul qiluvchida turibman, deyarli 4 soat bo'ldi.
+[05:43] Gulnora: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[05:53] Gulnora: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[05:55] Bakhtiyor Karimov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[05:57] Gulnora: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[06:31] Gulnora: Holatingiz qanday?
+[06:33] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:01] Gulnora: Yo'lda yangilik bormi?
+[07:03] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:58] Gulnora: Holatingiz qanday?
+[08:00] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:55] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[08:57] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:17] Gulnora: Yo'lda yangilik bormi?
+[09:19] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:02] Gulnora: Holatingiz qanday?
+[10:04] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:19] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[10:21] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:06] Gulnora: Yo'lda yangilik bormi?
+[11:08] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:05] Gulnora: Hozir qayerdasiz?
+[12:07] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[12:42] Gulnora: Yo'lda yangilik bormi?
+[12:44] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:24] Gulnora: Yo'lda yangilik bormi?
+[13:26] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:11] Gulnora: Hozir qayerdasiz?
+[14:13] Bakhtiyor Karimov: Toshkentgacha taxminan 592 km qoldi.
+[14:34] Gulnora: LD-14574 bilan ishlar qalay?
+[14:36] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:03] Gulnora: Yo'lda yangilik bormi?
+[15:05] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:51] Gulnora: Holatingiz qanday?
+[15:53] Bakhtiyor Karimov: Toshkentgacha taxminan 372 km qoldi.
+[16:25] Gulnora: Holatingiz qanday?
+[16:27] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[17:14] Gulnora: Holatingiz qanday?
+[17:16] Bakhtiyor Karimov: Toshkentgacha taxminan 290 km qoldi.
+[18:13] Gulnora: Holatingiz qanday?
+[18:15] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:13] Gulnora: Holatingiz qanday?
+[19:15] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:08] Gulnora: Holatingiz qanday?
+[20:10] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:54] Gulnora: LD-14574 bilan ishlar qalay?
+[20:56] Bakhtiyor Karimov: Toshkentgacha taxminan 233 km qoldi.
+[21:27] Gulnora: Yo'lda yangilik bormi?
+[21:29] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:28] Gulnora: LD-14574 bilan ishlar qalay?
+[22:30] Bakhtiyor Karimov: Toshkentgacha taxminan 118 km qoldi.
+[22:54] Gulnora: Hozir qayerdasiz?
+[22:56] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:14] Gulnora: LD-14574 bilan ishlar qalay?
+[23:16] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:15] Gulnora: Holatingiz qanday?
+[00:17] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[01:08] Gulnora: Holatingiz qanday?
+[01:10] Bakhtiyor Karimov: Toshkentgacha taxminan 102 km qoldi.
+[01:54] Gulnora: Hozir qayerdasiz?
+[01:56] Bakhtiyor Karimov: Toshkentgacha taxminan 521 km qoldi.
+[02:11] Gulnora: Hozir qayerdasiz?
+[02:13] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[02:42] Gulnora: Hozir qayerdasiz?
+[02:44] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:39] Gulnora: LD-14574 bilan ishlar qalay?
+[03:41] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:28] Gulnora: Hozir qayerdasiz?
+[04:30] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:08] Gulnora: Yo'lda yangilik bormi?
+[05:10] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:30] Gulnora: Hozir qayerdasiz?
+[05:32] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:13] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[06:15] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[06:57] Bakhtiyor Karimov: LD-14574 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:59] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[07:01] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[07:02] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[07:04] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[07:06] Bakhtiyor Karimov: Tushunarli.
+[07:08] Gulnora: Rahmat, aloqada bo'lamiz.

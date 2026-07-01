@@ -1,0 +1,150 @@
+Chat Log #479
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #361 (platforma)
+Operator: Dilnoza
+Load: LD-89664 | Route: Farg'ona -> Andijon
+Date: 2026-01-19
+--------------------------------------------------
+[20:37] Dilnoza: Xayrli tong, Shavkat, aloqadamisiz?
+[20:38] Shavkat Ergashev: Xayrli tong, menda hammasi yaxshi.
+[20:40] Dilnoza: Siz uchun yuk bor - LD-89664, platforma, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[20:42] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[20:44] Dilnoza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[20:46] Shavkat Ergashev: Bu reys uchun narx qancha?
+[20:48] Dilnoza: 2856 ming so'm, 521 km.
+[20:50] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[20:52] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[20:55] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[21:12] Dilnoza: Holatingiz qanday?
+[21:14] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[21:17] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[21:19] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[22:36] Dilnoza: Hozir qayerdasiz?
+[22:38] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[22:40] Dilnoza: Taxminan qachon yetib borasiz?
+[22:42] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[23:47] Dilnoza: Hozir qayerdasiz?
+[23:49] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[00:06] Dilnoza: LD-89664 bilan ishlar qalay?
+[00:08] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[00:10] Dilnoza: Taxminan qachon yetib borasiz?
+[00:12] Shavkat Ergashev: Agar tirbandlik bo'lmasa 5pmda.
+[01:14] Dilnoza: Yo'lda yangilik bormi?
+[01:16] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:18] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:20] Shavkat Ergashev: Andijongacha taxminan 493 km qoldi.
+[02:23] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[02:25] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[02:49] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:51] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:54] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[02:56] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[04:08] Dilnoza: Hozir qayerdasiz?
+[04:10] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:12] Dilnoza: Taxminan qachon yetib borasiz?
+[04:14] Shavkat Ergashev: Agar tirbandlik bo'lmasa 5pmda.
+[05:38] Dilnoza: LD-89664 bilan ishlar qalay?
+[05:40] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[05:43] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[05:45] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[06:54] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:56] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:59] Dilnoza: O'zingizni qalay his qilyapsiz?
+[07:01] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[08:24] Dilnoza: Yo'lda yangilik bormi?
+[08:26] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[08:29] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:31] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[09:54] Dilnoza: Holatingiz qanday?
+[09:56] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[09:59] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[10:01] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[10:56] Dilnoza: Holatingiz qanday?
+[10:58] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[12:13] Dilnoza: Hozir qayerdasiz?
+[12:15] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[13:06] Dilnoza: Holatingiz qanday?
+[13:08] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[13:11] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:13] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:30] Dilnoza: Holatingiz qanday?
+[13:32] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[14:20] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:22] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[15:31] Dilnoza: Hozir qayerdasiz?
+[15:33] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[16:15] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:17] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[16:38] Shavkat Ergashev: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[16:40] Dilnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[16:50] Dilnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[16:52] Shavkat Ergashev: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[16:54] Dilnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[17:46] Dilnoza: Yo'lda yangilik bormi?
+[17:48] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:35] Dilnoza: Yo'lda yangilik bormi?
+[18:37] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[19:00] Dilnoza: Yo'lda yangilik bormi?
+[19:02] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:30] Dilnoza: LD-89664 bilan ishlar qalay?
+[19:32] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:28] Dilnoza: Hozir qayerdasiz?
+[20:30] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:22] Dilnoza: Hozir qayerdasiz?
+[21:24] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:08] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:10] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:43] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:45] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:08] Dilnoza: Holatingiz qanday?
+[23:10] Shavkat Ergashev: Andijongacha taxminan 409 km qoldi.
+[00:10] Dilnoza: LD-89664 bilan ishlar qalay?
+[00:12] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:05] Dilnoza: LD-89664 bilan ishlar qalay?
+[01:07] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:00] Dilnoza: Hozir qayerdasiz?
+[02:02] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:48] Dilnoza: LD-89664 bilan ishlar qalay?
+[02:50] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:37] Dilnoza: LD-89664 bilan ishlar qalay?
+[03:39] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:55] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:57] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:19] Dilnoza: Yo'lda yangilik bormi?
+[04:21] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:50] Dilnoza: Hozir qayerdasiz?
+[04:52] Shavkat Ergashev: Andijongacha taxminan 92 km qoldi.
+[05:27] Dilnoza: Yo'lda yangilik bormi?
+[05:29] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:21] Dilnoza: Yo'lda yangilik bormi?
+[06:23] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:07] Dilnoza: Holatingiz qanday?
+[07:09] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:33] Dilnoza: Hozir qayerdasiz?
+[07:35] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[08:21] Dilnoza: Holatingiz qanday?
+[08:23] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:57] Dilnoza: LD-89664 bilan ishlar qalay?
+[08:59] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[09:21] Dilnoza: Holatingiz qanday?
+[09:23] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[09:55] Dilnoza: LD-89664 bilan ishlar qalay?
+[09:57] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:47] Dilnoza: Yo'lda yangilik bormi?
+[10:49] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:48] Dilnoza: Hozir qayerdasiz?
+[11:50] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:46] Dilnoza: Yo'lda yangilik bormi?
+[12:48] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[13:09] Dilnoza: Hozir qayerdasiz?
+[13:11] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[13:59] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:01] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:05] Shavkat Ergashev: LD-89664 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[15:07] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[15:09] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[15:10] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[15:12] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[15:14] Shavkat Ergashev: Tushundim.
+[15:16] Dilnoza: Ajoyib ish, rahmat.

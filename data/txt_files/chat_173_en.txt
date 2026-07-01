@@ -1,0 +1,127 @@
+Chat Log #173
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Williams | Truck: #214 (flatbed)
+Operator: Amanda
+Load: LD-55030 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-06-19
+--------------------------------------------------
+[06:12] Amanda: Morning Carlos, you there?
+[06:13] Carlos Williams: Morning, all good on my end.
+[06:15] Amanda: Got a load for you - LD-55030, flatbed, pickup in Nashville, TN, delivery to Birmingham, AL.
+[06:17] Carlos Williams: Ok, what's the pickup window?
+[06:19] Amanda: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[06:21] Carlos Williams: What's the rate on this one?
+[06:23] Amanda: $3903 all in, 370 miles.
+[06:25] Carlos Williams: Sounds good, I'll take it.
+[06:27] Amanda: Great, sending the rate confirmation now.
+[06:30] Carlos Williams: Got it, signed and sent back.
+[07:34] Amanda: Where are you at right now?
+[07:36] Carlos Williams: Fuel prices are decent around here.
+[07:38] Amanda: What's your ETA?
+[07:40] Carlos Williams: Probably 5pm, maybe a bit earlier.
+[08:14] Amanda: Any updates on your progress?
+[08:16] Carlos Williams: Will do, thanks for checking in.
+[08:58] Amanda: Still on schedule?
+[09:00] Carlos Williams: About 574 miles out from Birmingham, AL now.
+[09:02] Amanda: What's your ETA?
+[09:04] Carlos Williams: Looking at 5pm if traffic stays clear.
+[10:31] Amanda: What's your status?
+[10:33] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[11:18] Amanda: How's LD-55030 looking?
+[11:20] Carlos Williams: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[12:22] Amanda: Still on schedule?
+[12:24] Carlos Williams: Just passed Birmingham, AL, everything's fine.
+[12:27] Amanda: Long trip, huh? Get some rest when you can.
+[12:29] Carlos Williams: Doing alright, just tired.
+[13:48] Amanda: How's LD-55030 looking?
+[13:50] Carlos Williams: Stopping for fuel in a bit.
+[13:53] Amanda: Let me know if you need anything.
+[13:55] Carlos Williams: Yeah, long one, but manageable.
+[13:57] Amanda: What's your ETA?
+[13:59] Carlos Williams: Probably 7pm, maybe a bit earlier.
+[14:57] Amanda: What's your status?
+[14:59] Carlos Williams: Stopping for fuel in a bit.
+[15:02] Amanda: Long trip, huh? Get some rest when you can.
+[15:04] Carlos Williams: Yeah, long one, but manageable.
+[15:06] Amanda: What's your ETA?
+[15:08] Carlos Williams: Probably 7pm, maybe a bit earlier.
+[16:07] Amanda: Any updates on your progress?
+[16:09] Carlos Williams: Stopping for fuel in a bit.
+[16:12] Amanda: Appreciate you keeping me posted.
+[16:14] Carlos Williams: Doing alright, just tired.
+[16:37] Amanda: What's your status?
+[16:39] Carlos Williams: Rain is picking up here, slowing down a bit.
+[16:41] Amanda: What's your ETA?
+[16:43] Carlos Williams: Looking at 10am if traffic stays clear.
+[17:18] Amanda: How's LD-55030 looking?
+[17:20] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[17:23] Amanda: Long trip, huh? Get some rest when you can.
+[17:25] Carlos Williams: Doing alright, just tired.
+[17:27] Amanda: What's your ETA?
+[17:29] Carlos Williams: Should be there around 10am.
+[18:36] Amanda: Any updates on your progress?
+[18:38] Carlos Williams: Just topped off the tank.
+[18:41] Amanda: Let me know if you need anything.
+[18:43] Carlos Williams: Yeah, long one, but manageable.
+[18:45] Amanda: What's your ETA?
+[18:47] Carlos Williams: Looking at 7pm if traffic stays clear.
+[20:02] Amanda: Where are you at right now?
+[20:04] Carlos Williams: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[20:07] Amanda: Long trip, huh? Get some rest when you can.
+[20:09] Carlos Williams: Yeah, long one, but manageable.
+[21:17] Amanda: What's your status?
+[21:19] Carlos Williams: Making good time, no issues so far.
+[21:33] Carlos Williams: Coming up on my HOS limit, only got about 1 hour left.
+[21:35] Amanda: Understood, get your rest, I'll let the receiver know.
+[22:18] Amanda: Where are you at right now?
+[22:20] Carlos Williams: About 45 miles out from Birmingham, AL now.
+[22:58] Amanda: Still on schedule?
+[23:00] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[23:34] Amanda: Still on schedule?
+[23:36] Carlos Williams: Making good time, no issues so far.
+[00:21] Amanda: How's LD-55030 looking?
+[00:23] Carlos Williams: About 488 miles out from Birmingham, AL now.
+[00:48] Amanda: Any updates on your progress?
+[00:50] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[01:08] Amanda: Where are you at right now?
+[01:10] Carlos Williams: About 394 miles out from Birmingham, AL now.
+[02:09] Amanda: What's your status?
+[02:11] Carlos Williams: Just crossed the state line, all good.
+[02:54] Amanda: Where are you at right now?
+[02:56] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[03:50] Amanda: Any updates on your progress?
+[03:52] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[04:36] Amanda: Still on schedule?
+[04:38] Carlos Williams: About 148 miles out from Birmingham, AL now.
+[05:25] Amanda: What's your status?
+[05:27] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[06:13] Amanda: Any updates on your progress?
+[06:15] Carlos Williams: About 297 miles out from Birmingham, AL now.
+[06:45] Amanda: What's your status?
+[06:47] Carlos Williams: Just crossed the state line, all good.
+[07:45] Amanda: Still on schedule?
+[07:47] Carlos Williams: Making good time, no issues so far.
+[08:31] Amanda: Still on schedule?
+[08:33] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[09:26] Amanda: How's LD-55030 looking?
+[09:28] Carlos Williams: Just crossed the state line, all good.
+[10:07] Amanda: Any updates on your progress?
+[10:09] Carlos Williams: Just passed Nashville, TN, everything's fine.
+[10:52] Amanda: Any updates on your progress?
+[10:54] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[11:17] Amanda: How's LD-55030 looking?
+[11:19] Carlos Williams: Making good time, no issues so far.
+[12:06] Amanda: Any updates on your progress?
+[12:08] Carlos Williams: Making good time, no issues so far.
+[12:23] Amanda: Still on schedule?
+[12:25] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[12:44] Amanda: Any updates on your progress?
+[12:46] Carlos Williams: Just crossed the state line, all good.
+[13:43] Carlos Williams: Just delivered LD-55030 at Birmingham, AL, all good, no damages.
+[13:45] Amanda: Do you have the signed BOL?
+[13:47] Carlos Williams: Yep, taking a picture now.
+[13:48] Carlos Williams: [Image attached: signed_bol.jpg]
+[13:50] Amanda: Sending you the next load details shortly.
+[13:52] Carlos Williams: Copy that.
+[13:54] Amanda: Appreciate it, talk soon.

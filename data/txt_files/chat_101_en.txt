@@ -1,0 +1,130 @@
+Chat Log #101
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Young | Truck: #327 (reefer)
+Operator: Megan
+Load: LD-78831 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-05-06
+--------------------------------------------------
+[08:06] Megan: Morning Luis, you there?
+[08:07] Luis Young: Morning, all good on my end.
+[08:09] Megan: Got a load for you - LD-78831, reefer, pickup in Chicago, IL, delivery to Memphis, TN.
+[08:11] Luis Young: Ok, what's the pickup window?
+[08:13] Megan: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[08:15] Luis Young: What's the rate on this one?
+[08:17] Megan: $2058 all in, 804 miles.
+[08:19] Luis Young: Sounds good, I'll take it.
+[08:21] Megan: Great, sending the rate confirmation now.
+[08:24] Luis Young: Got it, signed and sent back.
+[09:33] Megan: How's LD-78831 looking?
+[09:35] Luis Young: Just crossed the state line, all good.
+[10:27] Megan: Any updates on your progress?
+[10:29] Luis Young: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[10:59] Megan: Any updates on your progress?
+[11:01] Luis Young: Weather's getting rough up ahead, heads up.
+[11:04] Megan: How are you holding up out there?
+[11:06] Luis Young: No problem, just doing my job.
+[12:10] Megan: How's LD-78831 looking?
+[12:12] Luis Young: Just crossed the state line, all good.
+[12:14] Megan: What's your ETA?
+[12:16] Luis Young: Should be there around 10am.
+[13:31] Megan: Any updates on your progress?
+[13:33] Luis Young: Traffic's a bit heavy but I'm still on schedule.
+[13:36] Megan: Long trip, huh? Get some rest when you can.
+[13:38] Luis Young: Yeah, long one, but manageable.
+[13:40] Megan: What's your ETA?
+[13:42] Luis Young: Looking at 7pm if traffic stays clear.
+[15:06] Megan: How's LD-78831 looking?
+[15:08] Luis Young: Rain is picking up here, slowing down a bit.
+[15:11] Megan: Appreciate you keeping me posted.
+[15:13] Luis Young: Doing alright, just tired.
+[16:04] Megan: Any updates on your progress?
+[16:06] Luis Young: Yeah, long one, but manageable.
+[16:09] Megan: Appreciate you keeping me posted.
+[16:11] Luis Young: Doing alright, just tired.
+[16:13] Megan: What's your ETA?
+[16:15] Luis Young: Looking at noon if traffic stays clear.
+[17:06] Megan: What's your status?
+[17:08] Luis Young: Clear skies here, no problems.
+[17:49] Megan: Any updates on your progress?
+[17:51] Luis Young: Making good time, no issues so far.
+[18:55] Megan: How's LD-78831 looking?
+[18:57] Luis Young: Stopping for fuel in a bit.
+[19:35] Megan: Still on schedule?
+[19:37] Luis Young: Clear skies here, no problems.
+[19:40] Megan: Appreciate you keeping me posted.
+[19:42] Luis Young: Will do, thanks for checking in.
+[19:44] Megan: What's your ETA?
+[19:46] Luis Young: Looking at 3pm if traffic stays clear.
+[20:04] Megan: What's your status?
+[20:06] Luis Young: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[20:32] Megan: What's your status?
+[20:34] Luis Young: Just crossed the state line, all good.
+[20:37] Megan: Let me know if you need anything.
+[20:39] Luis Young: Doing alright, just tired.
+[20:41] Megan: What's your ETA?
+[20:43] Luis Young: Should be there around 10am.
+[22:13] Megan: Where are you at right now?
+[22:15] Luis Young: Will do, thanks for checking in.
+[22:18] Megan: Long trip, huh? Get some rest when you can.
+[22:20] Luis Young: Will do, thanks for checking in.
+[22:49] Megan: How's LD-78831 looking?
+[22:51] Luis Young: Fuel prices are decent around here.
+[22:54] Megan: How are you holding up out there?
+[22:56] Luis Young: Yeah, long one, but manageable.
+[22:58] Megan: What's your ETA?
+[23:00] Luis Young: Probably 7pm, maybe a bit earlier.
+[00:13] Megan: Where are you at right now?
+[00:15] Luis Young: Stopped for a quick break, back on the road in a few.
+[00:18] Megan: Let me know if you need anything.
+[00:20] Luis Young: Doing alright, just tired.
+[01:13] Megan: Where are you at right now?
+[01:15] Luis Young: Just topped off the tank.
+[01:17] Megan: What's your ETA?
+[01:19] Luis Young: Looking at noon if traffic stays clear.
+[02:10] Megan: How's LD-78831 looking?
+[02:12] Luis Young: Just crossed the state line, all good.
+[02:15] Megan: Appreciate you keeping me posted.
+[02:17] Luis Young: Will do, thanks for checking in.
+[02:56] Megan: Still on schedule?
+[02:58] Luis Young: Roads are clear now, moving well.
+[03:01] Megan: How are you holding up out there?
+[03:03] Luis Young: Will do, thanks for checking in.
+[04:16] Megan: Still on schedule?
+[04:18] Luis Young: Roads are clear now, moving well.
+[04:20] Megan: What's your ETA?
+[04:22] Luis Young: Probably 10am, maybe a bit earlier.
+[04:44] Luis Young: Still sitting at the receiver, been here almost 2 hours already.
+[04:46] Megan: Let me call them and see what's going on.
+[04:56] Megan: Ok talked to them, they said 30 more minutes, forklift issue.
+[04:58] Luis Young: Make sure detention pay gets logged for this.
+[05:00] Megan: Already noted, don't worry, you'll get paid for the wait.
+[05:21] Megan: Still on schedule?
+[05:23] Luis Young: Stopped for a quick break, back on the road in a few.
+[05:59] Megan: Any updates on your progress?
+[06:01] Luis Young: Just crossed the state line, all good.
+[06:53] Megan: What's your status?
+[06:55] Luis Young: About 332 miles out from Memphis, TN now.
+[07:43] Megan: What's your status?
+[07:45] Luis Young: Traffic's a bit heavy but I'm still on schedule.
+[08:20] Megan: Where are you at right now?
+[08:22] Luis Young: About 249 miles out from Memphis, TN now.
+[08:41] Megan: What's your status?
+[08:43] Luis Young: Just passed Memphis, TN, everything's fine.
+[09:04] Megan: Any updates on your progress?
+[09:06] Luis Young: Traffic's a bit heavy but I'm still on schedule.
+[10:01] Megan: Still on schedule?
+[10:03] Luis Young: Just crossed the state line, all good.
+[10:40] Megan: Where are you at right now?
+[10:42] Luis Young: Traffic's a bit heavy but I'm still on schedule.
+[11:19] Megan: What's your status?
+[11:21] Luis Young: About 285 miles out from Memphis, TN now.
+[12:00] Megan: Where are you at right now?
+[12:02] Luis Young: Stopped for a quick break, back on the road in a few.
+[12:44] Luis Young: Just delivered LD-78831 at Memphis, TN, all good, no damages.
+[12:46] Megan: Do you have the signed BOL?
+[12:48] Luis Young: Yep, taking a picture now.
+[12:49] Luis Young: [Image attached: signed_bol.jpg]
+[12:51] Megan: Sending you the next load details shortly.
+[12:53] Luis Young: Will do.
+[12:55] Megan: Great work, thank you.

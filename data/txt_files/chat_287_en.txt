@@ -1,0 +1,130 @@
+Chat Log #287
+Company: Silk Road Logistics
+Language: English
+Driver: Marcus Davis | Truck: #659 (flatbed)
+Operator: Megan
+Load: LD-50213 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-05-26
+--------------------------------------------------
+[13:58] Megan: Morning Marcus, you there?
+[13:59] Marcus Davis: Hey, yeah I'm here.
+[14:01] Megan: Got a load for you - LD-50213, flatbed, pickup in Charlotte, NC, delivery to Richmond, VA.
+[14:03] Marcus Davis: Ok, what's the pickup window?
+[14:05] Megan: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[14:07] Marcus Davis: What's the rate on this one?
+[14:09] Megan: $3052 all in, 402 miles.
+[14:11] Marcus Davis: Sounds good, I'll take it.
+[14:13] Megan: Great, sending the rate confirmation now.
+[14:16] Marcus Davis: Got it, signed and sent back.
+[14:53] Megan: Any updates on your progress?
+[14:55] Marcus Davis: Just topped off the tank.
+[14:58] Megan: Let me know if you need anything.
+[15:00] Marcus Davis: Doing alright, just tired.
+[15:02] Megan: What's your ETA?
+[15:04] Marcus Davis: Should be there around 10am.
+[15:37] Megan: Where are you at right now?
+[15:39] Marcus Davis: Yeah, long one, but manageable.
+[16:49] Megan: Any updates on your progress?
+[16:51] Marcus Davis: Just topped off the tank.
+[16:53] Megan: What's your ETA?
+[16:55] Marcus Davis: Probably noon, maybe a bit earlier.
+[17:58] Megan: Where are you at right now?
+[18:00] Marcus Davis: Doing alright, just tired.
+[18:02] Megan: What's your ETA?
+[18:04] Marcus Davis: Looking at 5pm if traffic stays clear.
+[18:51] Megan: Any updates on your progress?
+[18:53] Marcus Davis: Stopping for fuel in a bit.
+[18:56] Megan: Long trip, huh? Get some rest when you can.
+[18:58] Marcus Davis: Will do, thanks for checking in.
+[19:35] Megan: Any updates on your progress?
+[19:37] Marcus Davis: Roads are clear now, moving well.
+[19:39] Megan: What's your ETA?
+[19:41] Marcus Davis: Probably 7pm, maybe a bit earlier.
+[20:51] Megan: Still on schedule?
+[20:53] Marcus Davis: Just passed Richmond, VA, everything's fine.
+[20:56] Megan: Let me know if you need anything.
+[20:58] Marcus Davis: Yeah, long one, but manageable.
+[21:25] Megan: Any updates on your progress?
+[21:27] Marcus Davis: Making good time, no issues so far.
+[21:30] Megan: Long trip, huh? Get some rest when you can.
+[21:32] Marcus Davis: Yeah, long one, but manageable.
+[22:45] Megan: Still on schedule?
+[22:47] Marcus Davis: Just crossed the state line, all good.
+[22:49] Megan: What's your ETA?
+[22:51] Marcus Davis: Probably 7pm, maybe a bit earlier.
+[23:25] Megan: What's your status?
+[23:27] Marcus Davis: About 86 miles out from Richmond, VA now.
+[23:30] Megan: Appreciate you keeping me posted.
+[23:32] Marcus Davis: Yeah, long one, but manageable.
+[00:11] Megan: What's your status?
+[00:13] Marcus Davis: Just topped off the tank.
+[01:36] Megan: Still on schedule?
+[01:38] Marcus Davis: Stopped for a quick break, back on the road in a few.
+[01:41] Megan: Let me know if you need anything.
+[01:43] Marcus Davis: Doing alright, just tired.
+[02:15] Megan: Any updates on your progress?
+[02:17] Marcus Davis: Stopped for a quick break, back on the road in a few.
+[02:20] Megan: Let me know if you need anything.
+[02:22] Marcus Davis: No problem, just doing my job.
+[03:00] Megan: How's LD-50213 looking?
+[03:02] Marcus Davis: Just crossed the state line, all good.
+[03:04] Megan: What's your ETA?
+[03:06] Marcus Davis: Looking at noon if traffic stays clear.
+[04:34] Megan: How's LD-50213 looking?
+[04:36] Marcus Davis: Hit some traffic near Richmond, VA, adding maybe 20 minutes.
+[05:18] Megan: Any updates on your progress?
+[05:20] Marcus Davis: Construction zone slowing everyone down.
+[05:50] Megan: What's your status?
+[05:52] Marcus Davis: Fuel prices are decent around here.
+[06:20] Marcus Davis: Still sitting at the shipper, been here almost 4 hours already.
+[06:22] Megan: Let me call them and see what's going on.
+[06:32] Megan: Ok talked to them, they said 30 more minutes, forklift issue.
+[06:34] Marcus Davis: Make sure detention pay gets logged for this.
+[06:36] Megan: Already noted, don't worry, you'll get paid for the wait.
+[07:19] Megan: Still on schedule?
+[07:21] Marcus Davis: Traffic's a bit heavy but I'm still on schedule.
+[07:36] Megan: Still on schedule?
+[07:38] Marcus Davis: Just passed Charlotte, NC, everything's fine.
+[08:02] Megan: Still on schedule?
+[08:04] Marcus Davis: About 74 miles out from Richmond, VA now.
+[08:39] Megan: Still on schedule?
+[08:41] Marcus Davis: Traffic's a bit heavy but I'm still on schedule.
+[09:37] Megan: What's your status?
+[09:39] Marcus Davis: Traffic's a bit heavy but I'm still on schedule.
+[10:37] Megan: Still on schedule?
+[10:39] Marcus Davis: Just passed Charlotte, NC, everything's fine.
+[11:15] Megan: Where are you at right now?
+[11:17] Marcus Davis: Just passed Richmond, VA, everything's fine.
+[11:47] Megan: What's your status?
+[11:49] Marcus Davis: Just crossed the state line, all good.
+[12:32] Megan: Where are you at right now?
+[12:34] Marcus Davis: Traffic's a bit heavy but I'm still on schedule.
+[12:52] Megan: What's your status?
+[12:54] Marcus Davis: Stopped for a quick break, back on the road in a few.
+[13:51] Megan: Still on schedule?
+[13:53] Marcus Davis: Stopped for a quick break, back on the road in a few.
+[14:39] Megan: How's LD-50213 looking?
+[14:41] Marcus Davis: Traffic's a bit heavy but I'm still on schedule.
+[15:24] Megan: Still on schedule?
+[15:26] Marcus Davis: About 149 miles out from Richmond, VA now.
+[16:14] Megan: What's your status?
+[16:16] Marcus Davis: Making good time, no issues so far.
+[16:57] Megan: What's your status?
+[16:59] Marcus Davis: Just crossed the state line, all good.
+[17:28] Megan: What's your status?
+[17:30] Marcus Davis: Just crossed the state line, all good.
+[17:54] Megan: Where are you at right now?
+[17:56] Marcus Davis: Just passed Charlotte, NC, everything's fine.
+[18:47] Megan: How's LD-50213 looking?
+[18:49] Marcus Davis: About 567 miles out from Richmond, VA now.
+[19:20] Megan: How's LD-50213 looking?
+[19:22] Marcus Davis: Making good time, no issues so far.
+[19:42] Megan: Any updates on your progress?
+[19:44] Marcus Davis: About 468 miles out from Richmond, VA now.
+[21:03] Marcus Davis: Just delivered LD-50213 at Richmond, VA, all good, no damages.
+[21:05] Megan: Do you have the signed BOL?
+[21:07] Marcus Davis: Yep, taking a picture now.
+[21:08] Marcus Davis: [Image attached: signed_bol.jpg]
+[21:10] Megan: Sending you the next load details shortly.
+[21:12] Marcus Davis: Copy that.
+[21:14] Megan: Thanks for the update, drive safe.

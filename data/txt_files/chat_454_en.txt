@@ -1,0 +1,131 @@
+Chat Log #454
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Clark | Truck: #195 (flatbed)
+Operator: Kayla
+Load: LD-82999 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-05-09
+--------------------------------------------------
+[08:42] Kayla: Hey Brian, how's it going?
+[08:43] Brian Clark: Morning, all good on my end.
+[08:45] Kayla: Got a load for you - LD-82999, flatbed, pickup in Charlotte, NC, delivery to Richmond, VA.
+[08:47] Brian Clark: Ok, what's the pickup window?
+[08:49] Kayla: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[08:51] Brian Clark: What's the rate on this one?
+[08:53] Kayla: $2873 all in, 662 miles.
+[08:55] Brian Clark: Sounds good, I'll take it.
+[08:57] Kayla: Great, sending the rate confirmation now.
+[09:00] Brian Clark: Got it, signed and sent back.
+[10:18] Kayla: Still on schedule?
+[10:20] Brian Clark: No problem, just doing my job.
+[11:03] Kayla: How's LD-82999 looking?
+[11:05] Brian Clark: Accident up ahead, traffic's backed up.
+[11:07] Kayla: What's your ETA?
+[11:09] Brian Clark: Should be there around 5pm.
+[12:09] Kayla: What's your status?
+[12:11] Brian Clark: Rain is picking up here, slowing down a bit.
+[12:14] Kayla: Appreciate you keeping me posted.
+[12:16] Brian Clark: No problem, just doing my job.
+[13:25] Kayla: Still on schedule?
+[13:27] Brian Clark: Roads are wet, taking it easy.
+[14:50] Kayla: Any updates on your progress?
+[14:52] Brian Clark: Accident up ahead, traffic's backed up.
+[14:55] Kayla: Long trip, huh? Get some rest when you can.
+[14:57] Brian Clark: No problem, just doing my job.
+[15:37] Kayla: Where are you at right now?
+[15:39] Brian Clark: Hit some traffic near Richmond, VA, adding maybe 20 minutes.
+[15:42] Kayla: Appreciate you keeping me posted.
+[15:44] Brian Clark: Yeah, long one, but manageable.
+[16:34] Kayla: How's LD-82999 looking?
+[16:36] Brian Clark: Roads are wet, taking it easy.
+[16:39] Kayla: Let me know if you need anything.
+[16:41] Brian Clark: Will do, thanks for checking in.
+[16:43] Kayla: What's your ETA?
+[16:45] Brian Clark: Looking at 5pm if traffic stays clear.
+[17:23] Kayla: Still on schedule?
+[17:25] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[17:28] Kayla: Long trip, huh? Get some rest when you can.
+[17:30] Brian Clark: Yeah, long one, but manageable.
+[18:03] Kayla: Still on schedule?
+[18:05] Brian Clark: Roads are clear now, moving well.
+[19:22] Kayla: Still on schedule?
+[19:24] Brian Clark: Fuel prices are decent around here.
+[19:27] Kayla: How are you holding up out there?
+[19:29] Brian Clark: Doing alright, just tired.
+[19:47] Kayla: Where are you at right now?
+[19:49] Brian Clark: Construction zone slowing everyone down.
+[19:52] Kayla: How are you holding up out there?
+[19:54] Brian Clark: Will do, thanks for checking in.
+[21:23] Kayla: How's LD-82999 looking?
+[21:25] Brian Clark: Construction zone slowing everyone down.
+[22:17] Kayla: Where are you at right now?
+[22:19] Brian Clark: Accident up ahead, traffic's backed up.
+[22:22] Kayla: Appreciate you keeping me posted.
+[22:24] Brian Clark: Will do, thanks for checking in.
+[22:58] Kayla: Any updates on your progress?
+[23:00] Brian Clark: Fuel prices are decent around here.
+[23:03] Kayla: Long trip, huh? Get some rest when you can.
+[23:05] Brian Clark: No problem, just doing my job.
+[23:07] Kayla: What's your ETA?
+[23:09] Brian Clark: Probably 3pm, maybe a bit earlier.
+[00:32] Kayla: Still on schedule?
+[00:34] Brian Clark: Just passed Richmond, VA, everything's fine.
+[00:36] Kayla: What's your ETA?
+[00:38] Brian Clark: Probably 7pm, maybe a bit earlier.
+[00:50] Brian Clark: Coming up on my HOS limit, only got about 1 hour left.
+[00:52] Kayla: Understood, get your rest, I'll let the receiver know.
+[01:18] Kayla: Still on schedule?
+[01:20] Brian Clark: About 120 miles out from Richmond, VA now.
+[01:54] Kayla: Still on schedule?
+[01:56] Brian Clark: About 419 miles out from Richmond, VA now.
+[02:36] Kayla: What's your status?
+[02:38] Brian Clark: Just crossed the state line, all good.
+[03:23] Kayla: How's LD-82999 looking?
+[03:25] Brian Clark: Just passed Richmond, VA, everything's fine.
+[04:13] Kayla: How's LD-82999 looking?
+[04:15] Brian Clark: Making good time, no issues so far.
+[04:30] Kayla: What's your status?
+[04:32] Brian Clark: Just passed Charlotte, NC, everything's fine.
+[05:25] Kayla: How's LD-82999 looking?
+[05:27] Brian Clark: Stopped for a quick break, back on the road in a few.
+[06:15] Kayla: What's your status?
+[06:17] Brian Clark: Just passed Richmond, VA, everything's fine.
+[06:59] Kayla: What's your status?
+[07:01] Brian Clark: Making good time, no issues so far.
+[07:58] Kayla: How's LD-82999 looking?
+[08:00] Brian Clark: Just crossed the state line, all good.
+[08:39] Kayla: Still on schedule?
+[08:41] Brian Clark: Stopped for a quick break, back on the road in a few.
+[09:14] Kayla: Any updates on your progress?
+[09:16] Brian Clark: Making good time, no issues so far.
+[09:43] Kayla: Where are you at right now?
+[09:45] Brian Clark: Just passed Charlotte, NC, everything's fine.
+[10:35] Kayla: How's LD-82999 looking?
+[10:37] Brian Clark: Making good time, no issues so far.
+[11:28] Kayla: What's your status?
+[11:30] Brian Clark: Stopped for a quick break, back on the road in a few.
+[11:47] Kayla: Where are you at right now?
+[11:49] Brian Clark: Just crossed the state line, all good.
+[12:31] Kayla: Still on schedule?
+[12:33] Brian Clark: Just crossed the state line, all good.
+[12:56] Kayla: How's LD-82999 looking?
+[12:58] Brian Clark: Stopped for a quick break, back on the road in a few.
+[13:28] Kayla: How's LD-82999 looking?
+[13:30] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[14:04] Kayla: Still on schedule?
+[14:06] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[14:37] Kayla: Where are you at right now?
+[14:39] Brian Clark: Just passed Charlotte, NC, everything's fine.
+[15:10] Kayla: What's your status?
+[15:12] Brian Clark: About 236 miles out from Richmond, VA now.
+[15:52] Kayla: Still on schedule?
+[15:54] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[16:45] Kayla: Where are you at right now?
+[16:47] Brian Clark: Stopped for a quick break, back on the road in a few.
+[17:57] Brian Clark: Just delivered LD-82999 at Richmond, VA, all good, no damages.
+[17:59] Kayla: Do you have the signed BOL?
+[18:01] Brian Clark: Yep, taking a picture now.
+[18:02] Brian Clark: [Image attached: signed_bol.jpg]
+[18:04] Kayla: Sending you the next load details shortly.
+[18:06] Brian Clark: Will do.
+[18:08] Kayla: Great work, thank you.

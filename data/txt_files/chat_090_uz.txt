@@ -1,0 +1,153 @@
+Chat Log #090
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #583 (platforma)
+Operator: Zarina
+Load: LD-90152 | Route: Toshkent -> Namangan
+Date: 2026-02-26
+--------------------------------------------------
+[17:12] Zarina: Salom, Bobur, ishlar qalay?
+[17:13] Bobur Mirzayev: Ha, aloqadaman.
+[17:15] Zarina: Siz uchun yuk bor - LD-90152, platforma, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[17:17] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[17:19] Zarina: Yuklash 06:00-08:00, tushirish esa ertaga 16:00 bo'ladi.
+[17:21] Bobur Mirzayev: Bu reys uchun narx qancha?
+[17:23] Zarina: 2684 ming so'm, 537 km.
+[17:25] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[17:27] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:30] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[18:10] Zarina: Hozir qayerdasiz?
+[18:12] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[18:28] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[18:30] Bobur Mirzayev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:59] Zarina: Yo'lda yangilik bormi?
+[20:01] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[21:18] Zarina: Yo'lda yangilik bormi?
+[21:20] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[22:17] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:19] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:22] Zarina: Xabar berib turganingiz uchun rahmat.
+[22:24] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[22:26] Zarina: Taxminan qachon yetib borasiz?
+[22:28] Bobur Mirzayev: Agar tirbandlik bo'lmasa noonda.
+[23:16] Zarina: Yo'lda yangilik bormi?
+[23:18] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[00:36] Zarina: Holatingiz qanday?
+[00:38] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:57] Zarina: Hozir qayerdasiz?
+[00:59] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:02] Zarina: O'zingizni qalay his qilyapsiz?
+[01:04] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[02:11] Zarina: Holatingiz qanday?
+[02:13] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:16] Zarina: Biror narsa kerak bo'lsa ayting.
+[02:18] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[02:20] Zarina: Taxminan qachon yetib borasiz?
+[02:22] Bobur Mirzayev: Ehtimol 7pm, balki ertaroq.
+[03:15] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:17] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:20] Zarina: Biror narsa kerak bo'lsa ayting.
+[03:22] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[04:29] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[04:31] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[04:34] Zarina: Biror narsa kerak bo'lsa ayting.
+[04:36] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[05:28] Zarina: Yo'lda yangilik bormi?
+[05:30] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[05:33] Zarina: O'zingizni qalay his qilyapsiz?
+[05:35] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[06:41] Zarina: Hozir qayerdasiz?
+[06:43] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[06:45] Zarina: Taxminan qachon yetib borasiz?
+[06:47] Bobur Mirzayev: Taxminan noonda yetib boraman.
+[07:07] Zarina: Hozir qayerdasiz?
+[07:09] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:12] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:14] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[07:16] Zarina: Taxminan qachon yetib borasiz?
+[07:18] Bobur Mirzayev: Taxminan 3pmda yetib boraman.
+[08:38] Zarina: LD-90152 bilan ishlar qalay?
+[08:40] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[08:43] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:45] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:17] Zarina: Holatingiz qanday?
+[09:19] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[09:46] Zarina: Hozir qayerdasiz?
+[09:48] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[09:50] Zarina: Taxminan qachon yetib borasiz?
+[09:52] Bobur Mirzayev: Agar tirbandlik bo'lmasa 5pmda.
+[10:19] Zarina: Holatingiz qanday?
+[10:21] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[11:14] Zarina: Yo'lda yangilik bormi?
+[11:16] Bobur Mirzayev: Osmon ochiq, muammo yo'q.
+[11:19] Zarina: Xabar berib turganingiz uchun rahmat.
+[11:21] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[11:23] Zarina: Taxminan qachon yetib borasiz?
+[11:25] Bobur Mirzayev: Agar tirbandlik bo'lmasa 7pmda.
+[12:01] Zarina: LD-90152 bilan ishlar qalay?
+[12:03] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[12:59] Zarina: LD-90152 bilan ishlar qalay?
+[13:01] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:53] Zarina: Yo'lda yangilik bormi?
+[13:55] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:49] Zarina: Holatingiz qanday?
+[14:51] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:48] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[15:50] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:15] Zarina: LD-90152 bilan ishlar qalay?
+[16:17] Bobur Mirzayev: Namangangacha taxminan 225 km qoldi.
+[16:47] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[16:49] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[17:30] Zarina: Hozir qayerdasiz?
+[17:32] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[18:16] Zarina: Yo'lda yangilik bormi?
+[18:18] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[19:10] Zarina: Yo'lda yangilik bormi?
+[19:12] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:34] Zarina: LD-90152 bilan ishlar qalay?
+[19:36] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:17] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[20:19] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:06] Zarina: Hozir qayerdasiz?
+[21:08] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:47] Zarina: LD-90152 bilan ishlar qalay?
+[21:49] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:32] Zarina: Yo'lda yangilik bormi?
+[22:34] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:49] Zarina: Yo'lda yangilik bormi?
+[22:51] Bobur Mirzayev: Namangangacha taxminan 292 km qoldi.
+[23:43] Zarina: Holatingiz qanday?
+[23:45] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:11] Zarina: Holatingiz qanday?
+[00:13] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:05] Zarina: Hozir qayerdasiz?
+[01:07] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:45] Zarina: Holatingiz qanday?
+[01:47] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:22] Zarina: LD-90152 bilan ishlar qalay?
+[02:24] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:58] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:00] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:50] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:52] Bobur Mirzayev: Namangangacha taxminan 184 km qoldi.
+[04:33] Zarina: Holatingiz qanday?
+[04:35] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[05:05] Zarina: LD-90152 bilan ishlar qalay?
+[05:07] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:37] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[05:39] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:35] Zarina: Yo'lda yangilik bormi?
+[06:37] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:15] Zarina: Hozir qayerdasiz?
+[07:17] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:17] Zarina: LD-90152 bilan ishlar qalay?
+[08:19] Bobur Mirzayev: Namangangacha taxminan 540 km qoldi.
+[08:56] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[08:58] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:29] Bobur Mirzayev: LD-90152 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[09:31] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[09:33] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[09:34] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[09:36] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[09:38] Bobur Mirzayev: Tushunarli.
+[09:40] Zarina: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

@@ -1,0 +1,129 @@
+Chat Log #341
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Harris | Truck: #418 (dry van)
+Operator: Megan
+Load: LD-93295 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-03-19
+--------------------------------------------------
+[15:20] Megan: Morning Robert, you there?
+[15:21] Robert Harris: Morning, all good on my end.
+[15:23] Megan: Got a load for you - LD-93295, dry van, pickup in Nashville, TN, delivery to Birmingham, AL.
+[15:25] Robert Harris: Ok, what's the pickup window?
+[15:27] Megan: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[15:29] Robert Harris: What's the rate on this one?
+[15:31] Megan: $2704 all in, 835 miles.
+[15:33] Robert Harris: Sounds good, I'll take it.
+[15:35] Megan: Great, sending the rate confirmation now.
+[15:38] Robert Harris: Got it, signed and sent back.
+[15:58] Megan: How's LD-93295 looking?
+[16:00] Robert Harris: About 563 miles out from Birmingham, AL now.
+[16:03] Megan: Let me know if you need anything.
+[16:05] Robert Harris: Will do, thanks for checking in.
+[17:31] Megan: What's your status?
+[17:33] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[18:23] Megan: Still on schedule?
+[18:25] Robert Harris: Fuel prices are decent around here.
+[19:01] Megan: Where are you at right now?
+[19:03] Robert Harris: About 198 miles out from Birmingham, AL now.
+[19:06] Megan: How are you holding up out there?
+[19:08] Robert Harris: Will do, thanks for checking in.
+[19:10] Megan: What's your ETA?
+[19:12] Robert Harris: Looking at noon if traffic stays clear.
+[19:37] Megan: What's your status?
+[19:39] Robert Harris: No problem, just doing my job.
+[21:09] Megan: How's LD-93295 looking?
+[21:11] Robert Harris: Rain is picking up here, slowing down a bit.
+[21:35] Megan: Where are you at right now?
+[21:37] Robert Harris: Just passed Nashville, TN, everything's fine.
+[21:40] Megan: How are you holding up out there?
+[21:42] Robert Harris: No problem, just doing my job.
+[23:06] Megan: How's LD-93295 looking?
+[23:08] Robert Harris: Just passed Birmingham, AL, everything's fine.
+[23:11] Megan: Long trip, huh? Get some rest when you can.
+[23:13] Robert Harris: No problem, just doing my job.
+[23:39] Megan: Still on schedule?
+[23:41] Robert Harris: Accident up ahead, traffic's backed up.
+[23:44] Megan: Let me know if you need anything.
+[23:46] Robert Harris: Yeah, long one, but manageable.
+[00:52] Megan: How's LD-93295 looking?
+[00:54] Robert Harris: Roads are wet, taking it easy.
+[00:57] Megan: How are you holding up out there?
+[00:59] Robert Harris: Doing alright, just tired.
+[02:26] Megan: Where are you at right now?
+[02:28] Robert Harris: Just passed Birmingham, AL, everything's fine.
+[03:25] Megan: What's your status?
+[03:27] Robert Harris: Stopped for a quick break, back on the road in a few.
+[04:16] Megan: What's your status?
+[04:18] Robert Harris: Just crossed the state line, all good.
+[05:10] Megan: Still on schedule?
+[05:12] Robert Harris: About 315 miles out from Birmingham, AL now.
+[05:15] Megan: Long trip, huh? Get some rest when you can.
+[05:17] Robert Harris: Yeah, long one, but manageable.
+[05:43] Megan: What's your status?
+[05:45] Robert Harris: Accident up ahead, traffic's backed up.
+[05:47] Megan: What's your ETA?
+[05:49] Robert Harris: Looking at 10am if traffic stays clear.
+[06:07] Megan: Any updates on your progress?
+[06:09] Robert Harris: Yeah, long one, but manageable.
+[07:20] Megan: What's your status?
+[07:22] Robert Harris: Roads are clear now, moving well.
+[08:42] Megan: Still on schedule?
+[08:44] Robert Harris: Yeah, long one, but manageable.
+[08:47] Megan: How are you holding up out there?
+[08:49] Robert Harris: Doing alright, just tired.
+[09:04] Megan: What's your status?
+[09:06] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[09:43] Megan: Where are you at right now?
+[09:45] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[10:19] Megan: What's your status?
+[10:21] Robert Harris: Stopped for a quick break, back on the road in a few.
+[10:59] Megan: Still on schedule?
+[11:01] Robert Harris: Making good time, no issues so far.
+[11:44] Megan: What's your status?
+[11:46] Robert Harris: Stopped for a quick break, back on the road in a few.
+[12:24] Megan: Still on schedule?
+[12:26] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[13:03] Megan: Still on schedule?
+[13:05] Robert Harris: Stopped for a quick break, back on the road in a few.
+[13:22] Megan: Any updates on your progress?
+[13:24] Robert Harris: Making good time, no issues so far.
+[14:08] Megan: Still on schedule?
+[14:10] Robert Harris: Just passed Nashville, TN, everything's fine.
+[14:59] Megan: What's your status?
+[15:01] Robert Harris: Just passed Birmingham, AL, everything's fine.
+[15:48] Megan: What's your status?
+[15:50] Robert Harris: Just crossed the state line, all good.
+[16:50] Megan: How's LD-93295 looking?
+[16:52] Robert Harris: Just crossed the state line, all good.
+[17:34] Megan: Where are you at right now?
+[17:36] Robert Harris: Just passed Nashville, TN, everything's fine.
+[18:23] Megan: How's LD-93295 looking?
+[18:25] Robert Harris: Just passed Birmingham, AL, everything's fine.
+[19:09] Megan: Where are you at right now?
+[19:11] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[19:41] Megan: Where are you at right now?
+[19:43] Robert Harris: Just passed Nashville, TN, everything's fine.
+[20:25] Megan: Any updates on your progress?
+[20:27] Robert Harris: Making good time, no issues so far.
+[20:44] Megan: Still on schedule?
+[20:46] Robert Harris: Just crossed the state line, all good.
+[21:27] Megan: How's LD-93295 looking?
+[21:29] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[22:24] Megan: What's your status?
+[22:26] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[22:51] Megan: What's your status?
+[22:53] Robert Harris: Just crossed the state line, all good.
+[23:37] Megan: Where are you at right now?
+[23:39] Robert Harris: Making good time, no issues so far.
+[23:58] Megan: Any updates on your progress?
+[00:00] Robert Harris: Stopped for a quick break, back on the road in a few.
+[00:57] Megan: Where are you at right now?
+[00:59] Robert Harris: Just crossed the state line, all good.
+[02:29] Robert Harris: Just delivered LD-93295 at Birmingham, AL, all good, no damages.
+[02:31] Megan: Do you have the signed BOL?
+[02:33] Robert Harris: Yep, taking a picture now.
+[02:34] Robert Harris: [Image attached: signed_bol.jpg]
+[02:36] Megan: Sending you the next load details shortly.
+[02:38] Robert Harris: Copy that.
+[02:40] Megan: Thanks for the update, drive safe.

@@ -1,0 +1,127 @@
+Chat Log #112
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Garcia | Truck: #546 (dry van)
+Operator: Brittany
+Load: LD-95883 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-03-04
+--------------------------------------------------
+[11:37] Brittany: Kevin, got a minute?
+[11:38] Kevin Garcia: Hey, yeah I'm here.
+[11:40] Brittany: Got a load for you - LD-95883, dry van, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[11:42] Kevin Garcia: Ok, what's the pickup window?
+[11:44] Brittany: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[11:46] Kevin Garcia: What's the rate on this one?
+[11:48] Brittany: $3202 all in, 613 miles.
+[11:50] Kevin Garcia: Sounds good, I'll take it.
+[11:52] Brittany: Great, sending the rate confirmation now.
+[11:55] Kevin Garcia: Got it, signed and sent back.
+[13:17] Brittany: Still on schedule?
+[13:19] Kevin Garcia: Just topped off the tank.
+[13:22] Brittany: Appreciate you keeping me posted.
+[13:24] Kevin Garcia: No problem, just doing my job.
+[14:22] Brittany: Where are you at right now?
+[14:24] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[14:27] Brittany: Appreciate you keeping me posted.
+[14:29] Kevin Garcia: Doing alright, just tired.
+[14:31] Brittany: What's your ETA?
+[14:33] Kevin Garcia: Should be there around 3pm.
+[15:48] Brittany: Any updates on your progress?
+[15:50] Kevin Garcia: Roads are clear now, moving well.
+[16:11] Brittany: Still on schedule?
+[16:13] Kevin Garcia: Doing alright, just tired.
+[16:15] Brittany: What's your ETA?
+[16:17] Kevin Garcia: Probably 7pm, maybe a bit earlier.
+[16:34] Brittany: How's LD-95883 looking?
+[16:36] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[16:39] Brittany: How are you holding up out there?
+[16:41] Kevin Garcia: No problem, just doing my job.
+[16:43] Brittany: What's your ETA?
+[16:45] Kevin Garcia: Looking at 3pm if traffic stays clear.
+[18:13] Brittany: Where are you at right now?
+[18:15] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[19:39] Brittany: Any updates on your progress?
+[19:41] Kevin Garcia: Making good time, no issues so far.
+[19:44] Brittany: Let me know if you need anything.
+[19:46] Kevin Garcia: Will do, thanks for checking in.
+[21:11] Brittany: How's LD-95883 looking?
+[21:13] Kevin Garcia: Just topped off the tank.
+[21:16] Brittany: How are you holding up out there?
+[21:18] Kevin Garcia: Yeah, long one, but manageable.
+[22:05] Brittany: How's LD-95883 looking?
+[22:07] Kevin Garcia: No problem, just doing my job.
+[22:10] Brittany: Long trip, huh? Get some rest when you can.
+[22:12] Kevin Garcia: Will do, thanks for checking in.
+[23:12] Brittany: Any updates on your progress?
+[23:14] Kevin Garcia: Clear skies here, no problems.
+[23:17] Brittany: Long trip, huh? Get some rest when you can.
+[23:19] Kevin Garcia: Doing alright, just tired.
+[23:21] Brittany: What's your ETA?
+[23:23] Kevin Garcia: Looking at 7pm if traffic stays clear.
+[00:17] Brittany: Where are you at right now?
+[00:19] Kevin Garcia: Stopping for fuel in a bit.
+[00:21] Brittany: What's your ETA?
+[00:23] Kevin Garcia: Should be there around 10am.
+[01:50] Brittany: What's your status?
+[01:52] Kevin Garcia: Rain is picking up here, slowing down a bit.
+[03:14] Brittany: How's LD-95883 looking?
+[03:16] Kevin Garcia: Accident up ahead, traffic's backed up.
+[03:19] Brittany: Long trip, huh? Get some rest when you can.
+[03:21] Kevin Garcia: No problem, just doing my job.
+[04:31] Brittany: What's your status?
+[04:33] Kevin Garcia: Hit some traffic near Denver, CO, adding maybe 20 minutes.
+[04:36] Brittany: How are you holding up out there?
+[04:38] Kevin Garcia: Yeah, long one, but manageable.
+[05:10] Brittany: What's your status?
+[05:12] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[05:15] Brittany: How are you holding up out there?
+[05:17] Kevin Garcia: Yeah, long one, but manageable.
+[05:39] Brittany: Any updates on your progress?
+[05:41] Kevin Garcia: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[06:53] Brittany: What's your status?
+[06:55] Kevin Garcia: Roads are clear now, moving well.
+[06:58] Brittany: Long trip, huh? Get some rest when you can.
+[07:00] Kevin Garcia: Yeah, long one, but manageable.
+[07:02] Brittany: What's your ETA?
+[07:04] Kevin Garcia: Looking at 7pm if traffic stays clear.
+[07:32] Kevin Garcia: Coming up on my HOS limit, only got about 30 minutes left.
+[07:34] Brittany: Understood, get your rest, I'll let the receiver know.
+[08:19] Brittany: Still on schedule?
+[08:21] Kevin Garcia: Making good time, no issues so far.
+[09:21] Brittany: Still on schedule?
+[09:23] Kevin Garcia: About 218 miles out from Salt Lake City, UT now.
+[09:47] Brittany: Where are you at right now?
+[09:49] Kevin Garcia: Just crossed the state line, all good.
+[10:10] Brittany: Still on schedule?
+[10:12] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[10:46] Brittany: How's LD-95883 looking?
+[10:48] Kevin Garcia: Just crossed the state line, all good.
+[11:19] Brittany: How's LD-95883 looking?
+[11:21] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[12:00] Brittany: Where are you at right now?
+[12:02] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[12:20] Brittany: Where are you at right now?
+[12:22] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[12:51] Brittany: How's LD-95883 looking?
+[12:53] Kevin Garcia: About 126 miles out from Salt Lake City, UT now.
+[13:20] Brittany: How's LD-95883 looking?
+[13:22] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[14:12] Brittany: Where are you at right now?
+[14:14] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[15:09] Brittany: Still on schedule?
+[15:11] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[15:52] Brittany: How's LD-95883 looking?
+[15:54] Kevin Garcia: Just passed Salt Lake City, UT, everything's fine.
+[16:18] Brittany: How's LD-95883 looking?
+[16:20] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[16:43] Brittany: Where are you at right now?
+[16:45] Kevin Garcia: Just passed Denver, CO, everything's fine.
+[17:37] Brittany: Where are you at right now?
+[17:39] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[18:24] Kevin Garcia: Just delivered LD-95883 at Salt Lake City, UT, all good, no damages.
+[18:26] Brittany: Do you have the signed BOL?
+[18:28] Kevin Garcia: Yep, taking a picture now.
+[18:29] Kevin Garcia: [Image attached: signed_bol.jpg]
+[18:31] Brittany: Sending you the next load details shortly.
+[18:33] Kevin Garcia: Will do.
+[18:35] Brittany: Great work, thank you.

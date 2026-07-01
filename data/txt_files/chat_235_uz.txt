@@ -1,0 +1,153 @@
+Chat Log #235
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #176 (refrijerator)
+Operator: Feruza
+Load: LD-62663 | Route: Buxoro -> Navoiy
+Date: 2026-02-24
+--------------------------------------------------
+[11:54] Feruza: Xayrli tong, Ravshan, aloqadamisiz?
+[11:55] Ravshan Xolmatov: Ha, aloqadaman.
+[11:57] Feruza: Siz uchun yuk bor - LD-62663, refrijerator, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[11:59] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[12:01] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[12:03] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[12:05] Feruza: 1817 ming so'm, 837 km.
+[12:07] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[12:09] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:12] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[12:50] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:52] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[14:16] Feruza: Hozir qayerdasiz?
+[14:18] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[14:21] Feruza: Biror narsa kerak bo'lsa ayting.
+[14:23] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[15:42] Feruza: Hozir qayerdasiz?
+[15:44] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[15:46] Feruza: Taxminan qachon yetib borasiz?
+[15:48] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 3pmda.
+[17:16] Feruza: Holatingiz qanday?
+[17:18] Ravshan Xolmatov: Bu yerda yoqilg'i narxlari yomon emas.
+[17:21] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[17:23] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[18:16] Feruza: Hozir qayerdasiz?
+[18:18] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[18:21] Feruza: O'zingizni qalay his qilyapsiz?
+[18:23] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[19:28] Feruza: Hozir qayerdasiz?
+[19:30] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[20:54] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:56] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:59] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:01] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[22:06] Feruza: Yo'lda yangilik bormi?
+[22:08] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:08] Feruza: Hozir qayerdasiz?
+[23:10] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:08] Feruza: Yo'lda yangilik bormi?
+[00:10] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[00:53] Feruza: Holatingiz qanday?
+[00:55] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:58] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:00] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[01:02] Feruza: Taxminan qachon yetib borasiz?
+[01:04] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 10amda.
+[01:52] Feruza: Hozir qayerdasiz?
+[01:54] Ravshan Xolmatov: Navoiygacha taxminan 600 km qoldi.
+[02:32] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:34] Ravshan Xolmatov: Navoiygacha taxminan 301 km qoldi.
+[03:32] Feruza: Yo'lda yangilik bormi?
+[03:34] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:37] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:39] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:56] Feruza: Holatingiz qanday?
+[03:58] Ravshan Xolmatov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[04:01] Feruza: O'zingizni qalay his qilyapsiz?
+[04:03] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[04:45] Feruza: LD-62663 bilan ishlar qalay?
+[04:47] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[04:49] Feruza: Taxminan qachon yetib borasiz?
+[04:51] Ravshan Xolmatov: Ehtimol 5pm, balki ertaroq.
+[05:34] Feruza: LD-62663 bilan ishlar qalay?
+[05:36] Ravshan Xolmatov: Navoiygacha taxminan 369 km qoldi.
+[05:38] Feruza: Taxminan qachon yetib borasiz?
+[05:40] Ravshan Xolmatov: Ehtimol noon, balki ertaroq.
+[06:02] Ravshan Xolmatov: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[06:04] Feruza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[06:41] Feruza: Yo'lda yangilik bormi?
+[06:43] Ravshan Xolmatov: Navoiygacha taxminan 387 km qoldi.
+[07:13] Feruza: LD-62663 bilan ishlar qalay?
+[07:15] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:55] Feruza: LD-62663 bilan ishlar qalay?
+[07:57] Ravshan Xolmatov: Navoiygacha taxminan 447 km qoldi.
+[08:51] Feruza: LD-62663 bilan ishlar qalay?
+[08:53] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:42] Feruza: Yo'lda yangilik bormi?
+[09:44] Ravshan Xolmatov: Navoiygacha taxminan 597 km qoldi.
+[10:18] Feruza: LD-62663 bilan ishlar qalay?
+[10:20] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:56] Feruza: Yo'lda yangilik bormi?
+[10:58] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:20] Feruza: Yo'lda yangilik bormi?
+[11:22] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:18] Feruza: Yo'lda yangilik bormi?
+[12:20] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:17] Feruza: Holatingiz qanday?
+[13:19] Ravshan Xolmatov: Navoiygacha taxminan 58 km qoldi.
+[13:58] Feruza: Hozir qayerdasiz?
+[14:00] Ravshan Xolmatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[14:15] Feruza: Yo'lda yangilik bormi?
+[14:17] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:05] Feruza: Holatingiz qanday?
+[15:07] Ravshan Xolmatov: Navoiygacha taxminan 551 km qoldi.
+[16:00] Feruza: Hozir qayerdasiz?
+[16:02] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:43] Feruza: Holatingiz qanday?
+[16:45] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:37] Feruza: Holatingiz qanday?
+[17:39] Ravshan Xolmatov: Navoiygacha taxminan 541 km qoldi.
+[18:25] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:27] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:50] Feruza: Hozir qayerdasiz?
+[18:52] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:14] Feruza: Holatingiz qanday?
+[19:16] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:36] Feruza: Holatingiz qanday?
+[19:38] Ravshan Xolmatov: Navoiygacha taxminan 563 km qoldi.
+[20:08] Feruza: Hozir qayerdasiz?
+[20:10] Ravshan Xolmatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[20:41] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:43] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:25] Feruza: Holatingiz qanday?
+[21:27] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:50] Feruza: Hozir qayerdasiz?
+[21:52] Ravshan Xolmatov: Navoiygacha taxminan 488 km qoldi.
+[22:19] Feruza: Holatingiz qanday?
+[22:21] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:48] Feruza: LD-62663 bilan ishlar qalay?
+[22:50] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:48] Feruza: Yo'lda yangilik bormi?
+[23:50] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:29] Feruza: Holatingiz qanday?
+[00:31] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:01] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:03] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:28] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:30] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:06] Feruza: Holatingiz qanday?
+[02:08] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:41] Feruza: Yo'lda yangilik bormi?
+[02:43] Ravshan Xolmatov: Navoiygacha taxminan 116 km qoldi.
+[03:09] Feruza: Holatingiz qanday?
+[03:11] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:01] Feruza: Holatingiz qanday?
+[04:03] Ravshan Xolmatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[04:42] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:44] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:00] Ravshan Xolmatov: LD-62663 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:02] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[06:04] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[06:05] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:07] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:09] Ravshan Xolmatov: Tushundim.
+[06:11] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

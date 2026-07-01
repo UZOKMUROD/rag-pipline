@@ -1,0 +1,131 @@
+Chat Log #476
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Young | Truck: #715 (flatbed)
+Operator: Megan
+Load: LD-78290 | Route: Portland, OR -> Seattle, WA
+Date: 2026-01-19
+--------------------------------------------------
+[19:35] Megan: Morning Andre, you there?
+[19:36] Andre Young: Hey, yeah I'm here.
+[19:38] Megan: Got a load for you - LD-78290, flatbed, pickup in Portland, OR, delivery to Seattle, WA.
+[19:40] Andre Young: Ok, what's the pickup window?
+[19:42] Megan: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[19:44] Andre Young: What's the rate on this one?
+[19:46] Megan: $3946 all in, 766 miles.
+[19:48] Andre Young: Sounds good, I'll take it.
+[19:50] Megan: Great, sending the rate confirmation now.
+[19:53] Andre Young: Got it, signed and sent back.
+[20:44] Megan: Any updates on your progress?
+[20:46] Andre Young: Will do, thanks for checking in.
+[20:49] Megan: How are you holding up out there?
+[20:51] Andre Young: Will do, thanks for checking in.
+[21:40] Megan: Where are you at right now?
+[21:42] Andre Young: About 64 miles out from Seattle, WA now.
+[23:02] Megan: What's your status?
+[23:04] Andre Young: Clear skies here, no problems.
+[23:06] Megan: What's your ETA?
+[23:08] Andre Young: Should be there around 10am.
+[23:37] Megan: How's LD-78290 looking?
+[23:39] Andre Young: Weather's getting rough up ahead, heads up.
+[23:41] Megan: What's your ETA?
+[23:43] Andre Young: Should be there around 7pm.
+[00:14] Megan: Any updates on your progress?
+[00:16] Andre Young: Making good time, no issues so far.
+[00:19] Megan: Long trip, huh? Get some rest when you can.
+[00:21] Andre Young: Yeah, long one, but manageable.
+[00:47] Megan: What's your status?
+[00:49] Andre Young: Just passed Seattle, WA, everything's fine.
+[01:18] Megan: Where are you at right now?
+[01:20] Andre Young: Stopped for a quick break, back on the road in a few.
+[02:42] Megan: How's LD-78290 looking?
+[02:44] Andre Young: Clear skies here, no problems.
+[02:47] Megan: Long trip, huh? Get some rest when you can.
+[02:49] Andre Young: Yeah, long one, but manageable.
+[03:36] Megan: Still on schedule?
+[03:38] Andre Young: Just passed Seattle, WA, everything's fine.
+[03:40] Megan: What's your ETA?
+[03:42] Andre Young: Probably 3pm, maybe a bit earlier.
+[04:41] Megan: What's your status?
+[04:43] Andre Young: Fuel prices are decent around here.
+[04:46] Megan: Appreciate you keeping me posted.
+[04:48] Andre Young: Will do, thanks for checking in.
+[04:50] Megan: What's your ETA?
+[04:52] Andre Young: Probably noon, maybe a bit earlier.
+[05:34] Megan: How's LD-78290 looking?
+[05:36] Andre Young: Weather's getting rough up ahead, heads up.
+[05:59] Megan: How's LD-78290 looking?
+[06:01] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[06:03] Megan: What's your ETA?
+[06:05] Andre Young: Probably 3pm, maybe a bit earlier.
+[07:14] Megan: Where are you at right now?
+[07:16] Andre Young: Clear skies here, no problems.
+[07:19] Megan: Long trip, huh? Get some rest when you can.
+[07:21] Andre Young: Yeah, long one, but manageable.
+[07:36] Megan: What's your status?
+[07:38] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[07:41] Megan: Let me know if you need anything.
+[07:43] Andre Young: Doing alright, just tired.
+[07:45] Megan: What's your ETA?
+[07:47] Andre Young: Probably 7pm, maybe a bit earlier.
+[08:27] Megan: How's LD-78290 looking?
+[08:29] Andre Young: Clear skies here, no problems.
+[08:32] Megan: How are you holding up out there?
+[08:34] Andre Young: No problem, just doing my job.
+[08:36] Megan: What's your ETA?
+[08:38] Andre Young: Should be there around noon.
+[09:20] Megan: What's your status?
+[09:22] Andre Young: Hit some traffic near Portland, OR, adding maybe 20 minutes.
+[09:25] Megan: How are you holding up out there?
+[09:27] Andre Young: Will do, thanks for checking in.
+[09:29] Megan: What's your ETA?
+[09:31] Andre Young: Probably 7pm, maybe a bit earlier.
+[10:28] Megan: Where are you at right now?
+[10:30] Andre Young: Weather's getting rough up ahead, heads up.
+[11:05] Megan: What's your status?
+[11:07] Andre Young: Will do, thanks for checking in.
+[12:24] Megan: How's LD-78290 looking?
+[12:26] Andre Young: Will do, thanks for checking in.
+[13:32] Megan: Where are you at right now?
+[13:34] Andre Young: Roads are clear now, moving well.
+[14:12] Megan: Still on schedule?
+[14:14] Andre Young: Just crossed the state line, all good.
+[14:17] Megan: Long trip, huh? Get some rest when you can.
+[14:19] Andre Young: Yeah, long one, but manageable.
+[14:21] Megan: What's your ETA?
+[14:23] Andre Young: Probably 3pm, maybe a bit earlier.
+[14:56] Andre Young: Coming up on my HOS limit, only got about 1 hour left.
+[14:58] Megan: Understood, get your rest, I'll let the receiver know.
+[15:55] Megan: Where are you at right now?
+[15:57] Andre Young: Stopped for a quick break, back on the road in a few.
+[16:33] Megan: How's LD-78290 looking?
+[16:35] Andre Young: Just passed Seattle, WA, everything's fine.
+[17:13] Megan: How's LD-78290 looking?
+[17:15] Andre Young: About 55 miles out from Seattle, WA now.
+[18:10] Megan: Any updates on your progress?
+[18:12] Andre Young: About 389 miles out from Seattle, WA now.
+[18:29] Megan: How's LD-78290 looking?
+[18:31] Andre Young: Making good time, no issues so far.
+[18:59] Megan: Still on schedule?
+[19:01] Andre Young: Making good time, no issues so far.
+[19:40] Megan: Where are you at right now?
+[19:42] Andre Young: Just passed Portland, OR, everything's fine.
+[19:58] Megan: Any updates on your progress?
+[20:00] Andre Young: Just passed Seattle, WA, everything's fine.
+[20:52] Megan: Where are you at right now?
+[20:54] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[21:24] Megan: How's LD-78290 looking?
+[21:26] Andre Young: Just passed Portland, OR, everything's fine.
+[21:55] Megan: What's your status?
+[21:57] Andre Young: Just crossed the state line, all good.
+[22:52] Megan: Where are you at right now?
+[22:54] Andre Young: Stopped for a quick break, back on the road in a few.
+[23:48] Megan: Any updates on your progress?
+[23:50] Andre Young: Just passed Portland, OR, everything's fine.
+[00:31] Andre Young: Just delivered LD-78290 at Seattle, WA, all good, no damages.
+[00:33] Megan: Do you have the signed BOL?
+[00:35] Andre Young: Yep, taking a picture now.
+[00:36] Andre Young: [Image attached: signed_bol.jpg]
+[00:38] Megan: Sending you the next load details shortly.
+[00:40] Andre Young: Will do.
+[00:42] Megan: Thanks for the update, drive safe.

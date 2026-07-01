@@ -1,0 +1,151 @@
+Chat Log #302
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #446 (tentli furgon)
+Operator: Gulnora
+Load: LD-19311 | Route: Buxoro -> Navoiy
+Date: 2026-06-04
+--------------------------------------------------
+[08:07] Gulnora: Jasur, bir daqiqa bormi?
+[08:08] Jasur Toshpulatov: Xayrli tong, menda hammasi yaxshi.
+[08:10] Gulnora: Siz uchun yuk bor - LD-19311, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[08:12] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[08:14] Gulnora: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[08:16] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[08:18] Gulnora: 3883 ming so'm, 790 km.
+[08:20] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[08:22] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:25] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[09:00] Gulnora: Holatingiz qanday?
+[09:02] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[09:04] Gulnora: Taxminan qachon yetib borasiz?
+[09:06] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 5pmda.
+[09:37] Gulnora: LD-19311 bilan ishlar qalay?
+[09:39] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[10:38] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[10:40] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[11:23] Gulnora: Yo'lda yangilik bormi?
+[11:25] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[11:51] Gulnora: Holatingiz qanday?
+[11:53] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:04] Gulnora: Holatingiz qanday?
+[13:06] Jasur Toshpulatov: Navoiygacha taxminan 305 km qoldi.
+[13:09] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:11] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:40] Gulnora: Yo'lda yangilik bormi?
+[13:42] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:45] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:47] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[15:14] Gulnora: Hozir qayerdasiz?
+[15:16] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[15:19] Gulnora: Biror narsa kerak bo'lsa ayting.
+[15:21] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[15:50] Gulnora: Hozir qayerdasiz?
+[15:52] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:12] Gulnora: Holatingiz qanday?
+[16:14] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[16:17] Gulnora: Biror narsa kerak bo'lsa ayting.
+[16:19] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[16:21] Gulnora: Taxminan qachon yetib borasiz?
+[16:23] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 5pmda.
+[16:56] Gulnora: Yo'lda yangilik bormi?
+[16:58] Jasur Toshpulatov: Osmon ochiq, muammo yo'q.
+[18:22] Gulnora: Holatingiz qanday?
+[18:24] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[18:26] Gulnora: Taxminan qachon yetib borasiz?
+[18:28] Jasur Toshpulatov: Agar tirbandlik bo'lmasa noonda.
+[19:38] Gulnora: LD-19311 bilan ishlar qalay?
+[19:40] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[19:43] Gulnora: Biror narsa kerak bo'lsa ayting.
+[19:45] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[20:56] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:58] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:05] Gulnora: Yo'lda yangilik bormi?
+[22:07] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:10] Gulnora: Xabar berib turganingiz uchun rahmat.
+[22:12] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[22:58] Gulnora: LD-19311 bilan ishlar qalay?
+[23:00] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[23:03] Gulnora: O'zingizni qalay his qilyapsiz?
+[23:05] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[00:13] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[00:15] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:18] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:20] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[00:22] Gulnora: Taxminan qachon yetib borasiz?
+[00:24] Jasur Toshpulatov: Taxminan 10amda yetib boraman.
+[00:38] Jasur Toshpulatov: Haydash vaqtim limitiga yaqinlashyapman, atigi 1 hour qoldi.
+[00:40] Gulnora: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[01:18] Gulnora: Hozir qayerdasiz?
+[01:20] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:45] Gulnora: LD-19311 bilan ishlar qalay?
+[01:47] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:36] Gulnora: Holatingiz qanday?
+[02:38] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[02:56] Gulnora: Holatingiz qanday?
+[02:58] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:30] Gulnora: LD-19311 bilan ishlar qalay?
+[03:32] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[04:25] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:54] Gulnora: Holatingiz qanday?
+[04:56] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:23] Gulnora: Yo'lda yangilik bormi?
+[05:25] Jasur Toshpulatov: Navoiygacha taxminan 137 km qoldi.
+[05:56] Gulnora: Hozir qayerdasiz?
+[05:58] Jasur Toshpulatov: Navoiygacha taxminan 279 km qoldi.
+[06:43] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[06:45] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:28] Gulnora: Hozir qayerdasiz?
+[07:30] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[08:20] Gulnora: Yo'lda yangilik bormi?
+[08:22] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[08:59] Gulnora: Hozir qayerdasiz?
+[09:01] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[09:19] Gulnora: LD-19311 bilan ishlar qalay?
+[09:21] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:55] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[09:57] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[10:14] Gulnora: Hozir qayerdasiz?
+[10:16] Jasur Toshpulatov: Navoiygacha taxminan 395 km qoldi.
+[10:59] Gulnora: Hozir qayerdasiz?
+[11:01] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:30] Gulnora: Hozir qayerdasiz?
+[11:32] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:19] Gulnora: Holatingiz qanday?
+[12:21] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:04] Gulnora: Holatingiz qanday?
+[13:06] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:21] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:23] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:00] Gulnora: Hozir qayerdasiz?
+[14:02] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[14:24] Gulnora: Hozir qayerdasiz?
+[14:26] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:16] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[15:18] Jasur Toshpulatov: Navoiygacha taxminan 486 km qoldi.
+[16:17] Gulnora: Yo'lda yangilik bormi?
+[16:19] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:01] Gulnora: Holatingiz qanday?
+[17:03] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:42] Gulnora: Yo'lda yangilik bormi?
+[17:44] Jasur Toshpulatov: Navoiygacha taxminan 196 km qoldi.
+[18:00] Gulnora: Yo'lda yangilik bormi?
+[18:02] Jasur Toshpulatov: Navoiygacha taxminan 387 km qoldi.
+[18:29] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[18:31] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:57] Gulnora: Yo'lda yangilik bormi?
+[18:59] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[19:44] Gulnora: Yo'lda yangilik bormi?
+[19:46] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:23] Gulnora: Hozir qayerdasiz?
+[20:25] Jasur Toshpulatov: Navoiygacha taxminan 454 km qoldi.
+[21:04] Gulnora: Yo'lda yangilik bormi?
+[21:06] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[22:13] Jasur Toshpulatov: LD-19311 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[22:15] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[22:17] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[22:18] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[22:20] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[22:22] Jasur Toshpulatov: Tushunarli.
+[22:24] Gulnora: Ajoyib ish, rahmat.

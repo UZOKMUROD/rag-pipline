@@ -1,0 +1,131 @@
+Chat Log #420
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Jackson | Truck: #106 (dry van)
+Operator: Jessica
+Load: LD-60784 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-03-22
+--------------------------------------------------
+[09:41] Jessica: Morning Luis, you there?
+[09:42] Luis Jackson: Hey, yeah I'm here.
+[09:44] Jessica: Got a load for you - LD-60784, dry van, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[09:46] Luis Jackson: Ok, what's the pickup window?
+[09:48] Jessica: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[09:50] Luis Jackson: What's the rate on this one?
+[09:52] Jessica: $2272 all in, 517 miles.
+[09:54] Luis Jackson: Sounds good, I'll take it.
+[09:56] Jessica: Great, sending the rate confirmation now.
+[09:59] Luis Jackson: Got it, signed and sent back.
+[10:54] Jessica: Any updates on your progress?
+[10:56] Luis Jackson: Just passed Los Angeles, CA, everything's fine.
+[10:58] Jessica: What's your ETA?
+[11:00] Luis Jackson: Looking at 7pm if traffic stays clear.
+[11:59] Jessica: What's your status?
+[12:01] Luis Jackson: Rain is picking up here, slowing down a bit.
+[12:04] Jessica: Appreciate you keeping me posted.
+[12:06] Luis Jackson: No problem, just doing my job.
+[12:22] Jessica: What's your status?
+[12:24] Luis Jackson: Will do, thanks for checking in.
+[12:27] Jessica: How are you holding up out there?
+[12:29] Luis Jackson: Doing alright, just tired.
+[13:50] Jessica: How's LD-60784 looking?
+[13:52] Luis Jackson: Weather's getting rough up ahead, heads up.
+[13:55] Jessica: Long trip, huh? Get some rest when you can.
+[13:57] Luis Jackson: Will do, thanks for checking in.
+[14:57] Jessica: What's your status?
+[14:59] Luis Jackson: Roads are clear now, moving well.
+[15:02] Jessica: Long trip, huh? Get some rest when you can.
+[15:04] Luis Jackson: Will do, thanks for checking in.
+[15:47] Jessica: Any updates on your progress?
+[15:49] Luis Jackson: Construction zone slowing everyone down.
+[15:52] Jessica: Appreciate you keeping me posted.
+[15:54] Luis Jackson: Doing alright, just tired.
+[16:47] Jessica: Any updates on your progress?
+[16:49] Luis Jackson: Just crossed the state line, all good.
+[17:53] Jessica: How's LD-60784 looking?
+[17:55] Luis Jackson: Stopping for fuel in a bit.
+[17:57] Jessica: What's your ETA?
+[17:59] Luis Jackson: Looking at 3pm if traffic stays clear.
+[18:27] Jessica: How's LD-60784 looking?
+[18:29] Luis Jackson: Will do, thanks for checking in.
+[18:32] Jessica: Long trip, huh? Get some rest when you can.
+[18:34] Luis Jackson: No problem, just doing my job.
+[18:36] Jessica: What's your ETA?
+[18:38] Luis Jackson: Looking at 10am if traffic stays clear.
+[19:48] Jessica: Where are you at right now?
+[19:50] Luis Jackson: Just passed Phoenix, AZ, everything's fine.
+[19:53] Jessica: Long trip, huh? Get some rest when you can.
+[19:55] Luis Jackson: Yeah, long one, but manageable.
+[21:20] Jessica: Any updates on your progress?
+[21:22] Luis Jackson: Just topped off the tank.
+[21:25] Jessica: How are you holding up out there?
+[21:27] Luis Jackson: Will do, thanks for checking in.
+[22:40] Jessica: What's your status?
+[22:42] Luis Jackson: Yeah, long one, but manageable.
+[22:45] Jessica: Long trip, huh? Get some rest when you can.
+[22:47] Luis Jackson: Doing alright, just tired.
+[23:20] Jessica: How's LD-60784 looking?
+[23:22] Luis Jackson: Making good time, no issues so far.
+[23:24] Jessica: What's your ETA?
+[23:26] Luis Jackson: Probably noon, maybe a bit earlier.
+[00:34] Jessica: Still on schedule?
+[00:36] Luis Jackson: Fuel prices are decent around here.
+[00:39] Jessica: Long trip, huh? Get some rest when you can.
+[00:41] Luis Jackson: Doing alright, just tired.
+[00:43] Jessica: What's your ETA?
+[00:45] Luis Jackson: Probably 3pm, maybe a bit earlier.
+[01:49] Jessica: What's your status?
+[01:51] Luis Jackson: Accident up ahead, traffic's backed up.
+[03:09] Jessica: Where are you at right now?
+[03:11] Luis Jackson: Weather's getting rough up ahead, heads up.
+[03:14] Jessica: Let me know if you need anything.
+[03:16] Luis Jackson: Doing alright, just tired.
+[04:22] Jessica: How's LD-60784 looking?
+[04:24] Luis Jackson: Stopped for a quick break, back on the road in a few.
+[04:26] Jessica: What's your ETA?
+[04:28] Luis Jackson: Should be there around noon.
+[05:14] Jessica: Any updates on your progress?
+[05:16] Luis Jackson: Doing alright, just tired.
+[05:19] Jessica: Appreciate you keeping me posted.
+[05:21] Luis Jackson: Doing alright, just tired.
+[05:57] Jessica: Any updates on your progress?
+[05:59] Luis Jackson: Just passed Phoenix, AZ, everything's fine.
+[06:01] Jessica: What's your ETA?
+[06:03] Luis Jackson: Probably 7pm, maybe a bit earlier.
+[06:50] Jessica: Still on schedule?
+[06:52] Luis Jackson: Traffic's a bit heavy but I'm still on schedule.
+[07:42] Jessica: Where are you at right now?
+[07:44] Luis Jackson: Stopped for a quick break, back on the road in a few.
+[08:14] Jessica: Any updates on your progress?
+[08:16] Luis Jackson: Traffic's a bit heavy but I'm still on schedule.
+[09:11] Jessica: How's LD-60784 looking?
+[09:13] Luis Jackson: About 481 miles out from Phoenix, AZ now.
+[10:05] Jessica: What's your status?
+[10:07] Luis Jackson: Stopped for a quick break, back on the road in a few.
+[10:30] Jessica: What's your status?
+[10:32] Luis Jackson: Traffic's a bit heavy but I'm still on schedule.
+[10:53] Jessica: How's LD-60784 looking?
+[10:55] Luis Jackson: Traffic's a bit heavy but I'm still on schedule.
+[11:52] Jessica: How's LD-60784 looking?
+[11:54] Luis Jackson: Stopped for a quick break, back on the road in a few.
+[12:20] Jessica: How's LD-60784 looking?
+[12:22] Luis Jackson: Making good time, no issues so far.
+[12:47] Jessica: What's your status?
+[12:49] Luis Jackson: Making good time, no issues so far.
+[13:38] Jessica: Any updates on your progress?
+[13:40] Luis Jackson: About 545 miles out from Phoenix, AZ now.
+[14:29] Jessica: Where are you at right now?
+[14:31] Luis Jackson: Just crossed the state line, all good.
+[15:26] Jessica: Still on schedule?
+[15:28] Luis Jackson: About 367 miles out from Phoenix, AZ now.
+[16:16] Jessica: Where are you at right now?
+[16:18] Luis Jackson: Making good time, no issues so far.
+[16:50] Jessica: How's LD-60784 looking?
+[16:52] Luis Jackson: Just crossed the state line, all good.
+[17:39] Luis Jackson: Just delivered LD-60784 at Phoenix, AZ, all good, no damages.
+[17:41] Jessica: Do you have the signed BOL?
+[17:43] Luis Jackson: Yep, taking a picture now.
+[17:44] Luis Jackson: [Image attached: signed_bol.jpg]
+[17:46] Jessica: Sending you the next load details shortly.
+[17:48] Luis Jackson: Sounds good.
+[17:50] Jessica: Thanks for the update, drive safe.

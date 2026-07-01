@@ -1,0 +1,150 @@
+Chat Log #271
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #500 (refrijerator)
+Operator: Dilnoza
+Load: LD-61665 | Route: Toshkent -> Samarqand
+Date: 2026-05-01
+--------------------------------------------------
+[19:50] Dilnoza: Salom, Bobur, ishlar qalay?
+[19:51] Bobur Mirzayev: Ha, aloqadaman.
+[19:53] Dilnoza: Siz uchun yuk bor - LD-61665, refrijerator, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[19:55] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[19:57] Dilnoza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[19:59] Bobur Mirzayev: Bu reys uchun narx qancha?
+[20:01] Dilnoza: 2134 ming so'm, 800 km.
+[20:03] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[20:05] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[20:08] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[20:35] Dilnoza: Hozir qayerdasiz?
+[20:37] Bobur Mirzayev: Samarqandgacha taxminan 471 km qoldi.
+[21:41] Dilnoza: Holatingiz qanday?
+[21:43] Bobur Mirzayev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[22:53] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:55] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[23:53] Dilnoza: LD-61665 bilan ishlar qalay?
+[23:55] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:58] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[00:00] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[00:17] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:19] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[00:22] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:24] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[00:47] Dilnoza: LD-61665 bilan ishlar qalay?
+[00:49] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[00:52] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:54] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:41] Dilnoza: Hozir qayerdasiz?
+[01:43] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[01:46] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:48] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[02:41] Dilnoza: Holatingiz qanday?
+[02:43] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[03:24] Dilnoza: Yo'lda yangilik bormi?
+[03:26] Bobur Mirzayev: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[03:28] Dilnoza: Taxminan qachon yetib borasiz?
+[03:30] Bobur Mirzayev: Ehtimol 3pm, balki ertaroq.
+[04:14] Dilnoza: LD-61665 bilan ishlar qalay?
+[04:16] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[04:18] Dilnoza: Taxminan qachon yetib borasiz?
+[04:20] Bobur Mirzayev: Agar tirbandlik bo'lmasa 10amda.
+[05:26] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:28] Bobur Mirzayev: Samarqandgacha taxminan 77 km qoldi.
+[05:31] Dilnoza: O'zingizni qalay his qilyapsiz?
+[05:33] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[05:35] Dilnoza: Taxminan qachon yetib borasiz?
+[05:37] Bobur Mirzayev: Ehtimol 7pm, balki ertaroq.
+[06:33] Dilnoza: Hozir qayerdasiz?
+[06:35] Bobur Mirzayev: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[06:56] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:58] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[07:16] Dilnoza: Hozir qayerdasiz?
+[07:18] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[07:20] Dilnoza: Taxminan qachon yetib borasiz?
+[07:22] Bobur Mirzayev: Taxminan 7pmda yetib boraman.
+[08:22] Dilnoza: Holatingiz qanday?
+[08:24] Bobur Mirzayev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[08:27] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[08:29] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[08:47] Dilnoza: LD-61665 bilan ishlar qalay?
+[08:49] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[09:46] Dilnoza: Hozir qayerdasiz?
+[09:48] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[11:03] Dilnoza: LD-61665 bilan ishlar qalay?
+[11:05] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[11:27] Dilnoza: Holatingiz qanday?
+[11:29] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:46] Dilnoza: Hozir qayerdasiz?
+[12:48] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[12:51] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[12:53] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[13:21] Bobur Mirzayev: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[13:23] Dilnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[13:33] Dilnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[13:35] Bobur Mirzayev: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[13:37] Dilnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[14:08] Dilnoza: LD-61665 bilan ishlar qalay?
+[14:10] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[14:49] Dilnoza: LD-61665 bilan ishlar qalay?
+[14:51] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:34] Dilnoza: Hozir qayerdasiz?
+[15:36] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:08] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:10] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[16:58] Dilnoza: Holatingiz qanday?
+[17:00] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:26] Dilnoza: Yo'lda yangilik bormi?
+[17:28] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:09] Dilnoza: Holatingiz qanday?
+[18:11] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:33] Dilnoza: Yo'lda yangilik bormi?
+[18:35] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:03] Dilnoza: Hozir qayerdasiz?
+[19:05] Bobur Mirzayev: Samarqandgacha taxminan 501 km qoldi.
+[20:00] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:02] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:28] Dilnoza: Hozir qayerdasiz?
+[20:30] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:02] Dilnoza: Yo'lda yangilik bormi?
+[21:04] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:45] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:47] Bobur Mirzayev: Samarqandgacha taxminan 21 km qoldi.
+[22:11] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:13] Bobur Mirzayev: Samarqandgacha taxminan 508 km qoldi.
+[22:47] Dilnoza: LD-61665 bilan ishlar qalay?
+[22:49] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:47] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:49] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:15] Dilnoza: LD-61665 bilan ishlar qalay?
+[00:17] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:32] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:34] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:49] Dilnoza: Hozir qayerdasiz?
+[00:51] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:20] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:22] Bobur Mirzayev: Samarqandgacha taxminan 551 km qoldi.
+[02:20] Dilnoza: Hozir qayerdasiz?
+[02:22] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:39] Dilnoza: Yo'lda yangilik bormi?
+[02:41] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:23] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:25] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:56] Dilnoza: Holatingiz qanday?
+[03:58] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:32] Dilnoza: Hozir qayerdasiz?
+[04:34] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:50] Dilnoza: Hozir qayerdasiz?
+[04:52] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:35] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:37] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:32] Dilnoza: Hozir qayerdasiz?
+[06:34] Bobur Mirzayev: Samarqandgacha taxminan 489 km qoldi.
+[07:23] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:25] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:00] Bobur Mirzayev: LD-61665 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[08:02] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[08:04] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[08:05] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[08:07] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[08:09] Bobur Mirzayev: Xo'p bo'ladi.
+[08:11] Dilnoza: Rahmat, aloqada bo'lamiz.

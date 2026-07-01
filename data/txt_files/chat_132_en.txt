@@ -1,0 +1,133 @@
+Chat Log #132
+Company: Silk Road Logistics
+Language: English
+Driver: William Harris | Truck: #279 (reefer)
+Operator: Jessica
+Load: LD-84260 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-05-02
+--------------------------------------------------
+[11:54] Jessica: William, got a minute?
+[11:55] William Harris: Hey, yeah I'm here.
+[11:57] Jessica: Got a load for you - LD-84260, reefer, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[11:59] William Harris: Ok, what's the pickup window?
+[12:01] Jessica: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[12:03] William Harris: What's the rate on this one?
+[12:05] Jessica: $2417 all in, 757 miles.
+[12:07] William Harris: Sounds good, I'll take it.
+[12:09] Jessica: Great, sending the rate confirmation now.
+[12:12] William Harris: Got it, signed and sent back.
+[13:09] Jessica: Still on schedule?
+[13:11] William Harris: Construction zone slowing everyone down.
+[13:13] Jessica: What's your ETA?
+[13:15] William Harris: Probably 5pm, maybe a bit earlier.
+[14:22] Jessica: Where are you at right now?
+[14:24] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[14:27] Jessica: How are you holding up out there?
+[14:29] William Harris: Doing alright, just tired.
+[14:50] Jessica: Still on schedule?
+[14:52] William Harris: Roads are clear now, moving well.
+[16:17] Jessica: How's LD-84260 looking?
+[16:19] William Harris: About 479 miles out from Tampa, FL now.
+[16:21] Jessica: What's your ETA?
+[16:23] William Harris: Looking at 10am if traffic stays clear.
+[16:42] Jessica: Where are you at right now?
+[16:44] William Harris: Will do, thanks for checking in.
+[17:31] Jessica: Any updates on your progress?
+[17:33] William Harris: Weather's getting rough up ahead, heads up.
+[17:36] Jessica: How are you holding up out there?
+[17:38] William Harris: Doing alright, just tired.
+[17:40] Jessica: What's your ETA?
+[17:42] William Harris: Should be there around 3pm.
+[18:12] Jessica: How's LD-84260 looking?
+[18:14] William Harris: Construction zone slowing everyone down.
+[18:17] Jessica: How are you holding up out there?
+[18:19] William Harris: Doing alright, just tired.
+[18:51] Jessica: How's LD-84260 looking?
+[18:53] William Harris: Clear skies here, no problems.
+[18:56] Jessica: Appreciate you keeping me posted.
+[18:58] William Harris: No problem, just doing my job.
+[19:58] Jessica: Where are you at right now?
+[20:00] William Harris: Will do, thanks for checking in.
+[20:02] Jessica: What's your ETA?
+[20:04] William Harris: Looking at 7pm if traffic stays clear.
+[20:47] Jessica: What's your status?
+[20:49] William Harris: Yeah, long one, but manageable.
+[21:53] Jessica: How's LD-84260 looking?
+[21:55] William Harris: Accident up ahead, traffic's backed up.
+[22:43] Jessica: Where are you at right now?
+[22:45] William Harris: Accident up ahead, traffic's backed up.
+[23:08] Jessica: Where are you at right now?
+[23:10] William Harris: Fuel prices are decent around here.
+[23:12] Jessica: What's your ETA?
+[23:14] William Harris: Looking at 10am if traffic stays clear.
+[23:45] Jessica: How's LD-84260 looking?
+[23:47] William Harris: Stopped for a quick break, back on the road in a few.
+[00:59] Jessica: Where are you at right now?
+[01:01] William Harris: Roads are clear now, moving well.
+[01:28] Jessica: Any updates on your progress?
+[01:30] William Harris: Will do, thanks for checking in.
+[02:38] Jessica: How's LD-84260 looking?
+[02:40] William Harris: Yeah, long one, but manageable.
+[02:43] Jessica: Appreciate you keeping me posted.
+[02:45] William Harris: Will do, thanks for checking in.
+[04:00] Jessica: How's LD-84260 looking?
+[04:02] William Harris: Rain is picking up here, slowing down a bit.
+[04:35] Jessica: What's your status?
+[04:37] William Harris: Rain is picking up here, slowing down a bit.
+[04:40] Jessica: Let me know if you need anything.
+[04:42] William Harris: No problem, just doing my job.
+[05:08] Jessica: What's your status?
+[05:10] William Harris: Stopping for fuel in a bit.
+[05:13] Jessica: Appreciate you keeping me posted.
+[05:15] William Harris: Doing alright, just tired.
+[06:13] Jessica: Where are you at right now?
+[06:15] William Harris: Stopping for fuel in a bit.
+[07:22] Jessica: Any updates on your progress?
+[07:24] William Harris: Making good time, no issues so far.
+[07:27] Jessica: Long trip, huh? Get some rest when you can.
+[07:29] William Harris: Doing alright, just tired.
+[07:31] Jessica: What's your ETA?
+[07:33] William Harris: Probably noon, maybe a bit earlier.
+[08:20] Jessica: How's LD-84260 looking?
+[08:22] William Harris: Stopped for a quick break, back on the road in a few.
+[08:44] Jessica: Where are you at right now?
+[08:46] William Harris: Stopped for a quick break, back on the road in a few.
+[09:37] Jessica: Where are you at right now?
+[09:39] William Harris: Just passed Tampa, FL, everything's fine.
+[10:12] Jessica: How's LD-84260 looking?
+[10:14] William Harris: Just crossed the state line, all good.
+[10:50] Jessica: What's your status?
+[10:52] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[11:19] Jessica: How's LD-84260 looking?
+[11:21] William Harris: About 201 miles out from Tampa, FL now.
+[11:45] Jessica: Any updates on your progress?
+[11:47] William Harris: Just crossed the state line, all good.
+[12:37] Jessica: Still on schedule?
+[12:39] William Harris: Just passed Tampa, FL, everything's fine.
+[13:25] Jessica: How's LD-84260 looking?
+[13:27] William Harris: Stopped for a quick break, back on the road in a few.
+[13:55] Jessica: Still on schedule?
+[13:57] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[14:21] Jessica: How's LD-84260 looking?
+[14:23] William Harris: Making good time, no issues so far.
+[15:23] Jessica: Still on schedule?
+[15:25] William Harris: Just passed Tampa, FL, everything's fine.
+[15:49] Jessica: Any updates on your progress?
+[15:51] William Harris: Just passed Jacksonville, FL, everything's fine.
+[16:26] Jessica: Still on schedule?
+[16:28] William Harris: Making good time, no issues so far.
+[17:19] Jessica: Any updates on your progress?
+[17:21] William Harris: Just crossed the state line, all good.
+[18:12] Jessica: Still on schedule?
+[18:14] William Harris: About 364 miles out from Tampa, FL now.
+[19:04] Jessica: How's LD-84260 looking?
+[19:06] William Harris: Making good time, no issues so far.
+[20:00] Jessica: Where are you at right now?
+[20:02] William Harris: About 308 miles out from Tampa, FL now.
+[21:29] William Harris: Just delivered LD-84260 at Tampa, FL, all good, no damages.
+[21:31] Jessica: Do you have the signed BOL?
+[21:33] William Harris: Yep, taking a picture now.
+[21:34] William Harris: [Image attached: signed_bol.jpg]
+[21:36] Jessica: Sending you the next load details shortly.
+[21:38] William Harris: Sounds good.
+[21:40] Jessica: Appreciate it, talk soon.

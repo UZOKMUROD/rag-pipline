@@ -1,0 +1,147 @@
+Chat Log #335
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #176 (past ramali tirkama)
+Operator: Malika
+Load: LD-55025 | Route: Toshkent -> Samarqand
+Date: 2026-05-09
+--------------------------------------------------
+[10:17] Malika: Salom, Bobur, ishlar qalay?
+[10:18] Bobur Mirzayev: Xayrli tong, menda hammasi yaxshi.
+[10:20] Malika: Siz uchun yuk bor - LD-55025, past ramali tirkama, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[10:22] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[10:24] Malika: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[10:26] Bobur Mirzayev: Bu reys uchun narx qancha?
+[10:28] Malika: 2509 ming so'm, 980 km.
+[10:30] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[10:32] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:35] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[11:15] Malika: Yo'lda yangilik bormi?
+[11:17] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[11:20] Malika: Biror narsa kerak bo'lsa ayting.
+[11:22] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:51] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[11:53] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[12:56] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[12:58] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:34] Malika: LD-55025 bilan ishlar qalay?
+[13:36] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:28] Malika: Hozir qayerdasiz?
+[14:30] Bobur Mirzayev: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[14:33] Malika: Biror narsa kerak bo'lsa ayting.
+[14:35] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[16:02] Malika: LD-55025 bilan ishlar qalay?
+[16:04] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[16:36] Malika: Yo'lda yangilik bormi?
+[16:38] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:41] Malika: Biror narsa kerak bo'lsa ayting.
+[16:43] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[17:53] Malika: Hozir qayerdasiz?
+[17:55] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[17:57] Malika: Taxminan qachon yetib borasiz?
+[17:59] Bobur Mirzayev: Ehtimol 3pm, balki ertaroq.
+[18:57] Malika: Hozir qayerdasiz?
+[18:59] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:02] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:04] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[19:06] Malika: Taxminan qachon yetib borasiz?
+[19:08] Bobur Mirzayev: Taxminan 5pmda yetib boraman.
+[19:27] Malika: Holatingiz qanday?
+[19:29] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[20:19] Malika: Holatingiz qanday?
+[20:21] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[20:24] Malika: O'zingizni qalay his qilyapsiz?
+[20:26] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[21:29] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[21:31] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[22:23] Malika: Hozir qayerdasiz?
+[22:25] Bobur Mirzayev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[22:28] Malika: Biror narsa kerak bo'lsa ayting.
+[22:30] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[23:26] Malika: Holatingiz qanday?
+[23:28] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[23:30] Malika: Taxminan qachon yetib borasiz?
+[23:32] Bobur Mirzayev: Ehtimol 3pm, balki ertaroq.
+[23:49] Malika: Yo'lda yangilik bormi?
+[23:51] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:14] Bobur Mirzayev: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[00:16] Malika: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[00:46] Malika: Hozir qayerdasiz?
+[00:48] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:31] Malika: LD-55025 bilan ishlar qalay?
+[01:33] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:55] Malika: Hozir qayerdasiz?
+[01:57] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:33] Malika: Yo'lda yangilik bormi?
+[02:35] Bobur Mirzayev: Samarqandgacha taxminan 307 km qoldi.
+[03:02] Malika: LD-55025 bilan ishlar qalay?
+[03:04] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:59] Malika: LD-55025 bilan ishlar qalay?
+[04:01] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:00] Malika: Yo'lda yangilik bormi?
+[05:02] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:26] Malika: LD-55025 bilan ishlar qalay?
+[05:28] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:10] Malika: LD-55025 bilan ishlar qalay?
+[06:12] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[06:50] Malika: LD-55025 bilan ishlar qalay?
+[06:52] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:13] Malika: Yo'lda yangilik bormi?
+[07:15] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:47] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:49] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:39] Malika: Yo'lda yangilik bormi?
+[08:41] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[09:39] Malika: LD-55025 bilan ishlar qalay?
+[09:41] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[10:12] Malika: Yo'lda yangilik bormi?
+[10:14] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:48] Malika: Holatingiz qanday?
+[10:50] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:05] Malika: Yo'lda yangilik bormi?
+[11:07] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:35] Malika: Holatingiz qanday?
+[11:37] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:56] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[11:58] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:24] Malika: LD-55025 bilan ishlar qalay?
+[12:26] Bobur Mirzayev: Samarqandgacha taxminan 115 km qoldi.
+[13:24] Malika: Yo'lda yangilik bormi?
+[13:26] Bobur Mirzayev: Samarqandgacha taxminan 468 km qoldi.
+[14:00] Malika: Yo'lda yangilik bormi?
+[14:02] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:34] Malika: Holatingiz qanday?
+[14:36] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[14:56] Malika: Hozir qayerdasiz?
+[14:58] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[15:27] Malika: Holatingiz qanday?
+[15:29] Bobur Mirzayev: Samarqandgacha taxminan 500 km qoldi.
+[16:21] Malika: Hozir qayerdasiz?
+[16:23] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:51] Malika: LD-55025 bilan ishlar qalay?
+[16:53] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:14] Malika: Hozir qayerdasiz?
+[17:16] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:53] Malika: LD-55025 bilan ishlar qalay?
+[17:55] Bobur Mirzayev: Samarqandgacha taxminan 436 km qoldi.
+[18:29] Malika: Hozir qayerdasiz?
+[18:31] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:58] Malika: Yo'lda yangilik bormi?
+[19:00] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:32] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:34] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:06] Malika: LD-55025 bilan ishlar qalay?
+[20:08] Bobur Mirzayev: Samarqandgacha taxminan 453 km qoldi.
+[20:27] Malika: Yo'lda yangilik bormi?
+[20:29] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:24] Malika: LD-55025 bilan ishlar qalay?
+[21:26] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:42] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[21:44] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[22:28] Bobur Mirzayev: LD-55025 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[22:30] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[22:32] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[22:33] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[22:35] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[22:37] Bobur Mirzayev: Xo'p bo'ladi.
+[22:39] Malika: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

@@ -1,0 +1,129 @@
+Chat Log #257
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Johnson | Truck: #387 (step deck)
+Operator: Rachel
+Load: LD-62547 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-03-24
+--------------------------------------------------
+[18:39] Rachel: Morning Carlos, you there?
+[18:40] Carlos Johnson: Hey, yeah I'm here.
+[18:42] Rachel: Got a load for you - LD-62547, step deck, pickup in Chicago, IL, delivery to Memphis, TN.
+[18:44] Carlos Johnson: Ok, what's the pickup window?
+[18:46] Rachel: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[18:48] Carlos Johnson: What's the rate on this one?
+[18:50] Rachel: $4007 all in, 1034 miles.
+[18:52] Carlos Johnson: Sounds good, I'll take it.
+[18:54] Rachel: Great, sending the rate confirmation now.
+[18:57] Carlos Johnson: Got it, signed and sent back.
+[20:10] Rachel: Where are you at right now?
+[20:12] Carlos Johnson: Accident up ahead, traffic's backed up.
+[20:14] Rachel: What's your ETA?
+[20:16] Carlos Johnson: Should be there around 5pm.
+[20:45] Rachel: Still on schedule?
+[20:47] Carlos Johnson: Doing alright, just tired.
+[21:23] Rachel: Any updates on your progress?
+[21:25] Carlos Johnson: Doing alright, just tired.
+[21:28] Rachel: Appreciate you keeping me posted.
+[21:30] Carlos Johnson: Doing alright, just tired.
+[22:14] Rachel: Still on schedule?
+[22:16] Carlos Johnson: Traffic's a bit heavy but I'm still on schedule.
+[23:44] Rachel: How's LD-62547 looking?
+[23:46] Carlos Johnson: Stopping for fuel in a bit.
+[23:49] Rachel: Long trip, huh? Get some rest when you can.
+[23:51] Carlos Johnson: Yeah, long one, but manageable.
+[01:12] Rachel: Where are you at right now?
+[01:14] Carlos Johnson: About 299 miles out from Memphis, TN now.
+[01:16] Rachel: What's your ETA?
+[01:18] Carlos Johnson: Looking at noon if traffic stays clear.
+[02:33] Rachel: How's LD-62547 looking?
+[02:35] Carlos Johnson: Just crossed the state line, all good.
+[02:38] Rachel: How are you holding up out there?
+[02:40] Carlos Johnson: No problem, just doing my job.
+[04:02] Rachel: Any updates on your progress?
+[04:04] Carlos Johnson: Weather's getting rough up ahead, heads up.
+[05:00] Rachel: Where are you at right now?
+[05:02] Carlos Johnson: Rain is picking up here, slowing down a bit.
+[05:35] Rachel: Where are you at right now?
+[05:37] Carlos Johnson: Just passed Memphis, TN, everything's fine.
+[06:32] Rachel: Still on schedule?
+[06:34] Carlos Johnson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[07:06] Rachel: What's your status?
+[07:08] Carlos Johnson: Construction zone slowing everyone down.
+[07:10] Rachel: What's your ETA?
+[07:12] Carlos Johnson: Probably 5pm, maybe a bit earlier.
+[08:35] Rachel: What's your status?
+[08:37] Carlos Johnson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[08:39] Rachel: What's your ETA?
+[08:41] Carlos Johnson: Looking at 7pm if traffic stays clear.
+[09:47] Rachel: How's LD-62547 looking?
+[09:49] Carlos Johnson: Making good time, no issues so far.
+[09:52] Rachel: Appreciate you keeping me posted.
+[09:54] Carlos Johnson: Yeah, long one, but manageable.
+[11:07] Rachel: How's LD-62547 looking?
+[11:09] Carlos Johnson: Traffic's a bit heavy but I'm still on schedule.
+[11:11] Rachel: What's your ETA?
+[11:13] Carlos Johnson: Probably 7pm, maybe a bit earlier.
+[11:42] Rachel: Any updates on your progress?
+[11:44] Carlos Johnson: Roads are wet, taking it easy.
+[13:04] Rachel: Any updates on your progress?
+[13:06] Carlos Johnson: Accident up ahead, traffic's backed up.
+[13:09] Rachel: Appreciate you keeping me posted.
+[13:11] Carlos Johnson: Will do, thanks for checking in.
+[13:13] Rachel: What's your ETA?
+[13:15] Carlos Johnson: Should be there around 7pm.
+[13:47] Carlos Johnson: Coming up on my HOS limit, only got about 45 minutes left.
+[13:49] Rachel: Understood, get your rest, I'll let the receiver know.
+[14:35] Rachel: What's your status?
+[14:37] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[14:53] Rachel: Still on schedule?
+[14:55] Carlos Johnson: About 491 miles out from Memphis, TN now.
+[15:36] Rachel: What's your status?
+[15:38] Carlos Johnson: Making good time, no issues so far.
+[16:25] Rachel: Still on schedule?
+[16:27] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[16:46] Rachel: Where are you at right now?
+[16:48] Carlos Johnson: Making good time, no issues so far.
+[17:35] Rachel: Any updates on your progress?
+[17:37] Carlos Johnson: About 52 miles out from Memphis, TN now.
+[18:00] Rachel: Still on schedule?
+[18:02] Carlos Johnson: Just passed Chicago, IL, everything's fine.
+[18:54] Rachel: How's LD-62547 looking?
+[18:56] Carlos Johnson: Just crossed the state line, all good.
+[19:41] Rachel: How's LD-62547 looking?
+[19:43] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[20:42] Rachel: Where are you at right now?
+[20:44] Carlos Johnson: Making good time, no issues so far.
+[21:23] Rachel: What's your status?
+[21:25] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[21:54] Rachel: How's LD-62547 looking?
+[21:56] Carlos Johnson: Making good time, no issues so far.
+[22:23] Rachel: Where are you at right now?
+[22:25] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[23:10] Rachel: How's LD-62547 looking?
+[23:12] Carlos Johnson: About 187 miles out from Memphis, TN now.
+[23:58] Rachel: Any updates on your progress?
+[00:00] Carlos Johnson: Making good time, no issues so far.
+[00:50] Rachel: Any updates on your progress?
+[00:52] Carlos Johnson: Stopped for a quick break, back on the road in a few.
+[01:28] Rachel: What's your status?
+[01:30] Carlos Johnson: Making good time, no issues so far.
+[02:09] Rachel: What's your status?
+[02:11] Carlos Johnson: About 560 miles out from Memphis, TN now.
+[03:04] Rachel: Still on schedule?
+[03:06] Carlos Johnson: Making good time, no issues so far.
+[03:29] Rachel: Still on schedule?
+[03:31] Carlos Johnson: Just crossed the state line, all good.
+[03:54] Rachel: Any updates on your progress?
+[03:56] Carlos Johnson: Making good time, no issues so far.
+[04:40] Rachel: Still on schedule?
+[04:42] Carlos Johnson: Just crossed the state line, all good.
+[05:24] Rachel: Any updates on your progress?
+[05:26] Carlos Johnson: Just passed Memphis, TN, everything's fine.
+[06:16] Carlos Johnson: Just delivered LD-62547 at Memphis, TN, all good, no damages.
+[06:18] Rachel: Do you have the signed BOL?
+[06:20] Carlos Johnson: Yep, taking a picture now.
+[06:21] Carlos Johnson: [Image attached: signed_bol.jpg]
+[06:23] Rachel: Sending you the next load details shortly.
+[06:25] Carlos Johnson: Understood.
+[06:27] Rachel: Appreciate it, talk soon.

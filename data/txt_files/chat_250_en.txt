@@ -1,0 +1,125 @@
+Chat Log #250
+Company: Silk Road Logistics
+Language: English
+Driver: William White | Truck: #821 (reefer)
+Operator: Amanda
+Load: LD-40905 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-06-22
+--------------------------------------------------
+[09:14] Amanda: William, got a minute?
+[09:15] William White: Morning, all good on my end.
+[09:17] Amanda: Got a load for you - LD-40905, reefer, pickup in Chicago, IL, delivery to Memphis, TN.
+[09:19] William White: Ok, what's the pickup window?
+[09:21] Amanda: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[09:23] William White: What's the rate on this one?
+[09:25] Amanda: $3868 all in, 687 miles.
+[09:27] William White: Sounds good, I'll take it.
+[09:29] Amanda: Great, sending the rate confirmation now.
+[09:32] William White: Got it, signed and sent back.
+[10:05] Amanda: Still on schedule?
+[10:07] William White: Just crossed the state line, all good.
+[10:10] Amanda: Appreciate you keeping me posted.
+[10:12] William White: Will do, thanks for checking in.
+[11:31] Amanda: Any updates on your progress?
+[11:33] William White: Traffic's a bit heavy but I'm still on schedule.
+[11:36] Amanda: Appreciate you keeping me posted.
+[11:38] William White: Yeah, long one, but manageable.
+[11:40] Amanda: What's your ETA?
+[11:42] William White: Should be there around 5pm.
+[12:22] Amanda: Still on schedule?
+[12:24] William White: Roads are clear now, moving well.
+[12:48] Amanda: Any updates on your progress?
+[12:50] William White: Rain is picking up here, slowing down a bit.
+[14:15] Amanda: Where are you at right now?
+[14:17] William White: Stopped for a quick break, back on the road in a few.
+[15:02] Amanda: Where are you at right now?
+[15:04] William White: About 449 miles out from Memphis, TN now.
+[16:00] Amanda: Still on schedule?
+[16:02] William White: Construction zone slowing everyone down.
+[16:54] Amanda: Where are you at right now?
+[16:56] William White: Doing alright, just tired.
+[18:17] Amanda: Still on schedule?
+[18:19] William White: No problem, just doing my job.
+[19:30] Amanda: What's your status?
+[19:32] William White: Stopped for a quick break, back on the road in a few.
+[19:34] Amanda: What's your ETA?
+[19:36] William White: Looking at 7pm if traffic stays clear.
+[19:58] Amanda: What's your status?
+[20:00] William White: Stopped for a quick break, back on the road in a few.
+[20:26] Amanda: How's LD-40905 looking?
+[20:28] William White: Roads are clear now, moving well.
+[21:27] Amanda: Any updates on your progress?
+[21:29] William White: Stopped for a quick break, back on the road in a few.
+[22:08] Amanda: How's LD-40905 looking?
+[22:10] William White: Fuel prices are decent around here.
+[22:47] William White: I've got a problem, a flat tire on LD-40905. Pulled over on the shoulder.
+[22:48] Amanda: Are you safe? Anyone hurt?
+[22:50] William White: Yeah I'm fine, just need roadside assistance.
+[22:52] Amanda: Mile marker 325 on I-40.
+[22:57] Amanda: Truck is on the way, ETA about 1 hour.
+[00:18] William White: Fixed and rolling again.
+[00:39] Amanda: What's your status?
+[00:41] William White: Stopped for a quick break, back on the road in a few.
+[01:05] Amanda: How's LD-40905 looking?
+[01:07] William White: Traffic's a bit heavy but I'm still on schedule.
+[01:27] Amanda: Where are you at right now?
+[01:29] William White: Just crossed the state line, all good.
+[02:10] Amanda: Any updates on your progress?
+[02:12] William White: Making good time, no issues so far.
+[02:42] Amanda: Any updates on your progress?
+[02:44] William White: Just passed Memphis, TN, everything's fine.
+[03:07] Amanda: How's LD-40905 looking?
+[03:09] William White: Just crossed the state line, all good.
+[03:55] Amanda: Still on schedule?
+[03:57] William White: Making good time, no issues so far.
+[04:46] Amanda: How's LD-40905 looking?
+[04:48] William White: Just passed Chicago, IL, everything's fine.
+[05:22] Amanda: What's your status?
+[05:24] William White: Making good time, no issues so far.
+[05:57] Amanda: Where are you at right now?
+[05:59] William White: About 437 miles out from Memphis, TN now.
+[06:48] Amanda: Any updates on your progress?
+[06:50] William White: Stopped for a quick break, back on the road in a few.
+[07:08] Amanda: Any updates on your progress?
+[07:10] William White: Stopped for a quick break, back on the road in a few.
+[07:57] Amanda: Any updates on your progress?
+[07:59] William White: Traffic's a bit heavy but I'm still on schedule.
+[08:30] Amanda: What's your status?
+[08:32] William White: About 200 miles out from Memphis, TN now.
+[08:47] Amanda: Any updates on your progress?
+[08:49] William White: About 38 miles out from Memphis, TN now.
+[09:20] Amanda: How's LD-40905 looking?
+[09:22] William White: Just passed Chicago, IL, everything's fine.
+[10:17] Amanda: Any updates on your progress?
+[10:19] William White: About 146 miles out from Memphis, TN now.
+[10:48] Amanda: What's your status?
+[10:50] William White: Stopped for a quick break, back on the road in a few.
+[11:05] Amanda: What's your status?
+[11:07] William White: About 27 miles out from Memphis, TN now.
+[11:52] Amanda: How's LD-40905 looking?
+[11:54] William White: Just crossed the state line, all good.
+[12:09] Amanda: Where are you at right now?
+[12:11] William White: Just passed Chicago, IL, everything's fine.
+[13:06] Amanda: Where are you at right now?
+[13:08] William White: About 112 miles out from Memphis, TN now.
+[14:03] Amanda: Any updates on your progress?
+[14:05] William White: About 306 miles out from Memphis, TN now.
+[14:56] Amanda: How's LD-40905 looking?
+[14:58] William White: Stopped for a quick break, back on the road in a few.
+[15:47] Amanda: Still on schedule?
+[15:49] William White: Just passed Memphis, TN, everything's fine.
+[16:28] Amanda: How's LD-40905 looking?
+[16:30] William White: Just passed Chicago, IL, everything's fine.
+[17:27] Amanda: Any updates on your progress?
+[17:29] William White: Just crossed the state line, all good.
+[17:53] Amanda: What's your status?
+[17:55] William White: Just passed Chicago, IL, everything's fine.
+[18:24] Amanda: Any updates on your progress?
+[18:26] William White: Traffic's a bit heavy but I'm still on schedule.
+[19:41] William White: Just delivered LD-40905 at Memphis, TN, all good, no damages.
+[19:43] Amanda: Do you have the signed BOL?
+[19:45] William White: Yep, taking a picture now.
+[19:46] William White: [Image attached: signed_bol.jpg]
+[19:48] Amanda: Sending you the next load details shortly.
+[19:50] William White: Understood.
+[19:52] Amanda: Great work, thank you.

@@ -1,0 +1,127 @@
+Chat Log #276
+Company: Silk Road Logistics
+Language: English
+Driver: Anthony Brown | Truck: #375 (reefer)
+Operator: Emily
+Load: LD-75168 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-02-17
+--------------------------------------------------
+[06:10] Emily: Anthony, got a minute?
+[06:11] Anthony Brown: Yeah, go ahead.
+[06:13] Emily: Got a load for you - LD-75168, reefer, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[06:15] Anthony Brown: Ok, what's the pickup window?
+[06:17] Emily: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[06:19] Anthony Brown: What's the rate on this one?
+[06:21] Emily: $2727 all in, 937 miles.
+[06:23] Anthony Brown: Sounds good, I'll take it.
+[06:25] Emily: Great, sending the rate confirmation now.
+[06:28] Anthony Brown: Got it, signed and sent back.
+[07:50] Emily: Where are you at right now?
+[07:52] Anthony Brown: Roads are clear now, moving well.
+[08:32] Emily: Where are you at right now?
+[08:34] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[09:53] Emily: What's your status?
+[09:55] Anthony Brown: Just crossed the state line, all good.
+[09:57] Emily: What's your ETA?
+[09:59] Anthony Brown: Should be there around noon.
+[11:26] Emily: Still on schedule?
+[11:28] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[11:30] Emily: What's your ETA?
+[11:32] Anthony Brown: Probably noon, maybe a bit earlier.
+[12:52] Emily: How's LD-75168 looking?
+[12:54] Anthony Brown: Just crossed the state line, all good.
+[14:11] Emily: Still on schedule?
+[14:13] Anthony Brown: Stopped for a quick break, back on the road in a few.
+[14:15] Emily: What's your ETA?
+[14:17] Anthony Brown: Should be there around 7pm.
+[15:24] Emily: Any updates on your progress?
+[15:26] Anthony Brown: Hit some traffic near Las Vegas, NV, adding maybe 20 minutes.
+[15:28] Emily: What's your ETA?
+[15:30] Anthony Brown: Probably 7pm, maybe a bit earlier.
+[16:09] Emily: Any updates on your progress?
+[16:11] Anthony Brown: Construction zone slowing everyone down.
+[17:16] Emily: Still on schedule?
+[17:18] Anthony Brown: Construction zone slowing everyone down.
+[17:21] Emily: Long trip, huh? Get some rest when you can.
+[17:23] Anthony Brown: No problem, just doing my job.
+[17:25] Emily: What's your ETA?
+[17:27] Anthony Brown: Should be there around 3pm.
+[18:47] Emily: How's LD-75168 looking?
+[18:49] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[20:19] Emily: Any updates on your progress?
+[20:21] Anthony Brown: Roads are wet, taking it easy.
+[20:23] Emily: What's your ETA?
+[20:25] Anthony Brown: Should be there around noon.
+[21:39] Emily: Where are you at right now?
+[21:41] Anthony Brown: Construction zone slowing everyone down.
+[22:16] Emily: Still on schedule?
+[22:18] Anthony Brown: Rain is picking up here, slowing down a bit.
+[22:20] Emily: What's your ETA?
+[22:22] Anthony Brown: Should be there around 3pm.
+[22:50] Emily: Any updates on your progress?
+[22:52] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[22:54] Emily: What's your ETA?
+[22:56] Anthony Brown: Probably 3pm, maybe a bit earlier.
+[23:58] Emily: Any updates on your progress?
+[00:00] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[00:27] Emily: How's LD-75168 looking?
+[00:29] Anthony Brown: No problem, just doing my job.
+[00:32] Emily: Appreciate you keeping me posted.
+[00:34] Anthony Brown: Doing alright, just tired.
+[00:58] Emily: Where are you at right now?
+[01:00] Anthony Brown: No problem, just doing my job.
+[01:56] Emily: Still on schedule?
+[01:58] Anthony Brown: About 475 miles out from Las Vegas, NV now.
+[03:09] Emily: Where are you at right now?
+[03:11] Anthony Brown: Clear skies here, no problems.
+[03:36] Anthony Brown: I've got a problem, a blown fuse on the trailer lights on LD-75168. Pulled over on the shoulder.
+[03:37] Emily: Are you safe? Anyone hurt?
+[03:39] Anthony Brown: Yeah I'm fine, just need roadside assistance.
+[03:41] Emily: Mile marker 330 on I-10.
+[03:46] Emily: Truck is on the way, ETA about 30 min.
+[04:26] Anthony Brown: Fixed and rolling again.
+[05:04] Emily: How's LD-75168 looking?
+[05:06] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[06:04] Emily: Still on schedule?
+[06:06] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[06:24] Emily: Where are you at right now?
+[06:26] Anthony Brown: Stopped for a quick break, back on the road in a few.
+[06:57] Emily: Where are you at right now?
+[06:59] Anthony Brown: Stopped for a quick break, back on the road in a few.
+[07:39] Emily: Still on schedule?
+[07:41] Anthony Brown: Making good time, no issues so far.
+[08:16] Emily: Any updates on your progress?
+[08:18] Anthony Brown: About 178 miles out from Las Vegas, NV now.
+[09:11] Emily: Any updates on your progress?
+[09:13] Anthony Brown: Just crossed the state line, all good.
+[10:03] Emily: How's LD-75168 looking?
+[10:05] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[10:30] Emily: How's LD-75168 looking?
+[10:32] Anthony Brown: Just crossed the state line, all good.
+[10:59] Emily: Where are you at right now?
+[11:01] Anthony Brown: About 315 miles out from Las Vegas, NV now.
+[11:28] Emily: Where are you at right now?
+[11:30] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[12:09] Emily: Any updates on your progress?
+[12:11] Anthony Brown: Just passed Fresno, CA, everything's fine.
+[13:07] Emily: How's LD-75168 looking?
+[13:09] Anthony Brown: Just passed Las Vegas, NV, everything's fine.
+[13:36] Emily: How's LD-75168 looking?
+[13:38] Anthony Brown: Just passed Las Vegas, NV, everything's fine.
+[13:56] Emily: Where are you at right now?
+[13:58] Anthony Brown: About 55 miles out from Las Vegas, NV now.
+[14:56] Emily: How's LD-75168 looking?
+[14:58] Anthony Brown: About 446 miles out from Las Vegas, NV now.
+[15:35] Emily: How's LD-75168 looking?
+[15:37] Anthony Brown: Traffic's a bit heavy but I'm still on schedule.
+[15:56] Emily: Any updates on your progress?
+[15:58] Anthony Brown: About 469 miles out from Las Vegas, NV now.
+[16:41] Emily: Still on schedule?
+[16:43] Anthony Brown: Stopped for a quick break, back on the road in a few.
+[17:40] Anthony Brown: Just delivered LD-75168 at Las Vegas, NV, all good, no damages.
+[17:42] Emily: Do you have the signed BOL?
+[17:44] Anthony Brown: Yep, taking a picture now.
+[17:45] Anthony Brown: [Image attached: signed_bol.jpg]
+[17:47] Emily: Sending you the next load details shortly.
+[17:49] Anthony Brown: Understood.
+[17:51] Emily: Great work, thank you.

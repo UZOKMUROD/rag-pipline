@@ -1,0 +1,133 @@
+Chat Log #118
+Company: Silk Road Logistics
+Language: English
+Driver: John Lewis | Truck: #163 (reefer)
+Operator: Ashley
+Load: LD-98402 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-03-18
+--------------------------------------------------
+[11:53] Ashley: Hey John, how's it going?
+[11:54] John Lewis: Morning, all good on my end.
+[11:56] Ashley: Got a load for you - LD-98402, reefer, pickup in Nashville, TN, delivery to Birmingham, AL.
+[11:58] John Lewis: Ok, what's the pickup window?
+[12:00] Ashley: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[12:02] John Lewis: What's the rate on this one?
+[12:04] Ashley: $2914 all in, 395 miles.
+[12:06] John Lewis: Sounds good, I'll take it.
+[12:08] Ashley: Great, sending the rate confirmation now.
+[12:11] John Lewis: Got it, signed and sent back.
+[13:09] Ashley: How's LD-98402 looking?
+[13:11] John Lewis: Yeah, long one, but manageable.
+[14:37] Ashley: Still on schedule?
+[14:39] John Lewis: Stopping for fuel in a bit.
+[14:41] Ashley: What's your ETA?
+[14:43] John Lewis: Should be there around 5pm.
+[15:04] Ashley: Any updates on your progress?
+[15:06] John Lewis: Weather's getting rough up ahead, heads up.
+[16:11] Ashley: How's LD-98402 looking?
+[16:13] John Lewis: Fuel prices are decent around here.
+[16:16] Ashley: How are you holding up out there?
+[16:18] John Lewis: Will do, thanks for checking in.
+[17:42] Ashley: How's LD-98402 looking?
+[17:44] John Lewis: Yeah, long one, but manageable.
+[17:47] Ashley: Let me know if you need anything.
+[17:49] John Lewis: Yeah, long one, but manageable.
+[17:51] Ashley: What's your ETA?
+[17:53] John Lewis: Looking at 3pm if traffic stays clear.
+[18:23] Ashley: Any updates on your progress?
+[18:25] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[18:28] Ashley: Appreciate you keeping me posted.
+[18:30] John Lewis: Yeah, long one, but manageable.
+[19:07] Ashley: Where are you at right now?
+[19:09] John Lewis: Just crossed the state line, all good.
+[19:12] Ashley: Appreciate you keeping me posted.
+[19:14] John Lewis: Yeah, long one, but manageable.
+[19:16] Ashley: What's your ETA?
+[19:18] John Lewis: Should be there around 10am.
+[20:32] Ashley: Still on schedule?
+[20:34] John Lewis: Just passed Birmingham, AL, everything's fine.
+[20:36] Ashley: What's your ETA?
+[20:38] John Lewis: Looking at noon if traffic stays clear.
+[21:35] Ashley: Still on schedule?
+[21:37] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[22:45] Ashley: How's LD-98402 looking?
+[22:47] John Lewis: Stopping for fuel in a bit.
+[00:17] Ashley: Any updates on your progress?
+[00:19] John Lewis: Hit some traffic near Birmingham, AL, adding maybe 20 minutes.
+[01:43] Ashley: Still on schedule?
+[01:45] John Lewis: Weather's getting rough up ahead, heads up.
+[01:48] Ashley: Long trip, huh? Get some rest when you can.
+[01:50] John Lewis: Yeah, long one, but manageable.
+[02:13] Ashley: Any updates on your progress?
+[02:15] John Lewis: Accident up ahead, traffic's backed up.
+[02:18] Ashley: How are you holding up out there?
+[02:20] John Lewis: Yeah, long one, but manageable.
+[03:47] Ashley: Any updates on your progress?
+[03:49] John Lewis: Yeah, long one, but manageable.
+[03:52] Ashley: Let me know if you need anything.
+[03:54] John Lewis: No problem, just doing my job.
+[04:13] Ashley: How's LD-98402 looking?
+[04:15] John Lewis: Just topped off the tank.
+[04:51] Ashley: Where are you at right now?
+[04:53] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[04:56] Ashley: Let me know if you need anything.
+[04:58] John Lewis: Will do, thanks for checking in.
+[05:24] Ashley: How's LD-98402 looking?
+[05:26] John Lewis: Construction zone slowing everyone down.
+[05:58] Ashley: What's your status?
+[06:00] John Lewis: Just passed Birmingham, AL, everything's fine.
+[06:02] Ashley: What's your ETA?
+[06:04] John Lewis: Probably 5pm, maybe a bit earlier.
+[06:32] Ashley: Any updates on your progress?
+[06:34] John Lewis: No problem, just doing my job.
+[06:37] Ashley: Appreciate you keeping me posted.
+[06:39] John Lewis: Doing alright, just tired.
+[06:41] Ashley: What's your ETA?
+[06:43] John Lewis: Looking at 10am if traffic stays clear.
+[07:46] Ashley: Still on schedule?
+[07:48] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[07:51] Ashley: Long trip, huh? Get some rest when you can.
+[07:53] John Lewis: Doing alright, just tired.
+[07:55] Ashley: What's your ETA?
+[07:57] John Lewis: Should be there around 3pm.
+[08:33] Ashley: What's your status?
+[08:35] John Lewis: Just passed Birmingham, AL, everything's fine.
+[08:38] Ashley: Appreciate you keeping me posted.
+[08:40] John Lewis: Yeah, long one, but manageable.
+[09:16] John Lewis: Coming up on my HOS limit, only got about 1 hour left.
+[09:18] Ashley: Understood, get your rest, I'll let the receiver know.
+[09:36] Ashley: How's LD-98402 looking?
+[09:38] John Lewis: Just crossed the state line, all good.
+[10:27] Ashley: Where are you at right now?
+[10:29] John Lewis: Making good time, no issues so far.
+[10:53] Ashley: What's your status?
+[10:55] John Lewis: Just crossed the state line, all good.
+[11:21] Ashley: Any updates on your progress?
+[11:23] John Lewis: Just crossed the state line, all good.
+[12:01] Ashley: Any updates on your progress?
+[12:03] John Lewis: Just passed Nashville, TN, everything's fine.
+[13:03] Ashley: What's your status?
+[13:05] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[13:31] Ashley: How's LD-98402 looking?
+[13:33] John Lewis: Just crossed the state line, all good.
+[14:31] Ashley: Any updates on your progress?
+[14:33] John Lewis: Just passed Nashville, TN, everything's fine.
+[15:15] Ashley: How's LD-98402 looking?
+[15:17] John Lewis: Stopped for a quick break, back on the road in a few.
+[15:48] Ashley: How's LD-98402 looking?
+[15:50] John Lewis: About 236 miles out from Birmingham, AL now.
+[16:28] Ashley: Any updates on your progress?
+[16:30] John Lewis: About 165 miles out from Birmingham, AL now.
+[17:18] Ashley: How's LD-98402 looking?
+[17:20] John Lewis: Just passed Birmingham, AL, everything's fine.
+[18:19] Ashley: How's LD-98402 looking?
+[18:21] John Lewis: Making good time, no issues so far.
+[19:10] Ashley: Any updates on your progress?
+[19:12] John Lewis: Traffic's a bit heavy but I'm still on schedule.
+[19:51] John Lewis: Just delivered LD-98402 at Birmingham, AL, all good, no damages.
+[19:53] Ashley: Do you have the signed BOL?
+[19:55] John Lewis: Yep, taking a picture now.
+[19:56] John Lewis: [Image attached: signed_bol.jpg]
+[19:58] Ashley: Sending you the next load details shortly.
+[20:00] John Lewis: Understood.
+[20:02] Ashley: Appreciate it, talk soon.

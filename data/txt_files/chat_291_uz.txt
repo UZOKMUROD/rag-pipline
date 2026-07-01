@@ -1,0 +1,149 @@
+Chat Log #291
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #923 (past ramali tirkama)
+Operator: Zarina
+Load: LD-64789 | Route: Andijon -> Farg'ona
+Date: 2026-02-03
+--------------------------------------------------
+[05:46] Zarina: Xayrli tong, Alisher, aloqadamisiz?
+[05:47] Alisher Yusupov: Ha, aloqadaman.
+[05:49] Zarina: Siz uchun yuk bor - LD-64789, past ramali tirkama, Andijondan yuklanadi, Farg'onaga tushiriladi.
+[05:51] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[05:53] Zarina: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[05:55] Alisher Yusupov: Bu reys uchun narx qancha?
+[05:57] Zarina: 3577 ming so'm, 551 km.
+[05:59] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[06:01] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:04] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[07:21] Zarina: Hozir qayerdasiz?
+[07:23] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[08:41] Zarina: LD-64789 bilan ishlar qalay?
+[08:43] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[10:07] Zarina: Yo'lda yangilik bormi?
+[10:09] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:12] Zarina: Biror narsa kerak bo'lsa ayting.
+[10:14] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:43] Zarina: LD-64789 bilan ishlar qalay?
+[10:45] Alisher Yusupov: Farg'onagacha taxminan 183 km qoldi.
+[10:48] Zarina: Biror narsa kerak bo'lsa ayting.
+[10:50] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[11:07] Zarina: Hozir qayerdasiz?
+[11:09] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[11:12] Zarina: O'zingizni qalay his qilyapsiz?
+[11:14] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[11:38] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[11:40] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[12:04] Zarina: LD-64789 bilan ishlar qalay?
+[12:06] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:09] Zarina: O'zingizni qalay his qilyapsiz?
+[12:11] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[13:39] Zarina: Holatingiz qanday?
+[13:41] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[13:44] Zarina: Biror narsa kerak bo'lsa ayting.
+[13:46] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[13:48] Zarina: Taxminan qachon yetib borasiz?
+[13:50] Alisher Yusupov: Taxminan 5pmda yetib boraman.
+[14:08] Zarina: Holatingiz qanday?
+[14:10] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[14:13] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:15] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[14:57] Zarina: Hozir qayerdasiz?
+[14:59] Alisher Yusupov: Farg'onagacha taxminan 383 km qoldi.
+[15:21] Zarina: Holatingiz qanday?
+[15:23] Alisher Yusupov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[16:23] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[16:25] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:41] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[17:43] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:46] Zarina: O'zingizni qalay his qilyapsiz?
+[17:48] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[18:44] Zarina: Holatingiz qanday?
+[18:46] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[19:06] Zarina: LD-64789 bilan ishlar qalay?
+[19:08] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:10] Zarina: Taxminan qachon yetib borasiz?
+[19:12] Alisher Yusupov: Ehtimol noon, balki ertaroq.
+[20:42] Zarina: Holatingiz qanday?
+[20:44] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:47] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:49] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[20:51] Zarina: Taxminan qachon yetib borasiz?
+[20:53] Alisher Yusupov: Agar tirbandlik bo'lmasa 10amda.
+[21:17] Alisher Yusupov: Haydash vaqtim limitiga yaqinlashyapman, atigi 30 minutes qoldi.
+[21:19] Zarina: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[22:16] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:18] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:03] Zarina: LD-64789 bilan ishlar qalay?
+[23:05] Alisher Yusupov: Farg'onagacha taxminan 168 km qoldi.
+[23:21] Zarina: Yo'lda yangilik bormi?
+[23:23] Alisher Yusupov: Farg'onagacha taxminan 438 km qoldi.
+[23:59] Zarina: Hozir qayerdasiz?
+[00:01] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:47] Zarina: LD-64789 bilan ishlar qalay?
+[00:49] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:27] Zarina: LD-64789 bilan ishlar qalay?
+[01:29] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:52] Zarina: LD-64789 bilan ishlar qalay?
+[01:54] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:53] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:55] Alisher Yusupov: Farg'onagacha taxminan 198 km qoldi.
+[03:31] Zarina: Yo'lda yangilik bormi?
+[03:33] Alisher Yusupov: Farg'onagacha taxminan 569 km qoldi.
+[04:29] Zarina: LD-64789 bilan ishlar qalay?
+[04:31] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:20] Zarina: LD-64789 bilan ishlar qalay?
+[05:22] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:13] Zarina: Hozir qayerdasiz?
+[06:15] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:50] Zarina: Holatingiz qanday?
+[06:52] Alisher Yusupov: Farg'onagacha taxminan 573 km qoldi.
+[07:44] Zarina: Holatingiz qanday?
+[07:46] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:13] Zarina: Yo'lda yangilik bormi?
+[08:15] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:08] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[09:10] Alisher Yusupov: Farg'onagacha taxminan 565 km qoldi.
+[09:59] Zarina: Hozir qayerdasiz?
+[10:01] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:36] Zarina: LD-64789 bilan ishlar qalay?
+[10:38] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:35] Zarina: Yo'lda yangilik bormi?
+[11:37] Alisher Yusupov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[11:54] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[11:56] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:43] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[12:45] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:28] Zarina: Holatingiz qanday?
+[13:30] Alisher Yusupov: Farg'onagacha taxminan 224 km qoldi.
+[13:54] Zarina: Hozir qayerdasiz?
+[13:56] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:33] Zarina: Holatingiz qanday?
+[14:35] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:57] Zarina: LD-64789 bilan ishlar qalay?
+[14:59] Alisher Yusupov: Farg'onagacha taxminan 255 km qoldi.
+[15:27] Zarina: Hozir qayerdasiz?
+[15:29] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:23] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[16:25] Alisher Yusupov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[17:08] Zarina: Yo'lda yangilik bormi?
+[17:10] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:54] Zarina: Yo'lda yangilik bormi?
+[17:56] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:47] Zarina: Yo'lda yangilik bormi?
+[18:49] Alisher Yusupov: Farg'onagacha taxminan 492 km qoldi.
+[19:36] Zarina: LD-64789 bilan ishlar qalay?
+[19:38] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:28] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[20:30] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:30] Zarina: LD-64789 bilan ishlar qalay?
+[21:32] Alisher Yusupov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[22:29] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:31] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:38] Alisher Yusupov: LD-64789 yukini Farg'onada hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:40] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[23:42] Alisher Yusupov: Ha, hozir rasmga olaman.
+[23:43] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:45] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[23:47] Alisher Yusupov: Yaxshi.
+[23:49] Zarina: Rahmat, aloqada bo'lamiz.

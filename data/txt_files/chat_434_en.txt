@@ -1,0 +1,126 @@
+Chat Log #434
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Young | Truck: #208 (step deck)
+Operator: Ashley
+Load: LD-11401 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-04-22
+--------------------------------------------------
+[10:05] Ashley: Hey Andre, how's it going?
+[10:06] Andre Young: Hey, yeah I'm here.
+[10:08] Ashley: Got a load for you - LD-11401, step deck, pickup in Detroit, MI, delivery to Cleveland, OH.
+[10:10] Andre Young: Ok, what's the pickup window?
+[10:12] Ashley: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[10:14] Andre Young: What's the rate on this one?
+[10:16] Ashley: $4102 all in, 839 miles.
+[10:18] Andre Young: Sounds good, I'll take it.
+[10:20] Ashley: Great, sending the rate confirmation now.
+[10:23] Andre Young: Got it, signed and sent back.
+[11:13] Ashley: How's LD-11401 looking?
+[11:15] Andre Young: Hit some traffic near Cleveland, OH, adding maybe 20 minutes.
+[11:18] Ashley: Let me know if you need anything.
+[11:20] Andre Young: Yeah, long one, but manageable.
+[12:19] Ashley: How's LD-11401 looking?
+[12:21] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[13:23] Ashley: Any updates on your progress?
+[13:25] Andre Young: Construction zone slowing everyone down.
+[13:28] Ashley: Appreciate you keeping me posted.
+[13:30] Andre Young: Will do, thanks for checking in.
+[14:26] Ashley: Any updates on your progress?
+[14:28] Andre Young: Will do, thanks for checking in.
+[14:31] Ashley: How are you holding up out there?
+[14:33] Andre Young: Doing alright, just tired.
+[14:35] Ashley: What's your ETA?
+[14:37] Andre Young: Looking at 7pm if traffic stays clear.
+[16:05] Ashley: What's your status?
+[16:07] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[17:28] Ashley: Where are you at right now?
+[17:30] Andre Young: Yeah, long one, but manageable.
+[17:56] Ashley: Still on schedule?
+[17:58] Andre Young: Weather's getting rough up ahead, heads up.
+[18:26] Ashley: Still on schedule?
+[18:28] Andre Young: Just crossed the state line, all good.
+[19:34] Ashley: What's your status?
+[19:36] Andre Young: Stopped for a quick break, back on the road in a few.
+[20:40] Ashley: What's your status?
+[20:42] Andre Young: Roads are clear now, moving well.
+[21:25] Ashley: How's LD-11401 looking?
+[21:27] Andre Young: Construction zone slowing everyone down.
+[22:23] Ashley: What's your status?
+[22:25] Andre Young: Yeah, long one, but manageable.
+[23:08] Ashley: How's LD-11401 looking?
+[23:10] Andre Young: Construction zone slowing everyone down.
+[00:20] Ashley: Where are you at right now?
+[00:22] Andre Young: Roads are clear now, moving well.
+[01:35] Ashley: What's your status?
+[01:37] Andre Young: No problem, just doing my job.
+[01:55] Andre Young: Still sitting at the receiver, been here almost 4 hours already.
+[01:57] Ashley: Let me call them and see what's going on.
+[02:07] Ashley: Ok talked to them, they said 30 more minutes, forklift issue.
+[02:09] Andre Young: Make sure detention pay gets logged for this.
+[02:11] Ashley: Already noted, don't worry, you'll get paid for the wait.
+[03:00] Ashley: How's LD-11401 looking?
+[03:02] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[03:50] Ashley: Still on schedule?
+[03:52] Andre Young: Stopped for a quick break, back on the road in a few.
+[04:43] Ashley: What's your status?
+[04:45] Andre Young: Just crossed the state line, all good.
+[05:23] Ashley: What's your status?
+[05:25] Andre Young: Making good time, no issues so far.
+[05:57] Ashley: What's your status?
+[05:59] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[06:19] Ashley: Where are you at right now?
+[06:21] Andre Young: Just passed Cleveland, OH, everything's fine.
+[07:15] Ashley: Where are you at right now?
+[07:17] Andre Young: Stopped for a quick break, back on the road in a few.
+[07:52] Ashley: How's LD-11401 looking?
+[07:54] Andre Young: Stopped for a quick break, back on the road in a few.
+[08:43] Ashley: Any updates on your progress?
+[08:45] Andre Young: Just crossed the state line, all good.
+[09:05] Ashley: Any updates on your progress?
+[09:07] Andre Young: Stopped for a quick break, back on the road in a few.
+[10:06] Ashley: Where are you at right now?
+[10:08] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[10:24] Ashley: Any updates on your progress?
+[10:26] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[10:42] Ashley: What's your status?
+[10:44] Andre Young: Stopped for a quick break, back on the road in a few.
+[11:19] Ashley: What's your status?
+[11:21] Andre Young: Making good time, no issues so far.
+[11:40] Ashley: Still on schedule?
+[11:42] Andre Young: Making good time, no issues so far.
+[12:07] Ashley: Still on schedule?
+[12:09] Andre Young: Just crossed the state line, all good.
+[12:44] Ashley: Still on schedule?
+[12:46] Andre Young: About 400 miles out from Cleveland, OH now.
+[13:07] Ashley: Any updates on your progress?
+[13:09] Andre Young: Making good time, no issues so far.
+[13:36] Ashley: Still on schedule?
+[13:38] Andre Young: Traffic's a bit heavy but I'm still on schedule.
+[13:56] Ashley: How's LD-11401 looking?
+[13:58] Andre Young: Just passed Detroit, MI, everything's fine.
+[14:23] Ashley: Still on schedule?
+[14:25] Andre Young: Just crossed the state line, all good.
+[15:17] Ashley: Still on schedule?
+[15:19] Andre Young: Just crossed the state line, all good.
+[16:17] Ashley: How's LD-11401 looking?
+[16:19] Andre Young: Just passed Cleveland, OH, everything's fine.
+[16:59] Ashley: Where are you at right now?
+[17:01] Andre Young: Just crossed the state line, all good.
+[17:42] Ashley: How's LD-11401 looking?
+[17:44] Andre Young: Stopped for a quick break, back on the road in a few.
+[18:44] Ashley: How's LD-11401 looking?
+[18:46] Andre Young: Stopped for a quick break, back on the road in a few.
+[19:11] Ashley: What's your status?
+[19:13] Andre Young: Just passed Detroit, MI, everything's fine.
+[20:05] Ashley: Any updates on your progress?
+[20:07] Andre Young: Just passed Detroit, MI, everything's fine.
+[20:55] Ashley: Any updates on your progress?
+[20:57] Andre Young: Just passed Cleveland, OH, everything's fine.
+[22:14] Andre Young: Just delivered LD-11401 at Cleveland, OH, all good, no damages.
+[22:16] Ashley: Do you have the signed BOL?
+[22:18] Andre Young: Yep, taking a picture now.
+[22:19] Andre Young: [Image attached: signed_bol.jpg]
+[22:21] Ashley: Sending you the next load details shortly.
+[22:23] Andre Young: Copy that.
+[22:25] Ashley: Appreciate it, talk soon.

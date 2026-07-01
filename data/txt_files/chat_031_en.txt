@@ -1,0 +1,130 @@
+Chat Log #031
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Taylor | Truck: #424 (reefer)
+Operator: Megan
+Load: LD-75601 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-06-10
+--------------------------------------------------
+[17:33] Megan: Hey Brian, how's it going?
+[17:34] Brian Taylor: Morning, all good on my end.
+[17:36] Megan: Got a load for you - LD-75601, reefer, pickup in Nashville, TN, delivery to Birmingham, AL.
+[17:38] Brian Taylor: Ok, what's the pickup window?
+[17:40] Megan: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[17:42] Brian Taylor: What's the rate on this one?
+[17:44] Megan: $3501 all in, 799 miles.
+[17:46] Brian Taylor: Sounds good, I'll take it.
+[17:48] Megan: Great, sending the rate confirmation now.
+[17:51] Brian Taylor: Got it, signed and sent back.
+[18:52] Megan: What's your status?
+[18:54] Brian Taylor: Just topped off the tank.
+[19:55] Megan: Any updates on your progress?
+[19:57] Brian Taylor: Yeah, long one, but manageable.
+[20:00] Megan: Long trip, huh? Get some rest when you can.
+[20:02] Brian Taylor: Will do, thanks for checking in.
+[20:39] Megan: What's your status?
+[20:41] Brian Taylor: Roads are clear now, moving well.
+[20:44] Megan: How are you holding up out there?
+[20:46] Brian Taylor: Will do, thanks for checking in.
+[21:27] Megan: Where are you at right now?
+[21:29] Brian Taylor: Yeah, long one, but manageable.
+[21:31] Megan: What's your ETA?
+[21:33] Brian Taylor: Probably 3pm, maybe a bit earlier.
+[22:58] Megan: Any updates on your progress?
+[23:00] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[23:44] Megan: Any updates on your progress?
+[23:46] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[23:48] Megan: What's your ETA?
+[23:50] Brian Taylor: Should be there around 3pm.
+[00:16] Megan: Where are you at right now?
+[00:18] Brian Taylor: Just crossed the state line, all good.
+[00:21] Megan: Let me know if you need anything.
+[00:23] Brian Taylor: Doing alright, just tired.
+[00:38] Megan: Still on schedule?
+[00:40] Brian Taylor: Just crossed the state line, all good.
+[00:43] Megan: Long trip, huh? Get some rest when you can.
+[00:45] Brian Taylor: Yeah, long one, but manageable.
+[01:27] Megan: How's LD-75601 looking?
+[01:29] Brian Taylor: Just passed Birmingham, AL, everything's fine.
+[01:31] Megan: What's your ETA?
+[01:33] Brian Taylor: Probably 3pm, maybe a bit earlier.
+[02:13] Megan: Where are you at right now?
+[02:15] Brian Taylor: Just crossed the state line, all good.
+[02:18] Megan: Let me know if you need anything.
+[02:20] Brian Taylor: Yeah, long one, but manageable.
+[03:41] Megan: What's your status?
+[03:43] Brian Taylor: Just topped off the tank.
+[03:45] Megan: What's your ETA?
+[03:47] Brian Taylor: Looking at 7pm if traffic stays clear.
+[04:28] Megan: Where are you at right now?
+[04:30] Brian Taylor: Stopping for fuel in a bit.
+[04:33] Megan: Let me know if you need anything.
+[04:35] Brian Taylor: Yeah, long one, but manageable.
+[05:48] Megan: Any updates on your progress?
+[05:50] Brian Taylor: Stopping for fuel in a bit.
+[05:53] Megan: Long trip, huh? Get some rest when you can.
+[05:55] Brian Taylor: Doing alright, just tired.
+[06:59] Megan: What's your status?
+[07:01] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[07:30] Megan: How's LD-75601 looking?
+[07:32] Brian Taylor: Clear skies here, no problems.
+[08:05] Megan: Still on schedule?
+[08:07] Brian Taylor: Rain is picking up here, slowing down a bit.
+[08:09] Megan: What's your ETA?
+[08:11] Brian Taylor: Probably 10am, maybe a bit earlier.
+[08:42] Megan: Any updates on your progress?
+[08:44] Brian Taylor: Will do, thanks for checking in.
+[09:31] Megan: What's your status?
+[09:33] Brian Taylor: Will do, thanks for checking in.
+[09:59] Megan: Where are you at right now?
+[10:01] Brian Taylor: Stopping for fuel in a bit.
+[10:34] Brian Taylor: Still sitting at the receiver, been here almost 3 hours already.
+[10:36] Megan: Let me call them and see what's going on.
+[10:46] Megan: Ok talked to them, they said 30 more minutes, forklift issue.
+[10:48] Brian Taylor: Make sure detention pay gets logged for this.
+[10:50] Megan: Already noted, don't worry, you'll get paid for the wait.
+[11:47] Megan: How's LD-75601 looking?
+[11:49] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[12:25] Megan: Still on schedule?
+[12:27] Brian Taylor: About 201 miles out from Birmingham, AL now.
+[12:56] Megan: What's your status?
+[12:58] Brian Taylor: About 591 miles out from Birmingham, AL now.
+[13:24] Megan: What's your status?
+[13:26] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[14:07] Megan: How's LD-75601 looking?
+[14:09] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[14:35] Megan: How's LD-75601 looking?
+[14:37] Brian Taylor: Making good time, no issues so far.
+[15:07] Megan: How's LD-75601 looking?
+[15:09] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[16:07] Megan: Any updates on your progress?
+[16:09] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[17:01] Megan: What's your status?
+[17:03] Brian Taylor: Just crossed the state line, all good.
+[17:56] Megan: Any updates on your progress?
+[17:58] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[18:48] Megan: How's LD-75601 looking?
+[18:50] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[19:39] Megan: Still on schedule?
+[19:41] Brian Taylor: Making good time, no issues so far.
+[20:34] Megan: What's your status?
+[20:36] Brian Taylor: Making good time, no issues so far.
+[21:24] Megan: Still on schedule?
+[21:26] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:06] Megan: How's LD-75601 looking?
+[22:08] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:48] Megan: Still on schedule?
+[22:50] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[23:05] Megan: What's your status?
+[23:07] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[00:01] Megan: Any updates on your progress?
+[00:03] Brian Taylor: Just passed Nashville, TN, everything's fine.
+[00:37] Megan: Where are you at right now?
+[00:39] Brian Taylor: Just crossed the state line, all good.
+[02:05] Brian Taylor: Just delivered LD-75601 at Birmingham, AL, all good, no damages.
+[02:07] Megan: Do you have the signed BOL?
+[02:09] Brian Taylor: Yep, taking a picture now.
+[02:10] Brian Taylor: [Image attached: signed_bol.jpg]
+[02:12] Megan: Sending you the next load details shortly.
+[02:14] Brian Taylor: Copy that.
+[02:16] Megan: Thanks for the update, drive safe.

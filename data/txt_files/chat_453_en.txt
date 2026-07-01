@@ -1,0 +1,130 @@
+Chat Log #453
+Company: Silk Road Logistics
+Language: English
+Driver: Daniel Lopez | Truck: #776 (step deck)
+Operator: Amanda
+Load: LD-18517 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-02-03
+--------------------------------------------------
+[14:10] Amanda: Hey Daniel, how's it going?
+[14:11] Daniel Lopez: Hey, yeah I'm here.
+[14:13] Amanda: Got a load for you - LD-18517, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[14:15] Daniel Lopez: Ok, what's the pickup window?
+[14:17] Amanda: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[14:19] Daniel Lopez: What's the rate on this one?
+[14:21] Amanda: $2538 all in, 797 miles.
+[14:23] Daniel Lopez: Sounds good, I'll take it.
+[14:25] Amanda: Great, sending the rate confirmation now.
+[14:28] Daniel Lopez: Got it, signed and sent back.
+[15:21] Amanda: Any updates on your progress?
+[15:23] Daniel Lopez: Making good time, no issues so far.
+[15:56] Amanda: Still on schedule?
+[15:58] Daniel Lopez: Roads are clear now, moving well.
+[16:01] Amanda: Let me know if you need anything.
+[16:03] Daniel Lopez: Will do, thanks for checking in.
+[16:05] Amanda: What's your ETA?
+[16:07] Daniel Lopez: Should be there around 10am.
+[16:34] Amanda: Any updates on your progress?
+[16:36] Daniel Lopez: Just topped off the tank.
+[16:39] Amanda: How are you holding up out there?
+[16:41] Daniel Lopez: Yeah, long one, but manageable.
+[16:58] Amanda: What's your status?
+[17:00] Daniel Lopez: Fuel prices are decent around here.
+[17:03] Amanda: How are you holding up out there?
+[17:05] Daniel Lopez: Yeah, long one, but manageable.
+[17:23] Amanda: Where are you at right now?
+[17:25] Daniel Lopez: Doing alright, just tired.
+[17:28] Amanda: Long trip, huh? Get some rest when you can.
+[17:30] Daniel Lopez: Will do, thanks for checking in.
+[17:32] Amanda: What's your ETA?
+[17:34] Daniel Lopez: Probably 5pm, maybe a bit earlier.
+[17:50] Amanda: Where are you at right now?
+[17:52] Daniel Lopez: Just passed Birmingham, AL, everything's fine.
+[17:55] Amanda: Long trip, huh? Get some rest when you can.
+[17:57] Daniel Lopez: Yeah, long one, but manageable.
+[17:59] Amanda: What's your ETA?
+[18:01] Daniel Lopez: Should be there around 5pm.
+[18:45] Amanda: How's LD-18517 looking?
+[18:47] Daniel Lopez: Just passed Birmingham, AL, everything's fine.
+[18:49] Amanda: What's your ETA?
+[18:51] Daniel Lopez: Looking at 10am if traffic stays clear.
+[19:42] Amanda: Where are you at right now?
+[19:44] Daniel Lopez: Just crossed the state line, all good.
+[19:47] Amanda: Let me know if you need anything.
+[19:49] Daniel Lopez: Doing alright, just tired.
+[21:04] Amanda: Where are you at right now?
+[21:06] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[22:16] Amanda: How's LD-18517 looking?
+[22:18] Daniel Lopez: Weather's getting rough up ahead, heads up.
+[22:21] Amanda: How are you holding up out there?
+[22:23] Daniel Lopez: No problem, just doing my job.
+[22:25] Amanda: What's your ETA?
+[22:27] Daniel Lopez: Probably 5pm, maybe a bit earlier.
+[23:35] Amanda: Any updates on your progress?
+[23:37] Daniel Lopez: About 29 miles out from Birmingham, AL now.
+[23:40] Amanda: Let me know if you need anything.
+[23:42] Daniel Lopez: No problem, just doing my job.
+[23:44] Amanda: What's your ETA?
+[23:46] Daniel Lopez: Probably 3pm, maybe a bit earlier.
+[01:14] Amanda: Still on schedule?
+[01:16] Daniel Lopez: Roads are clear now, moving well.
+[01:19] Amanda: Appreciate you keeping me posted.
+[01:21] Daniel Lopez: Will do, thanks for checking in.
+[01:23] Amanda: What's your ETA?
+[01:25] Daniel Lopez: Looking at 3pm if traffic stays clear.
+[01:42] Amanda: How's LD-18517 looking?
+[01:44] Daniel Lopez: Roads are clear now, moving well.
+[02:54] Amanda: How's LD-18517 looking?
+[02:56] Daniel Lopez: Weather's getting rough up ahead, heads up.
+[03:16] Amanda: Any updates on your progress?
+[03:18] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[03:21] Amanda: How are you holding up out there?
+[03:23] Daniel Lopez: Doing alright, just tired.
+[03:25] Amanda: What's your ETA?
+[03:27] Daniel Lopez: Should be there around 10am.
+[03:54] Amanda: What's your status?
+[03:56] Daniel Lopez: Yeah, long one, but manageable.
+[05:03] Amanda: How's LD-18517 looking?
+[05:05] Daniel Lopez: Roads are wet, taking it easy.
+[05:08] Amanda: Appreciate you keeping me posted.
+[05:10] Daniel Lopez: Doing alright, just tired.
+[05:33] Daniel Lopez: Still sitting at the receiver, been here almost 2 hours already.
+[05:35] Amanda: Let me call them and see what's going on.
+[05:45] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:47] Daniel Lopez: Make sure detention pay gets logged for this.
+[05:49] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[06:42] Amanda: Where are you at right now?
+[06:44] Daniel Lopez: Just passed Birmingham, AL, everything's fine.
+[07:02] Amanda: What's your status?
+[07:04] Daniel Lopez: Stopped for a quick break, back on the road in a few.
+[07:19] Amanda: What's your status?
+[07:21] Daniel Lopez: About 95 miles out from Birmingham, AL now.
+[08:07] Amanda: Where are you at right now?
+[08:09] Daniel Lopez: Making good time, no issues so far.
+[08:30] Amanda: Where are you at right now?
+[08:32] Daniel Lopez: Just passed Birmingham, AL, everything's fine.
+[08:59] Amanda: What's your status?
+[09:01] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[09:22] Amanda: Where are you at right now?
+[09:24] Daniel Lopez: Making good time, no issues so far.
+[10:19] Amanda: What's your status?
+[10:21] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[11:07] Amanda: Still on schedule?
+[11:09] Daniel Lopez: Just crossed the state line, all good.
+[11:31] Amanda: What's your status?
+[11:33] Daniel Lopez: Just passed Nashville, TN, everything's fine.
+[12:18] Amanda: Where are you at right now?
+[12:20] Daniel Lopez: Just crossed the state line, all good.
+[13:08] Amanda: What's your status?
+[13:10] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[13:29] Amanda: Any updates on your progress?
+[13:31] Daniel Lopez: Just crossed the state line, all good.
+[14:14] Amanda: How's LD-18517 looking?
+[14:16] Daniel Lopez: Traffic's a bit heavy but I'm still on schedule.
+[15:43] Daniel Lopez: Just delivered LD-18517 at Birmingham, AL, all good, no damages.
+[15:45] Amanda: Do you have the signed BOL?
+[15:47] Daniel Lopez: Yep, taking a picture now.
+[15:48] Daniel Lopez: [Image attached: signed_bol.jpg]
+[15:50] Amanda: Sending you the next load details shortly.
+[15:52] Daniel Lopez: Will do.
+[15:54] Amanda: Thanks for the update, drive safe.

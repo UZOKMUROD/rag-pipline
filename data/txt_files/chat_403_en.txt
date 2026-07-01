@@ -1,0 +1,128 @@
+Chat Log #403
+Company: Silk Road Logistics
+Language: English
+Driver: Jason Martinez | Truck: #504 (flatbed)
+Operator: Emily
+Load: LD-27052 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-03-23
+--------------------------------------------------
+[12:41] Emily: Jason, got a minute?
+[12:42] Jason Martinez: Morning, all good on my end.
+[12:44] Emily: Got a load for you - LD-27052, flatbed, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[12:46] Jason Martinez: Ok, what's the pickup window?
+[12:48] Emily: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[12:50] Jason Martinez: What's the rate on this one?
+[12:52] Emily: $2971 all in, 562 miles.
+[12:54] Jason Martinez: Sounds good, I'll take it.
+[12:56] Emily: Great, sending the rate confirmation now.
+[12:59] Jason Martinez: Got it, signed and sent back.
+[14:01] Emily: Still on schedule?
+[14:03] Jason Martinez: Stopping for fuel in a bit.
+[14:20] Emily: Still on schedule?
+[14:22] Jason Martinez: Fuel prices are decent around here.
+[15:08] Emily: Still on schedule?
+[15:10] Jason Martinez: Accident up ahead, traffic's backed up.
+[15:12] Emily: What's your ETA?
+[15:14] Jason Martinez: Looking at noon if traffic stays clear.
+[16:42] Emily: How's LD-27052 looking?
+[16:44] Jason Martinez: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[16:47] Emily: How are you holding up out there?
+[16:49] Jason Martinez: No problem, just doing my job.
+[17:21] Emily: Where are you at right now?
+[17:23] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[18:24] Emily: Still on schedule?
+[18:26] Jason Martinez: Hit some traffic near Los Angeles, CA, adding maybe 20 minutes.
+[18:29] Emily: Let me know if you need anything.
+[18:31] Jason Martinez: Yeah, long one, but manageable.
+[19:10] Emily: Where are you at right now?
+[19:12] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[19:14] Emily: What's your ETA?
+[19:16] Jason Martinez: Probably 5pm, maybe a bit earlier.
+[20:46] Emily: Any updates on your progress?
+[20:48] Jason Martinez: Doing alright, just tired.
+[20:51] Emily: Let me know if you need anything.
+[20:53] Jason Martinez: Yeah, long one, but manageable.
+[21:21] Emily: Still on schedule?
+[21:23] Jason Martinez: Just crossed the state line, all good.
+[21:25] Emily: What's your ETA?
+[21:27] Jason Martinez: Looking at 10am if traffic stays clear.
+[21:57] Emily: Still on schedule?
+[21:59] Jason Martinez: Roads are clear now, moving well.
+[22:01] Emily: What's your ETA?
+[22:03] Jason Martinez: Should be there around noon.
+[23:04] Emily: What's your status?
+[23:06] Jason Martinez: Just topped off the tank.
+[23:09] Emily: How are you holding up out there?
+[23:11] Jason Martinez: No problem, just doing my job.
+[23:13] Emily: What's your ETA?
+[23:15] Jason Martinez: Should be there around 7pm.
+[00:25] Emily: How's LD-27052 looking?
+[00:27] Jason Martinez: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[00:52] Emily: How's LD-27052 looking?
+[00:54] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[00:57] Emily: Long trip, huh? Get some rest when you can.
+[00:59] Jason Martinez: Will do, thanks for checking in.
+[02:29] Emily: What's your status?
+[02:31] Jason Martinez: Yeah, long one, but manageable.
+[02:56] Emily: Still on schedule?
+[02:58] Jason Martinez: Stopping for fuel in a bit.
+[03:01] Emily: Let me know if you need anything.
+[03:03] Jason Martinez: Will do, thanks for checking in.
+[03:05] Emily: What's your ETA?
+[03:07] Jason Martinez: Probably 5pm, maybe a bit earlier.
+[04:00] Emily: How's LD-27052 looking?
+[04:02] Jason Martinez: Construction zone slowing everyone down.
+[05:22] Emily: How's LD-27052 looking?
+[05:24] Jason Martinez: Fuel prices are decent around here.
+[05:27] Emily: Let me know if you need anything.
+[05:29] Jason Martinez: Will do, thanks for checking in.
+[06:14] Emily: What's your status?
+[06:16] Jason Martinez: Stopping for fuel in a bit.
+[07:29] Emily: Any updates on your progress?
+[07:31] Jason Martinez: Roads are clear now, moving well.
+[07:34] Emily: Appreciate you keeping me posted.
+[07:36] Jason Martinez: No problem, just doing my job.
+[07:38] Emily: What's your ETA?
+[07:40] Jason Martinez: Should be there around 10am.
+[08:31] Emily: Any updates on your progress?
+[08:33] Jason Martinez: Roads are wet, taking it easy.
+[08:36] Emily: Long trip, huh? Get some rest when you can.
+[08:38] Jason Martinez: Doing alright, just tired.
+[09:12] Emily: Any updates on your progress?
+[09:14] Jason Martinez: Will do, thanks for checking in.
+[09:17] Emily: Let me know if you need anything.
+[09:19] Jason Martinez: Will do, thanks for checking in.
+[09:46] Jason Martinez: Still sitting at the shipper, been here almost 2 hours already.
+[09:48] Emily: Let me call them and see what's going on.
+[09:58] Emily: Ok talked to them, they said 30 more minutes, forklift issue.
+[10:00] Jason Martinez: Make sure detention pay gets logged for this.
+[10:02] Emily: Already noted, don't worry, you'll get paid for the wait.
+[10:41] Emily: Where are you at right now?
+[10:43] Jason Martinez: Just passed Phoenix, AZ, everything's fine.
+[11:42] Emily: Where are you at right now?
+[11:44] Jason Martinez: Just crossed the state line, all good.
+[12:34] Emily: Any updates on your progress?
+[12:36] Jason Martinez: Stopped for a quick break, back on the road in a few.
+[13:15] Emily: How's LD-27052 looking?
+[13:17] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[14:17] Emily: What's your status?
+[14:19] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[15:13] Emily: Any updates on your progress?
+[15:15] Jason Martinez: Stopped for a quick break, back on the road in a few.
+[15:53] Emily: What's your status?
+[15:55] Jason Martinez: About 158 miles out from Phoenix, AZ now.
+[16:42] Emily: Still on schedule?
+[16:44] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[17:12] Emily: What's your status?
+[17:14] Jason Martinez: Traffic's a bit heavy but I'm still on schedule.
+[17:51] Emily: Any updates on your progress?
+[17:53] Jason Martinez: Just crossed the state line, all good.
+[18:27] Emily: How's LD-27052 looking?
+[18:29] Jason Martinez: Making good time, no issues so far.
+[19:50] Jason Martinez: Just delivered LD-27052 at Phoenix, AZ, all good, no damages.
+[19:52] Emily: Do you have the signed BOL?
+[19:54] Jason Martinez: Yep, taking a picture now.
+[19:55] Jason Martinez: [Image attached: signed_bol.jpg]
+[19:57] Emily: Sending you the next load details shortly.
+[19:59] Jason Martinez: Will do.
+[20:01] Emily: Appreciate it, talk soon.

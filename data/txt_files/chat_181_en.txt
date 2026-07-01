@@ -1,0 +1,127 @@
+Chat Log #181
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Taylor | Truck: #661 (flatbed)
+Operator: Sarah
+Load: LD-78794 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-02-09
+--------------------------------------------------
+[16:12] Sarah: Hey Kevin, how's it going?
+[16:13] Kevin Taylor: Hey, yeah I'm here.
+[16:15] Sarah: Got a load for you - LD-78794, flatbed, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[16:17] Kevin Taylor: Ok, what's the pickup window?
+[16:19] Sarah: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[16:21] Kevin Taylor: What's the rate on this one?
+[16:23] Sarah: $2910 all in, 418 miles.
+[16:25] Kevin Taylor: Sounds good, I'll take it.
+[16:27] Sarah: Great, sending the rate confirmation now.
+[16:30] Kevin Taylor: Got it, signed and sent back.
+[17:13] Sarah: Any updates on your progress?
+[17:15] Kevin Taylor: Weather's getting rough up ahead, heads up.
+[17:18] Sarah: How are you holding up out there?
+[17:20] Kevin Taylor: Will do, thanks for checking in.
+[18:01] Sarah: How's LD-78794 looking?
+[18:03] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[18:33] Sarah: Still on schedule?
+[18:35] Kevin Taylor: Construction zone slowing everyone down.
+[18:38] Sarah: Appreciate you keeping me posted.
+[18:40] Kevin Taylor: Will do, thanks for checking in.
+[19:16] Sarah: Any updates on your progress?
+[19:18] Kevin Taylor: About 67 miles out from St. Louis, MO now.
+[19:56] Sarah: Still on schedule?
+[19:58] Kevin Taylor: Will do, thanks for checking in.
+[20:37] Sarah: How's LD-78794 looking?
+[20:39] Kevin Taylor: Weather's getting rough up ahead, heads up.
+[21:45] Sarah: How's LD-78794 looking?
+[21:47] Kevin Taylor: Construction zone slowing everyone down.
+[23:16] Sarah: Where are you at right now?
+[23:18] Kevin Taylor: Rain is picking up here, slowing down a bit.
+[23:21] Sarah: How are you holding up out there?
+[23:23] Kevin Taylor: No problem, just doing my job.
+[23:25] Sarah: What's your ETA?
+[23:27] Kevin Taylor: Probably 3pm, maybe a bit earlier.
+[00:20] Sarah: Where are you at right now?
+[00:22] Kevin Taylor: Doing alright, just tired.
+[00:25] Sarah: Long trip, huh? Get some rest when you can.
+[00:27] Kevin Taylor: Yeah, long one, but manageable.
+[00:29] Sarah: What's your ETA?
+[00:31] Kevin Taylor: Probably 7pm, maybe a bit earlier.
+[00:52] Sarah: What's your status?
+[00:54] Kevin Taylor: Just topped off the tank.
+[01:18] Sarah: How's LD-78794 looking?
+[01:20] Kevin Taylor: Yeah, long one, but manageable.
+[01:41] Sarah: How's LD-78794 looking?
+[01:43] Kevin Taylor: Making good time, no issues so far.
+[03:07] Sarah: Any updates on your progress?
+[03:09] Kevin Taylor: Making good time, no issues so far.
+[03:12] Sarah: Appreciate you keeping me posted.
+[03:14] Kevin Taylor: No problem, just doing my job.
+[03:57] Sarah: Where are you at right now?
+[03:59] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[04:40] Sarah: How's LD-78794 looking?
+[04:42] Kevin Taylor: Just topped off the tank.
+[04:45] Sarah: Appreciate you keeping me posted.
+[04:47] Kevin Taylor: Doing alright, just tired.
+[04:49] Sarah: What's your ETA?
+[04:51] Kevin Taylor: Probably 7pm, maybe a bit earlier.
+[05:59] Sarah: What's your status?
+[06:01] Kevin Taylor: Accident up ahead, traffic's backed up.
+[06:04] Sarah: Let me know if you need anything.
+[06:06] Kevin Taylor: Will do, thanks for checking in.
+[07:18] Sarah: Where are you at right now?
+[07:20] Kevin Taylor: Just passed Kansas City, MO, everything's fine.
+[07:50] Sarah: Any updates on your progress?
+[07:52] Kevin Taylor: Just crossed the state line, all good.
+[08:43] Sarah: What's your status?
+[08:45] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[09:39] Sarah: Any updates on your progress?
+[09:41] Kevin Taylor: Just passed St. Louis, MO, everything's fine.
+[10:35] Sarah: What's your status?
+[10:37] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[10:56] Sarah: What's your status?
+[10:58] Kevin Taylor: Making good time, no issues so far.
+[11:30] Sarah: Any updates on your progress?
+[11:32] Kevin Taylor: Just crossed the state line, all good.
+[12:29] Sarah: Still on schedule?
+[12:31] Kevin Taylor: Making good time, no issues so far.
+[12:57] Sarah: Any updates on your progress?
+[12:59] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[13:31] Sarah: Where are you at right now?
+[13:33] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[14:18] Sarah: Any updates on your progress?
+[14:20] Kevin Taylor: Just crossed the state line, all good.
+[14:52] Sarah: Where are you at right now?
+[14:54] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[15:21] Sarah: Where are you at right now?
+[15:23] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[15:50] Sarah: What's your status?
+[15:52] Kevin Taylor: Just passed St. Louis, MO, everything's fine.
+[16:30] Sarah: Where are you at right now?
+[16:32] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[16:49] Sarah: Any updates on your progress?
+[16:51] Kevin Taylor: Just crossed the state line, all good.
+[17:46] Sarah: How's LD-78794 looking?
+[17:48] Kevin Taylor: Just passed St. Louis, MO, everything's fine.
+[18:39] Sarah: How's LD-78794 looking?
+[18:41] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[18:58] Sarah: Any updates on your progress?
+[19:00] Kevin Taylor: Making good time, no issues so far.
+[19:34] Sarah: Where are you at right now?
+[19:36] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[20:20] Sarah: Still on schedule?
+[20:22] Kevin Taylor: Just passed St. Louis, MO, everything's fine.
+[20:53] Sarah: How's LD-78794 looking?
+[20:55] Kevin Taylor: About 246 miles out from St. Louis, MO now.
+[21:27] Sarah: What's your status?
+[21:29] Kevin Taylor: Just passed Kansas City, MO, everything's fine.
+[21:46] Sarah: Still on schedule?
+[21:48] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[22:44] Sarah: Still on schedule?
+[22:46] Kevin Taylor: Just passed St. Louis, MO, everything's fine.
+[00:05] Kevin Taylor: Just delivered LD-78794 at St. Louis, MO, all good, no damages.
+[00:07] Sarah: Do you have the signed BOL?
+[00:09] Kevin Taylor: Yep, taking a picture now.
+[00:10] Kevin Taylor: [Image attached: signed_bol.jpg]
+[00:12] Sarah: Sending you the next load details shortly.
+[00:14] Kevin Taylor: Sounds good.
+[00:16] Sarah: Thanks for the update, drive safe.

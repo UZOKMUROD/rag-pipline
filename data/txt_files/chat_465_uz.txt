@@ -1,0 +1,155 @@
+Chat Log #465
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #850 (tentli furgon)
+Operator: Malika
+Load: LD-31942 | Route: Jizzax -> Guliston
+Date: 2026-03-20
+--------------------------------------------------
+[19:37] Malika: Salom, Alisher, ishlar qalay?
+[19:38] Alisher Yusupov: Ha, aloqadaman.
+[19:40] Malika: Siz uchun yuk bor - LD-31942, tentli furgon, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[19:42] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[19:44] Malika: Yuklash 08:00-10:00, tushirish esa ertaga 09:00 bo'ladi.
+[19:46] Alisher Yusupov: Bu reys uchun narx qancha?
+[19:48] Malika: 3094 ming so'm, 886 km.
+[19:50] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[19:52] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[19:55] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[20:40] Malika: Yo'lda yangilik bormi?
+[20:42] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[21:46] Malika: LD-31942 bilan ishlar qalay?
+[21:48] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:55] Malika: Yo'lda yangilik bormi?
+[22:57] Alisher Yusupov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:00] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:02] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[23:37] Malika: Hozir qayerdasiz?
+[23:39] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:11] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[00:13] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:05] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:07] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:09] Malika: Taxminan qachon yetib borasiz?
+[01:11] Alisher Yusupov: Ehtimol 3pm, balki ertaroq.
+[02:33] Malika: LD-31942 bilan ishlar qalay?
+[02:35] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[02:37] Malika: Taxminan qachon yetib borasiz?
+[02:39] Alisher Yusupov: Ehtimol 3pm, balki ertaroq.
+[03:54] Malika: Yo'lda yangilik bormi?
+[03:56] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[03:58] Malika: Taxminan qachon yetib borasiz?
+[04:00] Alisher Yusupov: Ehtimol 5pm, balki ertaroq.
+[04:30] Malika: Holatingiz qanday?
+[04:32] Alisher Yusupov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[04:35] Malika: Xabar berib turganingiz uchun rahmat.
+[04:37] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[05:51] Malika: Yo'lda yangilik bormi?
+[05:53] Alisher Yusupov: Gulistongacha taxminan 177 km qoldi.
+[05:56] Malika: Biror narsa kerak bo'lsa ayting.
+[05:58] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[06:00] Malika: Taxminan qachon yetib borasiz?
+[06:02] Alisher Yusupov: Agar tirbandlik bo'lmasa 5pmda.
+[07:19] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:21] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[07:24] Malika: Xabar berib turganingiz uchun rahmat.
+[07:26] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[07:47] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:49] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:51] Malika: Taxminan qachon yetib borasiz?
+[07:53] Alisher Yusupov: Agar tirbandlik bo'lmasa 3pmda.
+[08:50] Malika: Hozir qayerdasiz?
+[08:52] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:53] Malika: Yo'lda yangilik bormi?
+[09:55] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[10:40] Malika: LD-31942 bilan ishlar qalay?
+[10:42] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:37] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[11:39] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:15] Malika: Yo'lda yangilik bormi?
+[12:17] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:17] Malika: LD-31942 bilan ishlar qalay?
+[13:19] Alisher Yusupov: Gulistongacha taxminan 274 km qoldi.
+[14:16] Malika: Yo'lda yangilik bormi?
+[14:18] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:02] Malika: Yo'lda yangilik bormi?
+[15:04] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:47] Malika: Hozir qayerdasiz?
+[15:49] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:34] Malika: Hozir qayerdasiz?
+[16:36] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:31] Malika: Holatingiz qanday?
+[17:33] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:02] Malika: LD-31942 bilan ishlar qalay?
+[18:04] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:53] Malika: Hozir qayerdasiz?
+[18:55] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:42] Malika: LD-31942 bilan ishlar qalay?
+[19:44] Alisher Yusupov: Gulistongacha taxminan 72 km qoldi.
+[20:05] Malika: Hozir qayerdasiz?
+[20:07] Alisher Yusupov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[20:26] Malika: Yo'lda yangilik bormi?
+[20:28] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:09] Malika: LD-31942 bilan ishlar qalay?
+[21:11] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:05] Malika: Yo'lda yangilik bormi?
+[22:07] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:43] Malika: Yo'lda yangilik bormi?
+[22:45] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:43] Malika: Holatingiz qanday?
+[23:45] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:07] Malika: Hozir qayerdasiz?
+[00:09] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:40] Malika: Holatingiz qanday?
+[00:42] Alisher Yusupov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[00:58] Malika: Yo'lda yangilik bormi?
+[01:00] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:58] Malika: Yo'lda yangilik bormi?
+[02:00] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:30] Malika: Hozir qayerdasiz?
+[02:32] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:58] Malika: LD-31942 bilan ishlar qalay?
+[03:00] Alisher Yusupov: Gulistongacha taxminan 565 km qoldi.
+[03:20] Malika: Hozir qayerdasiz?
+[03:22] Alisher Yusupov: Gulistongacha taxminan 439 km qoldi.
+[04:03] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[04:05] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:01] Malika: Hozir qayerdasiz?
+[05:03] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:40] Malika: LD-31942 bilan ishlar qalay?
+[05:42] Alisher Yusupov: Gulistongacha taxminan 304 km qoldi.
+[06:12] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[06:14] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:30] Malika: LD-31942 bilan ishlar qalay?
+[06:32] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:28] Malika: Hozir qayerdasiz?
+[07:30] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:51] Malika: Holatingiz qanday?
+[07:53] Alisher Yusupov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[08:36] Malika: Hozir qayerdasiz?
+[08:38] Alisher Yusupov: Gulistongacha taxminan 26 km qoldi.
+[09:24] Malika: LD-31942 bilan ishlar qalay?
+[09:26] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:04] Malika: Holatingiz qanday?
+[10:06] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:51] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[10:53] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:38] Malika: Hozir qayerdasiz?
+[11:40] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:56] Malika: Hozir qayerdasiz?
+[11:58] Alisher Yusupov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[12:40] Malika: Yo'lda yangilik bormi?
+[12:42] Alisher Yusupov: Gulistongacha taxminan 347 km qoldi.
+[13:42] Malika: LD-31942 bilan ishlar qalay?
+[13:44] Alisher Yusupov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[14:25] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[14:27] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:04] Malika: Holatingiz qanday?
+[15:06] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:29] Alisher Yusupov: LD-31942 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[16:31] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[16:33] Alisher Yusupov: Ha, hozir rasmga olaman.
+[16:34] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[16:36] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[16:38] Alisher Yusupov: Xo'p bo'ladi.
+[16:40] Malika: Rahmat, aloqada bo'lamiz.

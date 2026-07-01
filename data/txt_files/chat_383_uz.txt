@@ -1,0 +1,148 @@
+Chat Log #383
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #498 (tentli furgon)
+Operator: Dilnoza
+Load: LD-89618 | Route: Samarqand -> Buxoro
+Date: 2026-03-18
+--------------------------------------------------
+[18:42] Dilnoza: Salom, Farrukh, ishlar qalay?
+[18:43] Farrukh Tashkentov: Ha, aytavering.
+[18:45] Dilnoza: Siz uchun yuk bor - LD-89618, tentli furgon, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[18:47] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[18:49] Dilnoza: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[18:51] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[18:53] Dilnoza: 2783 ming so'm, 568 km.
+[18:55] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[18:57] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[19:00] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[20:07] Dilnoza: Holatingiz qanday?
+[20:09] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:05] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:07] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:10] Dilnoza: O'zingizni qalay his qilyapsiz?
+[21:12] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:55] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:57] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:59] Dilnoza: Taxminan qachon yetib borasiz?
+[22:01] Farrukh Tashkentov: Taxminan 5pmda yetib boraman.
+[22:23] Dilnoza: Holatingiz qanday?
+[22:25] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:33] Dilnoza: LD-89618 bilan ishlar qalay?
+[23:35] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[23:50] Dilnoza: Hozir qayerdasiz?
+[23:52] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:55] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:57] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:37] Dilnoza: Yo'lda yangilik bormi?
+[00:39] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:48] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:50] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[01:52] Dilnoza: Taxminan qachon yetib borasiz?
+[01:54] Farrukh Tashkentov: Taxminan 7pmda yetib boraman.
+[02:33] Dilnoza: LD-89618 bilan ishlar qalay?
+[02:35] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[04:01] Dilnoza: LD-89618 bilan ishlar qalay?
+[04:03] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[05:33] Dilnoza: Hozir qayerdasiz?
+[05:35] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[05:38] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[05:40] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[05:42] Dilnoza: Taxminan qachon yetib borasiz?
+[05:44] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 7pmda.
+[06:09] Dilnoza: Yo'lda yangilik bormi?
+[06:11] Farrukh Tashkentov: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[06:14] Dilnoza: O'zingizni qalay his qilyapsiz?
+[06:16] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:14] Dilnoza: Hozir qayerdasiz?
+[07:16] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[07:19] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:21] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[08:09] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:11] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[09:36] Dilnoza: Holatingiz qanday?
+[09:38] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:53] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:55] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[10:57] Dilnoza: Taxminan qachon yetib borasiz?
+[10:59] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 7pmda.
+[11:56] Dilnoza: Yo'lda yangilik bormi?
+[11:58] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[12:24] Dilnoza: Hozir qayerdasiz?
+[12:26] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[13:51] Dilnoza: Holatingiz qanday?
+[13:53] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[13:56] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:58] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:19] Dilnoza: Hozir qayerdasiz?
+[14:21] Farrukh Tashkentov: Buxorogacha taxminan 467 km qoldi.
+[15:36] Dilnoza: LD-89618 bilan ishlar qalay?
+[15:38] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[16:03] Farrukh Tashkentov: Hali ham jo'natuvchida turibman, deyarli 2 soat bo'ldi.
+[16:05] Dilnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[16:15] Dilnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[16:17] Farrukh Tashkentov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[16:19] Dilnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[16:48] Dilnoza: Yo'lda yangilik bormi?
+[16:50] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:13] Dilnoza: LD-89618 bilan ishlar qalay?
+[17:15] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:53] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:55] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[18:43] Dilnoza: Yo'lda yangilik bormi?
+[18:45] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:01] Dilnoza: LD-89618 bilan ishlar qalay?
+[19:03] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:47] Dilnoza: Yo'lda yangilik bormi?
+[19:49] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:12] Dilnoza: LD-89618 bilan ishlar qalay?
+[20:14] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:01] Dilnoza: Holatingiz qanday?
+[21:03] Farrukh Tashkentov: Buxorogacha taxminan 44 km qoldi.
+[21:25] Dilnoza: Hozir qayerdasiz?
+[21:27] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:11] Dilnoza: LD-89618 bilan ishlar qalay?
+[22:13] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:57] Dilnoza: Hozir qayerdasiz?
+[22:59] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:40] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:42] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:38] Dilnoza: Yo'lda yangilik bormi?
+[00:40] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:15] Dilnoza: LD-89618 bilan ishlar qalay?
+[01:17] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:48] Dilnoza: Yo'lda yangilik bormi?
+[01:50] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:40] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:42] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:21] Dilnoza: Hozir qayerdasiz?
+[03:23] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:04] Dilnoza: LD-89618 bilan ishlar qalay?
+[04:06] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:23] Dilnoza: Holatingiz qanday?
+[04:25] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:58] Dilnoza: Holatingiz qanday?
+[05:00] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:25] Dilnoza: Holatingiz qanday?
+[05:27] Farrukh Tashkentov: Buxorogacha taxminan 356 km qoldi.
+[06:07] Dilnoza: Yo'lda yangilik bormi?
+[06:09] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:34] Dilnoza: Hozir qayerdasiz?
+[06:36] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[07:25] Dilnoza: Hozir qayerdasiz?
+[07:27] Farrukh Tashkentov: Buxorogacha taxminan 209 km qoldi.
+[08:25] Dilnoza: LD-89618 bilan ishlar qalay?
+[08:27] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:51] Dilnoza: LD-89618 bilan ishlar qalay?
+[08:53] Farrukh Tashkentov: Buxorogacha taxminan 80 km qoldi.
+[09:50] Dilnoza: LD-89618 bilan ishlar qalay?
+[09:52] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:42] Dilnoza: LD-89618 bilan ishlar qalay?
+[10:44] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:54] Farrukh Tashkentov: LD-89618 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[11:56] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[11:58] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[11:59] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[12:01] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[12:03] Farrukh Tashkentov: Xo'p bo'ladi.
+[12:05] Dilnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

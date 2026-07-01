@@ -1,0 +1,128 @@
+Chat Log #174
+Company: Silk Road Logistics
+Language: English
+Driver: William Young | Truck: #808 (reefer)
+Operator: Emily
+Load: LD-63176 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-01-07
+--------------------------------------------------
+[20:42] Emily: William, got a minute?
+[20:43] William Young: Hey, yeah I'm here.
+[20:45] Emily: Got a load for you - LD-63176, reefer, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[20:47] William Young: Ok, what's the pickup window?
+[20:49] Emily: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[20:51] William Young: What's the rate on this one?
+[20:53] Emily: $2606 all in, 912 miles.
+[20:55] William Young: Sounds good, I'll take it.
+[20:57] Emily: Great, sending the rate confirmation now.
+[21:00] William Young: Got it, signed and sent back.
+[21:15] Emily: What's your status?
+[21:17] William Young: Roads are wet, taking it easy.
+[22:23] Emily: What's your status?
+[22:25] William Young: Just crossed the state line, all good.
+[23:55] Emily: What's your status?
+[23:57] William Young: Just crossed the state line, all good.
+[00:00] Emily: Let me know if you need anything.
+[00:02] William Young: Doing alright, just tired.
+[00:31] Emily: Any updates on your progress?
+[00:33] William Young: Roads are clear now, moving well.
+[00:36] Emily: Let me know if you need anything.
+[00:38] William Young: Yeah, long one, but manageable.
+[01:36] Emily: Any updates on your progress?
+[01:38] William Young: Stopped for a quick break, back on the road in a few.
+[01:40] Emily: What's your ETA?
+[01:42] William Young: Looking at 7pm if traffic stays clear.
+[02:30] Emily: Where are you at right now?
+[02:32] William Young: Rain is picking up here, slowing down a bit.
+[03:30] Emily: What's your status?
+[03:32] William Young: Weather's getting rough up ahead, heads up.
+[03:35] Emily: Let me know if you need anything.
+[03:37] William Young: Doing alright, just tired.
+[04:53] Emily: Still on schedule?
+[04:55] William Young: Construction zone slowing everyone down.
+[05:48] Emily: Where are you at right now?
+[05:50] William Young: Roads are clear now, moving well.
+[05:52] Emily: What's your ETA?
+[05:54] William Young: Should be there around 5pm.
+[06:32] Emily: How's LD-63176 looking?
+[06:34] William Young: Hit some traffic near Pittsburgh, PA, adding maybe 20 minutes.
+[06:36] Emily: What's your ETA?
+[06:38] William Young: Looking at noon if traffic stays clear.
+[07:10] Emily: How's LD-63176 looking?
+[07:12] William Young: Doing alright, just tired.
+[07:56] Emily: Still on schedule?
+[07:58] William Young: Hit some traffic near Pittsburgh, PA, adding maybe 20 minutes.
+[08:01] Emily: How are you holding up out there?
+[08:03] William Young: Yeah, long one, but manageable.
+[09:01] Emily: How's LD-63176 looking?
+[09:03] William Young: Doing alright, just tired.
+[09:06] Emily: Let me know if you need anything.
+[09:08] William Young: Yeah, long one, but manageable.
+[10:27] Emily: Any updates on your progress?
+[10:29] William Young: About 164 miles out from Pittsburgh, PA now.
+[10:32] Emily: Appreciate you keeping me posted.
+[10:34] William Young: Will do, thanks for checking in.
+[10:36] Emily: What's your ETA?
+[10:38] William Young: Looking at 7pm if traffic stays clear.
+[11:34] Emily: Where are you at right now?
+[11:36] William Young: Accident up ahead, traffic's backed up.
+[12:34] Emily: Still on schedule?
+[12:36] William Young: Traffic's a bit heavy but I'm still on schedule.
+[12:38] Emily: What's your ETA?
+[12:40] William Young: Looking at 10am if traffic stays clear.
+[13:58] Emily: Where are you at right now?
+[14:00] William Young: Making good time, no issues so far.
+[15:22] Emily: Still on schedule?
+[15:24] William Young: Accident up ahead, traffic's backed up.
+[15:26] Emily: What's your ETA?
+[15:28] William Young: Looking at 7pm if traffic stays clear.
+[16:27] Emily: Still on schedule?
+[16:29] William Young: No problem, just doing my job.
+[17:54] Emily: What's your status?
+[17:56] William Young: Weather's getting rough up ahead, heads up.
+[18:52] Emily: What's your status?
+[18:54] William Young: Will do, thanks for checking in.
+[19:30] William Young: Still sitting at the shipper, been here almost 3 hours already.
+[19:32] Emily: Let me call them and see what's going on.
+[19:42] Emily: Ok talked to them, they said 30 more minutes, forklift issue.
+[19:44] William Young: Make sure detention pay gets logged for this.
+[19:46] Emily: Already noted, don't worry, you'll get paid for the wait.
+[20:07] Emily: Any updates on your progress?
+[20:09] William Young: Just crossed the state line, all good.
+[21:07] Emily: Any updates on your progress?
+[21:09] William Young: Just crossed the state line, all good.
+[22:08] Emily: Any updates on your progress?
+[22:10] William Young: Stopped for a quick break, back on the road in a few.
+[23:00] Emily: What's your status?
+[23:02] William Young: Making good time, no issues so far.
+[23:54] Emily: How's LD-63176 looking?
+[23:56] William Young: About 444 miles out from Pittsburgh, PA now.
+[00:53] Emily: What's your status?
+[00:55] William Young: About 137 miles out from Pittsburgh, PA now.
+[01:43] Emily: Where are you at right now?
+[01:45] William Young: Making good time, no issues so far.
+[02:00] Emily: How's LD-63176 looking?
+[02:02] William Young: Just passed Pittsburgh, PA, everything's fine.
+[02:27] Emily: Still on schedule?
+[02:29] William Young: Traffic's a bit heavy but I'm still on schedule.
+[03:16] Emily: Any updates on your progress?
+[03:18] William Young: About 48 miles out from Pittsburgh, PA now.
+[04:03] Emily: Any updates on your progress?
+[04:05] William Young: About 395 miles out from Pittsburgh, PA now.
+[04:38] Emily: Any updates on your progress?
+[04:40] William Young: Traffic's a bit heavy but I'm still on schedule.
+[05:12] Emily: Where are you at right now?
+[05:14] William Young: Making good time, no issues so far.
+[05:40] Emily: Any updates on your progress?
+[05:42] William Young: Traffic's a bit heavy but I'm still on schedule.
+[06:42] Emily: How's LD-63176 looking?
+[06:44] William Young: Just crossed the state line, all good.
+[07:20] Emily: Where are you at right now?
+[07:22] William Young: Just crossed the state line, all good.
+[08:48] William Young: Just delivered LD-63176 at Pittsburgh, PA, all good, no damages.
+[08:50] Emily: Do you have the signed BOL?
+[08:52] William Young: Yep, taking a picture now.
+[08:53] William Young: [Image attached: signed_bol.jpg]
+[08:55] Emily: Sending you the next load details shortly.
+[08:57] William Young: Understood.
+[08:59] Emily: Appreciate it, talk soon.

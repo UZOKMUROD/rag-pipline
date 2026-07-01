@@ -1,0 +1,126 @@
+Chat Log #441
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Davis | Truck: #173 (dry van)
+Operator: Sarah
+Load: LD-56585 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-02-26
+--------------------------------------------------
+[06:44] Sarah: Eric, got a minute?
+[06:45] Eric Davis: Morning, all good on my end.
+[06:47] Sarah: Got a load for you - LD-56585, dry van, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[06:49] Eric Davis: Ok, what's the pickup window?
+[06:51] Sarah: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[06:53] Eric Davis: What's the rate on this one?
+[06:55] Sarah: $2239 all in, 815 miles.
+[06:57] Eric Davis: Sounds good, I'll take it.
+[06:59] Sarah: Great, sending the rate confirmation now.
+[07:02] Eric Davis: Got it, signed and sent back.
+[08:14] Sarah: Still on schedule?
+[08:16] Eric Davis: Roads are wet, taking it easy.
+[08:18] Sarah: What's your ETA?
+[08:20] Eric Davis: Probably 3pm, maybe a bit earlier.
+[09:20] Sarah: How's LD-56585 looking?
+[09:22] Eric Davis: Rain is picking up here, slowing down a bit.
+[10:36] Sarah: Any updates on your progress?
+[10:38] Eric Davis: Fuel prices are decent around here.
+[10:41] Sarah: Let me know if you need anything.
+[10:43] Eric Davis: Will do, thanks for checking in.
+[10:45] Sarah: What's your ETA?
+[10:47] Eric Davis: Looking at noon if traffic stays clear.
+[11:20] Sarah: Still on schedule?
+[11:22] Eric Davis: Just crossed the state line, all good.
+[11:52] Sarah: How's LD-56585 looking?
+[11:54] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[11:57] Sarah: Long trip, huh? Get some rest when you can.
+[11:59] Eric Davis: Yeah, long one, but manageable.
+[13:14] Sarah: Still on schedule?
+[13:16] Eric Davis: Rain is picking up here, slowing down a bit.
+[13:19] Sarah: Let me know if you need anything.
+[13:21] Eric Davis: Will do, thanks for checking in.
+[14:10] Sarah: What's your status?
+[14:12] Eric Davis: Roads are clear now, moving well.
+[14:15] Sarah: How are you holding up out there?
+[14:17] Eric Davis: Will do, thanks for checking in.
+[15:31] Sarah: How's LD-56585 looking?
+[15:33] Eric Davis: About 100 miles out from Tampa, FL now.
+[17:01] Sarah: What's your status?
+[17:03] Eric Davis: Construction zone slowing everyone down.
+[17:06] Sarah: How are you holding up out there?
+[17:08] Eric Davis: Yeah, long one, but manageable.
+[18:16] Sarah: Where are you at right now?
+[18:18] Eric Davis: Just crossed the state line, all good.
+[19:11] Sarah: What's your status?
+[19:13] Eric Davis: Rain is picking up here, slowing down a bit.
+[19:16] Sarah: How are you holding up out there?
+[19:18] Eric Davis: Doing alright, just tired.
+[20:04] Sarah: What's your status?
+[20:06] Eric Davis: Doing alright, just tired.
+[20:09] Sarah: How are you holding up out there?
+[20:11] Eric Davis: Doing alright, just tired.
+[20:42] Sarah: Still on schedule?
+[20:44] Eric Davis: About 433 miles out from Tampa, FL now.
+[20:47] Sarah: Appreciate you keeping me posted.
+[20:49] Eric Davis: Will do, thanks for checking in.
+[21:19] Sarah: Still on schedule?
+[21:21] Eric Davis: Making good time, no issues so far.
+[21:24] Sarah: Long trip, huh? Get some rest when you can.
+[21:26] Eric Davis: Doing alright, just tired.
+[21:42] Eric Davis: Still sitting at the shipper, been here almost 2 hours already.
+[21:44] Sarah: Let me call them and see what's going on.
+[21:54] Sarah: Ok talked to them, they said 30 more minutes, forklift issue.
+[21:56] Eric Davis: Make sure detention pay gets logged for this.
+[21:58] Sarah: Already noted, don't worry, you'll get paid for the wait.
+[22:17] Sarah: Any updates on your progress?
+[22:19] Eric Davis: Just crossed the state line, all good.
+[22:41] Sarah: How's LD-56585 looking?
+[22:43] Eric Davis: About 369 miles out from Tampa, FL now.
+[23:20] Sarah: Still on schedule?
+[23:22] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[23:58] Sarah: How's LD-56585 looking?
+[00:00] Eric Davis: About 378 miles out from Tampa, FL now.
+[00:33] Sarah: Any updates on your progress?
+[00:35] Eric Davis: Just crossed the state line, all good.
+[01:34] Sarah: Where are you at right now?
+[01:36] Eric Davis: Just passed Tampa, FL, everything's fine.
+[02:23] Sarah: Any updates on your progress?
+[02:25] Eric Davis: Just passed Tampa, FL, everything's fine.
+[02:47] Sarah: How's LD-56585 looking?
+[02:49] Eric Davis: Making good time, no issues so far.
+[03:42] Sarah: Any updates on your progress?
+[03:44] Eric Davis: About 145 miles out from Tampa, FL now.
+[04:29] Sarah: Where are you at right now?
+[04:31] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[05:16] Sarah: Where are you at right now?
+[05:18] Eric Davis: Just crossed the state line, all good.
+[06:09] Sarah: Still on schedule?
+[06:11] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[06:28] Sarah: Still on schedule?
+[06:30] Eric Davis: Making good time, no issues so far.
+[07:20] Sarah: What's your status?
+[07:22] Eric Davis: Stopped for a quick break, back on the road in a few.
+[08:10] Sarah: Where are you at right now?
+[08:12] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[08:38] Sarah: How's LD-56585 looking?
+[08:40] Eric Davis: About 375 miles out from Tampa, FL now.
+[09:02] Sarah: What's your status?
+[09:04] Eric Davis: Just crossed the state line, all good.
+[09:31] Sarah: What's your status?
+[09:33] Eric Davis: About 329 miles out from Tampa, FL now.
+[10:03] Sarah: Where are you at right now?
+[10:05] Eric Davis: Making good time, no issues so far.
+[10:48] Sarah: Where are you at right now?
+[10:50] Eric Davis: Just passed Jacksonville, FL, everything's fine.
+[11:20] Sarah: Any updates on your progress?
+[11:22] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[11:53] Sarah: Where are you at right now?
+[11:55] Eric Davis: About 507 miles out from Tampa, FL now.
+[12:39] Sarah: How's LD-56585 looking?
+[12:41] Eric Davis: Just passed Jacksonville, FL, everything's fine.
+[13:30] Eric Davis: Just delivered LD-56585 at Tampa, FL, all good, no damages.
+[13:32] Sarah: Do you have the signed BOL?
+[13:34] Eric Davis: Yep, taking a picture now.
+[13:35] Eric Davis: [Image attached: signed_bol.jpg]
+[13:37] Sarah: Sending you the next load details shortly.
+[13:39] Eric Davis: Sounds good.
+[13:41] Sarah: Thanks for the update, drive safe.

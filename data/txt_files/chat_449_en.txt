@@ -1,0 +1,127 @@
+Chat Log #449
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew White | Truck: #813 (flatbed)
+Operator: Megan
+Load: LD-15461 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-04-11
+--------------------------------------------------
+[08:51] Megan: Morning Andrew, you there?
+[08:52] Andrew White: Morning, all good on my end.
+[08:54] Megan: Got a load for you - LD-15461, flatbed, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[08:56] Andrew White: Ok, what's the pickup window?
+[08:58] Megan: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[09:00] Andrew White: What's the rate on this one?
+[09:02] Megan: $4056 all in, 659 miles.
+[09:04] Andrew White: Sounds good, I'll take it.
+[09:06] Megan: Great, sending the rate confirmation now.
+[09:09] Andrew White: Got it, signed and sent back.
+[09:49] Megan: Still on schedule?
+[09:51] Andrew White: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[10:49] Megan: Still on schedule?
+[10:51] Andrew White: Rain is picking up here, slowing down a bit.
+[10:54] Megan: Let me know if you need anything.
+[10:56] Andrew White: Yeah, long one, but manageable.
+[11:33] Megan: How's LD-15461 looking?
+[11:35] Andrew White: Construction zone slowing everyone down.
+[11:38] Megan: Let me know if you need anything.
+[11:40] Andrew White: No problem, just doing my job.
+[11:42] Megan: What's your ETA?
+[11:44] Andrew White: Looking at 7pm if traffic stays clear.
+[13:08] Megan: Where are you at right now?
+[13:10] Andrew White: About 156 miles out from Phoenix, AZ now.
+[13:13] Megan: Let me know if you need anything.
+[13:15] Andrew White: No problem, just doing my job.
+[14:09] Megan: What's your status?
+[14:11] Andrew White: Doing alright, just tired.
+[14:14] Megan: Appreciate you keeping me posted.
+[14:16] Andrew White: Will do, thanks for checking in.
+[14:33] Megan: Still on schedule?
+[14:35] Andrew White: Just topped off the tank.
+[14:38] Megan: Long trip, huh? Get some rest when you can.
+[14:40] Andrew White: No problem, just doing my job.
+[15:37] Megan: Any updates on your progress?
+[15:39] Andrew White: Making good time, no issues so far.
+[16:45] Megan: Where are you at right now?
+[16:47] Andrew White: Accident up ahead, traffic's backed up.
+[16:49] Megan: What's your ETA?
+[16:51] Andrew White: Should be there around 7pm.
+[17:14] Megan: Still on schedule?
+[17:16] Andrew White: Making good time, no issues so far.
+[17:19] Megan: Long trip, huh? Get some rest when you can.
+[17:21] Andrew White: Yeah, long one, but manageable.
+[18:17] Megan: How's LD-15461 looking?
+[18:19] Andrew White: No problem, just doing my job.
+[19:28] Megan: What's your status?
+[19:30] Andrew White: Just topped off the tank.
+[19:49] Megan: How's LD-15461 looking?
+[19:51] Andrew White: Construction zone slowing everyone down.
+[19:54] Megan: Let me know if you need anything.
+[19:56] Andrew White: Will do, thanks for checking in.
+[20:30] Megan: What's your status?
+[20:32] Andrew White: Clear skies here, no problems.
+[20:35] Megan: Long trip, huh? Get some rest when you can.
+[20:37] Andrew White: Doing alright, just tired.
+[21:23] Megan: Where are you at right now?
+[21:25] Andrew White: Yeah, long one, but manageable.
+[21:28] Megan: Long trip, huh? Get some rest when you can.
+[21:30] Andrew White: Will do, thanks for checking in.
+[21:32] Megan: What's your ETA?
+[21:34] Andrew White: Looking at 5pm if traffic stays clear.
+[21:50] Megan: How's LD-15461 looking?
+[21:52] Andrew White: Stopped for a quick break, back on the road in a few.
+[22:18] Megan: Still on schedule?
+[22:20] Andrew White: Just passed Los Angeles, CA, everything's fine.
+[22:39] Megan: How's LD-15461 looking?
+[22:41] Andrew White: Just passed Los Angeles, CA, everything's fine.
+[23:39] Megan: Where are you at right now?
+[23:41] Andrew White: Stopped for a quick break, back on the road in a few.
+[00:01] Megan: What's your status?
+[00:03] Andrew White: Stopped for a quick break, back on the road in a few.
+[00:37] Megan: How's LD-15461 looking?
+[00:39] Andrew White: Traffic's a bit heavy but I'm still on schedule.
+[01:29] Megan: What's your status?
+[01:31] Andrew White: Just passed Phoenix, AZ, everything's fine.
+[02:02] Megan: Any updates on your progress?
+[02:04] Andrew White: Traffic's a bit heavy but I'm still on schedule.
+[02:27] Megan: Still on schedule?
+[02:29] Andrew White: Stopped for a quick break, back on the road in a few.
+[03:05] Megan: Any updates on your progress?
+[03:07] Andrew White: Making good time, no issues so far.
+[04:07] Megan: How's LD-15461 looking?
+[04:09] Andrew White: Stopped for a quick break, back on the road in a few.
+[04:46] Megan: Any updates on your progress?
+[04:48] Andrew White: Making good time, no issues so far.
+[05:18] Megan: Where are you at right now?
+[05:20] Andrew White: Traffic's a bit heavy but I'm still on schedule.
+[05:42] Megan: How's LD-15461 looking?
+[05:44] Andrew White: Making good time, no issues so far.
+[05:59] Megan: Any updates on your progress?
+[06:01] Andrew White: Traffic's a bit heavy but I'm still on schedule.
+[06:31] Megan: What's your status?
+[06:33] Andrew White: Just crossed the state line, all good.
+[06:51] Megan: What's your status?
+[06:53] Andrew White: About 255 miles out from Phoenix, AZ now.
+[07:13] Megan: Any updates on your progress?
+[07:15] Andrew White: Just passed Los Angeles, CA, everything's fine.
+[07:48] Megan: What's your status?
+[07:50] Andrew White: Traffic's a bit heavy but I'm still on schedule.
+[08:14] Megan: What's your status?
+[08:16] Andrew White: Making good time, no issues so far.
+[09:12] Megan: What's your status?
+[09:14] Andrew White: Stopped for a quick break, back on the road in a few.
+[09:41] Megan: How's LD-15461 looking?
+[09:43] Andrew White: Stopped for a quick break, back on the road in a few.
+[10:16] Megan: Any updates on your progress?
+[10:18] Andrew White: Making good time, no issues so far.
+[11:09] Megan: Where are you at right now?
+[11:11] Andrew White: Making good time, no issues so far.
+[11:54] Megan: Where are you at right now?
+[11:56] Andrew White: Just crossed the state line, all good.
+[13:11] Andrew White: Just delivered LD-15461 at Phoenix, AZ, all good, no damages.
+[13:13] Megan: Do you have the signed BOL?
+[13:15] Andrew White: Yep, taking a picture now.
+[13:16] Andrew White: [Image attached: signed_bol.jpg]
+[13:18] Megan: Sending you the next load details shortly.
+[13:20] Andrew White: Will do.
+[13:22] Megan: Great work, thank you.

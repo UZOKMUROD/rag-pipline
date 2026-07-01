@@ -1,0 +1,129 @@
+Chat Log #231
+Company: Silk Road Logistics
+Language: English
+Driver: James Moore | Truck: #986 (dry van)
+Operator: Brittany
+Load: LD-49553 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-01-19
+--------------------------------------------------
+[17:59] Brittany: James, got a minute?
+[18:00] James Moore: Yeah, go ahead.
+[18:02] Brittany: Got a load for you - LD-49553, dry van, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[18:04] James Moore: Ok, what's the pickup window?
+[18:06] Brittany: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[18:08] James Moore: What's the rate on this one?
+[18:10] Brittany: $2238 all in, 637 miles.
+[18:12] James Moore: Sounds good, I'll take it.
+[18:14] Brittany: Great, sending the rate confirmation now.
+[18:17] James Moore: Got it, signed and sent back.
+[18:43] Brittany: What's your status?
+[18:45] James Moore: Roads are wet, taking it easy.
+[18:48] Brittany: How are you holding up out there?
+[18:50] James Moore: Doing alright, just tired.
+[19:57] Brittany: Any updates on your progress?
+[19:59] James Moore: Stopping for fuel in a bit.
+[20:44] Brittany: What's your status?
+[20:46] James Moore: Stopping for fuel in a bit.
+[21:22] Brittany: Still on schedule?
+[21:24] James Moore: Just passed Las Vegas, NV, everything's fine.
+[21:27] Brittany: Let me know if you need anything.
+[21:29] James Moore: Doing alright, just tired.
+[22:11] Brittany: Any updates on your progress?
+[22:13] James Moore: Construction zone slowing everyone down.
+[22:15] Brittany: What's your ETA?
+[22:17] James Moore: Probably 5pm, maybe a bit earlier.
+[23:01] Brittany: Where are you at right now?
+[23:03] James Moore: Roads are wet, taking it easy.
+[23:05] Brittany: What's your ETA?
+[23:07] James Moore: Probably noon, maybe a bit earlier.
+[00:28] Brittany: Any updates on your progress?
+[00:30] James Moore: Weather's getting rough up ahead, heads up.
+[00:33] Brittany: How are you holding up out there?
+[00:35] James Moore: Yeah, long one, but manageable.
+[02:00] Brittany: Any updates on your progress?
+[02:02] James Moore: About 65 miles out from Las Vegas, NV now.
+[03:12] Brittany: What's your status?
+[03:14] James Moore: Making good time, no issues so far.
+[03:17] Brittany: How are you holding up out there?
+[03:19] James Moore: Doing alright, just tired.
+[03:21] Brittany: What's your ETA?
+[03:23] James Moore: Looking at 7pm if traffic stays clear.
+[04:26] Brittany: What's your status?
+[04:28] James Moore: Rain is picking up here, slowing down a bit.
+[04:31] Brittany: How are you holding up out there?
+[04:33] James Moore: No problem, just doing my job.
+[04:35] Brittany: What's your ETA?
+[04:37] James Moore: Should be there around 5pm.
+[05:26] Brittany: What's your status?
+[05:28] James Moore: About 373 miles out from Las Vegas, NV now.
+[06:24] Brittany: Any updates on your progress?
+[06:26] James Moore: Just topped off the tank.
+[07:09] Brittany: Still on schedule?
+[07:11] James Moore: Traffic's a bit heavy but I'm still on schedule.
+[07:14] Brittany: How are you holding up out there?
+[07:16] James Moore: Doing alright, just tired.
+[08:45] Brittany: Any updates on your progress?
+[08:47] James Moore: Yeah, long one, but manageable.
+[08:50] Brittany: How are you holding up out there?
+[08:52] James Moore: No problem, just doing my job.
+[10:03] Brittany: Where are you at right now?
+[10:05] James Moore: Roads are clear now, moving well.
+[10:07] Brittany: What's your ETA?
+[10:09] James Moore: Looking at 5pm if traffic stays clear.
+[11:11] Brittany: Any updates on your progress?
+[11:13] James Moore: Just topped off the tank.
+[11:41] Brittany: Still on schedule?
+[11:43] James Moore: Stopped for a quick break, back on the road in a few.
+[12:35] Brittany: Any updates on your progress?
+[12:37] James Moore: Just crossed the state line, all good.
+[13:20] Brittany: What's your status?
+[13:22] James Moore: Traffic's a bit heavy but I'm still on schedule.
+[14:15] Brittany: Any updates on your progress?
+[14:17] James Moore: Stopped for a quick break, back on the road in a few.
+[14:50] Brittany: Still on schedule?
+[14:52] James Moore: Making good time, no issues so far.
+[15:26] Brittany: Still on schedule?
+[15:28] James Moore: About 302 miles out from Las Vegas, NV now.
+[16:11] Brittany: Where are you at right now?
+[16:13] James Moore: Just passed Las Vegas, NV, everything's fine.
+[16:37] Brittany: Any updates on your progress?
+[16:39] James Moore: Traffic's a bit heavy but I'm still on schedule.
+[17:39] Brittany: Still on schedule?
+[17:41] James Moore: Just crossed the state line, all good.
+[18:07] Brittany: What's your status?
+[18:09] James Moore: Making good time, no issues so far.
+[18:42] Brittany: Any updates on your progress?
+[18:44] James Moore: Just passed Fresno, CA, everything's fine.
+[19:22] Brittany: Where are you at right now?
+[19:24] James Moore: Making good time, no issues so far.
+[20:07] Brittany: Still on schedule?
+[20:09] James Moore: Just crossed the state line, all good.
+[20:51] Brittany: Still on schedule?
+[20:53] James Moore: Just crossed the state line, all good.
+[21:41] Brittany: Still on schedule?
+[21:43] James Moore: Stopped for a quick break, back on the road in a few.
+[22:27] Brittany: How's LD-49553 looking?
+[22:29] James Moore: Traffic's a bit heavy but I'm still on schedule.
+[23:07] Brittany: What's your status?
+[23:09] James Moore: Making good time, no issues so far.
+[23:44] Brittany: Any updates on your progress?
+[23:46] James Moore: Stopped for a quick break, back on the road in a few.
+[00:07] Brittany: How's LD-49553 looking?
+[00:09] James Moore: Stopped for a quick break, back on the road in a few.
+[00:41] Brittany: Where are you at right now?
+[00:43] James Moore: Just crossed the state line, all good.
+[01:36] Brittany: Still on schedule?
+[01:38] James Moore: Just crossed the state line, all good.
+[02:19] Brittany: Where are you at right now?
+[02:21] James Moore: Stopped for a quick break, back on the road in a few.
+[02:44] Brittany: How's LD-49553 looking?
+[02:46] James Moore: Making good time, no issues so far.
+[03:14] Brittany: What's your status?
+[03:16] James Moore: Making good time, no issues so far.
+[04:38] James Moore: Just delivered LD-49553 at Las Vegas, NV, all good, no damages.
+[04:40] Brittany: Do you have the signed BOL?
+[04:42] James Moore: Yep, taking a picture now.
+[04:43] James Moore: [Image attached: signed_bol.jpg]
+[04:45] Brittany: Sending you the next load details shortly.
+[04:47] James Moore: Will do.
+[04:49] Brittany: Thanks for the update, drive safe.

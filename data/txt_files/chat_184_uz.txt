@@ -1,0 +1,149 @@
+Chat Log #184
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #533 (refrijerator)
+Operator: Gulnora
+Load: LD-55453 | Route: Buxoro -> Navoiy
+Date: 2026-05-13
+--------------------------------------------------
+[07:36] Gulnora: Alisher, bir daqiqa bormi?
+[07:37] Alisher Yusupov: Xayrli tong, menda hammasi yaxshi.
+[07:39] Gulnora: Siz uchun yuk bor - LD-55453, refrijerator, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[07:41] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[07:43] Gulnora: Yuklash 13:00-15:00, tushirish esa ertaga 16:00 bo'ladi.
+[07:45] Alisher Yusupov: Bu reys uchun narx qancha?
+[07:47] Gulnora: 3314 ming so'm, 856 km.
+[07:49] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[07:51] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[07:54] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[08:54] Gulnora: Yo'lda yangilik bormi?
+[08:56] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:22] Gulnora: Yo'lda yangilik bormi?
+[10:24] Alisher Yusupov: Navoiygacha taxminan 329 km qoldi.
+[10:51] Gulnora: Holatingiz qanday?
+[10:53] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[11:29] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[11:31] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:34] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[11:36] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[12:08] Gulnora: Hozir qayerdasiz?
+[12:10] Alisher Yusupov: Navoiygacha taxminan 200 km qoldi.
+[12:12] Gulnora: Taxminan qachon yetib borasiz?
+[12:14] Alisher Yusupov: Agar tirbandlik bo'lmasa noonda.
+[13:22] Gulnora: Yo'lda yangilik bormi?
+[13:24] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:12] Gulnora: LD-55453 bilan ishlar qalay?
+[14:14] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[14:17] Gulnora: Xabar berib turganingiz uchun rahmat.
+[14:19] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[14:48] Gulnora: Hozir qayerdasiz?
+[14:50] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:15] Gulnora: LD-55453 bilan ishlar qalay?
+[16:17] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:17] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[17:19] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[18:17] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[18:19] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[18:22] Gulnora: Biror narsa kerak bo'lsa ayting.
+[18:24] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[19:15] Gulnora: LD-55453 bilan ishlar qalay?
+[19:17] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[20:16] Gulnora: Hozir qayerdasiz?
+[20:18] Alisher Yusupov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:21] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:23] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[20:25] Gulnora: Taxminan qachon yetib borasiz?
+[20:27] Alisher Yusupov: Agar tirbandlik bo'lmasa 10amda.
+[21:48] Gulnora: Hozir qayerdasiz?
+[21:50] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:15] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:17] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:20] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:22] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[23:47] Gulnora: Holatingiz qanday?
+[23:49] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[23:52] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:54] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[00:23] Gulnora: Yo'lda yangilik bormi?
+[00:25] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[00:28] Gulnora: Xabar berib turganingiz uchun rahmat.
+[00:30] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[00:32] Gulnora: Taxminan qachon yetib borasiz?
+[00:34] Alisher Yusupov: Taxminan 7pmda yetib boraman.
+[01:14] Gulnora: Hozir qayerdasiz?
+[01:16] Alisher Yusupov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[01:18] Gulnora: Taxminan qachon yetib borasiz?
+[01:20] Alisher Yusupov: Ehtimol 10am, balki ertaroq.
+[02:25] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:27] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[02:30] Gulnora: Biror narsa kerak bo'lsa ayting.
+[02:32] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[03:58] Gulnora: Holatingiz qanday?
+[04:00] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:02] Gulnora: Taxminan qachon yetib borasiz?
+[04:04] Alisher Yusupov: Agar tirbandlik bo'lmasa 7pmda.
+[04:36] Alisher Yusupov: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[04:38] Gulnora: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[05:20] Gulnora: LD-55453 bilan ishlar qalay?
+[05:22] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:49] Gulnora: Yo'lda yangilik bormi?
+[05:51] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:31] Gulnora: Yo'lda yangilik bormi?
+[06:33] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:48] Gulnora: Holatingiz qanday?
+[06:50] Alisher Yusupov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[07:13] Gulnora: Yo'lda yangilik bormi?
+[07:15] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:59] Gulnora: Hozir qayerdasiz?
+[08:01] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:51] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[08:53] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:36] Gulnora: Yo'lda yangilik bormi?
+[09:38] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:53] Gulnora: LD-55453 bilan ishlar qalay?
+[09:55] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:26] Gulnora: Hozir qayerdasiz?
+[10:28] Alisher Yusupov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[11:03] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[11:05] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:05] Gulnora: Holatingiz qanday?
+[12:07] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:43] Gulnora: Hozir qayerdasiz?
+[12:45] Alisher Yusupov: Navoiygacha taxminan 244 km qoldi.
+[13:32] Gulnora: Yo'lda yangilik bormi?
+[13:34] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:58] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[14:00] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:24] Gulnora: Hozir qayerdasiz?
+[14:26] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:55] Gulnora: Yo'lda yangilik bormi?
+[14:57] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:39] Gulnora: Yo'lda yangilik bormi?
+[15:41] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:32] Gulnora: LD-55453 bilan ishlar qalay?
+[16:34] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:07] Gulnora: Yo'lda yangilik bormi?
+[17:09] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:55] Gulnora: Holatingiz qanday?
+[17:57] Alisher Yusupov: Navoiygacha taxminan 163 km qoldi.
+[18:49] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[18:51] Alisher Yusupov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[19:42] Gulnora: Holatingiz qanday?
+[19:44] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:37] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:39] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:06] Gulnora: LD-55453 bilan ishlar qalay?
+[21:08] Alisher Yusupov: Navoiygacha taxminan 119 km qoldi.
+[21:39] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[21:41] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:26] Gulnora: Hozir qayerdasiz?
+[22:28] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:52] Gulnora: Hozir qayerdasiz?
+[22:54] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:52] Alisher Yusupov: LD-55453 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:54] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[23:56] Alisher Yusupov: Ha, hozir rasmga olaman.
+[23:57] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:59] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:01] Alisher Yusupov: Yaxshi.
+[00:03] Gulnora: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

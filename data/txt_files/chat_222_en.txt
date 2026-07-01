@@ -1,0 +1,131 @@
+Chat Log #222
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Johnson | Truck: #384 (step deck)
+Operator: Sarah
+Load: LD-90816 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-06-10
+--------------------------------------------------
+[16:19] Sarah: Morning Mike, you there?
+[16:20] Mike Johnson: Yeah, go ahead.
+[16:22] Sarah: Got a load for you - LD-90816, step deck, pickup in Charlotte, NC, delivery to Richmond, VA.
+[16:24] Mike Johnson: Ok, what's the pickup window?
+[16:26] Sarah: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[16:28] Mike Johnson: What's the rate on this one?
+[16:30] Sarah: $3675 all in, 411 miles.
+[16:32] Mike Johnson: Sounds good, I'll take it.
+[16:34] Sarah: Great, sending the rate confirmation now.
+[16:37] Mike Johnson: Got it, signed and sent back.
+[17:55] Sarah: What's your status?
+[17:57] Mike Johnson: Roads are clear now, moving well.
+[18:00] Sarah: Long trip, huh? Get some rest when you can.
+[18:02] Mike Johnson: Yeah, long one, but manageable.
+[18:04] Sarah: What's your ETA?
+[18:06] Mike Johnson: Looking at 3pm if traffic stays clear.
+[19:35] Sarah: What's your status?
+[19:37] Mike Johnson: Just topped off the tank.
+[20:40] Sarah: What's your status?
+[20:42] Mike Johnson: Roads are clear now, moving well.
+[20:45] Sarah: How are you holding up out there?
+[20:47] Mike Johnson: Yeah, long one, but manageable.
+[22:06] Sarah: What's your status?
+[22:08] Mike Johnson: Making good time, no issues so far.
+[22:11] Sarah: How are you holding up out there?
+[22:13] Mike Johnson: Doing alright, just tired.
+[23:40] Sarah: Still on schedule?
+[23:42] Mike Johnson: Clear skies here, no problems.
+[23:45] Sarah: Long trip, huh? Get some rest when you can.
+[23:47] Mike Johnson: Will do, thanks for checking in.
+[00:09] Sarah: What's your status?
+[00:11] Mike Johnson: Stopping for fuel in a bit.
+[00:14] Sarah: How are you holding up out there?
+[00:16] Mike Johnson: Will do, thanks for checking in.
+[01:42] Sarah: What's your status?
+[01:44] Mike Johnson: Just passed Charlotte, NC, everything's fine.
+[02:47] Sarah: Where are you at right now?
+[02:49] Mike Johnson: Just passed Charlotte, NC, everything's fine.
+[03:50] Sarah: What's your status?
+[03:52] Mike Johnson: Construction zone slowing everyone down.
+[03:55] Sarah: How are you holding up out there?
+[03:57] Mike Johnson: Yeah, long one, but manageable.
+[05:17] Sarah: How's LD-90816 looking?
+[05:19] Mike Johnson: Just topped off the tank.
+[05:21] Sarah: What's your ETA?
+[05:23] Mike Johnson: Probably 5pm, maybe a bit earlier.
+[06:40] Sarah: How's LD-90816 looking?
+[06:42] Mike Johnson: Yeah, long one, but manageable.
+[06:44] Sarah: What's your ETA?
+[06:46] Mike Johnson: Should be there around 10am.
+[07:52] Sarah: How's LD-90816 looking?
+[07:54] Mike Johnson: Roads are clear now, moving well.
+[08:59] Sarah: Still on schedule?
+[09:01] Mike Johnson: Rain is picking up here, slowing down a bit.
+[09:58] Sarah: Any updates on your progress?
+[10:00] Mike Johnson: Yeah, long one, but manageable.
+[10:03] Sarah: Let me know if you need anything.
+[10:05] Mike Johnson: No problem, just doing my job.
+[10:07] Sarah: What's your ETA?
+[10:09] Mike Johnson: Looking at 5pm if traffic stays clear.
+[10:42] Sarah: How's LD-90816 looking?
+[10:44] Mike Johnson: Traffic's a bit heavy but I'm still on schedule.
+[11:20] Sarah: Where are you at right now?
+[11:22] Mike Johnson: Stopped for a quick break, back on the road in a few.
+[11:25] Sarah: Let me know if you need anything.
+[11:27] Mike Johnson: No problem, just doing my job.
+[11:29] Sarah: What's your ETA?
+[11:31] Mike Johnson: Probably 3pm, maybe a bit earlier.
+[12:15] Sarah: Any updates on your progress?
+[12:17] Mike Johnson: Stopping for fuel in a bit.
+[12:19] Sarah: What's your ETA?
+[12:21] Mike Johnson: Should be there around 7pm.
+[13:18] Sarah: What's your status?
+[13:20] Mike Johnson: About 595 miles out from Richmond, VA now.
+[14:14] Sarah: Where are you at right now?
+[14:16] Mike Johnson: Hit some traffic near Charlotte, NC, adding maybe 20 minutes.
+[14:54] Mike Johnson: Coming up on my HOS limit, only got about 30 minutes left.
+[14:56] Sarah: Understood, get your rest, I'll let the receiver know.
+[15:42] Sarah: Any updates on your progress?
+[15:44] Mike Johnson: About 73 miles out from Richmond, VA now.
+[16:06] Sarah: What's your status?
+[16:08] Mike Johnson: Just passed Charlotte, NC, everything's fine.
+[16:31] Sarah: How's LD-90816 looking?
+[16:33] Mike Johnson: Making good time, no issues so far.
+[16:53] Sarah: Where are you at right now?
+[16:55] Mike Johnson: Just passed Charlotte, NC, everything's fine.
+[17:28] Sarah: Still on schedule?
+[17:30] Mike Johnson: Making good time, no issues so far.
+[18:13] Sarah: How's LD-90816 looking?
+[18:15] Mike Johnson: Stopped for a quick break, back on the road in a few.
+[18:53] Sarah: Any updates on your progress?
+[18:55] Mike Johnson: Stopped for a quick break, back on the road in a few.
+[19:48] Sarah: Any updates on your progress?
+[19:50] Mike Johnson: Just crossed the state line, all good.
+[20:32] Sarah: Still on schedule?
+[20:34] Mike Johnson: Stopped for a quick break, back on the road in a few.
+[21:25] Sarah: Any updates on your progress?
+[21:27] Mike Johnson: About 44 miles out from Richmond, VA now.
+[21:49] Sarah: Any updates on your progress?
+[21:51] Mike Johnson: Just crossed the state line, all good.
+[22:38] Sarah: Any updates on your progress?
+[22:40] Mike Johnson: Stopped for a quick break, back on the road in a few.
+[23:10] Sarah: What's your status?
+[23:12] Mike Johnson: About 379 miles out from Richmond, VA now.
+[00:11] Sarah: How's LD-90816 looking?
+[00:13] Mike Johnson: Just passed Richmond, VA, everything's fine.
+[00:41] Sarah: What's your status?
+[00:43] Mike Johnson: Just crossed the state line, all good.
+[01:19] Sarah: Any updates on your progress?
+[01:21] Mike Johnson: Just crossed the state line, all good.
+[01:43] Sarah: Any updates on your progress?
+[01:45] Mike Johnson: Just crossed the state line, all good.
+[02:44] Sarah: How's LD-90816 looking?
+[02:46] Mike Johnson: Traffic's a bit heavy but I'm still on schedule.
+[03:11] Sarah: Where are you at right now?
+[03:13] Mike Johnson: Making good time, no issues so far.
+[04:20] Mike Johnson: Just delivered LD-90816 at Richmond, VA, all good, no damages.
+[04:22] Sarah: Do you have the signed BOL?
+[04:24] Mike Johnson: Yep, taking a picture now.
+[04:25] Mike Johnson: [Image attached: signed_bol.jpg]
+[04:27] Sarah: Sending you the next load details shortly.
+[04:29] Mike Johnson: Sounds good.
+[04:31] Sarah: Thanks for the update, drive safe.

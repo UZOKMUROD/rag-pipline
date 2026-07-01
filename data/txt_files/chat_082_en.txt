@@ -1,0 +1,133 @@
+Chat Log #082
+Company: Silk Road Logistics
+Language: English
+Driver: David Anderson | Truck: #808 (flatbed)
+Operator: Megan
+Load: LD-13459 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-01-03
+--------------------------------------------------
+[15:29] Megan: David, got a minute?
+[15:30] David Anderson: Yeah, go ahead.
+[15:32] Megan: Got a load for you - LD-13459, flatbed, pickup in Chicago, IL, delivery to Memphis, TN.
+[15:34] David Anderson: Ok, what's the pickup window?
+[15:36] Megan: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[15:38] David Anderson: What's the rate on this one?
+[15:40] Megan: $3963 all in, 376 miles.
+[15:42] David Anderson: Sounds good, I'll take it.
+[15:44] Megan: Great, sending the rate confirmation now.
+[15:47] David Anderson: Got it, signed and sent back.
+[16:09] Megan: Any updates on your progress?
+[16:11] David Anderson: Just passed Chicago, IL, everything's fine.
+[17:26] Megan: Still on schedule?
+[17:28] David Anderson: Fuel prices are decent around here.
+[18:17] Megan: Where are you at right now?
+[18:19] David Anderson: No problem, just doing my job.
+[18:22] Megan: Appreciate you keeping me posted.
+[18:24] David Anderson: Doing alright, just tired.
+[19:22] Megan: Still on schedule?
+[19:24] David Anderson: Just crossed the state line, all good.
+[20:38] Megan: Where are you at right now?
+[20:40] David Anderson: About 478 miles out from Memphis, TN now.
+[22:10] Megan: Still on schedule?
+[22:12] David Anderson: Just passed Chicago, IL, everything's fine.
+[22:15] Megan: Appreciate you keeping me posted.
+[22:17] David Anderson: Will do, thanks for checking in.
+[23:13] Megan: Any updates on your progress?
+[23:15] David Anderson: Yeah, long one, but manageable.
+[23:18] Megan: Long trip, huh? Get some rest when you can.
+[23:20] David Anderson: No problem, just doing my job.
+[23:56] Megan: Where are you at right now?
+[23:58] David Anderson: Traffic's a bit heavy but I'm still on schedule.
+[00:01] Megan: Appreciate you keeping me posted.
+[00:03] David Anderson: Will do, thanks for checking in.
+[01:18] Megan: Any updates on your progress?
+[01:20] David Anderson: Accident up ahead, traffic's backed up.
+[01:44] Megan: What's your status?
+[01:46] David Anderson: Construction zone slowing everyone down.
+[01:49] Megan: How are you holding up out there?
+[01:51] David Anderson: No problem, just doing my job.
+[03:13] Megan: How's LD-13459 looking?
+[03:15] David Anderson: No problem, just doing my job.
+[03:18] Megan: Let me know if you need anything.
+[03:20] David Anderson: No problem, just doing my job.
+[03:56] Megan: Where are you at right now?
+[03:58] David Anderson: Accident up ahead, traffic's backed up.
+[04:23] Megan: How's LD-13459 looking?
+[04:25] David Anderson: Roads are clear now, moving well.
+[04:28] Megan: Appreciate you keeping me posted.
+[04:30] David Anderson: Doing alright, just tired.
+[04:32] Megan: What's your ETA?
+[04:34] David Anderson: Should be there around 5pm.
+[05:59] Megan: Still on schedule?
+[06:01] David Anderson: Roads are wet, taking it easy.
+[06:27] Megan: What's your status?
+[06:29] David Anderson: Rain is picking up here, slowing down a bit.
+[06:31] Megan: What's your ETA?
+[06:33] David Anderson: Looking at 10am if traffic stays clear.
+[06:51] Megan: Any updates on your progress?
+[06:53] David Anderson: Just passed Chicago, IL, everything's fine.
+[06:56] Megan: How are you holding up out there?
+[06:58] David Anderson: Yeah, long one, but manageable.
+[08:09] Megan: What's your status?
+[08:11] David Anderson: Just passed Memphis, TN, everything's fine.
+[08:43] Megan: What's your status?
+[08:45] David Anderson: Roads are wet, taking it easy.
+[08:47] Megan: What's your ETA?
+[08:49] David Anderson: Probably noon, maybe a bit earlier.
+[09:30] Megan: Any updates on your progress?
+[09:32] David Anderson: Roads are wet, taking it easy.
+[09:35] Megan: Let me know if you need anything.
+[09:37] David Anderson: Will do, thanks for checking in.
+[11:05] Megan: What's your status?
+[11:07] David Anderson: Just crossed the state line, all good.
+[11:47] David Anderson: Coming up on my HOS limit, only got about 1 hour left.
+[11:49] Megan: Understood, get your rest, I'll let the receiver know.
+[12:40] Megan: Still on schedule?
+[12:42] David Anderson: Just crossed the state line, all good.
+[13:22] Megan: Any updates on your progress?
+[13:24] David Anderson: Making good time, no issues so far.
+[13:58] Megan: Where are you at right now?
+[14:00] David Anderson: Making good time, no issues so far.
+[14:30] Megan: Any updates on your progress?
+[14:32] David Anderson: Just crossed the state line, all good.
+[15:02] Megan: What's your status?
+[15:04] David Anderson: Stopped for a quick break, back on the road in a few.
+[15:54] Megan: How's LD-13459 looking?
+[15:56] David Anderson: Just passed Chicago, IL, everything's fine.
+[16:13] Megan: How's LD-13459 looking?
+[16:15] David Anderson: Stopped for a quick break, back on the road in a few.
+[16:59] Megan: How's LD-13459 looking?
+[17:01] David Anderson: About 135 miles out from Memphis, TN now.
+[17:59] Megan: What's your status?
+[18:01] David Anderson: About 350 miles out from Memphis, TN now.
+[18:35] Megan: What's your status?
+[18:37] David Anderson: Just passed Chicago, IL, everything's fine.
+[19:19] Megan: Still on schedule?
+[19:21] David Anderson: Just passed Chicago, IL, everything's fine.
+[20:13] Megan: What's your status?
+[20:15] David Anderson: Making good time, no issues so far.
+[21:09] Megan: What's your status?
+[21:11] David Anderson: Just crossed the state line, all good.
+[21:29] Megan: How's LD-13459 looking?
+[21:31] David Anderson: About 594 miles out from Memphis, TN now.
+[22:24] Megan: What's your status?
+[22:26] David Anderson: Just crossed the state line, all good.
+[23:16] Megan: How's LD-13459 looking?
+[23:18] David Anderson: Just passed Memphis, TN, everything's fine.
+[23:51] Megan: What's your status?
+[23:53] David Anderson: Just passed Chicago, IL, everything's fine.
+[00:39] Megan: Still on schedule?
+[00:41] David Anderson: Just passed Memphis, TN, everything's fine.
+[01:38] Megan: Where are you at right now?
+[01:40] David Anderson: Stopped for a quick break, back on the road in a few.
+[02:36] Megan: Any updates on your progress?
+[02:38] David Anderson: About 168 miles out from Memphis, TN now.
+[02:57] Megan: Any updates on your progress?
+[02:59] David Anderson: Stopped for a quick break, back on the road in a few.
+[04:16] David Anderson: Just delivered LD-13459 at Memphis, TN, all good, no damages.
+[04:18] Megan: Do you have the signed BOL?
+[04:20] David Anderson: Yep, taking a picture now.
+[04:21] David Anderson: [Image attached: signed_bol.jpg]
+[04:23] Megan: Sending you the next load details shortly.
+[04:25] David Anderson: Copy that.
+[04:27] Megan: Thanks for the update, drive safe.

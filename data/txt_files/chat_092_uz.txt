@@ -1,0 +1,148 @@
+Chat Log #092
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ulugbek Nazarov | Truck: #838 (tentli furgon)
+Operator: Gulnora
+Load: LD-54111 | Route: Andijon -> Farg'ona
+Date: 2026-06-17
+--------------------------------------------------
+[06:50] Gulnora: Ulugbek, bir daqiqa bormi?
+[06:51] Ulugbek Nazarov: Xayrli tong, menda hammasi yaxshi.
+[06:53] Gulnora: Siz uchun yuk bor - LD-54111, tentli furgon, Andijondan yuklanadi, Farg'onaga tushiriladi.
+[06:55] Ulugbek Nazarov: Tushunarli, yuklash vaqti qachon?
+[06:57] Gulnora: Yuklash 06:00-08:00, tushirish esa ertaga 16:00 bo'ladi.
+[06:59] Ulugbek Nazarov: Bu reys uchun narx qancha?
+[07:01] Gulnora: 2164 ming so'm, 587 km.
+[07:03] Ulugbek Nazarov: Yaxshi, bu reysni olaman.
+[07:05] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[07:08] Ulugbek Nazarov: Oldim, imzolab qaytarib yubordim.
+[07:27] Gulnora: LD-54111 bilan ishlar qalay?
+[07:29] Ulugbek Nazarov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[08:17] Gulnora: Holatingiz qanday?
+[08:19] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[09:05] Gulnora: Hozir qayerdasiz?
+[09:07] Ulugbek Nazarov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[09:24] Gulnora: Yo'lda yangilik bormi?
+[09:26] Ulugbek Nazarov: Osmon ochiq, muammo yo'q.
+[10:08] Gulnora: Yo'lda yangilik bormi?
+[10:10] Ulugbek Nazarov: Bu yerda yoqilg'i narxlari yomon emas.
+[10:59] Gulnora: Hozir qayerdasiz?
+[11:01] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:04] Gulnora: Xabar berib turganingiz uchun rahmat.
+[11:06] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[11:08] Gulnora: Taxminan qachon yetib borasiz?
+[11:10] Ulugbek Nazarov: Agar tirbandlik bo'lmasa noonda.
+[12:03] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[12:05] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[12:07] Gulnora: Taxminan qachon yetib borasiz?
+[12:09] Ulugbek Nazarov: Taxminan 10amda yetib boraman.
+[13:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:25] Ulugbek Nazarov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[13:27] Gulnora: Taxminan qachon yetib borasiz?
+[13:29] Ulugbek Nazarov: Taxminan 3pmda yetib boraman.
+[13:55] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:57] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[13:59] Gulnora: Taxminan qachon yetib borasiz?
+[14:01] Ulugbek Nazarov: Ehtimol 3pm, balki ertaroq.
+[14:28] Gulnora: LD-54111 bilan ishlar qalay?
+[14:30] Ulugbek Nazarov: Bu yerda yoqilg'i narxlari yomon emas.
+[14:33] Gulnora: Biror narsa kerak bo'lsa ayting.
+[14:35] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[15:32] Gulnora: Holatingiz qanday?
+[15:34] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:59] Gulnora: Hozir qayerdasiz?
+[16:01] Ulugbek Nazarov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[16:04] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:06] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[16:08] Gulnora: Taxminan qachon yetib borasiz?
+[16:10] Ulugbek Nazarov: Ehtimol 5pm, balki ertaroq.
+[17:28] Gulnora: Yo'lda yangilik bormi?
+[17:30] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:00] Gulnora: Hozir qayerdasiz?
+[19:02] Ulugbek Nazarov: Farg'onagacha taxminan 521 km qoldi.
+[19:04] Gulnora: Taxminan qachon yetib borasiz?
+[19:06] Ulugbek Nazarov: Agar tirbandlik bo'lmasa 5pmda.
+[19:45] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[19:47] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:54] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:56] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[22:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[22:25] Ulugbek Nazarov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[22:59] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:01] Ulugbek Nazarov: Bu yerda yoqilg'i narxlari yomon emas.
+[23:04] Gulnora: Xabar berib turganingiz uchun rahmat.
+[23:06] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[23:48] Gulnora: LD-54111 bilan ishlar qalay?
+[23:50] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:29] Gulnora: Hozir qayerdasiz?
+[00:31] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:33] Gulnora: Taxminan qachon yetib borasiz?
+[00:35] Ulugbek Nazarov: Ehtimol noon, balki ertaroq.
+[01:05] Gulnora: Yo'lda yangilik bormi?
+[01:07] Ulugbek Nazarov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:09] Gulnora: Taxminan qachon yetib borasiz?
+[01:11] Ulugbek Nazarov: Taxminan 10amda yetib boraman.
+[01:23] Ulugbek Nazarov: Hali ham jo'natuvchida turibman, deyarli 2 soat bo'ldi.
+[01:25] Gulnora: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[01:35] Gulnora: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[01:37] Ulugbek Nazarov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[01:39] Gulnora: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[01:54] Gulnora: Hozir qayerdasiz?
+[01:56] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:48] Gulnora: Hozir qayerdasiz?
+[02:50] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:45] Gulnora: Hozir qayerdasiz?
+[03:47] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:35] Gulnora: Yo'lda yangilik bormi?
+[04:37] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:23] Gulnora: Yo'lda yangilik bormi?
+[05:25] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:47] Gulnora: LD-54111 bilan ishlar qalay?
+[05:49] Ulugbek Nazarov: Farg'onagacha taxminan 476 km qoldi.
+[06:16] Gulnora: LD-54111 bilan ishlar qalay?
+[06:18] Ulugbek Nazarov: Farg'onagacha taxminan 212 km qoldi.
+[06:46] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[06:48] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:11] Gulnora: Hozir qayerdasiz?
+[07:13] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:41] Gulnora: LD-54111 bilan ishlar qalay?
+[07:43] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:00] Gulnora: Hozir qayerdasiz?
+[08:02] Ulugbek Nazarov: Farg'onagacha taxminan 527 km qoldi.
+[08:39] Gulnora: Holatingiz qanday?
+[08:41] Ulugbek Nazarov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[09:39] Gulnora: LD-54111 bilan ishlar qalay?
+[09:41] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:10] Gulnora: LD-54111 bilan ishlar qalay?
+[10:12] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:50] Gulnora: Yo'lda yangilik bormi?
+[10:52] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:43] Gulnora: Yo'lda yangilik bormi?
+[11:45] Ulugbek Nazarov: Farg'onagacha taxminan 573 km qoldi.
+[12:01] Gulnora: Holatingiz qanday?
+[12:03] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:49] Gulnora: LD-54111 bilan ishlar qalay?
+[12:51] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:20] Gulnora: Yo'lda yangilik bormi?
+[13:22] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:16] Gulnora: LD-54111 bilan ishlar qalay?
+[14:18] Ulugbek Nazarov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[14:34] Gulnora: LD-54111 bilan ishlar qalay?
+[14:36] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:07] Gulnora: Holatingiz qanday?
+[15:09] Ulugbek Nazarov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[15:49] Gulnora: Holatingiz qanday?
+[15:51] Ulugbek Nazarov: Farg'onagacha taxminan 68 km qoldi.
+[16:27] Gulnora: Holatingiz qanday?
+[16:29] Ulugbek Nazarov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[17:11] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[17:13] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:08] Gulnora: LD-54111 bilan ishlar qalay?
+[18:10] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:49] Ulugbek Nazarov: LD-54111 yukini Farg'onada hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[18:51] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[18:53] Ulugbek Nazarov: Ha, hozir rasmga olaman.
+[18:54] Ulugbek Nazarov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[18:56] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[18:58] Ulugbek Nazarov: Tushundim.
+[19:00] Gulnora: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

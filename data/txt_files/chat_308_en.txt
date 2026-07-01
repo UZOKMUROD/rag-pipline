@@ -1,0 +1,129 @@
+Chat Log #308
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Harris | Truck: #288 (dry van)
+Operator: Kayla
+Load: LD-36072 | Route: Dallas, TX -> Atlanta, GA
+Date: 2026-02-23
+--------------------------------------------------
+[07:11] Kayla: Morning Robert, you there?
+[07:12] Robert Harris: Hey, yeah I'm here.
+[07:14] Kayla: Got a load for you - LD-36072, dry van, pickup in Dallas, TX, delivery to Atlanta, GA.
+[07:16] Robert Harris: Ok, what's the pickup window?
+[07:18] Kayla: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[07:20] Robert Harris: What's the rate on this one?
+[07:22] Kayla: $2985 all in, 357 miles.
+[07:24] Robert Harris: Sounds good, I'll take it.
+[07:26] Kayla: Great, sending the rate confirmation now.
+[07:29] Robert Harris: Got it, signed and sent back.
+[08:44] Kayla: What's your status?
+[08:46] Robert Harris: Yeah, long one, but manageable.
+[09:26] Kayla: What's your status?
+[09:28] Robert Harris: Just topped off the tank.
+[09:31] Kayla: Long trip, huh? Get some rest when you can.
+[09:33] Robert Harris: Yeah, long one, but manageable.
+[09:35] Kayla: What's your ETA?
+[09:37] Robert Harris: Probably 3pm, maybe a bit earlier.
+[10:17] Kayla: Still on schedule?
+[10:19] Robert Harris: Just topped off the tank.
+[10:22] Kayla: Appreciate you keeping me posted.
+[10:24] Robert Harris: No problem, just doing my job.
+[11:51] Kayla: Any updates on your progress?
+[11:53] Robert Harris: Doing alright, just tired.
+[11:56] Kayla: Appreciate you keeping me posted.
+[11:58] Robert Harris: Doing alright, just tired.
+[12:25] Kayla: Any updates on your progress?
+[12:27] Robert Harris: No problem, just doing my job.
+[13:30] Kayla: How's LD-36072 looking?
+[13:32] Robert Harris: Fuel prices are decent around here.
+[13:35] Kayla: Let me know if you need anything.
+[13:37] Robert Harris: Yeah, long one, but manageable.
+[14:41] Kayla: What's your status?
+[14:43] Robert Harris: Roads are clear now, moving well.
+[15:06] Kayla: Where are you at right now?
+[15:08] Robert Harris: About 249 miles out from Atlanta, GA now.
+[15:11] Kayla: Long trip, huh? Get some rest when you can.
+[15:13] Robert Harris: No problem, just doing my job.
+[16:27] Kayla: How's LD-36072 looking?
+[16:29] Robert Harris: Just passed Atlanta, GA, everything's fine.
+[16:53] Kayla: Where are you at right now?
+[16:55] Robert Harris: Yeah, long one, but manageable.
+[17:54] Kayla: Still on schedule?
+[17:56] Robert Harris: Weather's getting rough up ahead, heads up.
+[17:59] Kayla: Let me know if you need anything.
+[18:01] Robert Harris: Will do, thanks for checking in.
+[18:17] Kayla: How's LD-36072 looking?
+[18:19] Robert Harris: Hit some traffic near Atlanta, GA, adding maybe 20 minutes.
+[18:22] Kayla: How are you holding up out there?
+[18:24] Robert Harris: No problem, just doing my job.
+[19:49] Kayla: Any updates on your progress?
+[19:51] Robert Harris: Weather's getting rough up ahead, heads up.
+[20:21] Kayla: What's your status?
+[20:23] Robert Harris: No problem, just doing my job.
+[20:26] Kayla: Appreciate you keeping me posted.
+[20:28] Robert Harris: Will do, thanks for checking in.
+[21:38] Kayla: Any updates on your progress?
+[21:40] Robert Harris: Stopping for fuel in a bit.
+[21:43] Kayla: Appreciate you keeping me posted.
+[21:45] Robert Harris: No problem, just doing my job.
+[21:47] Kayla: What's your ETA?
+[21:49] Robert Harris: Should be there around 3pm.
+[22:09] Kayla: What's your status?
+[22:11] Robert Harris: Just crossed the state line, all good.
+[23:08] Kayla: How's LD-36072 looking?
+[23:10] Robert Harris: Just topped off the tank.
+[23:34] Robert Harris: Coming up on my HOS limit, only got about 30 minutes left.
+[23:36] Kayla: Understood, get your rest, I'll let the receiver know.
+[00:14] Kayla: How's LD-36072 looking?
+[00:16] Robert Harris: Stopped for a quick break, back on the road in a few.
+[00:59] Kayla: Any updates on your progress?
+[01:01] Robert Harris: About 151 miles out from Atlanta, GA now.
+[01:54] Kayla: How's LD-36072 looking?
+[01:56] Robert Harris: Making good time, no issues so far.
+[02:48] Kayla: Where are you at right now?
+[02:50] Robert Harris: Just crossed the state line, all good.
+[03:39] Kayla: What's your status?
+[03:41] Robert Harris: Stopped for a quick break, back on the road in a few.
+[04:16] Kayla: Still on schedule?
+[04:18] Robert Harris: Just crossed the state line, all good.
+[05:04] Kayla: Any updates on your progress?
+[05:06] Robert Harris: Making good time, no issues so far.
+[06:05] Kayla: Where are you at right now?
+[06:07] Robert Harris: Just passed Dallas, TX, everything's fine.
+[06:54] Kayla: Any updates on your progress?
+[06:56] Robert Harris: Stopped for a quick break, back on the road in a few.
+[07:42] Kayla: Still on schedule?
+[07:44] Robert Harris: Making good time, no issues so far.
+[08:09] Kayla: How's LD-36072 looking?
+[08:11] Robert Harris: Just passed Atlanta, GA, everything's fine.
+[08:46] Kayla: Any updates on your progress?
+[08:48] Robert Harris: About 223 miles out from Atlanta, GA now.
+[09:12] Kayla: Any updates on your progress?
+[09:14] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[09:42] Kayla: What's your status?
+[09:44] Robert Harris: Stopped for a quick break, back on the road in a few.
+[10:10] Kayla: Still on schedule?
+[10:12] Robert Harris: Stopped for a quick break, back on the road in a few.
+[10:48] Kayla: What's your status?
+[10:50] Robert Harris: About 385 miles out from Atlanta, GA now.
+[11:28] Kayla: What's your status?
+[11:30] Robert Harris: Stopped for a quick break, back on the road in a few.
+[11:51] Kayla: Still on schedule?
+[11:53] Robert Harris: About 308 miles out from Atlanta, GA now.
+[12:29] Kayla: What's your status?
+[12:31] Robert Harris: Making good time, no issues so far.
+[13:26] Kayla: How's LD-36072 looking?
+[13:28] Robert Harris: Just crossed the state line, all good.
+[14:02] Kayla: What's your status?
+[14:04] Robert Harris: Making good time, no issues so far.
+[14:45] Kayla: Any updates on your progress?
+[14:47] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[15:37] Kayla: Any updates on your progress?
+[15:39] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[16:13] Robert Harris: Just delivered LD-36072 at Atlanta, GA, all good, no damages.
+[16:15] Kayla: Do you have the signed BOL?
+[16:17] Robert Harris: Yep, taking a picture now.
+[16:18] Robert Harris: [Image attached: signed_bol.jpg]
+[16:20] Kayla: Sending you the next load details shortly.
+[16:22] Robert Harris: Will do.
+[16:24] Kayla: Appreciate it, talk soon.

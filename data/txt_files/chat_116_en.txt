@@ -1,0 +1,131 @@
+Chat Log #116
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Moore | Truck: #838 (flatbed)
+Operator: Amanda
+Load: LD-76577 | Route: Portland, OR -> Seattle, WA
+Date: 2026-04-27
+--------------------------------------------------
+[09:04] Amanda: Hey Robert, how's it going?
+[09:05] Robert Moore: Yeah, go ahead.
+[09:07] Amanda: Got a load for you - LD-76577, flatbed, pickup in Portland, OR, delivery to Seattle, WA.
+[09:09] Robert Moore: Ok, what's the pickup window?
+[09:11] Amanda: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[09:13] Robert Moore: What's the rate on this one?
+[09:15] Amanda: $3053 all in, 783 miles.
+[09:17] Robert Moore: Sounds good, I'll take it.
+[09:19] Amanda: Great, sending the rate confirmation now.
+[09:22] Robert Moore: Got it, signed and sent back.
+[10:25] Amanda: What's your status?
+[10:27] Robert Moore: Construction zone slowing everyone down.
+[10:30] Amanda: Let me know if you need anything.
+[10:32] Robert Moore: Doing alright, just tired.
+[11:56] Amanda: Still on schedule?
+[11:58] Robert Moore: Just crossed the state line, all good.
+[12:01] Amanda: Appreciate you keeping me posted.
+[12:03] Robert Moore: Doing alright, just tired.
+[13:05] Amanda: Still on schedule?
+[13:07] Robert Moore: Yeah, long one, but manageable.
+[13:09] Amanda: What's your ETA?
+[13:11] Robert Moore: Looking at 10am if traffic stays clear.
+[13:48] Amanda: How's LD-76577 looking?
+[13:50] Robert Moore: Doing alright, just tired.
+[13:52] Amanda: What's your ETA?
+[13:54] Robert Moore: Looking at 10am if traffic stays clear.
+[14:13] Amanda: Still on schedule?
+[14:15] Robert Moore: Just crossed the state line, all good.
+[14:18] Amanda: Let me know if you need anything.
+[14:20] Robert Moore: Yeah, long one, but manageable.
+[15:32] Amanda: How's LD-76577 looking?
+[15:34] Robert Moore: Stopping for fuel in a bit.
+[16:55] Amanda: How's LD-76577 looking?
+[16:57] Robert Moore: Making good time, no issues so far.
+[17:00] Amanda: How are you holding up out there?
+[17:02] Robert Moore: Yeah, long one, but manageable.
+[18:04] Amanda: How's LD-76577 looking?
+[18:06] Robert Moore: Just topped off the tank.
+[18:08] Amanda: What's your ETA?
+[18:10] Robert Moore: Looking at noon if traffic stays clear.
+[19:14] Amanda: Where are you at right now?
+[19:16] Robert Moore: Hit some traffic near Portland, OR, adding maybe 20 minutes.
+[19:19] Amanda: How are you holding up out there?
+[19:21] Robert Moore: Will do, thanks for checking in.
+[19:47] Amanda: Still on schedule?
+[19:49] Robert Moore: About 31 miles out from Seattle, WA now.
+[19:51] Amanda: What's your ETA?
+[19:53] Robert Moore: Should be there around 10am.
+[20:34] Amanda: Any updates on your progress?
+[20:36] Robert Moore: Making good time, no issues so far.
+[21:27] Amanda: How's LD-76577 looking?
+[21:29] Robert Moore: About 212 miles out from Seattle, WA now.
+[21:32] Amanda: Appreciate you keeping me posted.
+[21:34] Robert Moore: Yeah, long one, but manageable.
+[22:01] Amanda: Where are you at right now?
+[22:03] Robert Moore: Fuel prices are decent around here.
+[22:06] Amanda: Let me know if you need anything.
+[22:08] Robert Moore: Yeah, long one, but manageable.
+[22:10] Amanda: What's your ETA?
+[22:12] Robert Moore: Looking at 3pm if traffic stays clear.
+[22:27] Amanda: Any updates on your progress?
+[22:29] Robert Moore: Roads are wet, taking it easy.
+[22:58] Amanda: Any updates on your progress?
+[23:00] Robert Moore: Stopped for a quick break, back on the road in a few.
+[23:12] Robert Moore: Coming up on my HOS limit, only got about 1 hour left.
+[23:14] Amanda: Understood, get your rest, I'll let the receiver know.
+[23:40] Amanda: How's LD-76577 looking?
+[23:42] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[00:18] Amanda: Where are you at right now?
+[00:20] Robert Moore: Stopped for a quick break, back on the road in a few.
+[00:45] Amanda: Any updates on your progress?
+[00:47] Robert Moore: Making good time, no issues so far.
+[01:16] Amanda: Any updates on your progress?
+[01:18] Robert Moore: About 384 miles out from Seattle, WA now.
+[01:50] Amanda: Still on schedule?
+[01:52] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[02:24] Amanda: Where are you at right now?
+[02:26] Robert Moore: Just passed Seattle, WA, everything's fine.
+[03:02] Amanda: Still on schedule?
+[03:04] Robert Moore: Making good time, no issues so far.
+[03:20] Amanda: What's your status?
+[03:22] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[04:11] Amanda: Where are you at right now?
+[04:13] Robert Moore: About 55 miles out from Seattle, WA now.
+[05:09] Amanda: Any updates on your progress?
+[05:11] Robert Moore: Stopped for a quick break, back on the road in a few.
+[05:50] Amanda: What's your status?
+[05:52] Robert Moore: Making good time, no issues so far.
+[06:07] Amanda: Any updates on your progress?
+[06:09] Robert Moore: About 558 miles out from Seattle, WA now.
+[06:47] Amanda: Still on schedule?
+[06:49] Robert Moore: Just passed Seattle, WA, everything's fine.
+[07:41] Amanda: Any updates on your progress?
+[07:43] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[08:42] Amanda: How's LD-76577 looking?
+[08:44] Robert Moore: Making good time, no issues so far.
+[09:14] Amanda: What's your status?
+[09:16] Robert Moore: Stopped for a quick break, back on the road in a few.
+[10:15] Amanda: How's LD-76577 looking?
+[10:17] Robert Moore: Making good time, no issues so far.
+[11:02] Amanda: Still on schedule?
+[11:04] Robert Moore: About 527 miles out from Seattle, WA now.
+[12:00] Amanda: Still on schedule?
+[12:02] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[12:40] Amanda: What's your status?
+[12:42] Robert Moore: Just crossed the state line, all good.
+[12:57] Amanda: Any updates on your progress?
+[12:59] Robert Moore: Just crossed the state line, all good.
+[13:20] Amanda: Still on schedule?
+[13:22] Robert Moore: Just passed Portland, OR, everything's fine.
+[14:15] Amanda: What's your status?
+[14:17] Robert Moore: Traffic's a bit heavy but I'm still on schedule.
+[15:04] Amanda: What's your status?
+[15:06] Robert Moore: Making good time, no issues so far.
+[15:29] Amanda: Still on schedule?
+[15:31] Robert Moore: Making good time, no issues so far.
+[16:06] Robert Moore: Just delivered LD-76577 at Seattle, WA, all good, no damages.
+[16:08] Amanda: Do you have the signed BOL?
+[16:10] Robert Moore: Yep, taking a picture now.
+[16:11] Robert Moore: [Image attached: signed_bol.jpg]
+[16:13] Amanda: Sending you the next load details shortly.
+[16:15] Robert Moore: Will do.
+[16:17] Amanda: Appreciate it, talk soon.

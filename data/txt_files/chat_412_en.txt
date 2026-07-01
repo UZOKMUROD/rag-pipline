@@ -1,0 +1,128 @@
+Chat Log #412
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Martinez | Truck: #477 (reefer)
+Operator: Amanda
+Load: LD-24223 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-02-25
+--------------------------------------------------
+[05:31] Amanda: Andre, got a minute?
+[05:32] Andre Martinez: Yeah, go ahead.
+[05:34] Amanda: Got a load for you - LD-24223, reefer, pickup in Houston, TX, delivery to New Orleans, LA.
+[05:36] Andre Martinez: Ok, what's the pickup window?
+[05:38] Amanda: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[05:40] Andre Martinez: What's the rate on this one?
+[05:42] Amanda: $2896 all in, 1098 miles.
+[05:44] Andre Martinez: Sounds good, I'll take it.
+[05:46] Amanda: Great, sending the rate confirmation now.
+[05:49] Andre Martinez: Got it, signed and sent back.
+[06:57] Amanda: Still on schedule?
+[06:59] Andre Martinez: Construction zone slowing everyone down.
+[07:02] Amanda: How are you holding up out there?
+[07:04] Andre Martinez: Doing alright, just tired.
+[07:06] Amanda: What's your ETA?
+[07:08] Andre Martinez: Should be there around 10am.
+[08:11] Amanda: What's your status?
+[08:13] Andre Martinez: Traffic's a bit heavy but I'm still on schedule.
+[09:04] Amanda: Any updates on your progress?
+[09:06] Andre Martinez: About 341 miles out from New Orleans, LA now.
+[10:00] Amanda: Any updates on your progress?
+[10:02] Andre Martinez: Yeah, long one, but manageable.
+[10:05] Amanda: Appreciate you keeping me posted.
+[10:07] Andre Martinez: Doing alright, just tired.
+[10:09] Amanda: What's your ETA?
+[10:11] Andre Martinez: Should be there around 3pm.
+[10:26] Amanda: Still on schedule?
+[10:28] Andre Martinez: Making good time, no issues so far.
+[11:05] Amanda: Where are you at right now?
+[11:07] Andre Martinez: Just passed Houston, TX, everything's fine.
+[11:10] Amanda: Let me know if you need anything.
+[11:12] Andre Martinez: Yeah, long one, but manageable.
+[12:21] Amanda: Where are you at right now?
+[12:23] Andre Martinez: About 31 miles out from New Orleans, LA now.
+[13:52] Amanda: Any updates on your progress?
+[13:54] Andre Martinez: Just passed New Orleans, LA, everything's fine.
+[15:05] Amanda: Where are you at right now?
+[15:07] Andre Martinez: Doing alright, just tired.
+[16:29] Amanda: How's LD-24223 looking?
+[16:31] Andre Martinez: Roads are clear now, moving well.
+[17:25] Amanda: Any updates on your progress?
+[17:27] Andre Martinez: Will do, thanks for checking in.
+[18:53] Amanda: Where are you at right now?
+[18:55] Andre Martinez: About 151 miles out from New Orleans, LA now.
+[18:58] Amanda: Appreciate you keeping me posted.
+[19:00] Andre Martinez: Will do, thanks for checking in.
+[19:58] Amanda: Where are you at right now?
+[20:00] Andre Martinez: Weather's getting rough up ahead, heads up.
+[20:45] Amanda: How's LD-24223 looking?
+[20:47] Andre Martinez: Hit some traffic near New Orleans, LA, adding maybe 20 minutes.
+[20:49] Amanda: What's your ETA?
+[20:51] Andre Martinez: Should be there around noon.
+[22:16] Amanda: Still on schedule?
+[22:18] Andre Martinez: Just crossed the state line, all good.
+[22:20] Amanda: What's your ETA?
+[22:22] Andre Martinez: Looking at 10am if traffic stays clear.
+[23:35] Amanda: Where are you at right now?
+[23:37] Andre Martinez: Construction zone slowing everyone down.
+[00:56] Amanda: Still on schedule?
+[00:58] Andre Martinez: Just topped off the tank.
+[01:15] Amanda: How's LD-24223 looking?
+[01:17] Andre Martinez: Stopping for fuel in a bit.
+[01:20] Amanda: Appreciate you keeping me posted.
+[01:22] Andre Martinez: No problem, just doing my job.
+[02:07] Amanda: Still on schedule?
+[02:09] Andre Martinez: Traffic's a bit heavy but I'm still on schedule.
+[02:36] Amanda: Still on schedule?
+[02:38] Andre Martinez: Stopping for fuel in a bit.
+[02:41] Amanda: Let me know if you need anything.
+[02:43] Andre Martinez: No problem, just doing my job.
+[03:00] Amanda: How's LD-24223 looking?
+[03:02] Andre Martinez: Making good time, no issues so far.
+[03:31] Andre Martinez: Still sitting at the receiver, been here almost 2 hours already.
+[03:33] Amanda: Let me call them and see what's going on.
+[03:43] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[03:45] Andre Martinez: Make sure detention pay gets logged for this.
+[03:47] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[04:29] Amanda: What's your status?
+[04:31] Andre Martinez: About 185 miles out from New Orleans, LA now.
+[04:57] Amanda: Still on schedule?
+[04:59] Andre Martinez: Stopped for a quick break, back on the road in a few.
+[05:22] Amanda: Still on schedule?
+[05:24] Andre Martinez: Traffic's a bit heavy but I'm still on schedule.
+[05:48] Amanda: Where are you at right now?
+[05:50] Andre Martinez: Just crossed the state line, all good.
+[06:14] Amanda: Where are you at right now?
+[06:16] Andre Martinez: Traffic's a bit heavy but I'm still on schedule.
+[06:36] Amanda: How's LD-24223 looking?
+[06:38] Andre Martinez: Just passed New Orleans, LA, everything's fine.
+[07:34] Amanda: How's LD-24223 looking?
+[07:36] Andre Martinez: About 113 miles out from New Orleans, LA now.
+[08:20] Amanda: What's your status?
+[08:22] Andre Martinez: Just crossed the state line, all good.
+[08:51] Amanda: How's LD-24223 looking?
+[08:53] Andre Martinez: Just passed New Orleans, LA, everything's fine.
+[09:23] Amanda: What's your status?
+[09:25] Andre Martinez: Making good time, no issues so far.
+[10:05] Amanda: Any updates on your progress?
+[10:07] Andre Martinez: Stopped for a quick break, back on the road in a few.
+[10:56] Amanda: Still on schedule?
+[10:58] Andre Martinez: Just crossed the state line, all good.
+[11:52] Amanda: Still on schedule?
+[11:54] Andre Martinez: Just crossed the state line, all good.
+[12:30] Amanda: Still on schedule?
+[12:32] Andre Martinez: Just crossed the state line, all good.
+[13:22] Amanda: Any updates on your progress?
+[13:24] Andre Martinez: About 242 miles out from New Orleans, LA now.
+[13:44] Amanda: Any updates on your progress?
+[13:46] Andre Martinez: Making good time, no issues so far.
+[14:33] Amanda: Still on schedule?
+[14:35] Andre Martinez: Traffic's a bit heavy but I'm still on schedule.
+[15:01] Amanda: Where are you at right now?
+[15:03] Andre Martinez: Stopped for a quick break, back on the road in a few.
+[16:28] Andre Martinez: Just delivered LD-24223 at New Orleans, LA, all good, no damages.
+[16:30] Amanda: Do you have the signed BOL?
+[16:32] Andre Martinez: Yep, taking a picture now.
+[16:33] Andre Martinez: [Image attached: signed_bol.jpg]
+[16:35] Amanda: Sending you the next load details shortly.
+[16:37] Andre Martinez: Copy that.
+[16:39] Amanda: Appreciate it, talk soon.

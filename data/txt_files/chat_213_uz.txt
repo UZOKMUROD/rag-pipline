@@ -1,0 +1,153 @@
+Chat Log #213
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #173 (refrijerator)
+Operator: Dilnoza
+Load: LD-10784 | Route: Buxoro -> Navoiy
+Date: 2026-02-16
+--------------------------------------------------
+[17:23] Dilnoza: Bakhtiyor, bir daqiqa bormi?
+[17:24] Bakhtiyor Karimov: Xayrli tong, menda hammasi yaxshi.
+[17:26] Dilnoza: Siz uchun yuk bor - LD-10784, refrijerator, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[17:28] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[17:30] Dilnoza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[17:32] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[17:34] Dilnoza: 3005 ming so'm, 1048 km.
+[17:36] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[17:38] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:41] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[18:27] Dilnoza: Hozir qayerdasiz?
+[18:29] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[18:32] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[18:34] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[18:36] Dilnoza: Taxminan qachon yetib borasiz?
+[18:38] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 3pmda.
+[19:23] Dilnoza: Holatingiz qanday?
+[19:25] Bakhtiyor Karimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:35] Dilnoza: Hozir qayerdasiz?
+[20:37] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:40] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:42] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[21:00] Dilnoza: Hozir qayerdasiz?
+[21:02] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:05] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[21:07] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:38] Dilnoza: Holatingiz qanday?
+[21:40] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:32] Dilnoza: Holatingiz qanday?
+[22:34] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:59] Dilnoza: LD-10784 bilan ishlar qalay?
+[00:01] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[00:42] Dilnoza: Yo'lda yangilik bormi?
+[00:44] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:47] Dilnoza: O'zingizni qalay his qilyapsiz?
+[00:49] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[01:17] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:19] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:21] Dilnoza: Taxminan qachon yetib borasiz?
+[01:23] Bakhtiyor Karimov: Ehtimol 5pm, balki ertaroq.
+[01:39] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:41] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[01:44] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:46] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[02:14] Dilnoza: Hozir qayerdasiz?
+[02:16] Bakhtiyor Karimov: Navoiygacha taxminan 392 km qoldi.
+[02:19] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[02:21] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[03:15] Dilnoza: Hozir qayerdasiz?
+[03:17] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:20] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[03:22] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[04:43] Dilnoza: Yo'lda yangilik bormi?
+[04:45] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[04:48] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[04:50] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[06:18] Dilnoza: Hozir qayerdasiz?
+[06:20] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[06:23] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[06:25] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[07:22] Dilnoza: Yo'lda yangilik bormi?
+[07:24] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[07:27] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[07:29] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[08:31] Dilnoza: Yo'lda yangilik bormi?
+[08:33] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[09:21] Dilnoza: Holatingiz qanday?
+[09:23] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[09:59] Dilnoza: Holatingiz qanday?
+[10:01] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[10:57] Dilnoza: Yo'lda yangilik bormi?
+[10:59] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:37] Dilnoza: Yo'lda yangilik bormi?
+[11:39] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:37] Dilnoza: Holatingiz qanday?
+[12:39] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:00] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:02] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:48] Dilnoza: LD-10784 bilan ishlar qalay?
+[13:50] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:26] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:28] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:26] Dilnoza: Yo'lda yangilik bormi?
+[15:28] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:25] Dilnoza: Hozir qayerdasiz?
+[16:27] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:19] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:21] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:44] Dilnoza: LD-10784 bilan ishlar qalay?
+[17:46] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:10] Dilnoza: Hozir qayerdasiz?
+[18:12] Bakhtiyor Karimov: Navoiygacha taxminan 414 km qoldi.
+[19:12] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:14] Bakhtiyor Karimov: Navoiygacha taxminan 313 km qoldi.
+[19:34] Dilnoza: Holatingiz qanday?
+[19:36] Bakhtiyor Karimov: Navoiygacha taxminan 515 km qoldi.
+[20:30] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:32] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:01] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:03] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:23] Dilnoza: Yo'lda yangilik bormi?
+[21:25] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:53] Dilnoza: LD-10784 bilan ishlar qalay?
+[21:55] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[22:11] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:13] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:04] Dilnoza: Holatingiz qanday?
+[23:06] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:39] Dilnoza: Hozir qayerdasiz?
+[23:41] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:15] Dilnoza: Hozir qayerdasiz?
+[00:17] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:59] Dilnoza: Hozir qayerdasiz?
+[01:01] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:47] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:49] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:22] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:24] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:11] Dilnoza: Hozir qayerdasiz?
+[03:13] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:59] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:01] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:28] Dilnoza: Yo'lda yangilik bormi?
+[04:30] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:19] Dilnoza: Hozir qayerdasiz?
+[05:21] Bakhtiyor Karimov: Navoiygacha taxminan 396 km qoldi.
+[05:55] Dilnoza: Hozir qayerdasiz?
+[05:57] Bakhtiyor Karimov: Navoiygacha taxminan 201 km qoldi.
+[06:24] Dilnoza: Holatingiz qanday?
+[06:26] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:14] Dilnoza: LD-10784 bilan ishlar qalay?
+[07:16] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:16] Dilnoza: Yo'lda yangilik bormi?
+[08:18] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[08:56] Dilnoza: LD-10784 bilan ishlar qalay?
+[08:58] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:40] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:42] Bakhtiyor Karimov: Navoiygacha taxminan 369 km qoldi.
+[10:36] Bakhtiyor Karimov: LD-10784 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[10:38] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[10:40] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[10:41] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[10:43] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[10:45] Bakhtiyor Karimov: Yaxshi.
+[10:47] Dilnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

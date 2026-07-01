@@ -1,0 +1,146 @@
+Chat Log #223
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #451 (platforma)
+Operator: Shahnoza
+Load: LD-88074 | Route: Samarqand -> Buxoro
+Date: 2026-02-10
+--------------------------------------------------
+[08:39] Shahnoza: Jasur, bir daqiqa bormi?
+[08:40] Jasur Toshpulatov: Ha, aloqadaman.
+[08:42] Shahnoza: Siz uchun yuk bor - LD-88074, platforma, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[08:44] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[08:46] Shahnoza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[08:48] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[08:50] Shahnoza: 3597 ming so'm, 1010 km.
+[08:52] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[08:54] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:57] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[09:43] Shahnoza: Hozir qayerdasiz?
+[09:45] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:28] Shahnoza: Holatingiz qanday?
+[10:30] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[11:05] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:07] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[12:21] Shahnoza: Yo'lda yangilik bormi?
+[12:23] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:26] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[12:28] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[12:59] Shahnoza: Hozir qayerdasiz?
+[13:01] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[13:56] Shahnoza: Holatingiz qanday?
+[13:58] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:01] Shahnoza: O'zingizni qalay his qilyapsiz?
+[14:03] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[15:25] Shahnoza: Holatingiz qanday?
+[15:27] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:16] Shahnoza: LD-88074 bilan ishlar qalay?
+[16:18] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[16:21] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:23] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[16:25] Shahnoza: Taxminan qachon yetib borasiz?
+[16:27] Jasur Toshpulatov: Ehtimol 3pm, balki ertaroq.
+[17:36] Shahnoza: Hozir qayerdasiz?
+[17:38] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:49] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:51] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[20:14] Shahnoza: Holatingiz qanday?
+[20:16] Jasur Toshpulatov: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:19] Shahnoza: O'zingizni qalay his qilyapsiz?
+[20:21] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[20:45] Shahnoza: Yo'lda yangilik bormi?
+[20:47] Jasur Toshpulatov: Buxorogacha taxminan 250 km qoldi.
+[20:50] Shahnoza: O'zingizni qalay his qilyapsiz?
+[20:52] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[22:20] Shahnoza: LD-88074 bilan ishlar qalay?
+[22:22] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:56] Shahnoza: Yo'lda yangilik bormi?
+[22:58] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:01] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[23:03] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[23:28] Jasur Toshpulatov: Hali ham qabul qiluvchida turibman, deyarli 2 soat bo'ldi.
+[23:30] Shahnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[23:40] Shahnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[23:42] Jasur Toshpulatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[23:44] Shahnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[00:08] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:10] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:28] Shahnoza: LD-88074 bilan ishlar qalay?
+[00:30] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:51] Shahnoza: LD-88074 bilan ishlar qalay?
+[00:53] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:35] Shahnoza: Yo'lda yangilik bormi?
+[01:37] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:12] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:14] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:52] Shahnoza: Hozir qayerdasiz?
+[02:54] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[03:39] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:41] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:16] Shahnoza: Hozir qayerdasiz?
+[04:18] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[04:47] Shahnoza: Yo'lda yangilik bormi?
+[04:49] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:19] Shahnoza: Holatingiz qanday?
+[05:21] Jasur Toshpulatov: Buxorogacha taxminan 218 km qoldi.
+[05:49] Shahnoza: Hozir qayerdasiz?
+[05:51] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:06] Shahnoza: Hozir qayerdasiz?
+[06:08] Jasur Toshpulatov: Buxorogacha taxminan 127 km qoldi.
+[06:57] Shahnoza: LD-88074 bilan ishlar qalay?
+[06:59] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:23] Shahnoza: Holatingiz qanday?
+[07:25] Jasur Toshpulatov: Buxorogacha taxminan 355 km qoldi.
+[08:08] Shahnoza: Holatingiz qanday?
+[08:10] Jasur Toshpulatov: Buxorogacha taxminan 349 km qoldi.
+[08:44] Shahnoza: LD-88074 bilan ishlar qalay?
+[08:46] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:38] Shahnoza: Hozir qayerdasiz?
+[09:40] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:23] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:25] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:48] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:50] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:21] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:23] Jasur Toshpulatov: Buxorogacha taxminan 244 km qoldi.
+[12:10] Shahnoza: Holatingiz qanday?
+[12:12] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:04] Shahnoza: LD-88074 bilan ishlar qalay?
+[13:06] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:35] Shahnoza: Holatingiz qanday?
+[13:37] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:22] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:24] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:18] Shahnoza: LD-88074 bilan ishlar qalay?
+[15:20] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:01] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:03] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:56] Shahnoza: Hozir qayerdasiz?
+[16:58] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:25] Shahnoza: Yo'lda yangilik bormi?
+[17:27] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:46] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:48] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:09] Shahnoza: Yo'lda yangilik bormi?
+[18:11] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[19:10] Shahnoza: Hozir qayerdasiz?
+[19:12] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:41] Shahnoza: Yo'lda yangilik bormi?
+[19:43] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:29] Shahnoza: Yo'lda yangilik bormi?
+[20:31] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[21:12] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:14] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:12] Shahnoza: LD-88074 bilan ishlar qalay?
+[22:14] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:50] Shahnoza: Yo'lda yangilik bormi?
+[22:52] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:44] Shahnoza: Yo'lda yangilik bormi?
+[23:46] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[00:19] Jasur Toshpulatov: LD-88074 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:21] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[00:23] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[00:24] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:26] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:28] Jasur Toshpulatov: Xo'p bo'ladi.
+[00:30] Shahnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

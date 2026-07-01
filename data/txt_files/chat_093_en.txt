@@ -1,0 +1,128 @@
+Chat Log #093
+Company: Silk Road Logistics
+Language: English
+Driver: David Davis | Truck: #699 (reefer)
+Operator: Amanda
+Load: LD-88215 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-04-06
+--------------------------------------------------
+[06:49] Amanda: David, got a minute?
+[06:50] David Davis: Morning, all good on my end.
+[06:52] Amanda: Got a load for you - LD-88215, reefer, pickup in Chicago, IL, delivery to Memphis, TN.
+[06:54] David Davis: Ok, what's the pickup window?
+[06:56] Amanda: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[06:58] David Davis: What's the rate on this one?
+[07:00] Amanda: $3665 all in, 548 miles.
+[07:02] David Davis: Sounds good, I'll take it.
+[07:04] Amanda: Great, sending the rate confirmation now.
+[07:07] David Davis: Got it, signed and sent back.
+[07:30] Amanda: Still on schedule?
+[07:32] David Davis: No problem, just doing my job.
+[07:35] Amanda: Let me know if you need anything.
+[07:37] David Davis: No problem, just doing my job.
+[08:14] Amanda: Still on schedule?
+[08:16] David Davis: Roads are wet, taking it easy.
+[09:12] Amanda: Any updates on your progress?
+[09:14] David Davis: Doing alright, just tired.
+[10:42] Amanda: Any updates on your progress?
+[10:44] David Davis: Traffic's a bit heavy but I'm still on schedule.
+[11:51] Amanda: What's your status?
+[11:53] David Davis: Traffic's a bit heavy but I'm still on schedule.
+[11:56] Amanda: How are you holding up out there?
+[11:58] David Davis: Yeah, long one, but manageable.
+[12:36] Amanda: How's LD-88215 looking?
+[12:38] David Davis: Just topped off the tank.
+[13:15] Amanda: What's your status?
+[13:17] David Davis: Stopping for fuel in a bit.
+[14:44] Amanda: Still on schedule?
+[14:46] David Davis: Roads are clear now, moving well.
+[14:49] Amanda: Appreciate you keeping me posted.
+[14:51] David Davis: Doing alright, just tired.
+[16:01] Amanda: What's your status?
+[16:03] David Davis: Just crossed the state line, all good.
+[16:06] Amanda: Appreciate you keeping me posted.
+[16:08] David Davis: Will do, thanks for checking in.
+[16:51] Amanda: Where are you at right now?
+[16:53] David Davis: Stopping for fuel in a bit.
+[17:08] Amanda: How's LD-88215 looking?
+[17:10] David Davis: Making good time, no issues so far.
+[17:13] Amanda: Let me know if you need anything.
+[17:15] David Davis: Yeah, long one, but manageable.
+[18:26] Amanda: Any updates on your progress?
+[18:28] David Davis: Just passed Memphis, TN, everything's fine.
+[18:30] Amanda: What's your ETA?
+[18:32] David Davis: Probably 7pm, maybe a bit earlier.
+[19:57] Amanda: Any updates on your progress?
+[19:59] David Davis: Stopping for fuel in a bit.
+[20:32] Amanda: Where are you at right now?
+[20:34] David Davis: Rain is picking up here, slowing down a bit.
+[20:37] Amanda: Let me know if you need anything.
+[20:39] David Davis: No problem, just doing my job.
+[20:41] Amanda: What's your ETA?
+[20:43] David Davis: Probably 10am, maybe a bit earlier.
+[21:54] Amanda: Where are you at right now?
+[21:56] David Davis: Clear skies here, no problems.
+[21:59] Amanda: How are you holding up out there?
+[22:01] David Davis: Will do, thanks for checking in.
+[22:50] Amanda: Where are you at right now?
+[22:52] David Davis: Stopping for fuel in a bit.
+[00:07] Amanda: How's LD-88215 looking?
+[00:09] David Davis: Weather's getting rough up ahead, heads up.
+[00:55] Amanda: Still on schedule?
+[00:57] David Davis: Rain is picking up here, slowing down a bit.
+[00:59] Amanda: What's your ETA?
+[01:01] David Davis: Probably 3pm, maybe a bit earlier.
+[01:18] Amanda: Any updates on your progress?
+[01:20] David Davis: About 285 miles out from Memphis, TN now.
+[02:43] Amanda: Still on schedule?
+[02:45] David Davis: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[02:48] Amanda: How are you holding up out there?
+[02:50] David Davis: Yeah, long one, but manageable.
+[03:07] Amanda: Still on schedule?
+[03:09] David Davis: About 142 miles out from Memphis, TN now.
+[03:12] Amanda: Appreciate you keeping me posted.
+[03:14] David Davis: No problem, just doing my job.
+[04:10] Amanda: Still on schedule?
+[04:12] David Davis: Just crossed the state line, all good.
+[04:41] David Davis: Still sitting at the receiver, been here almost 3 hours already.
+[04:43] Amanda: Let me call them and see what's going on.
+[04:53] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[04:55] David Davis: Make sure detention pay gets logged for this.
+[04:57] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[05:31] Amanda: How's LD-88215 looking?
+[05:33] David Davis: Making good time, no issues so far.
+[05:58] Amanda: Where are you at right now?
+[06:00] David Davis: About 503 miles out from Memphis, TN now.
+[06:50] Amanda: Where are you at right now?
+[06:52] David Davis: Stopped for a quick break, back on the road in a few.
+[07:23] Amanda: Any updates on your progress?
+[07:25] David Davis: Just passed Memphis, TN, everything's fine.
+[08:23] Amanda: Still on schedule?
+[08:25] David Davis: Stopped for a quick break, back on the road in a few.
+[09:11] Amanda: What's your status?
+[09:13] David Davis: Making good time, no issues so far.
+[09:50] Amanda: Still on schedule?
+[09:52] David Davis: About 152 miles out from Memphis, TN now.
+[10:09] Amanda: Still on schedule?
+[10:11] David Davis: Traffic's a bit heavy but I'm still on schedule.
+[10:26] Amanda: Still on schedule?
+[10:28] David Davis: About 339 miles out from Memphis, TN now.
+[10:55] Amanda: How's LD-88215 looking?
+[10:57] David Davis: Just crossed the state line, all good.
+[11:34] Amanda: Still on schedule?
+[11:36] David Davis: Stopped for a quick break, back on the road in a few.
+[12:14] Amanda: Any updates on your progress?
+[12:16] David Davis: Making good time, no issues so far.
+[12:51] Amanda: What's your status?
+[12:53] David Davis: Traffic's a bit heavy but I'm still on schedule.
+[13:13] Amanda: How's LD-88215 looking?
+[13:15] David Davis: Just passed Chicago, IL, everything's fine.
+[14:12] Amanda: What's your status?
+[14:14] David Davis: About 170 miles out from Memphis, TN now.
+[14:55] David Davis: Just delivered LD-88215 at Memphis, TN, all good, no damages.
+[14:57] Amanda: Do you have the signed BOL?
+[14:59] David Davis: Yep, taking a picture now.
+[15:00] David Davis: [Image attached: signed_bol.jpg]
+[15:02] Amanda: Sending you the next load details shortly.
+[15:04] David Davis: Sounds good.
+[15:06] Amanda: Thanks for the update, drive safe.

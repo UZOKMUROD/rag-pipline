@@ -1,0 +1,130 @@
+Chat Log #105
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Clark | Truck: #121 (dry van)
+Operator: Nicole
+Load: LD-42994 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-02-13
+--------------------------------------------------
+[20:15] Nicole: Morning Andrew, you there?
+[20:16] Andrew Clark: Yeah, go ahead.
+[20:18] Nicole: Got a load for you - LD-42994, dry van, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[20:20] Andrew Clark: Ok, what's the pickup window?
+[20:22] Nicole: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[20:24] Andrew Clark: What's the rate on this one?
+[20:26] Nicole: $2166 all in, 565 miles.
+[20:28] Andrew Clark: Sounds good, I'll take it.
+[20:30] Nicole: Great, sending the rate confirmation now.
+[20:33] Andrew Clark: Got it, signed and sent back.
+[21:31] Nicole: Still on schedule?
+[21:33] Andrew Clark: Just crossed the state line, all good.
+[21:36] Nicole: Appreciate you keeping me posted.
+[21:38] Andrew Clark: Doing alright, just tired.
+[21:40] Nicole: What's your ETA?
+[21:42] Andrew Clark: Looking at noon if traffic stays clear.
+[22:12] Nicole: What's your status?
+[22:14] Andrew Clark: Stopping for fuel in a bit.
+[22:17] Nicole: Let me know if you need anything.
+[22:19] Andrew Clark: No problem, just doing my job.
+[23:11] Nicole: What's your status?
+[23:13] Andrew Clark: Accident up ahead, traffic's backed up.
+[00:21] Nicole: What's your status?
+[00:23] Andrew Clark: Accident up ahead, traffic's backed up.
+[01:51] Nicole: What's your status?
+[01:53] Andrew Clark: No problem, just doing my job.
+[02:36] Nicole: Any updates on your progress?
+[02:38] Andrew Clark: Accident up ahead, traffic's backed up.
+[02:41] Nicole: Long trip, huh? Get some rest when you can.
+[02:43] Andrew Clark: Doing alright, just tired.
+[03:40] Nicole: How's LD-42994 looking?
+[03:42] Andrew Clark: Will do, thanks for checking in.
+[05:05] Nicole: Any updates on your progress?
+[05:07] Andrew Clark: Roads are wet, taking it easy.
+[05:09] Nicole: What's your ETA?
+[05:11] Andrew Clark: Should be there around 7pm.
+[06:29] Nicole: How's LD-42994 looking?
+[06:31] Andrew Clark: Doing alright, just tired.
+[06:33] Nicole: What's your ETA?
+[06:35] Andrew Clark: Should be there around 7pm.
+[07:08] Nicole: How's LD-42994 looking?
+[07:10] Andrew Clark: Clear skies here, no problems.
+[07:13] Nicole: How are you holding up out there?
+[07:15] Andrew Clark: No problem, just doing my job.
+[08:36] Nicole: Any updates on your progress?
+[08:38] Andrew Clark: Just topped off the tank.
+[09:20] Nicole: Any updates on your progress?
+[09:22] Andrew Clark: Roads are clear now, moving well.
+[09:41] Nicole: Where are you at right now?
+[09:43] Andrew Clark: Just topped off the tank.
+[09:59] Nicole: Still on schedule?
+[10:01] Andrew Clark: Traffic's a bit heavy but I'm still on schedule.
+[10:35] Nicole: Any updates on your progress?
+[10:37] Andrew Clark: Stopping for fuel in a bit.
+[10:40] Nicole: Appreciate you keeping me posted.
+[10:42] Andrew Clark: Doing alright, just tired.
+[11:09] Nicole: Any updates on your progress?
+[11:11] Andrew Clark: Traffic's a bit heavy but I'm still on schedule.
+[11:13] Nicole: What's your ETA?
+[11:15] Andrew Clark: Looking at 3pm if traffic stays clear.
+[11:47] Nicole: Any updates on your progress?
+[11:49] Andrew Clark: Yeah, long one, but manageable.
+[12:01] Andrew Clark: Still sitting at the warehouse dock, been here almost 4 hours already.
+[12:03] Nicole: Let me call them and see what's going on.
+[12:13] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[12:15] Andrew Clark: Make sure detention pay gets logged for this.
+[12:17] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[13:00] Nicole: Still on schedule?
+[13:02] Andrew Clark: Stopped for a quick break, back on the road in a few.
+[13:23] Nicole: Any updates on your progress?
+[13:25] Andrew Clark: Stopped for a quick break, back on the road in a few.
+[13:49] Nicole: Any updates on your progress?
+[13:51] Andrew Clark: Just passed Las Vegas, NV, everything's fine.
+[14:28] Nicole: Still on schedule?
+[14:30] Andrew Clark: Traffic's a bit heavy but I'm still on schedule.
+[14:53] Nicole: What's your status?
+[14:55] Andrew Clark: Just crossed the state line, all good.
+[15:34] Nicole: What's your status?
+[15:36] Andrew Clark: Just passed Las Vegas, NV, everything's fine.
+[16:15] Nicole: Where are you at right now?
+[16:17] Andrew Clark: Just crossed the state line, all good.
+[16:34] Nicole: Still on schedule?
+[16:36] Andrew Clark: About 480 miles out from Las Vegas, NV now.
+[17:22] Nicole: Any updates on your progress?
+[17:24] Andrew Clark: About 179 miles out from Las Vegas, NV now.
+[18:07] Nicole: Any updates on your progress?
+[18:09] Andrew Clark: Just crossed the state line, all good.
+[18:40] Nicole: What's your status?
+[18:42] Andrew Clark: Making good time, no issues so far.
+[19:12] Nicole: How's LD-42994 looking?
+[19:14] Andrew Clark: Just passed Fresno, CA, everything's fine.
+[19:29] Nicole: Any updates on your progress?
+[19:31] Andrew Clark: About 508 miles out from Las Vegas, NV now.
+[20:24] Nicole: Where are you at right now?
+[20:26] Andrew Clark: Making good time, no issues so far.
+[21:16] Nicole: Still on schedule?
+[21:18] Andrew Clark: Just passed Las Vegas, NV, everything's fine.
+[21:39] Nicole: Where are you at right now?
+[21:41] Andrew Clark: Just passed Fresno, CA, everything's fine.
+[22:25] Nicole: How's LD-42994 looking?
+[22:27] Andrew Clark: Just crossed the state line, all good.
+[23:04] Nicole: Still on schedule?
+[23:06] Andrew Clark: Just passed Fresno, CA, everything's fine.
+[23:53] Nicole: How's LD-42994 looking?
+[23:55] Andrew Clark: Just crossed the state line, all good.
+[00:11] Nicole: Still on schedule?
+[00:13] Andrew Clark: Just crossed the state line, all good.
+[01:05] Nicole: Where are you at right now?
+[01:07] Andrew Clark: Just crossed the state line, all good.
+[01:24] Nicole: Still on schedule?
+[01:26] Andrew Clark: Stopped for a quick break, back on the road in a few.
+[02:12] Nicole: How's LD-42994 looking?
+[02:14] Andrew Clark: Making good time, no issues so far.
+[02:45] Nicole: Any updates on your progress?
+[02:47] Andrew Clark: About 227 miles out from Las Vegas, NV now.
+[03:39] Andrew Clark: Just delivered LD-42994 at Las Vegas, NV, all good, no damages.
+[03:41] Nicole: Do you have the signed BOL?
+[03:43] Andrew Clark: Yep, taking a picture now.
+[03:44] Andrew Clark: [Image attached: signed_bol.jpg]
+[03:46] Nicole: Sending you the next load details shortly.
+[03:48] Andrew Clark: Understood.
+[03:50] Nicole: Appreciate it, talk soon.

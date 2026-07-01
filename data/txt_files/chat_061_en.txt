@@ -1,0 +1,131 @@
+Chat Log #061
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Harris | Truck: #793 (flatbed)
+Operator: Jessica
+Load: LD-68223 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-01-25
+--------------------------------------------------
+[20:15] Jessica: Hey Eric, how's it going?
+[20:16] Eric Harris: Morning, all good on my end.
+[20:18] Jessica: Got a load for you - LD-68223, flatbed, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[20:20] Eric Harris: Ok, what's the pickup window?
+[20:22] Jessica: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[20:24] Eric Harris: What's the rate on this one?
+[20:26] Jessica: $1965 all in, 878 miles.
+[20:28] Eric Harris: Sounds good, I'll take it.
+[20:30] Jessica: Great, sending the rate confirmation now.
+[20:33] Eric Harris: Got it, signed and sent back.
+[20:54] Jessica: Where are you at right now?
+[20:56] Eric Harris: Construction zone slowing everyone down.
+[20:58] Jessica: What's your ETA?
+[21:00] Eric Harris: Should be there around 5pm.
+[21:57] Jessica: How's LD-68223 looking?
+[21:59] Eric Harris: Rain is picking up here, slowing down a bit.
+[23:12] Jessica: How's LD-68223 looking?
+[23:14] Eric Harris: Clear skies here, no problems.
+[23:17] Jessica: Let me know if you need anything.
+[23:19] Eric Harris: Doing alright, just tired.
+[23:21] Jessica: What's your ETA?
+[23:23] Eric Harris: Should be there around 7pm.
+[00:20] Jessica: Still on schedule?
+[00:22] Eric Harris: Clear skies here, no problems.
+[01:52] Jessica: How's LD-68223 looking?
+[01:54] Eric Harris: Doing alright, just tired.
+[03:19] Jessica: How's LD-68223 looking?
+[03:21] Eric Harris: Making good time, no issues so far.
+[03:24] Jessica: Long trip, huh? Get some rest when you can.
+[03:26] Eric Harris: Yeah, long one, but manageable.
+[04:53] Jessica: What's your status?
+[04:55] Eric Harris: Hit some traffic near Jacksonville, FL, adding maybe 20 minutes.
+[04:58] Jessica: How are you holding up out there?
+[05:00] Eric Harris: Doing alright, just tired.
+[05:02] Jessica: What's your ETA?
+[05:04] Eric Harris: Should be there around 5pm.
+[05:40] Jessica: Any updates on your progress?
+[05:42] Eric Harris: Just crossed the state line, all good.
+[06:13] Jessica: Any updates on your progress?
+[06:15] Eric Harris: Rain is picking up here, slowing down a bit.
+[06:41] Jessica: Any updates on your progress?
+[06:43] Eric Harris: Just passed Jacksonville, FL, everything's fine.
+[07:21] Jessica: Where are you at right now?
+[07:23] Eric Harris: Construction zone slowing everyone down.
+[08:15] Jessica: Any updates on your progress?
+[08:17] Eric Harris: Weather's getting rough up ahead, heads up.
+[08:20] Jessica: Appreciate you keeping me posted.
+[08:22] Eric Harris: Yeah, long one, but manageable.
+[09:05] Jessica: Any updates on your progress?
+[09:07] Eric Harris: Roads are clear now, moving well.
+[10:28] Jessica: Any updates on your progress?
+[10:30] Eric Harris: Doing alright, just tired.
+[10:33] Jessica: Appreciate you keeping me posted.
+[10:35] Eric Harris: Doing alright, just tired.
+[12:05] Jessica: How's LD-68223 looking?
+[12:07] Eric Harris: Roads are wet, taking it easy.
+[12:10] Jessica: Let me know if you need anything.
+[12:12] Eric Harris: Will do, thanks for checking in.
+[12:37] Jessica: Where are you at right now?
+[12:39] Eric Harris: Just passed Tampa, FL, everything's fine.
+[13:31] Jessica: Any updates on your progress?
+[13:33] Eric Harris: About 266 miles out from Tampa, FL now.
+[14:41] Jessica: Still on schedule?
+[14:43] Eric Harris: Doing alright, just tired.
+[15:03] Jessica: How's LD-68223 looking?
+[15:05] Eric Harris: Just passed Jacksonville, FL, everything's fine.
+[15:59] Jessica: Still on schedule?
+[16:01] Eric Harris: Just crossed the state line, all good.
+[16:58] Jessica: How's LD-68223 looking?
+[17:00] Eric Harris: About 578 miles out from Tampa, FL now.
+[17:36] Jessica: Still on schedule?
+[17:38] Eric Harris: Making good time, no issues so far.
+[18:18] Jessica: What's your status?
+[18:20] Eric Harris: Making good time, no issues so far.
+[19:14] Jessica: Where are you at right now?
+[19:16] Eric Harris: Making good time, no issues so far.
+[20:12] Jessica: Where are you at right now?
+[20:14] Eric Harris: About 69 miles out from Tampa, FL now.
+[20:42] Jessica: Still on schedule?
+[20:44] Eric Harris: Making good time, no issues so far.
+[21:28] Jessica: How's LD-68223 looking?
+[21:30] Eric Harris: Making good time, no issues so far.
+[21:46] Jessica: What's your status?
+[21:48] Eric Harris: Traffic's a bit heavy but I'm still on schedule.
+[22:21] Jessica: Any updates on your progress?
+[22:23] Eric Harris: Just passed Tampa, FL, everything's fine.
+[23:04] Jessica: Any updates on your progress?
+[23:06] Eric Harris: About 376 miles out from Tampa, FL now.
+[23:30] Jessica: What's your status?
+[23:32] Eric Harris: About 589 miles out from Tampa, FL now.
+[00:20] Jessica: Still on schedule?
+[00:22] Eric Harris: Traffic's a bit heavy but I'm still on schedule.
+[00:39] Jessica: What's your status?
+[00:41] Eric Harris: Stopped for a quick break, back on the road in a few.
+[01:30] Jessica: Where are you at right now?
+[01:32] Eric Harris: About 277 miles out from Tampa, FL now.
+[01:54] Jessica: Still on schedule?
+[01:56] Eric Harris: Just passed Jacksonville, FL, everything's fine.
+[02:56] Jessica: Still on schedule?
+[02:58] Eric Harris: Just crossed the state line, all good.
+[03:37] Jessica: What's your status?
+[03:39] Eric Harris: Traffic's a bit heavy but I'm still on schedule.
+[04:00] Jessica: What's your status?
+[04:02] Eric Harris: Stopped for a quick break, back on the road in a few.
+[04:51] Jessica: Where are you at right now?
+[04:53] Eric Harris: Stopped for a quick break, back on the road in a few.
+[05:17] Jessica: What's your status?
+[05:19] Eric Harris: Making good time, no issues so far.
+[05:48] Jessica: What's your status?
+[05:50] Eric Harris: Just passed Tampa, FL, everything's fine.
+[06:21] Jessica: Any updates on your progress?
+[06:23] Eric Harris: Just crossed the state line, all good.
+[06:51] Jessica: Any updates on your progress?
+[06:53] Eric Harris: About 369 miles out from Tampa, FL now.
+[07:36] Jessica: Where are you at right now?
+[07:38] Eric Harris: Traffic's a bit heavy but I'm still on schedule.
+[08:35] Eric Harris: Just delivered LD-68223 at Tampa, FL, all good, no damages.
+[08:37] Jessica: Do you have the signed BOL?
+[08:39] Eric Harris: Yep, taking a picture now.
+[08:40] Eric Harris: [Image attached: signed_bol.jpg]
+[08:42] Jessica: Sending you the next load details shortly.
+[08:44] Eric Harris: Copy that.
+[08:46] Jessica: Appreciate it, talk soon.

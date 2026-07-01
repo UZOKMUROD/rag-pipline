@@ -1,0 +1,150 @@
+Chat Log #462
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #295 (tentli furgon)
+Operator: Dilnoza
+Load: LD-49323 | Route: Buxoro -> Navoiy
+Date: 2026-01-14
+--------------------------------------------------
+[10:42] Dilnoza: Salom, Jasur, ishlar qalay?
+[10:43] Jasur Toshpulatov: Ha, aytavering.
+[10:45] Dilnoza: Siz uchun yuk bor - LD-49323, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[10:47] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[10:49] Dilnoza: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[10:51] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[10:53] Dilnoza: 3920 ming so'm, 881 km.
+[10:55] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[10:57] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:00] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[12:06] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:08] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[12:11] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[12:13] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[12:54] Dilnoza: Yo'lda yangilik bormi?
+[12:56] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[14:02] Dilnoza: Yo'lda yangilik bormi?
+[14:04] Jasur Toshpulatov: Navoiygacha taxminan 556 km qoldi.
+[14:06] Dilnoza: Taxminan qachon yetib borasiz?
+[14:08] Jasur Toshpulatov: Agar tirbandlik bo'lmasa noonda.
+[15:15] Dilnoza: Hozir qayerdasiz?
+[15:17] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[15:20] Dilnoza: O'zingizni qalay his qilyapsiz?
+[15:22] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:37] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:39] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:42] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[16:44] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:07] Dilnoza: Yo'lda yangilik bormi?
+[17:09] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[17:12] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[17:14] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[17:16] Dilnoza: Taxminan qachon yetib borasiz?
+[17:18] Jasur Toshpulatov: Ehtimol 5pm, balki ertaroq.
+[18:14] Dilnoza: LD-49323 bilan ishlar qalay?
+[18:16] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:27] Dilnoza: Hozir qayerdasiz?
+[19:29] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[20:46] Dilnoza: Hozir qayerdasiz?
+[20:48] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[21:42] Dilnoza: Holatingiz qanday?
+[21:44] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[21:46] Dilnoza: Taxminan qachon yetib borasiz?
+[21:48] Jasur Toshpulatov: Taxminan 3pmda yetib boraman.
+[22:44] Dilnoza: LD-49323 bilan ishlar qalay?
+[22:46] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:48] Dilnoza: Taxminan qachon yetib borasiz?
+[22:50] Jasur Toshpulatov: Ehtimol 3pm, balki ertaroq.
+[23:20] Dilnoza: Holatingiz qanday?
+[23:22] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:37] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:39] Jasur Toshpulatov: Navoiygacha taxminan 306 km qoldi.
+[02:09] Dilnoza: Hozir qayerdasiz?
+[02:11] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[02:31] Dilnoza: Hozir qayerdasiz?
+[02:33] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[02:36] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[02:38] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[04:04] Dilnoza: Holatingiz qanday?
+[04:06] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[04:09] Dilnoza: O'zingizni qalay his qilyapsiz?
+[04:11] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[04:13] Dilnoza: Taxminan qachon yetib borasiz?
+[04:15] Jasur Toshpulatov: Taxminan 5pmda yetib boraman.
+[05:45] Dilnoza: Holatingiz qanday?
+[05:47] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[05:49] Dilnoza: Taxminan qachon yetib borasiz?
+[05:51] Jasur Toshpulatov: Taxminan 3pmda yetib boraman.
+[07:19] Dilnoza: Hozir qayerdasiz?
+[07:21] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[07:24] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[07:26] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[08:15] Dilnoza: Holatingiz qanday?
+[08:17] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[08:52] Jasur Toshpulatov: Hali ham qabul qiluvchida turibman, deyarli 4 soat bo'ldi.
+[08:54] Dilnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[09:04] Dilnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[09:06] Jasur Toshpulatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[09:08] Dilnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[09:29] Dilnoza: Hozir qayerdasiz?
+[09:31] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:27] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:29] Jasur Toshpulatov: Navoiygacha taxminan 309 km qoldi.
+[11:12] Dilnoza: Yo'lda yangilik bormi?
+[11:14] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:51] Dilnoza: Yo'lda yangilik bormi?
+[11:53] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:30] Dilnoza: Hozir qayerdasiz?
+[12:32] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:13] Dilnoza: Holatingiz qanday?
+[13:15] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:13] Dilnoza: Holatingiz qanday?
+[14:15] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:59] Dilnoza: LD-49323 bilan ishlar qalay?
+[15:01] Jasur Toshpulatov: Navoiygacha taxminan 152 km qoldi.
+[15:36] Dilnoza: Holatingiz qanday?
+[15:38] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[15:56] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:58] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[16:42] Dilnoza: Hozir qayerdasiz?
+[16:44] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[17:25] Dilnoza: LD-49323 bilan ishlar qalay?
+[17:27] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:52] Dilnoza: Yo'lda yangilik bormi?
+[17:54] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:51] Dilnoza: Holatingiz qanday?
+[18:53] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:17] Dilnoza: Hozir qayerdasiz?
+[19:19] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[20:05] Dilnoza: Holatingiz qanday?
+[20:07] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:35] Dilnoza: Yo'lda yangilik bormi?
+[20:37] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[21:20] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:22] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:38] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:40] Jasur Toshpulatov: Navoiygacha taxminan 89 km qoldi.
+[22:14] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:16] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:03] Dilnoza: Holatingiz qanday?
+[23:05] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:45] Dilnoza: Yo'lda yangilik bormi?
+[23:47] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[00:43] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:45] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:40] Dilnoza: Hozir qayerdasiz?
+[01:42] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[02:12] Dilnoza: Yo'lda yangilik bormi?
+[02:14] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:42] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:44] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:42] Dilnoza: LD-49323 bilan ishlar qalay?
+[03:44] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:10] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:12] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:04] Jasur Toshpulatov: LD-49323 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:06] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[05:08] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[05:09] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:11] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:13] Jasur Toshpulatov: Tushundim.
+[05:15] Dilnoza: Ajoyib ish, rahmat.

@@ -1,0 +1,149 @@
+Chat Log #153
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #591 (past ramali tirkama)
+Operator: Feruza
+Load: LD-30034 | Route: Buxoro -> Navoiy
+Date: 2026-01-15
+--------------------------------------------------
+[05:04] Feruza: Xayrli tong, Farrukh, aloqadamisiz?
+[05:05] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[05:07] Feruza: Siz uchun yuk bor - LD-30034, past ramali tirkama, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[05:09] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[05:11] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[05:13] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[05:15] Feruza: 2997 ming so'm, 1030 km.
+[05:17] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[05:19] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[05:22] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[05:56] Feruza: LD-30034 bilan ishlar qalay?
+[05:58] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[06:01] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[06:03] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[06:05] Feruza: Taxminan qachon yetib borasiz?
+[06:07] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[06:31] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:33] Farrukh Tashkentov: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[07:21] Feruza: Hozir qayerdasiz?
+[07:23] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:59] Feruza: Yo'lda yangilik bormi?
+[08:01] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:34] Feruza: Holatingiz qanday?
+[08:36] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:39] Feruza: Xabar berib turganingiz uchun rahmat.
+[08:41] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[09:17] Feruza: LD-30034 bilan ishlar qalay?
+[09:19] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:37] Feruza: Hozir qayerdasiz?
+[10:39] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:53] Feruza: Hozir qayerdasiz?
+[11:55] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[12:34] Feruza: Holatingiz qanday?
+[12:36] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:02] Feruza: Holatingiz qanday?
+[13:04] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[13:44] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:46] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[14:23] Feruza: LD-30034 bilan ishlar qalay?
+[14:25] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[14:43] Feruza: Holatingiz qanday?
+[14:45] Farrukh Tashkentov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[16:03] Feruza: LD-30034 bilan ishlar qalay?
+[16:05] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[17:08] Feruza: Yo'lda yangilik bormi?
+[17:10] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:13] Feruza: O'zingizni qalay his qilyapsiz?
+[17:15] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[17:41] Feruza: Holatingiz qanday?
+[17:43] Farrukh Tashkentov: Navoiygacha taxminan 422 km qoldi.
+[18:48] Feruza: Yo'lda yangilik bormi?
+[18:50] Farrukh Tashkentov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:07] Feruza: Yo'lda yangilik bormi?
+[20:09] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:12] Feruza: O'zingizni qalay his qilyapsiz?
+[20:14] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:44] Feruza: Yo'lda yangilik bormi?
+[20:46] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[20:49] Feruza: Xabar berib turganingiz uchun rahmat.
+[20:51] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:20] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:22] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:24] Feruza: Taxminan qachon yetib borasiz?
+[21:26] Farrukh Tashkentov: Taxminan 5pmda yetib boraman.
+[22:25] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:27] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[23:09] Feruza: LD-30034 bilan ishlar qalay?
+[23:11] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[23:25] Farrukh Tashkentov: Muammo chiqdi, kuchli qor yog'moqda LD-30034da. Yo'l chetiga to'xtadim.
+[23:26] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[23:28] Farrukh Tashkentov: Ha, men yaxshiman, faqat yordam kerak.
+[23:30] Feruza: M39 yo'lida 183-belgida turibman.
+[23:35] Feruza: Yordam mashinasi yo'lda, taxminan 45 mindan keyin yetib keladi.
+[00:45] Farrukh Tashkentov: Ta'mirlandi, yana yo'lga tushdim.
+[01:22] Feruza: Yo'lda yangilik bormi?
+[01:24] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:54] Feruza: LD-30034 bilan ishlar qalay?
+[01:56] Farrukh Tashkentov: Navoiygacha taxminan 112 km qoldi.
+[02:14] Feruza: Holatingiz qanday?
+[02:16] Farrukh Tashkentov: Navoiygacha taxminan 132 km qoldi.
+[02:31] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:33] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:11] Feruza: Holatingiz qanday?
+[03:13] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:46] Feruza: Hozir qayerdasiz?
+[03:48] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:20] Feruza: Yo'lda yangilik bormi?
+[04:22] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:02] Feruza: Yo'lda yangilik bormi?
+[05:04] Farrukh Tashkentov: Navoiygacha taxminan 523 km qoldi.
+[05:35] Feruza: Holatingiz qanday?
+[05:37] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:28] Feruza: Holatingiz qanday?
+[06:30] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:11] Feruza: LD-30034 bilan ishlar qalay?
+[07:13] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:58] Feruza: Yo'lda yangilik bormi?
+[08:00] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:55] Feruza: Holatingiz qanday?
+[08:57] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:24] Feruza: Holatingiz qanday?
+[09:26] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:01] Feruza: Holatingiz qanday?
+[10:03] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:24] Feruza: Hozir qayerdasiz?
+[10:26] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:52] Feruza: Holatingiz qanday?
+[10:54] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:48] Feruza: Yo'lda yangilik bormi?
+[11:50] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:50] Feruza: Hozir qayerdasiz?
+[12:52] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:19] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:21] Farrukh Tashkentov: Navoiygacha taxminan 439 km qoldi.
+[13:46] Feruza: Yo'lda yangilik bormi?
+[13:48] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:39] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:41] Farrukh Tashkentov: Navoiygacha taxminan 430 km qoldi.
+[15:38] Feruza: Holatingiz qanday?
+[15:40] Farrukh Tashkentov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[16:23] Feruza: Holatingiz qanday?
+[16:25] Farrukh Tashkentov: Navoiygacha taxminan 60 km qoldi.
+[17:11] Feruza: LD-30034 bilan ishlar qalay?
+[17:13] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:04] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:06] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:27] Feruza: Yo'lda yangilik bormi?
+[18:29] Farrukh Tashkentov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[18:55] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:57] Farrukh Tashkentov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[19:48] Feruza: Yo'lda yangilik bormi?
+[19:50] Farrukh Tashkentov: Navoiygacha taxminan 294 km qoldi.
+[20:47] Feruza: Holatingiz qanday?
+[20:49] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:39] Farrukh Tashkentov: LD-30034 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[21:41] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[21:43] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[21:44] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[21:46] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[21:48] Farrukh Tashkentov: Tushundim.
+[21:50] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

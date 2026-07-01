@@ -1,0 +1,153 @@
+Chat Log #320
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #821 (refrijerator)
+Operator: Malika
+Load: LD-50107 | Route: Buxoro -> Navoiy
+Date: 2026-01-08
+--------------------------------------------------
+[13:19] Malika: Alisher, bir daqiqa bormi?
+[13:20] Alisher Yusupov: Xayrli tong, menda hammasi yaxshi.
+[13:22] Malika: Siz uchun yuk bor - LD-50107, refrijerator, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[13:24] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[13:26] Malika: Yuklash 08:00-10:00, tushirish esa ertaga 16:00 bo'ladi.
+[13:28] Alisher Yusupov: Bu reys uchun narx qancha?
+[13:30] Malika: 2938 ming so'm, 681 km.
+[13:32] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[13:34] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:37] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[14:50] Malika: Holatingiz qanday?
+[14:52] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:55] Malika: O'zingizni qalay his qilyapsiz?
+[14:57] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[14:59] Malika: Taxminan qachon yetib borasiz?
+[15:01] Alisher Yusupov: Agar tirbandlik bo'lmasa 10amda.
+[16:09] Malika: Holatingiz qanday?
+[16:11] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:13] Malika: Taxminan qachon yetib borasiz?
+[16:15] Alisher Yusupov: Ehtimol 7pm, balki ertaroq.
+[16:56] Malika: Holatingiz qanday?
+[16:58] Alisher Yusupov: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[17:24] Malika: Hozir qayerdasiz?
+[17:26] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[18:40] Malika: Yo'lda yangilik bormi?
+[18:42] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[20:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:06] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:37] Malika: Holatingiz qanday?
+[20:39] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[22:04] Malika: Yo'lda yangilik bormi?
+[22:06] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[22:58] Malika: LD-50107 bilan ishlar qalay?
+[23:00] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:17] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[23:19] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:38] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[00:40] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[01:30] Malika: Holatingiz qanday?
+[01:32] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[01:35] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:37] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[02:00] Malika: Holatingiz qanday?
+[02:02] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[02:05] Malika: Xabar berib turganingiz uchun rahmat.
+[02:07] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[02:09] Malika: Taxminan qachon yetib borasiz?
+[02:11] Alisher Yusupov: Agar tirbandlik bo'lmasa 10amda.
+[03:04] Malika: Holatingiz qanday?
+[03:06] Alisher Yusupov: Navoiygacha taxminan 592 km qoldi.
+[03:28] Malika: Holatingiz qanday?
+[03:30] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:45] Malika: Hozir qayerdasiz?
+[04:47] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:50] Malika: O'zingizni qalay his qilyapsiz?
+[04:52] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[05:50] Malika: Yo'lda yangilik bormi?
+[05:52] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[07:16] Malika: Hozir qayerdasiz?
+[07:18] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:25] Malika: Yo'lda yangilik bormi?
+[08:27] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[08:30] Malika: O'zingizni qalay his qilyapsiz?
+[08:32] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[08:34] Malika: Taxminan qachon yetib borasiz?
+[08:36] Alisher Yusupov: Agar tirbandlik bo'lmasa 3pmda.
+[09:03] Alisher Yusupov: Muammo chiqdi, tirkama chiroqlarining saqlagichi kuydi LD-50107da. Yo'l chetiga to'xtadim.
+[09:04] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[09:06] Alisher Yusupov: Ha, men yaxshiman, faqat yordam kerak.
+[09:08] Malika: A376 yo'lida 226-belgida turibman.
+[09:13] Malika: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[09:58] Alisher Yusupov: Ta'mirlandi, yana yo'lga tushdim.
+[10:47] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[10:49] Alisher Yusupov: Navoiygacha taxminan 541 km qoldi.
+[11:13] Malika: Hozir qayerdasiz?
+[11:15] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:13] Malika: Hozir qayerdasiz?
+[12:15] Alisher Yusupov: Navoiygacha taxminan 331 km qoldi.
+[12:54] Malika: Yo'lda yangilik bormi?
+[12:56] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:45] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[13:47] Alisher Yusupov: Navoiygacha taxminan 43 km qoldi.
+[14:16] Malika: LD-50107 bilan ishlar qalay?
+[14:18] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:52] Malika: Yo'lda yangilik bormi?
+[14:54] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:46] Malika: Hozir qayerdasiz?
+[15:48] Alisher Yusupov: Navoiygacha taxminan 473 km qoldi.
+[16:38] Malika: Holatingiz qanday?
+[16:40] Alisher Yusupov: Navoiygacha taxminan 469 km qoldi.
+[17:26] Malika: LD-50107 bilan ishlar qalay?
+[17:28] Alisher Yusupov: Navoiygacha taxminan 299 km qoldi.
+[17:48] Malika: Hozir qayerdasiz?
+[17:50] Alisher Yusupov: Navoiygacha taxminan 465 km qoldi.
+[18:16] Malika: LD-50107 bilan ishlar qalay?
+[18:18] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:00] Malika: Holatingiz qanday?
+[19:02] Alisher Yusupov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[19:58] Malika: Yo'lda yangilik bormi?
+[20:00] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:53] Malika: Holatingiz qanday?
+[20:55] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:38] Malika: Holatingiz qanday?
+[21:40] Alisher Yusupov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[22:27] Malika: LD-50107 bilan ishlar qalay?
+[22:29] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:53] Malika: LD-50107 bilan ishlar qalay?
+[22:55] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:29] Malika: Yo'lda yangilik bormi?
+[23:31] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:51] Malika: Holatingiz qanday?
+[23:53] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:09] Malika: LD-50107 bilan ishlar qalay?
+[00:11] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:57] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[00:59] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:40] Malika: Holatingiz qanday?
+[01:42] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:38] Malika: Holatingiz qanday?
+[02:40] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:22] Malika: Holatingiz qanday?
+[03:24] Alisher Yusupov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[04:10] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[04:12] Alisher Yusupov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[04:28] Malika: Holatingiz qanday?
+[04:30] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:08] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:10] Alisher Yusupov: Navoiygacha taxminan 510 km qoldi.
+[05:49] Malika: Yo'lda yangilik bormi?
+[05:51] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:27] Malika: Yo'lda yangilik bormi?
+[06:29] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:22] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:24] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:13] Malika: Yo'lda yangilik bormi?
+[08:15] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:00] Malika: Holatingiz qanday?
+[09:02] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:19] Alisher Yusupov: LD-50107 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[10:21] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[10:23] Alisher Yusupov: Ha, hozir rasmga olaman.
+[10:24] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[10:26] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[10:28] Alisher Yusupov: Xo'p bo'ladi.
+[10:30] Malika: Rahmat, aloqada bo'lamiz.

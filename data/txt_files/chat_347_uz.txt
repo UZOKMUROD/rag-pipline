@@ -1,0 +1,151 @@
+Chat Log #347
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #501 (refrijerator)
+Operator: Nodira
+Load: LD-28946 | Route: Namangan -> Toshkent
+Date: 2026-05-14
+--------------------------------------------------
+[08:42] Nodira: Bakhtiyor, bir daqiqa bormi?
+[08:43] Bakhtiyor Karimov: Xayrli tong, menda hammasi yaxshi.
+[08:45] Nodira: Siz uchun yuk bor - LD-28946, refrijerator, Namangandan yuklanadi, Toshkentga tushiriladi.
+[08:47] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[08:49] Nodira: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[08:51] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[08:53] Nodira: 4061 ming so'm, 433 km.
+[08:55] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[08:57] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:00] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[10:19] Nodira: Holatingiz qanday?
+[10:21] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[10:23] Nodira: Taxminan qachon yetib borasiz?
+[10:25] Bakhtiyor Karimov: Taxminan 7pmda yetib boraman.
+[10:47] Nodira: Hozir qayerdasiz?
+[10:49] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[10:52] Nodira: Xabar berib turganingiz uchun rahmat.
+[10:54] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:56] Nodira: Taxminan qachon yetib borasiz?
+[10:58] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 7pmda.
+[12:28] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[12:30] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:48] Nodira: Yo'lda yangilik bormi?
+[12:50] Bakhtiyor Karimov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[13:58] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:00] Bakhtiyor Karimov: Toshkentgacha taxminan 224 km qoldi.
+[14:03] Nodira: Biror narsa kerak bo'lsa ayting.
+[14:05] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[14:07] Nodira: Taxminan qachon yetib borasiz?
+[14:09] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa noonda.
+[15:07] Nodira: LD-28946 bilan ishlar qalay?
+[15:09] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[16:27] Nodira: Holatingiz qanday?
+[16:29] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:32] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:34] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[16:52] Nodira: Hozir qayerdasiz?
+[16:54] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[17:46] Nodira: Hozir qayerdasiz?
+[17:48] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[18:27] Nodira: Yo'lda yangilik bormi?
+[18:29] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:45] Nodira: Holatingiz qanday?
+[18:47] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:50] Nodira: Biror narsa kerak bo'lsa ayting.
+[18:52] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[19:54] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:56] Bakhtiyor Karimov: Osmon ochiq, muammo yo'q.
+[20:32] Nodira: Yo'lda yangilik bormi?
+[20:34] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[20:37] Nodira: O'zingizni qalay his qilyapsiz?
+[20:39] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[21:10] Nodira: Holatingiz qanday?
+[21:12] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:47] Nodira: LD-28946 bilan ishlar qalay?
+[21:49] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[22:48] Nodira: Holatingiz qanday?
+[22:50] Bakhtiyor Karimov: Toshkentgacha taxminan 199 km qoldi.
+[23:41] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:43] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:32] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:34] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:06] Nodira: Holatingiz qanday?
+[01:08] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:06] Nodira: LD-28946 bilan ishlar qalay?
+[02:08] Bakhtiyor Karimov: Toshkentgacha taxminan 512 km qoldi.
+[02:32] Nodira: Yo'lda yangilik bormi?
+[02:34] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:11] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:13] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:34] Nodira: Yo'lda yangilik bormi?
+[03:36] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:57] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:59] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:45] Nodira: Yo'lda yangilik bormi?
+[04:47] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:38] Nodira: Yo'lda yangilik bormi?
+[05:40] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[06:27] Nodira: Yo'lda yangilik bormi?
+[06:29] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:44] Nodira: LD-28946 bilan ishlar qalay?
+[06:46] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[07:22] Nodira: Hozir qayerdasiz?
+[07:24] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:01] Nodira: Yo'lda yangilik bormi?
+[08:03] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[08:46] Nodira: Holatingiz qanday?
+[08:48] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:19] Nodira: Holatingiz qanday?
+[09:21] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:59] Nodira: Yo'lda yangilik bormi?
+[10:01] Bakhtiyor Karimov: Toshkentgacha taxminan 127 km qoldi.
+[10:47] Nodira: Holatingiz qanday?
+[10:49] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:47] Nodira: Holatingiz qanday?
+[11:49] Bakhtiyor Karimov: Toshkentgacha taxminan 340 km qoldi.
+[12:17] Nodira: Yo'lda yangilik bormi?
+[12:19] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:56] Nodira: Hozir qayerdasiz?
+[12:58] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:23] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:25] Bakhtiyor Karimov: Toshkentgacha taxminan 515 km qoldi.
+[13:53] Nodira: Holatingiz qanday?
+[13:55] Bakhtiyor Karimov: Toshkentgacha taxminan 363 km qoldi.
+[14:17] Nodira: Holatingiz qanday?
+[14:19] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:11] Nodira: Holatingiz qanday?
+[15:13] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:55] Nodira: Holatingiz qanday?
+[15:57] Bakhtiyor Karimov: Toshkentgacha taxminan 149 km qoldi.
+[16:53] Nodira: Holatingiz qanday?
+[16:55] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:29] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:31] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[18:25] Nodira: Hozir qayerdasiz?
+[18:27] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:51] Nodira: Hozir qayerdasiz?
+[18:53] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:51] Nodira: Yo'lda yangilik bormi?
+[19:53] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:30] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[20:32] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:22] Nodira: Yo'lda yangilik bormi?
+[21:24] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:18] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:20] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:53] Nodira: LD-28946 bilan ishlar qalay?
+[22:55] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[23:45] Nodira: Yo'lda yangilik bormi?
+[23:47] Bakhtiyor Karimov: Toshkentgacha taxminan 237 km qoldi.
+[00:39] Nodira: LD-28946 bilan ishlar qalay?
+[00:41] Bakhtiyor Karimov: Toshkentgacha taxminan 156 km qoldi.
+[01:30] Nodira: Hozir qayerdasiz?
+[01:32] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:03] Nodira: Yo'lda yangilik bormi?
+[02:05] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:19] Bakhtiyor Karimov: LD-28946 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:21] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[03:23] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[03:24] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:26] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:28] Bakhtiyor Karimov: Yaxshi.
+[03:30] Nodira: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

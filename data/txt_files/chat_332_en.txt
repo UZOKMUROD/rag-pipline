@@ -1,0 +1,129 @@
+Chat Log #332
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Harris | Truck: #675 (reefer)
+Operator: Rachel
+Load: LD-86957 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-01-14
+--------------------------------------------------
+[12:51] Rachel: Morning Robert, you there?
+[12:52] Robert Harris: Hey, yeah I'm here.
+[12:54] Rachel: Got a load for you - LD-86957, reefer, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[12:56] Robert Harris: Ok, what's the pickup window?
+[12:58] Rachel: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[13:00] Robert Harris: What's the rate on this one?
+[13:02] Rachel: $2082 all in, 552 miles.
+[13:04] Robert Harris: Sounds good, I'll take it.
+[13:06] Rachel: Great, sending the rate confirmation now.
+[13:09] Robert Harris: Got it, signed and sent back.
+[13:58] Rachel: What's your status?
+[14:00] Robert Harris: About 282 miles out from Phoenix, AZ now.
+[14:03] Rachel: How are you holding up out there?
+[14:05] Robert Harris: No problem, just doing my job.
+[14:07] Rachel: What's your ETA?
+[14:09] Robert Harris: Probably 10am, maybe a bit earlier.
+[14:26] Rachel: Where are you at right now?
+[14:28] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[14:31] Rachel: Long trip, huh? Get some rest when you can.
+[14:33] Robert Harris: Yeah, long one, but manageable.
+[15:53] Rachel: Any updates on your progress?
+[15:55] Robert Harris: Construction zone slowing everyone down.
+[16:41] Rachel: Still on schedule?
+[16:43] Robert Harris: Stopping for fuel in a bit.
+[16:45] Rachel: What's your ETA?
+[16:47] Robert Harris: Probably 3pm, maybe a bit earlier.
+[17:23] Rachel: What's your status?
+[17:25] Robert Harris: Roads are clear now, moving well.
+[17:28] Rachel: Long trip, huh? Get some rest when you can.
+[17:30] Robert Harris: Will do, thanks for checking in.
+[17:32] Rachel: What's your ETA?
+[17:34] Robert Harris: Probably 3pm, maybe a bit earlier.
+[18:10] Rachel: Still on schedule?
+[18:12] Robert Harris: Hit some traffic near Los Angeles, CA, adding maybe 20 minutes.
+[18:15] Rachel: Let me know if you need anything.
+[18:17] Robert Harris: Doing alright, just tired.
+[18:58] Rachel: Where are you at right now?
+[19:00] Robert Harris: About 498 miles out from Phoenix, AZ now.
+[20:24] Rachel: What's your status?
+[20:26] Robert Harris: About 378 miles out from Phoenix, AZ now.
+[20:29] Rachel: Appreciate you keeping me posted.
+[20:31] Robert Harris: Doing alright, just tired.
+[21:53] Rachel: What's your status?
+[21:55] Robert Harris: Just crossed the state line, all good.
+[23:25] Rachel: What's your status?
+[23:27] Robert Harris: Accident up ahead, traffic's backed up.
+[23:47] Rachel: What's your status?
+[23:49] Robert Harris: Roads are wet, taking it easy.
+[23:52] Rachel: Appreciate you keeping me posted.
+[23:54] Robert Harris: No problem, just doing my job.
+[23:56] Rachel: What's your ETA?
+[23:58] Robert Harris: Should be there around 5pm.
+[00:35] Rachel: What's your status?
+[00:37] Robert Harris: Roads are wet, taking it easy.
+[00:39] Rachel: What's your ETA?
+[00:41] Robert Harris: Should be there around 10am.
+[01:12] Rachel: Any updates on your progress?
+[01:14] Robert Harris: No problem, just doing my job.
+[01:16] Rachel: What's your ETA?
+[01:18] Robert Harris: Should be there around 5pm.
+[01:57] Rachel: Where are you at right now?
+[01:59] Robert Harris: Rain is picking up here, slowing down a bit.
+[02:47] Rachel: Where are you at right now?
+[02:49] Robert Harris: Roads are clear now, moving well.
+[02:52] Rachel: Long trip, huh? Get some rest when you can.
+[02:54] Robert Harris: Yeah, long one, but manageable.
+[03:25] Rachel: Any updates on your progress?
+[03:27] Robert Harris: Rain is picking up here, slowing down a bit.
+[04:30] Rachel: What's your status?
+[04:32] Robert Harris: About 268 miles out from Phoenix, AZ now.
+[04:34] Rachel: What's your ETA?
+[04:36] Robert Harris: Probably 7pm, maybe a bit earlier.
+[05:35] Rachel: Any updates on your progress?
+[05:37] Robert Harris: Just topped off the tank.
+[06:03] Robert Harris: Coming up on my HOS limit, only got about 30 minutes left.
+[06:05] Rachel: Understood, get your rest, I'll let the receiver know.
+[06:38] Rachel: Still on schedule?
+[06:40] Robert Harris: About 186 miles out from Phoenix, AZ now.
+[07:34] Rachel: How's LD-86957 looking?
+[07:36] Robert Harris: About 296 miles out from Phoenix, AZ now.
+[08:07] Rachel: What's your status?
+[08:09] Robert Harris: Making good time, no issues so far.
+[09:04] Rachel: How's LD-86957 looking?
+[09:06] Robert Harris: Making good time, no issues so far.
+[09:39] Rachel: How's LD-86957 looking?
+[09:41] Robert Harris: Stopped for a quick break, back on the road in a few.
+[10:38] Rachel: How's LD-86957 looking?
+[10:40] Robert Harris: Making good time, no issues so far.
+[11:29] Rachel: Any updates on your progress?
+[11:31] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[12:19] Rachel: How's LD-86957 looking?
+[12:21] Robert Harris: Stopped for a quick break, back on the road in a few.
+[12:36] Rachel: Where are you at right now?
+[12:38] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[13:34] Rachel: Where are you at right now?
+[13:36] Robert Harris: About 375 miles out from Phoenix, AZ now.
+[14:36] Rachel: How's LD-86957 looking?
+[14:38] Robert Harris: About 341 miles out from Phoenix, AZ now.
+[15:25] Rachel: How's LD-86957 looking?
+[15:27] Robert Harris: Traffic's a bit heavy but I'm still on schedule.
+[15:54] Rachel: Where are you at right now?
+[15:56] Robert Harris: About 342 miles out from Phoenix, AZ now.
+[16:40] Rachel: How's LD-86957 looking?
+[16:42] Robert Harris: Just crossed the state line, all good.
+[17:24] Rachel: Any updates on your progress?
+[17:26] Robert Harris: Stopped for a quick break, back on the road in a few.
+[17:46] Rachel: Still on schedule?
+[17:48] Robert Harris: About 428 miles out from Phoenix, AZ now.
+[18:37] Rachel: Still on schedule?
+[18:39] Robert Harris: About 448 miles out from Phoenix, AZ now.
+[19:28] Rachel: What's your status?
+[19:30] Robert Harris: Making good time, no issues so far.
+[20:29] Rachel: Where are you at right now?
+[20:31] Robert Harris: Stopped for a quick break, back on the road in a few.
+[21:09] Robert Harris: Just delivered LD-86957 at Phoenix, AZ, all good, no damages.
+[21:11] Rachel: Do you have the signed BOL?
+[21:13] Robert Harris: Yep, taking a picture now.
+[21:14] Robert Harris: [Image attached: signed_bol.jpg]
+[21:16] Rachel: Sending you the next load details shortly.
+[21:18] Robert Harris: Will do.
+[21:20] Rachel: Great work, thank you.

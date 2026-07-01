@@ -1,0 +1,130 @@
+Chat Log #361
+Company: Silk Road Logistics
+Language: English
+Driver: Daniel Davis | Truck: #618 (flatbed)
+Operator: Jessica
+Load: LD-76002 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-05-23
+--------------------------------------------------
+[16:13] Jessica: Morning Daniel, you there?
+[16:14] Daniel Davis: Morning, all good on my end.
+[16:16] Jessica: Got a load for you - LD-76002, flatbed, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[16:18] Daniel Davis: Ok, what's the pickup window?
+[16:20] Jessica: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[16:22] Daniel Davis: What's the rate on this one?
+[16:24] Jessica: $1878 all in, 723 miles.
+[16:26] Daniel Davis: Sounds good, I'll take it.
+[16:28] Jessica: Great, sending the rate confirmation now.
+[16:31] Daniel Davis: Got it, signed and sent back.
+[17:12] Jessica: Still on schedule?
+[17:14] Daniel Davis: Stopping for fuel in a bit.
+[18:33] Jessica: Any updates on your progress?
+[18:35] Daniel Davis: About 522 miles out from St. Louis, MO now.
+[19:56] Jessica: Still on schedule?
+[19:58] Daniel Davis: Just crossed the state line, all good.
+[20:40] Jessica: Where are you at right now?
+[20:42] Daniel Davis: Doing alright, just tired.
+[20:45] Jessica: How are you holding up out there?
+[20:47] Daniel Davis: No problem, just doing my job.
+[20:49] Jessica: What's your ETA?
+[20:51] Daniel Davis: Should be there around noon.
+[22:07] Jessica: How's LD-76002 looking?
+[22:09] Daniel Davis: Fuel prices are decent around here.
+[22:11] Jessica: What's your ETA?
+[22:13] Daniel Davis: Should be there around 5pm.
+[22:48] Jessica: How's LD-76002 looking?
+[22:50] Daniel Davis: Clear skies here, no problems.
+[22:53] Jessica: Let me know if you need anything.
+[22:55] Daniel Davis: Will do, thanks for checking in.
+[23:24] Jessica: Where are you at right now?
+[23:26] Daniel Davis: Yeah, long one, but manageable.
+[23:29] Jessica: Let me know if you need anything.
+[23:31] Daniel Davis: Doing alright, just tired.
+[00:46] Jessica: What's your status?
+[00:48] Daniel Davis: Weather's getting rough up ahead, heads up.
+[00:51] Jessica: Long trip, huh? Get some rest when you can.
+[00:53] Daniel Davis: Doing alright, just tired.
+[00:55] Jessica: What's your ETA?
+[00:57] Daniel Davis: Looking at noon if traffic stays clear.
+[02:12] Jessica: Where are you at right now?
+[02:14] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[02:17] Jessica: How are you holding up out there?
+[02:19] Daniel Davis: Yeah, long one, but manageable.
+[03:24] Jessica: Still on schedule?
+[03:26] Daniel Davis: Doing alright, just tired.
+[04:23] Jessica: Where are you at right now?
+[04:25] Daniel Davis: Yeah, long one, but manageable.
+[04:56] Jessica: How's LD-76002 looking?
+[04:58] Daniel Davis: Rain is picking up here, slowing down a bit.
+[05:01] Jessica: How are you holding up out there?
+[05:03] Daniel Davis: No problem, just doing my job.
+[05:54] Jessica: Any updates on your progress?
+[05:56] Daniel Davis: Accident up ahead, traffic's backed up.
+[07:20] Jessica: How's LD-76002 looking?
+[07:22] Daniel Davis: Just passed Kansas City, MO, everything's fine.
+[07:24] Jessica: What's your ETA?
+[07:26] Daniel Davis: Should be there around 7pm.
+[08:10] Jessica: Still on schedule?
+[08:12] Daniel Davis: Doing alright, just tired.
+[08:47] Jessica: How's LD-76002 looking?
+[08:49] Daniel Davis: Just crossed the state line, all good.
+[08:52] Jessica: Let me know if you need anything.
+[08:54] Daniel Davis: Yeah, long one, but manageable.
+[08:56] Jessica: What's your ETA?
+[08:58] Daniel Davis: Looking at 5pm if traffic stays clear.
+[09:36] Jessica: How's LD-76002 looking?
+[09:38] Daniel Davis: Just topped off the tank.
+[09:53] Jessica: Still on schedule?
+[09:55] Daniel Davis: Clear skies here, no problems.
+[09:58] Jessica: Long trip, huh? Get some rest when you can.
+[10:00] Daniel Davis: Doing alright, just tired.
+[10:56] Jessica: How's LD-76002 looking?
+[10:58] Daniel Davis: Fuel prices are decent around here.
+[11:00] Jessica: What's your ETA?
+[11:02] Daniel Davis: Looking at 5pm if traffic stays clear.
+[11:27] Jessica: Any updates on your progress?
+[11:29] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[11:32] Jessica: Appreciate you keeping me posted.
+[11:34] Daniel Davis: Will do, thanks for checking in.
+[11:36] Jessica: What's your ETA?
+[11:38] Daniel Davis: Looking at noon if traffic stays clear.
+[12:47] Jessica: Still on schedule?
+[12:49] Daniel Davis: Stopping for fuel in a bit.
+[12:51] Jessica: What's your ETA?
+[12:53] Daniel Davis: Should be there around 5pm.
+[14:07] Jessica: Any updates on your progress?
+[14:09] Daniel Davis: Roads are clear now, moving well.
+[14:25] Daniel Davis: Still sitting at the warehouse dock, been here almost 2 hours already.
+[14:27] Jessica: Let me call them and see what's going on.
+[14:37] Jessica: Ok talked to them, they said 30 more minutes, forklift issue.
+[14:39] Daniel Davis: Make sure detention pay gets logged for this.
+[14:41] Jessica: Already noted, don't worry, you'll get paid for the wait.
+[15:21] Jessica: Any updates on your progress?
+[15:23] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[16:10] Jessica: Any updates on your progress?
+[16:12] Daniel Davis: Just passed St. Louis, MO, everything's fine.
+[16:53] Jessica: Where are you at right now?
+[16:55] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[17:54] Jessica: Where are you at right now?
+[17:56] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[18:41] Jessica: Any updates on your progress?
+[18:43] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[19:00] Jessica: How's LD-76002 looking?
+[19:02] Daniel Davis: Making good time, no issues so far.
+[19:18] Jessica: How's LD-76002 looking?
+[19:20] Daniel Davis: Making good time, no issues so far.
+[20:00] Jessica: How's LD-76002 looking?
+[20:02] Daniel Davis: Making good time, no issues so far.
+[20:45] Jessica: Still on schedule?
+[20:47] Daniel Davis: Just crossed the state line, all good.
+[21:21] Jessica: Any updates on your progress?
+[21:23] Daniel Davis: Making good time, no issues so far.
+[22:15] Jessica: Still on schedule?
+[22:17] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[23:46] Daniel Davis: Just delivered LD-76002 at St. Louis, MO, all good, no damages.
+[23:48] Jessica: Do you have the signed BOL?
+[23:50] Daniel Davis: Yep, taking a picture now.
+[23:51] Daniel Davis: [Image attached: signed_bol.jpg]
+[23:53] Jessica: Sending you the next load details shortly.
+[23:55] Daniel Davis: Will do.
+[23:57] Jessica: Appreciate it, talk soon.

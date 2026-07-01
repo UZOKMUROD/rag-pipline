@@ -1,0 +1,148 @@
+Chat Log #415
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #687 (past ramali tirkama)
+Operator: Nodira
+Load: LD-93270 | Route: Nukus -> Urganch
+Date: 2026-06-24
+--------------------------------------------------
+[18:15] Nodira: Alisher, bir daqiqa bormi?
+[18:16] Alisher Yusupov: Ha, aloqadaman.
+[18:18] Nodira: Siz uchun yuk bor - LD-93270, past ramali tirkama, Nukusdan yuklanadi, Urganchga tushiriladi.
+[18:20] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[18:22] Nodira: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[18:24] Alisher Yusupov: Bu reys uchun narx qancha?
+[18:26] Nodira: 2693 ming so'm, 652 km.
+[18:28] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[18:30] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[18:33] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[19:00] Nodira: Hozir qayerdasiz?
+[19:02] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:04] Nodira: Taxminan qachon yetib borasiz?
+[19:06] Alisher Yusupov: Ehtimol noon, balki ertaroq.
+[20:23] Nodira: Hozir qayerdasiz?
+[20:25] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[21:07] Nodira: Holatingiz qanday?
+[21:09] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:35] Nodira: Hozir qayerdasiz?
+[21:37] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[22:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:39] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:45] Nodira: Yo'lda yangilik bormi?
+[23:47] Alisher Yusupov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:49] Nodira: Taxminan qachon yetib borasiz?
+[23:51] Alisher Yusupov: Agar tirbandlik bo'lmasa 10amda.
+[00:46] Nodira: Holatingiz qanday?
+[00:48] Alisher Yusupov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[00:51] Nodira: O'zingizni qalay his qilyapsiz?
+[00:53] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[01:13] Nodira: LD-93270 bilan ishlar qalay?
+[01:15] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:53] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:55] Alisher Yusupov: Urganchgacha taxminan 529 km qoldi.
+[02:52] Nodira: Hozir qayerdasiz?
+[02:54] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:13] Nodira: Yo'lda yangilik bormi?
+[03:15] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[03:46] Nodira: Holatingiz qanday?
+[03:48] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:51] Nodira: O'zingizni qalay his qilyapsiz?
+[03:53] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[03:55] Nodira: Taxminan qachon yetib borasiz?
+[03:57] Alisher Yusupov: Taxminan 7pmda yetib boraman.
+[04:41] Nodira: LD-93270 bilan ishlar qalay?
+[04:43] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:11] Nodira: Yo'lda yangilik bormi?
+[06:13] Alisher Yusupov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[06:16] Nodira: O'zingizni qalay his qilyapsiz?
+[06:18] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[07:24] Nodira: Holatingiz qanday?
+[07:26] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[07:29] Nodira: O'zingizni qalay his qilyapsiz?
+[07:31] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[07:33] Nodira: Taxminan qachon yetib borasiz?
+[07:35] Alisher Yusupov: Agar tirbandlik bo'lmasa 7pmda.
+[08:04] Nodira: LD-93270 bilan ishlar qalay?
+[08:06] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[08:54] Nodira: LD-93270 bilan ishlar qalay?
+[08:56] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[08:58] Nodira: Taxminan qachon yetib borasiz?
+[09:00] Alisher Yusupov: Ehtimol noon, balki ertaroq.
+[09:15] Nodira: Hozir qayerdasiz?
+[09:17] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:52] Nodira: Holatingiz qanday?
+[09:54] Alisher Yusupov: Osmon ochiq, muammo yo'q.
+[09:57] Nodira: O'zingizni qalay his qilyapsiz?
+[09:59] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[11:18] Nodira: LD-93270 bilan ishlar qalay?
+[11:20] Alisher Yusupov: Urganchgacha taxminan 230 km qoldi.
+[11:23] Nodira: Xabar berib turganingiz uchun rahmat.
+[11:25] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:59] Alisher Yusupov: Hali ham omborda turibman, deyarli 2 soat bo'ldi.
+[12:01] Nodira: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[12:11] Nodira: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[12:13] Alisher Yusupov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[12:15] Nodira: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[13:05] Nodira: Yo'lda yangilik bormi?
+[13:07] Alisher Yusupov: Urganchgacha taxminan 349 km qoldi.
+[13:51] Nodira: Holatingiz qanday?
+[13:53] Alisher Yusupov: Urganchgacha taxminan 489 km qoldi.
+[14:24] Nodira: Hozir qayerdasiz?
+[14:26] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[15:09] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:56] Nodira: Yo'lda yangilik bormi?
+[15:58] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:46] Nodira: Hozir qayerdasiz?
+[16:48] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:33] Nodira: LD-93270 bilan ishlar qalay?
+[17:35] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:54] Nodira: LD-93270 bilan ishlar qalay?
+[17:56] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:51] Nodira: LD-93270 bilan ishlar qalay?
+[18:53] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:29] Nodira: Hozir qayerdasiz?
+[19:31] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:51] Nodira: LD-93270 bilan ishlar qalay?
+[19:53] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:39] Nodira: LD-93270 bilan ishlar qalay?
+[20:41] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:56] Nodira: Hozir qayerdasiz?
+[20:58] Alisher Yusupov: Urganchgacha taxminan 526 km qoldi.
+[21:13] Nodira: Holatingiz qanday?
+[21:15] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:15] Nodira: Hozir qayerdasiz?
+[22:17] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:04] Nodira: Hozir qayerdasiz?
+[23:06] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:41] Nodira: Hozir qayerdasiz?
+[23:43] Alisher Yusupov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[00:41] Nodira: Yo'lda yangilik bormi?
+[00:43] Alisher Yusupov: Urganchgacha taxminan 394 km qoldi.
+[01:07] Nodira: Yo'lda yangilik bormi?
+[01:09] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:24] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:26] Alisher Yusupov: Urganchgacha taxminan 30 km qoldi.
+[01:52] Nodira: Yo'lda yangilik bormi?
+[01:54] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:25] Nodira: Hozir qayerdasiz?
+[02:27] Alisher Yusupov: Urganchgacha taxminan 375 km qoldi.
+[02:46] Nodira: Hozir qayerdasiz?
+[02:48] Alisher Yusupov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[03:45] Nodira: LD-93270 bilan ishlar qalay?
+[03:47] Alisher Yusupov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[04:16] Nodira: LD-93270 bilan ishlar qalay?
+[04:18] Alisher Yusupov: Urganchgacha taxminan 285 km qoldi.
+[04:36] Nodira: Holatingiz qanday?
+[04:38] Alisher Yusupov: Urganchgacha taxminan 450 km qoldi.
+[05:28] Nodira: LD-93270 bilan ishlar qalay?
+[05:30] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:15] Nodira: Hozir qayerdasiz?
+[06:17] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:59] Alisher Yusupov: LD-93270 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[07:01] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[07:03] Alisher Yusupov: Ha, hozir rasmga olaman.
+[07:04] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[07:06] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[07:08] Alisher Yusupov: Xo'p bo'ladi.
+[07:10] Nodira: Rahmat, aloqada bo'lamiz.

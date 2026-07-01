@@ -1,0 +1,130 @@
+Chat Log #084
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Wilson | Truck: #289 (flatbed)
+Operator: Amanda
+Load: LD-39558 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-03-05
+--------------------------------------------------
+[20:01] Amanda: Hey Robert, how's it going?
+[20:02] Robert Wilson: Yeah, go ahead.
+[20:04] Amanda: Got a load for you - LD-39558, flatbed, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[20:06] Robert Wilson: Ok, what's the pickup window?
+[20:08] Amanda: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[20:10] Robert Wilson: What's the rate on this one?
+[20:12] Amanda: $3368 all in, 541 miles.
+[20:14] Robert Wilson: Sounds good, I'll take it.
+[20:16] Amanda: Great, sending the rate confirmation now.
+[20:19] Robert Wilson: Got it, signed and sent back.
+[21:08] Amanda: How's LD-39558 looking?
+[21:10] Robert Wilson: Traffic's a bit heavy but I'm still on schedule.
+[21:12] Amanda: What's your ETA?
+[21:14] Robert Wilson: Looking at 3pm if traffic stays clear.
+[21:29] Amanda: Still on schedule?
+[21:31] Robert Wilson: Just crossed the state line, all good.
+[21:34] Amanda: Let me know if you need anything.
+[21:36] Robert Wilson: Will do, thanks for checking in.
+[22:56] Amanda: What's your status?
+[22:58] Robert Wilson: Yeah, long one, but manageable.
+[23:18] Amanda: Any updates on your progress?
+[23:20] Robert Wilson: Doing alright, just tired.
+[23:23] Amanda: Let me know if you need anything.
+[23:25] Robert Wilson: Doing alright, just tired.
+[00:06] Amanda: What's your status?
+[00:08] Robert Wilson: Clear skies here, no problems.
+[01:38] Amanda: Still on schedule?
+[01:40] Robert Wilson: Stopped for a quick break, back on the road in a few.
+[01:42] Amanda: What's your ETA?
+[01:44] Robert Wilson: Should be there around 10am.
+[03:13] Amanda: Any updates on your progress?
+[03:15] Robert Wilson: Roads are wet, taking it easy.
+[03:18] Amanda: How are you holding up out there?
+[03:20] Robert Wilson: Will do, thanks for checking in.
+[03:22] Amanda: What's your ETA?
+[03:24] Robert Wilson: Should be there around 10am.
+[04:53] Amanda: What's your status?
+[04:55] Robert Wilson: Clear skies here, no problems.
+[06:06] Amanda: Where are you at right now?
+[06:08] Robert Wilson: Fuel prices are decent around here.
+[06:11] Amanda: Let me know if you need anything.
+[06:13] Robert Wilson: No problem, just doing my job.
+[06:15] Amanda: What's your ETA?
+[06:17] Robert Wilson: Probably 10am, maybe a bit earlier.
+[06:36] Amanda: What's your status?
+[06:38] Robert Wilson: Stopping for fuel in a bit.
+[07:17] Amanda: Where are you at right now?
+[07:19] Robert Wilson: Just passed Milwaukee, WI, everything's fine.
+[07:57] Amanda: What's your status?
+[07:59] Robert Wilson: Making good time, no issues so far.
+[08:02] Amanda: Let me know if you need anything.
+[08:04] Robert Wilson: Doing alright, just tired.
+[09:31] Amanda: Any updates on your progress?
+[09:33] Robert Wilson: Traffic's a bit heavy but I'm still on schedule.
+[10:23] Amanda: Any updates on your progress?
+[10:25] Robert Wilson: Stopped for a quick break, back on the road in a few.
+[10:43] Amanda: What's your status?
+[10:45] Robert Wilson: Fuel prices are decent around here.
+[10:48] Amanda: Long trip, huh? Get some rest when you can.
+[10:50] Robert Wilson: No problem, just doing my job.
+[11:10] Amanda: Any updates on your progress?
+[11:12] Robert Wilson: Rain is picking up here, slowing down a bit.
+[11:15] Amanda: Long trip, huh? Get some rest when you can.
+[11:17] Robert Wilson: Yeah, long one, but manageable.
+[12:20] Amanda: Any updates on your progress?
+[12:22] Robert Wilson: Just crossed the state line, all good.
+[12:25] Amanda: Let me know if you need anything.
+[12:27] Robert Wilson: Doing alright, just tired.
+[13:40] Amanda: How's LD-39558 looking?
+[13:42] Robert Wilson: Stopping for fuel in a bit.
+[13:44] Amanda: What's your ETA?
+[13:46] Robert Wilson: Probably 3pm, maybe a bit earlier.
+[14:14] Amanda: Still on schedule?
+[14:16] Robert Wilson: Weather's getting rough up ahead, heads up.
+[14:19] Amanda: Let me know if you need anything.
+[14:21] Robert Wilson: Yeah, long one, but manageable.
+[15:01] Amanda: Any updates on your progress?
+[15:03] Robert Wilson: Clear skies here, no problems.
+[15:06] Amanda: Long trip, huh? Get some rest when you can.
+[15:08] Robert Wilson: Doing alright, just tired.
+[15:27] Amanda: How's LD-39558 looking?
+[15:29] Robert Wilson: Will do, thanks for checking in.
+[16:45] Amanda: Still on schedule?
+[16:47] Robert Wilson: Making good time, no issues so far.
+[16:50] Amanda: Appreciate you keeping me posted.
+[16:52] Robert Wilson: Will do, thanks for checking in.
+[16:54] Amanda: What's your ETA?
+[16:56] Robert Wilson: Should be there around 5pm.
+[17:19] Robert Wilson: Still sitting at the warehouse dock, been here almost 2 hours already.
+[17:21] Amanda: Let me call them and see what's going on.
+[17:31] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[17:33] Robert Wilson: Make sure detention pay gets logged for this.
+[17:35] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[18:32] Amanda: How's LD-39558 looking?
+[18:34] Robert Wilson: Traffic's a bit heavy but I'm still on schedule.
+[19:05] Amanda: What's your status?
+[19:07] Robert Wilson: About 373 miles out from Milwaukee, WI now.
+[20:00] Amanda: Where are you at right now?
+[20:02] Robert Wilson: Stopped for a quick break, back on the road in a few.
+[20:40] Amanda: Any updates on your progress?
+[20:42] Robert Wilson: Just passed Milwaukee, WI, everything's fine.
+[21:12] Amanda: Any updates on your progress?
+[21:14] Robert Wilson: Stopped for a quick break, back on the road in a few.
+[21:41] Amanda: Any updates on your progress?
+[21:43] Robert Wilson: Making good time, no issues so far.
+[22:29] Amanda: How's LD-39558 looking?
+[22:31] Robert Wilson: Just passed Minneapolis, MN, everything's fine.
+[23:01] Amanda: How's LD-39558 looking?
+[23:03] Robert Wilson: About 538 miles out from Milwaukee, WI now.
+[23:31] Amanda: How's LD-39558 looking?
+[23:33] Robert Wilson: Making good time, no issues so far.
+[00:04] Amanda: Still on schedule?
+[00:06] Robert Wilson: Just crossed the state line, all good.
+[00:32] Amanda: How's LD-39558 looking?
+[00:34] Robert Wilson: About 251 miles out from Milwaukee, WI now.
+[01:45] Robert Wilson: Just delivered LD-39558 at Milwaukee, WI, all good, no damages.
+[01:47] Amanda: Do you have the signed BOL?
+[01:49] Robert Wilson: Yep, taking a picture now.
+[01:50] Robert Wilson: [Image attached: signed_bol.jpg]
+[01:52] Amanda: Sending you the next load details shortly.
+[01:54] Robert Wilson: Sounds good.
+[01:56] Amanda: Thanks for the update, drive safe.

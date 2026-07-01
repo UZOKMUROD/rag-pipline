@@ -1,0 +1,153 @@
+Chat Log #296
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #428 (past ramali tirkama)
+Operator: Feruza
+Load: LD-97355 | Route: Namangan -> Toshkent
+Date: 2026-04-08
+--------------------------------------------------
+[12:43] Feruza: Salom, Alisher, ishlar qalay?
+[12:44] Alisher Yusupov: Xayrli tong, menda hammasi yaxshi.
+[12:46] Feruza: Siz uchun yuk bor - LD-97355, past ramali tirkama, Namangandan yuklanadi, Toshkentga tushiriladi.
+[12:48] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[12:50] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[12:52] Alisher Yusupov: Bu reys uchun narx qancha?
+[12:54] Feruza: 3790 ming so'm, 830 km.
+[12:56] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[12:58] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:01] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[14:08] Feruza: Yo'lda yangilik bormi?
+[14:10] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[15:16] Feruza: LD-97355 bilan ishlar qalay?
+[15:18] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[16:10] Feruza: Hozir qayerdasiz?
+[16:12] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[16:34] Feruza: Hozir qayerdasiz?
+[16:36] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[17:46] Feruza: Holatingiz qanday?
+[17:48] Alisher Yusupov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[19:06] Feruza: Holatingiz qanday?
+[19:08] Alisher Yusupov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:11] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:13] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[20:03] Feruza: LD-97355 bilan ishlar qalay?
+[20:05] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[20:08] Feruza: Biror narsa kerak bo'lsa ayting.
+[20:10] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[21:00] Feruza: LD-97355 bilan ishlar qalay?
+[21:02] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:58] Feruza: Yo'lda yangilik bormi?
+[22:00] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:03] Feruza: Biror narsa kerak bo'lsa ayting.
+[22:05] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:30] Feruza: Holatingiz qanday?
+[23:32] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:54] Feruza: Yo'lda yangilik bormi?
+[23:56] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:58] Feruza: Taxminan qachon yetib borasiz?
+[00:00] Alisher Yusupov: Taxminan 5pmda yetib boraman.
+[01:12] Feruza: Yo'lda yangilik bormi?
+[01:14] Alisher Yusupov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[01:49] Feruza: Hozir qayerdasiz?
+[01:51] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:54] Feruza: O'zingizni qalay his qilyapsiz?
+[01:56] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[02:11] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:13] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:16] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[02:18] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[02:20] Feruza: Taxminan qachon yetib borasiz?
+[02:22] Alisher Yusupov: Taxminan 7pmda yetib boraman.
+[03:03] Feruza: Holatingiz qanday?
+[03:05] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:08] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:10] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[03:12] Feruza: Taxminan qachon yetib borasiz?
+[03:14] Alisher Yusupov: Agar tirbandlik bo'lmasa 7pmda.
+[04:13] Feruza: Hozir qayerdasiz?
+[04:15] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[04:18] Feruza: Biror narsa kerak bo'lsa ayting.
+[04:20] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[04:22] Feruza: Taxminan qachon yetib borasiz?
+[04:24] Alisher Yusupov: Taxminan 10amda yetib boraman.
+[05:02] Feruza: LD-97355 bilan ishlar qalay?
+[05:04] Alisher Yusupov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[06:19] Feruza: Yo'lda yangilik bormi?
+[06:21] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[07:00] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:02] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:55] Feruza: Yo'lda yangilik bormi?
+[07:57] Alisher Yusupov: Hozirgina yoqilg'i quydim.
+[08:00] Feruza: Xabar berib turganingiz uchun rahmat.
+[08:02] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[08:04] Feruza: Taxminan qachon yetib borasiz?
+[08:06] Alisher Yusupov: Taxminan 5pmda yetib boraman.
+[09:18] Feruza: Holatingiz qanday?
+[09:20] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:22] Feruza: Taxminan qachon yetib borasiz?
+[09:24] Alisher Yusupov: Taxminan 10amda yetib boraman.
+[10:14] Feruza: Hozir qayerdasiz?
+[10:16] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:40] Alisher Yusupov: Haydash vaqtim limitiga yaqinlashyapman, atigi 30 minutes qoldi.
+[10:42] Feruza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[11:10] Feruza: LD-97355 bilan ishlar qalay?
+[11:12] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:45] Feruza: Hozir qayerdasiz?
+[11:47] Alisher Yusupov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[12:14] Feruza: Hozir qayerdasiz?
+[12:16] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:11] Feruza: LD-97355 bilan ishlar qalay?
+[13:13] Alisher Yusupov: Toshkentgacha taxminan 248 km qoldi.
+[14:05] Feruza: LD-97355 bilan ishlar qalay?
+[14:07] Alisher Yusupov: Toshkentgacha taxminan 393 km qoldi.
+[14:29] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:31] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:20] Feruza: Hozir qayerdasiz?
+[15:22] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:51] Feruza: Yo'lda yangilik bormi?
+[15:53] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:49] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:51] Alisher Yusupov: Toshkentgacha taxminan 461 km qoldi.
+[17:40] Feruza: LD-97355 bilan ishlar qalay?
+[17:42] Alisher Yusupov: Toshkentgacha taxminan 377 km qoldi.
+[18:12] Feruza: Yo'lda yangilik bormi?
+[18:14] Alisher Yusupov: Toshkentgacha taxminan 367 km qoldi.
+[18:29] Feruza: Hozir qayerdasiz?
+[18:31] Alisher Yusupov: Toshkentgacha taxminan 563 km qoldi.
+[19:07] Feruza: LD-97355 bilan ishlar qalay?
+[19:09] Alisher Yusupov: Toshkentgacha taxminan 495 km qoldi.
+[19:40] Feruza: LD-97355 bilan ishlar qalay?
+[19:42] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:02] Feruza: Yo'lda yangilik bormi?
+[20:04] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:00] Feruza: Hozir qayerdasiz?
+[21:02] Alisher Yusupov: Toshkentgacha taxminan 303 km qoldi.
+[21:51] Feruza: Hozir qayerdasiz?
+[21:53] Alisher Yusupov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[22:47] Feruza: LD-97355 bilan ishlar qalay?
+[22:49] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:46] Feruza: Yo'lda yangilik bormi?
+[23:48] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:36] Feruza: Hozir qayerdasiz?
+[00:38] Alisher Yusupov: Toshkentgacha taxminan 489 km qoldi.
+[00:58] Feruza: Hozir qayerdasiz?
+[01:00] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:43] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:45] Alisher Yusupov: Toshkentgacha taxminan 338 km qoldi.
+[02:18] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:20] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:57] Feruza: Yo'lda yangilik bormi?
+[02:59] Alisher Yusupov: Toshkentgacha taxminan 352 km qoldi.
+[03:26] Feruza: Holatingiz qanday?
+[03:28] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:27] Feruza: Hozir qayerdasiz?
+[04:29] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:45] Feruza: LD-97355 bilan ishlar qalay?
+[04:47] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:18] Alisher Yusupov: LD-97355 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:20] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[05:22] Alisher Yusupov: Ha, hozir rasmga olaman.
+[05:23] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:25] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:27] Alisher Yusupov: Xo'p bo'ladi.
+[05:29] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

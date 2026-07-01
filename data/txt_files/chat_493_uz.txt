@@ -1,0 +1,149 @@
+Chat Log #493
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #162 (tentli furgon)
+Operator: Shahnoza
+Load: LD-31287 | Route: Namangan -> Toshkent
+Date: 2026-04-09
+--------------------------------------------------
+[06:38] Shahnoza: Alisher, bir daqiqa bormi?
+[06:39] Alisher Yusupov: Xayrli tong, menda hammasi yaxshi.
+[06:41] Shahnoza: Siz uchun yuk bor - LD-31287, tentli furgon, Namangandan yuklanadi, Toshkentga tushiriladi.
+[06:43] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[06:45] Shahnoza: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[06:47] Alisher Yusupov: Bu reys uchun narx qancha?
+[06:49] Shahnoza: 1958 ming so'm, 656 km.
+[06:51] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[06:53] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:56] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[07:35] Shahnoza: Holatingiz qanday?
+[07:37] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:40] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[07:42] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[08:14] Shahnoza: Yo'lda yangilik bormi?
+[08:16] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:52] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:54] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:56] Shahnoza: Taxminan qachon yetib borasiz?
+[08:58] Alisher Yusupov: Agar tirbandlik bo'lmasa 3pmda.
+[10:09] Shahnoza: Yo'lda yangilik bormi?
+[10:11] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:39] Shahnoza: LD-31287 bilan ishlar qalay?
+[10:41] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:44] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[10:46] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[11:14] Shahnoza: Yo'lda yangilik bormi?
+[11:16] Alisher Yusupov: Toshkentgacha taxminan 482 km qoldi.
+[11:18] Shahnoza: Taxminan qachon yetib borasiz?
+[11:20] Alisher Yusupov: Taxminan 5pmda yetib boraman.
+[12:42] Shahnoza: Holatingiz qanday?
+[12:44] Alisher Yusupov: Yo'llar bo'sh, yaxshi ketyapman.
+[12:47] Shahnoza: O'zingizni qalay his qilyapsiz?
+[12:49] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[12:51] Shahnoza: Taxminan qachon yetib borasiz?
+[12:53] Alisher Yusupov: Taxminan 3pmda yetib boraman.
+[14:06] Shahnoza: Holatingiz qanday?
+[14:08] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[14:10] Shahnoza: Taxminan qachon yetib borasiz?
+[14:12] Alisher Yusupov: Ehtimol noon, balki ertaroq.
+[15:25] Shahnoza: LD-31287 bilan ishlar qalay?
+[15:27] Alisher Yusupov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[15:30] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[15:32] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[15:53] Shahnoza: Holatingiz qanday?
+[15:55] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:58] Shahnoza: O'zingizni qalay his qilyapsiz?
+[16:00] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:02] Shahnoza: Taxminan qachon yetib borasiz?
+[16:04] Alisher Yusupov: Agar tirbandlik bo'lmasa noonda.
+[17:33] Shahnoza: Holatingiz qanday?
+[17:35] Alisher Yusupov: Osmon ochiq, muammo yo'q.
+[18:36] Shahnoza: Yo'lda yangilik bormi?
+[18:38] Alisher Yusupov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[18:41] Shahnoza: O'zingizni qalay his qilyapsiz?
+[18:43] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:45] Shahnoza: Taxminan qachon yetib borasiz?
+[18:47] Alisher Yusupov: Taxminan 5pmda yetib boraman.
+[19:31] Shahnoza: Hozir qayerdasiz?
+[19:33] Alisher Yusupov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:35] Shahnoza: Taxminan qachon yetib borasiz?
+[19:37] Alisher Yusupov: Ehtimol 5pm, balki ertaroq.
+[20:46] Shahnoza: Hozir qayerdasiz?
+[20:48] Alisher Yusupov: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:51] Shahnoza: O'zingizni qalay his qilyapsiz?
+[20:53] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[21:21] Shahnoza: LD-31287 bilan ishlar qalay?
+[21:23] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:26] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:28] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[22:01] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:03] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:05] Shahnoza: Taxminan qachon yetib borasiz?
+[22:07] Alisher Yusupov: Ehtimol 5pm, balki ertaroq.
+[23:26] Shahnoza: Hozir qayerdasiz?
+[23:28] Alisher Yusupov: Bu yerda yoqilg'i narxlari yomon emas.
+[23:31] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[23:33] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[23:35] Shahnoza: Taxminan qachon yetib borasiz?
+[23:37] Alisher Yusupov: Ehtimol 7pm, balki ertaroq.
+[00:53] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:55] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:53] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:55] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:19] Shahnoza: Hozir qayerdasiz?
+[02:21] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:47] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:49] Alisher Yusupov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[03:31] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:33] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:29] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:31] Alisher Yusupov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[04:47] Shahnoza: Yo'lda yangilik bormi?
+[04:49] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:41] Shahnoza: Hozir qayerdasiz?
+[05:43] Alisher Yusupov: Toshkentgacha taxminan 333 km qoldi.
+[06:13] Shahnoza: LD-31287 bilan ishlar qalay?
+[06:15] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:01] Shahnoza: Holatingiz qanday?
+[07:03] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:21] Shahnoza: LD-31287 bilan ishlar qalay?
+[07:23] Alisher Yusupov: Toshkentgacha taxminan 479 km qoldi.
+[07:47] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:49] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:19] Shahnoza: Holatingiz qanday?
+[08:21] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:37] Shahnoza: Yo'lda yangilik bormi?
+[08:39] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:27] Shahnoza: Hozir qayerdasiz?
+[09:29] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:58] Shahnoza: Holatingiz qanday?
+[10:00] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:20] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:22] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:17] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:19] Alisher Yusupov: Toshkentgacha taxminan 443 km qoldi.
+[11:39] Shahnoza: Hozir qayerdasiz?
+[11:41] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:27] Shahnoza: Holatingiz qanday?
+[12:29] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:47] Shahnoza: LD-31287 bilan ishlar qalay?
+[12:49] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:45] Shahnoza: Yo'lda yangilik bormi?
+[13:47] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:27] Shahnoza: LD-31287 bilan ishlar qalay?
+[14:29] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:08] Shahnoza: LD-31287 bilan ishlar qalay?
+[15:10] Alisher Yusupov: Toshkentgacha taxminan 398 km qoldi.
+[15:34] Shahnoza: Yo'lda yangilik bormi?
+[15:36] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:34] Shahnoza: Yo'lda yangilik bormi?
+[16:36] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:31] Shahnoza: Holatingiz qanday?
+[17:33] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:52] Alisher Yusupov: LD-31287 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[18:54] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[18:56] Alisher Yusupov: Ha, hozir rasmga olaman.
+[18:57] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[18:59] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[19:01] Alisher Yusupov: Xo'p bo'ladi.
+[19:03] Shahnoza: Rahmat, aloqada bo'lamiz.

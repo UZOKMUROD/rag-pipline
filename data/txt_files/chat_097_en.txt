@@ -1,0 +1,127 @@
+Chat Log #097
+Company: Silk Road Logistics
+Language: English
+Driver: William Jackson | Truck: #624 (dry van)
+Operator: Megan
+Load: LD-53300 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-06-02
+--------------------------------------------------
+[11:34] Megan: Hey William, how's it going?
+[11:35] William Jackson: Hey, yeah I'm here.
+[11:37] Megan: Got a load for you - LD-53300, dry van, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[11:39] William Jackson: Ok, what's the pickup window?
+[11:41] Megan: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[11:43] William Jackson: What's the rate on this one?
+[11:45] Megan: $3364 all in, 1080 miles.
+[11:47] William Jackson: Sounds good, I'll take it.
+[11:49] Megan: Great, sending the rate confirmation now.
+[11:52] William Jackson: Got it, signed and sent back.
+[13:14] Megan: Any updates on your progress?
+[13:16] William Jackson: Just topped off the tank.
+[13:19] Megan: Long trip, huh? Get some rest when you can.
+[13:21] William Jackson: Will do, thanks for checking in.
+[13:55] Megan: What's your status?
+[13:57] William Jackson: Hit some traffic near Minneapolis, MN, adding maybe 20 minutes.
+[14:48] Megan: What's your status?
+[14:50] William Jackson: Hit some traffic near Minneapolis, MN, adding maybe 20 minutes.
+[15:21] Megan: Where are you at right now?
+[15:23] William Jackson: Roads are clear now, moving well.
+[16:25] Megan: How's LD-53300 looking?
+[16:27] William Jackson: Stopping for fuel in a bit.
+[16:30] Megan: Let me know if you need anything.
+[16:32] William Jackson: Yeah, long one, but manageable.
+[17:32] Megan: How's LD-53300 looking?
+[17:34] William Jackson: Fuel prices are decent around here.
+[17:37] Megan: Let me know if you need anything.
+[17:39] William Jackson: Yeah, long one, but manageable.
+[17:41] Megan: What's your ETA?
+[17:43] William Jackson: Probably 5pm, maybe a bit earlier.
+[18:08] Megan: Where are you at right now?
+[18:10] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[18:13] Megan: Appreciate you keeping me posted.
+[18:15] William Jackson: Doing alright, just tired.
+[18:17] Megan: What's your ETA?
+[18:19] William Jackson: Should be there around 5pm.
+[19:44] Megan: How's LD-53300 looking?
+[19:46] William Jackson: Doing alright, just tired.
+[21:01] Megan: Where are you at right now?
+[21:03] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[21:05] Megan: What's your ETA?
+[21:07] William Jackson: Probably noon, maybe a bit earlier.
+[21:57] Megan: Any updates on your progress?
+[21:59] William Jackson: Just crossed the state line, all good.
+[22:01] Megan: What's your ETA?
+[22:03] William Jackson: Probably 10am, maybe a bit earlier.
+[23:07] Megan: What's your status?
+[23:09] William Jackson: Making good time, no issues so far.
+[00:14] Megan: Any updates on your progress?
+[00:16] William Jackson: About 274 miles out from Milwaukee, WI now.
+[01:33] Megan: What's your status?
+[01:35] William Jackson: Stopped for a quick break, back on the road in a few.
+[01:38] Megan: Appreciate you keeping me posted.
+[01:40] William Jackson: No problem, just doing my job.
+[02:25] Megan: How's LD-53300 looking?
+[02:27] William Jackson: Just topped off the tank.
+[02:30] Megan: Long trip, huh? Get some rest when you can.
+[02:32] William Jackson: Doing alright, just tired.
+[03:33] Megan: What's your status?
+[03:35] William Jackson: Just topped off the tank.
+[04:38] Megan: Where are you at right now?
+[04:40] William Jackson: Just crossed the state line, all good.
+[05:55] Megan: Where are you at right now?
+[05:57] William Jackson: Accident up ahead, traffic's backed up.
+[06:00] Megan: How are you holding up out there?
+[06:02] William Jackson: No problem, just doing my job.
+[06:04] Megan: What's your ETA?
+[06:06] William Jackson: Probably noon, maybe a bit earlier.
+[06:51] Megan: Where are you at right now?
+[06:53] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[06:56] Megan: How are you holding up out there?
+[06:58] William Jackson: No problem, just doing my job.
+[07:00] Megan: What's your ETA?
+[07:02] William Jackson: Should be there around 5pm.
+[07:18] William Jackson: Coming up on my HOS limit, only got about 30 minutes left.
+[07:20] Megan: Understood, get your rest, I'll let the receiver know.
+[07:45] Megan: Any updates on your progress?
+[07:47] William Jackson: Stopped for a quick break, back on the road in a few.
+[08:45] Megan: How's LD-53300 looking?
+[08:47] William Jackson: About 32 miles out from Milwaukee, WI now.
+[09:32] Megan: Any updates on your progress?
+[09:34] William Jackson: About 329 miles out from Milwaukee, WI now.
+[10:07] Megan: How's LD-53300 looking?
+[10:09] William Jackson: Stopped for a quick break, back on the road in a few.
+[10:48] Megan: Still on schedule?
+[10:50] William Jackson: Just passed Milwaukee, WI, everything's fine.
+[11:38] Megan: How's LD-53300 looking?
+[11:40] William Jackson: About 190 miles out from Milwaukee, WI now.
+[12:28] Megan: How's LD-53300 looking?
+[12:30] William Jackson: Stopped for a quick break, back on the road in a few.
+[13:04] Megan: Still on schedule?
+[13:06] William Jackson: Just crossed the state line, all good.
+[13:43] Megan: Any updates on your progress?
+[13:45] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[14:19] Megan: Where are you at right now?
+[14:21] William Jackson: Just crossed the state line, all good.
+[15:06] Megan: What's your status?
+[15:08] William Jackson: Just crossed the state line, all good.
+[15:45] Megan: What's your status?
+[15:47] William Jackson: About 328 miles out from Milwaukee, WI now.
+[16:15] Megan: Where are you at right now?
+[16:17] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[16:50] Megan: How's LD-53300 looking?
+[16:52] William Jackson: Just passed Minneapolis, MN, everything's fine.
+[17:36] Megan: Any updates on your progress?
+[17:38] William Jackson: Just crossed the state line, all good.
+[18:37] Megan: Any updates on your progress?
+[18:39] William Jackson: Stopped for a quick break, back on the road in a few.
+[19:12] Megan: How's LD-53300 looking?
+[19:14] William Jackson: Traffic's a bit heavy but I'm still on schedule.
+[19:48] Megan: How's LD-53300 looking?
+[19:50] William Jackson: About 164 miles out from Milwaukee, WI now.
+[20:24] William Jackson: Just delivered LD-53300 at Milwaukee, WI, all good, no damages.
+[20:26] Megan: Do you have the signed BOL?
+[20:28] William Jackson: Yep, taking a picture now.
+[20:29] William Jackson: [Image attached: signed_bol.jpg]
+[20:31] Megan: Sending you the next load details shortly.
+[20:33] William Jackson: Understood.
+[20:35] Megan: Appreciate it, talk soon.

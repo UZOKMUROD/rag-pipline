@@ -1,0 +1,144 @@
+Chat Log #029
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ulugbek Nazarov | Truck: #947 (platforma)
+Operator: Nodira
+Load: LD-98684 | Route: Jizzax -> Guliston
+Date: 2026-02-10
+--------------------------------------------------
+[18:13] Nodira: Xayrli tong, Ulugbek, aloqadamisiz?
+[18:14] Ulugbek Nazarov: Ha, aytavering.
+[18:16] Nodira: Siz uchun yuk bor - LD-98684, platforma, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[18:18] Ulugbek Nazarov: Tushunarli, yuklash vaqti qachon?
+[18:20] Nodira: Yuklash 08:00-10:00, tushirish esa ertaga 07:30 bo'ladi.
+[18:22] Ulugbek Nazarov: Bu reys uchun narx qancha?
+[18:24] Nodira: 3814 ming so'm, 771 km.
+[18:26] Ulugbek Nazarov: Yaxshi, bu reysni olaman.
+[18:28] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[18:31] Ulugbek Nazarov: Oldim, imzolab qaytarib yubordim.
+[19:23] Nodira: Yo'lda yangilik bormi?
+[19:25] Ulugbek Nazarov: Oldinda avariya bo'lgan, tirbandlik bor.
+[20:41] Nodira: Yo'lda yangilik bormi?
+[20:43] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:46] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:48] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[22:02] Nodira: Yo'lda yangilik bormi?
+[22:04] Ulugbek Nazarov: Bu yerda yoqilg'i narxlari yomon emas.
+[22:28] Nodira: Holatingiz qanday?
+[22:30] Ulugbek Nazarov: Yo'llar bo'sh, yaxshi ketyapman.
+[23:32] Nodira: LD-98684 bilan ishlar qalay?
+[23:34] Ulugbek Nazarov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[23:37] Nodira: O'zingizni qalay his qilyapsiz?
+[23:39] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:59] Nodira: Hozir qayerdasiz?
+[01:01] Ulugbek Nazarov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[01:04] Nodira: Biror narsa kerak bo'lsa ayting.
+[01:06] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[02:16] Nodira: LD-98684 bilan ishlar qalay?
+[02:18] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[03:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:09] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:49] Nodira: LD-98684 bilan ishlar qalay?
+[03:51] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:11] Nodira: LD-98684 bilan ishlar qalay?
+[04:13] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:16] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[04:18] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[04:59] Nodira: Holatingiz qanday?
+[05:01] Ulugbek Nazarov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[05:04] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[05:06] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[06:30] Nodira: Holatingiz qanday?
+[06:32] Ulugbek Nazarov: Yo'llar bo'sh, yaxshi ketyapman.
+[07:58] Nodira: LD-98684 bilan ishlar qalay?
+[08:00] Ulugbek Nazarov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[08:59] Nodira: LD-98684 bilan ishlar qalay?
+[09:01] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:03] Nodira: Taxminan qachon yetib borasiz?
+[09:05] Ulugbek Nazarov: Ehtimol 5pm, balki ertaroq.
+[10:29] Nodira: LD-98684 bilan ishlar qalay?
+[10:31] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:34] Nodira: O'zingizni qalay his qilyapsiz?
+[10:36] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[10:38] Nodira: Taxminan qachon yetib borasiz?
+[10:40] Ulugbek Nazarov: Ehtimol 3pm, balki ertaroq.
+[12:06] Nodira: Holatingiz qanday?
+[12:08] Ulugbek Nazarov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[12:28] Nodira: Yo'lda yangilik bormi?
+[12:30] Ulugbek Nazarov: Hozirgina yoqilg'i quydim.
+[12:33] Nodira: O'zingizni qalay his qilyapsiz?
+[12:35] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[14:05] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:07] Ulugbek Nazarov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[14:10] Nodira: Xabar berib turganingiz uchun rahmat.
+[14:12] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[15:40] Nodira: Hozir qayerdasiz?
+[15:42] Ulugbek Nazarov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[15:45] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[15:47] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:07] Ulugbek Nazarov: Hali ham jo'natuvchida turibman, deyarli 2 soat bo'ldi.
+[16:09] Nodira: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[16:19] Nodira: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[16:21] Ulugbek Nazarov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[16:23] Nodira: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[17:11] Nodira: LD-98684 bilan ishlar qalay?
+[17:13] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:53] Nodira: Hozir qayerdasiz?
+[17:55] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:10] Nodira: Yo'lda yangilik bormi?
+[18:12] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:35] Nodira: LD-98684 bilan ishlar qalay?
+[18:37] Ulugbek Nazarov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[19:00] Nodira: Hozir qayerdasiz?
+[19:02] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:52] Nodira: Hozir qayerdasiz?
+[19:54] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:35] Nodira: Holatingiz qanday?
+[20:37] Ulugbek Nazarov: Gulistongacha taxminan 208 km qoldi.
+[21:36] Nodira: LD-98684 bilan ishlar qalay?
+[21:38] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:27] Nodira: Holatingiz qanday?
+[22:29] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:23] Nodira: LD-98684 bilan ishlar qalay?
+[23:25] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:09] Nodira: Yo'lda yangilik bormi?
+[00:11] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:37] Nodira: Yo'lda yangilik bormi?
+[00:39] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:20] Nodira: Hozir qayerdasiz?
+[01:22] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:03] Nodira: Holatingiz qanday?
+[02:05] Ulugbek Nazarov: Gulistongacha taxminan 465 km qoldi.
+[03:05] Nodira: Holatingiz qanday?
+[03:07] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:35] Nodira: Hozir qayerdasiz?
+[03:37] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:05] Nodira: LD-98684 bilan ishlar qalay?
+[04:07] Ulugbek Nazarov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[04:31] Nodira: LD-98684 bilan ishlar qalay?
+[04:33] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:30] Nodira: Hozir qayerdasiz?
+[05:32] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:29] Nodira: Hozir qayerdasiz?
+[06:31] Ulugbek Nazarov: Gulistongacha taxminan 592 km qoldi.
+[07:00] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[07:02] Ulugbek Nazarov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[07:17] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[07:19] Ulugbek Nazarov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[08:09] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:11] Ulugbek Nazarov: Gulistongacha taxminan 441 km qoldi.
+[08:37] Nodira: LD-98684 bilan ishlar qalay?
+[08:39] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:27] Nodira: Holatingiz qanday?
+[09:29] Ulugbek Nazarov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[10:16] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[10:18] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:50] Nodira: LD-98684 bilan ishlar qalay?
+[10:52] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:52] Ulugbek Nazarov: LD-98684 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[11:54] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[11:56] Ulugbek Nazarov: Ha, hozir rasmga olaman.
+[11:57] Ulugbek Nazarov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[11:59] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[12:01] Ulugbek Nazarov: Tushunarli.
+[12:03] Nodira: Ajoyib ish, rahmat.

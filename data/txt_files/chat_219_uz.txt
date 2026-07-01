@@ -1,0 +1,151 @@
+Chat Log #219
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #638 (platforma)
+Operator: Feruza
+Load: LD-20886 | Route: Toshkent -> Samarqand
+Date: 2026-03-07
+--------------------------------------------------
+[11:51] Feruza: Salom, Farrukh, ishlar qalay?
+[11:52] Farrukh Tashkentov: Ha, aytavering.
+[11:54] Feruza: Siz uchun yuk bor - LD-20886, platforma, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[11:56] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[11:58] Feruza: Yuklash 08:00-10:00, tushirish esa ertaga 07:30 bo'ladi.
+[12:00] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[12:02] Feruza: 2730 ming so'm, 641 km.
+[12:04] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[12:06] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:09] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[12:49] Feruza: Yo'lda yangilik bormi?
+[12:51] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:24] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:26] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:34] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:36] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[14:39] Feruza: O'zingizni qalay his qilyapsiz?
+[14:41] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[15:47] Feruza: Holatingiz qanday?
+[15:49] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[16:26] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:28] Farrukh Tashkentov: Samarqandgacha taxminan 137 km qoldi.
+[16:31] Feruza: O'zingizni qalay his qilyapsiz?
+[16:33] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[17:49] Feruza: Yo'lda yangilik bormi?
+[17:51] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:02] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:04] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[19:36] Feruza: Hozir qayerdasiz?
+[19:38] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[20:11] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:13] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[20:16] Feruza: Biror narsa kerak bo'lsa ayting.
+[20:18] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[21:01] Feruza: Yo'lda yangilik bormi?
+[21:03] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[22:00] Feruza: Hozir qayerdasiz?
+[22:02] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:51] Feruza: Yo'lda yangilik bormi?
+[22:53] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:55] Feruza: Taxminan qachon yetib borasiz?
+[22:57] Farrukh Tashkentov: Ehtimol 10am, balki ertaroq.
+[23:29] Feruza: Holatingiz qanday?
+[23:31] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[23:34] Feruza: Xabar berib turganingiz uchun rahmat.
+[23:36] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[00:22] Feruza: Holatingiz qanday?
+[00:24] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:27] Feruza: O'zingizni qalay his qilyapsiz?
+[00:29] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[01:00] Farrukh Tashkentov: Muammo chiqdi, dvigatel chirog'i yonib qoldi LD-20886da. Yo'l chetiga to'xtadim.
+[01:01] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[01:03] Farrukh Tashkentov: Ha, men yaxshiman, faqat yordam kerak.
+[01:05] Feruza: M34 yo'lida 224-belgida turibman.
+[01:10] Feruza: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[02:15] Farrukh Tashkentov: Ta'mirlandi, yana yo'lga tushdim.
+[02:38] Feruza: Yo'lda yangilik bormi?
+[02:40] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:34] Feruza: Holatingiz qanday?
+[03:36] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:56] Feruza: LD-20886 bilan ishlar qalay?
+[03:58] Farrukh Tashkentov: Samarqandgacha taxminan 454 km qoldi.
+[04:33] Feruza: Holatingiz qanday?
+[04:35] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:03] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:05] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:48] Feruza: Holatingiz qanday?
+[05:50] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:06] Feruza: Yo'lda yangilik bormi?
+[06:08] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:43] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:45] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:37] Feruza: Holatingiz qanday?
+[07:39] Farrukh Tashkentov: Samarqandgacha taxminan 453 km qoldi.
+[08:29] Feruza: Hozir qayerdasiz?
+[08:31] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:27] Feruza: Hozir qayerdasiz?
+[09:29] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:00] Feruza: Holatingiz qanday?
+[10:02] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[10:21] Feruza: Holatingiz qanday?
+[10:23] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:05] Feruza: Yo'lda yangilik bormi?
+[11:07] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:48] Farrukh Tashkentov: Samarqandgacha taxminan 239 km qoldi.
+[12:12] Feruza: Hozir qayerdasiz?
+[12:14] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:58] Feruza: Yo'lda yangilik bormi?
+[13:00] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:15] Feruza: LD-20886 bilan ishlar qalay?
+[13:17] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[14:16] Feruza: Yo'lda yangilik bormi?
+[14:18] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:17] Feruza: Hozir qayerdasiz?
+[15:19] Farrukh Tashkentov: Samarqandgacha taxminan 111 km qoldi.
+[16:14] Feruza: LD-20886 bilan ishlar qalay?
+[16:16] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:56] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:58] Farrukh Tashkentov: Samarqandgacha taxminan 188 km qoldi.
+[17:39] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:41] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:10] Feruza: Yo'lda yangilik bormi?
+[18:12] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:12] Feruza: Holatingiz qanday?
+[19:14] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:41] Feruza: Hozir qayerdasiz?
+[19:43] Farrukh Tashkentov: Samarqandgacha taxminan 518 km qoldi.
+[20:37] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:39] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:54] Feruza: Yo'lda yangilik bormi?
+[20:56] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:49] Feruza: Holatingiz qanday?
+[21:51] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:33] Feruza: LD-20886 bilan ishlar qalay?
+[22:35] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:33] Feruza: Holatingiz qanday?
+[23:35] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:34] Feruza: Yo'lda yangilik bormi?
+[00:36] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:10] Feruza: Yo'lda yangilik bormi?
+[01:12] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:37] Feruza: Yo'lda yangilik bormi?
+[01:39] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:55] Feruza: LD-20886 bilan ishlar qalay?
+[01:57] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:46] Feruza: Hozir qayerdasiz?
+[02:48] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[03:14] Feruza: Holatingiz qanday?
+[03:16] Farrukh Tashkentov: Samarqandgacha taxminan 62 km qoldi.
+[03:53] Feruza: Hozir qayerdasiz?
+[03:55] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:17] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:19] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:18] Feruza: Hozir qayerdasiz?
+[05:20] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:29] Farrukh Tashkentov: LD-20886 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:31] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[06:33] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[06:34] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:36] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:38] Farrukh Tashkentov: Tushunarli.
+[06:40] Feruza: Rahmat, aloqada bo'lamiz.

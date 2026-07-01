@@ -1,0 +1,129 @@
+Chat Log #189
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Rodriguez | Truck: #688 (step deck)
+Operator: Kayla
+Load: LD-95091 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-01-20
+--------------------------------------------------
+[13:49] Kayla: Morning Carlos, you there?
+[13:50] Carlos Rodriguez: Morning, all good on my end.
+[13:52] Kayla: Got a load for you - LD-95091, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[13:54] Carlos Rodriguez: Ok, what's the pickup window?
+[13:56] Kayla: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[13:58] Carlos Rodriguez: What's the rate on this one?
+[14:00] Kayla: $3305 all in, 867 miles.
+[14:02] Carlos Rodriguez: Sounds good, I'll take it.
+[14:04] Kayla: Great, sending the rate confirmation now.
+[14:07] Carlos Rodriguez: Got it, signed and sent back.
+[15:35] Kayla: How's LD-95091 looking?
+[15:37] Carlos Rodriguez: Just passed Nashville, TN, everything's fine.
+[15:40] Kayla: Let me know if you need anything.
+[15:42] Carlos Rodriguez: Will do, thanks for checking in.
+[16:12] Kayla: Still on schedule?
+[16:14] Carlos Rodriguez: Weather's getting rough up ahead, heads up.
+[16:16] Kayla: What's your ETA?
+[16:18] Carlos Rodriguez: Should be there around 10am.
+[17:41] Kayla: Still on schedule?
+[17:43] Carlos Rodriguez: Stopping for fuel in a bit.
+[17:46] Kayla: Long trip, huh? Get some rest when you can.
+[17:48] Carlos Rodriguez: Doing alright, just tired.
+[19:11] Kayla: Still on schedule?
+[19:13] Carlos Rodriguez: About 380 miles out from Birmingham, AL now.
+[20:35] Kayla: What's your status?
+[20:37] Carlos Rodriguez: Making good time, no issues so far.
+[20:39] Kayla: What's your ETA?
+[20:41] Carlos Rodriguez: Should be there around 3pm.
+[21:13] Kayla: What's your status?
+[21:15] Carlos Rodriguez: Stopping for fuel in a bit.
+[21:18] Kayla: Appreciate you keeping me posted.
+[21:20] Carlos Rodriguez: Doing alright, just tired.
+[22:22] Kayla: Where are you at right now?
+[22:24] Carlos Rodriguez: Will do, thanks for checking in.
+[23:02] Kayla: Where are you at right now?
+[23:04] Carlos Rodriguez: Just passed Nashville, TN, everything's fine.
+[23:07] Kayla: Long trip, huh? Get some rest when you can.
+[23:09] Carlos Rodriguez: Doing alright, just tired.
+[23:11] Kayla: What's your ETA?
+[23:13] Carlos Rodriguez: Should be there around noon.
+[00:05] Kayla: Where are you at right now?
+[00:07] Carlos Rodriguez: Just crossed the state line, all good.
+[00:10] Kayla: Long trip, huh? Get some rest when you can.
+[00:12] Carlos Rodriguez: Will do, thanks for checking in.
+[00:35] Kayla: Still on schedule?
+[00:37] Carlos Rodriguez: No problem, just doing my job.
+[00:40] Kayla: How are you holding up out there?
+[00:42] Carlos Rodriguez: Will do, thanks for checking in.
+[01:47] Kayla: Any updates on your progress?
+[01:49] Carlos Rodriguez: Weather's getting rough up ahead, heads up.
+[01:52] Kayla: Let me know if you need anything.
+[01:54] Carlos Rodriguez: Doing alright, just tired.
+[01:56] Kayla: What's your ETA?
+[01:58] Carlos Rodriguez: Looking at 10am if traffic stays clear.
+[03:09] Kayla: Where are you at right now?
+[03:11] Carlos Rodriguez: Just topped off the tank.
+[03:14] Kayla: Long trip, huh? Get some rest when you can.
+[03:16] Carlos Rodriguez: No problem, just doing my job.
+[03:31] Kayla: How's LD-95091 looking?
+[03:33] Carlos Rodriguez: Will do, thanks for checking in.
+[03:52] Kayla: Where are you at right now?
+[03:54] Carlos Rodriguez: Yeah, long one, but manageable.
+[04:31] Carlos Rodriguez: I've got a problem, the ELD acting up on LD-95091. Pulled over on the shoulder.
+[04:32] Kayla: Are you safe? Anyone hurt?
+[04:34] Carlos Rodriguez: Yeah I'm fine, just need roadside assistance.
+[04:36] Kayla: Mile marker 154 on I-35.
+[04:41] Kayla: Truck is on the way, ETA about 45 min.
+[05:23] Carlos Rodriguez: Fixed and rolling again.
+[06:00] Kayla: Any updates on your progress?
+[06:02] Carlos Rodriguez: About 579 miles out from Birmingham, AL now.
+[06:55] Kayla: What's your status?
+[06:57] Carlos Rodriguez: Just crossed the state line, all good.
+[07:19] Kayla: Still on schedule?
+[07:21] Carlos Rodriguez: Just crossed the state line, all good.
+[08:09] Kayla: Where are you at right now?
+[08:11] Carlos Rodriguez: Making good time, no issues so far.
+[08:39] Kayla: What's your status?
+[08:41] Carlos Rodriguez: About 268 miles out from Birmingham, AL now.
+[09:37] Kayla: What's your status?
+[09:39] Carlos Rodriguez: About 382 miles out from Birmingham, AL now.
+[10:10] Kayla: What's your status?
+[10:12] Carlos Rodriguez: Making good time, no issues so far.
+[10:47] Kayla: Still on schedule?
+[10:49] Carlos Rodriguez: About 300 miles out from Birmingham, AL now.
+[11:23] Kayla: Any updates on your progress?
+[11:25] Carlos Rodriguez: Just passed Birmingham, AL, everything's fine.
+[12:22] Kayla: Where are you at right now?
+[12:24] Carlos Rodriguez: Making good time, no issues so far.
+[12:54] Kayla: How's LD-95091 looking?
+[12:56] Carlos Rodriguez: Making good time, no issues so far.
+[13:45] Kayla: Any updates on your progress?
+[13:47] Carlos Rodriguez: About 536 miles out from Birmingham, AL now.
+[14:37] Kayla: How's LD-95091 looking?
+[14:39] Carlos Rodriguez: About 56 miles out from Birmingham, AL now.
+[15:37] Kayla: Where are you at right now?
+[15:39] Carlos Rodriguez: Just passed Birmingham, AL, everything's fine.
+[16:26] Kayla: Any updates on your progress?
+[16:28] Carlos Rodriguez: About 384 miles out from Birmingham, AL now.
+[17:26] Kayla: How's LD-95091 looking?
+[17:28] Carlos Rodriguez: Just crossed the state line, all good.
+[18:14] Kayla: Where are you at right now?
+[18:16] Carlos Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[19:04] Kayla: Where are you at right now?
+[19:06] Carlos Rodriguez: Just crossed the state line, all good.
+[19:35] Kayla: How's LD-95091 looking?
+[19:37] Carlos Rodriguez: Making good time, no issues so far.
+[20:19] Kayla: Still on schedule?
+[20:21] Carlos Rodriguez: Stopped for a quick break, back on the road in a few.
+[20:44] Kayla: How's LD-95091 looking?
+[20:46] Carlos Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[21:38] Kayla: Where are you at right now?
+[21:40] Carlos Rodriguez: Just passed Nashville, TN, everything's fine.
+[22:38] Kayla: Any updates on your progress?
+[22:40] Carlos Rodriguez: Just crossed the state line, all good.
+[23:46] Carlos Rodriguez: Just delivered LD-95091 at Birmingham, AL, all good, no damages.
+[23:48] Kayla: Do you have the signed BOL?
+[23:50] Carlos Rodriguez: Yep, taking a picture now.
+[23:51] Carlos Rodriguez: [Image attached: signed_bol.jpg]
+[23:53] Kayla: Sending you the next load details shortly.
+[23:55] Carlos Rodriguez: Understood.
+[23:57] Kayla: Appreciate it, talk soon.

@@ -1,0 +1,128 @@
+Chat Log #281
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Moore | Truck: #319 (reefer)
+Operator: Amanda
+Load: LD-29485 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-03-01
+--------------------------------------------------
+[18:07] Amanda: Hey Carlos, how's it going?
+[18:08] Carlos Moore: Yeah, go ahead.
+[18:10] Amanda: Got a load for you - LD-29485, reefer, pickup in Houston, TX, delivery to New Orleans, LA.
+[18:12] Carlos Moore: Ok, what's the pickup window?
+[18:14] Amanda: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[18:16] Carlos Moore: What's the rate on this one?
+[18:18] Amanda: $3650 all in, 847 miles.
+[18:20] Carlos Moore: Sounds good, I'll take it.
+[18:22] Amanda: Great, sending the rate confirmation now.
+[18:25] Carlos Moore: Got it, signed and sent back.
+[19:03] Amanda: Still on schedule?
+[19:05] Carlos Moore: About 540 miles out from New Orleans, LA now.
+[19:41] Amanda: What's your status?
+[19:43] Carlos Moore: Roads are clear now, moving well.
+[19:46] Amanda: Let me know if you need anything.
+[19:48] Carlos Moore: Yeah, long one, but manageable.
+[20:17] Amanda: How's LD-29485 looking?
+[20:19] Carlos Moore: Stopping for fuel in a bit.
+[21:35] Amanda: Still on schedule?
+[21:37] Carlos Moore: Fuel prices are decent around here.
+[21:40] Amanda: Let me know if you need anything.
+[21:42] Carlos Moore: No problem, just doing my job.
+[23:08] Amanda: Where are you at right now?
+[23:10] Carlos Moore: Traffic's a bit heavy but I'm still on schedule.
+[23:12] Amanda: What's your ETA?
+[23:14] Carlos Moore: Probably 3pm, maybe a bit earlier.
+[00:37] Amanda: How's LD-29485 looking?
+[00:39] Carlos Moore: Making good time, no issues so far.
+[00:42] Amanda: Long trip, huh? Get some rest when you can.
+[00:44] Carlos Moore: Doing alright, just tired.
+[01:44] Amanda: How's LD-29485 looking?
+[01:46] Carlos Moore: Accident up ahead, traffic's backed up.
+[01:49] Amanda: Appreciate you keeping me posted.
+[01:51] Carlos Moore: Yeah, long one, but manageable.
+[03:06] Amanda: Any updates on your progress?
+[03:08] Carlos Moore: Just topped off the tank.
+[03:11] Amanda: Appreciate you keeping me posted.
+[03:13] Carlos Moore: Yeah, long one, but manageable.
+[03:36] Amanda: Still on schedule?
+[03:38] Carlos Moore: Traffic's a bit heavy but I'm still on schedule.
+[05:06] Amanda: What's your status?
+[05:08] Carlos Moore: Clear skies here, no problems.
+[05:11] Amanda: Let me know if you need anything.
+[05:13] Carlos Moore: No problem, just doing my job.
+[05:57] Amanda: Where are you at right now?
+[05:59] Carlos Moore: About 71 miles out from New Orleans, LA now.
+[06:30] Amanda: Still on schedule?
+[06:32] Carlos Moore: Just topped off the tank.
+[06:35] Amanda: Let me know if you need anything.
+[06:37] Carlos Moore: Doing alright, just tired.
+[08:06] Amanda: Any updates on your progress?
+[08:08] Carlos Moore: Just topped off the tank.
+[08:11] Amanda: Let me know if you need anything.
+[08:13] Carlos Moore: No problem, just doing my job.
+[08:35] Amanda: Any updates on your progress?
+[08:37] Carlos Moore: Just crossed the state line, all good.
+[08:40] Amanda: Let me know if you need anything.
+[08:42] Carlos Moore: Doing alright, just tired.
+[09:44] Amanda: What's your status?
+[09:46] Carlos Moore: Will do, thanks for checking in.
+[10:48] Amanda: Where are you at right now?
+[10:50] Carlos Moore: About 515 miles out from New Orleans, LA now.
+[11:21] Amanda: How's LD-29485 looking?
+[11:23] Carlos Moore: Just crossed the state line, all good.
+[11:25] Amanda: What's your ETA?
+[11:27] Carlos Moore: Looking at 3pm if traffic stays clear.
+[12:05] Carlos Moore: Still sitting at the shipper, been here almost 4 hours already.
+[12:07] Amanda: Let me call them and see what's going on.
+[12:17] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[12:19] Carlos Moore: Make sure detention pay gets logged for this.
+[12:21] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[12:36] Amanda: How's LD-29485 looking?
+[12:38] Carlos Moore: Stopped for a quick break, back on the road in a few.
+[13:30] Amanda: How's LD-29485 looking?
+[13:32] Carlos Moore: Traffic's a bit heavy but I'm still on schedule.
+[14:00] Amanda: Any updates on your progress?
+[14:02] Carlos Moore: Just crossed the state line, all good.
+[14:33] Amanda: Any updates on your progress?
+[14:35] Carlos Moore: Traffic's a bit heavy but I'm still on schedule.
+[14:50] Amanda: What's your status?
+[14:52] Carlos Moore: Making good time, no issues so far.
+[15:36] Amanda: What's your status?
+[15:38] Carlos Moore: Making good time, no issues so far.
+[16:21] Amanda: How's LD-29485 looking?
+[16:23] Carlos Moore: Just crossed the state line, all good.
+[17:19] Amanda: Any updates on your progress?
+[17:21] Carlos Moore: Stopped for a quick break, back on the road in a few.
+[17:54] Amanda: Where are you at right now?
+[17:56] Carlos Moore: Just passed Houston, TX, everything's fine.
+[18:51] Amanda: Still on schedule?
+[18:53] Carlos Moore: Traffic's a bit heavy but I'm still on schedule.
+[19:21] Amanda: What's your status?
+[19:23] Carlos Moore: About 339 miles out from New Orleans, LA now.
+[20:14] Amanda: What's your status?
+[20:16] Carlos Moore: Just passed New Orleans, LA, everything's fine.
+[20:42] Amanda: Where are you at right now?
+[20:44] Carlos Moore: Just crossed the state line, all good.
+[21:30] Amanda: Any updates on your progress?
+[21:32] Carlos Moore: Making good time, no issues so far.
+[21:55] Amanda: Any updates on your progress?
+[21:57] Carlos Moore: Just crossed the state line, all good.
+[22:18] Amanda: Where are you at right now?
+[22:20] Carlos Moore: About 331 miles out from New Orleans, LA now.
+[22:39] Amanda: What's your status?
+[22:41] Carlos Moore: About 60 miles out from New Orleans, LA now.
+[23:04] Amanda: What's your status?
+[23:06] Carlos Moore: Making good time, no issues so far.
+[23:58] Amanda: Where are you at right now?
+[00:00] Carlos Moore: Making good time, no issues so far.
+[00:19] Amanda: Still on schedule?
+[00:21] Carlos Moore: Just passed New Orleans, LA, everything's fine.
+[01:12] Amanda: Still on schedule?
+[01:14] Carlos Moore: Just crossed the state line, all good.
+[02:21] Carlos Moore: Just delivered LD-29485 at New Orleans, LA, all good, no damages.
+[02:23] Amanda: Do you have the signed BOL?
+[02:25] Carlos Moore: Yep, taking a picture now.
+[02:26] Carlos Moore: [Image attached: signed_bol.jpg]
+[02:28] Amanda: Sending you the next load details shortly.
+[02:30] Carlos Moore: Will do.
+[02:32] Amanda: Appreciate it, talk soon.

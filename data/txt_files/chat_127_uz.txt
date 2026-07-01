@@ -1,0 +1,149 @@
+Chat Log #127
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #772 (platforma)
+Operator: Shahnoza
+Load: LD-72854 | Route: Toshkent -> Namangan
+Date: 2026-02-11
+--------------------------------------------------
+[05:44] Shahnoza: Shavkat, bir daqiqa bormi?
+[05:45] Shavkat Ergashev: Ha, aytavering.
+[05:47] Shahnoza: Siz uchun yuk bor - LD-72854, platforma, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[05:49] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[05:51] Shahnoza: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[05:53] Shavkat Ergashev: Bu reys uchun narx qancha?
+[05:55] Shahnoza: 2547 ming so'm, 449 km.
+[05:57] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[05:59] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:02] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[06:47] Shahnoza: Hozir qayerdasiz?
+[06:49] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[06:52] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[06:54] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[07:49] Shahnoza: Hozir qayerdasiz?
+[07:51] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:54] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[07:56] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[08:31] Shahnoza: Holatingiz qanday?
+[08:33] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[09:20] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:22] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[09:24] Shahnoza: Taxminan qachon yetib borasiz?
+[09:26] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[10:00] Shahnoza: Hozir qayerdasiz?
+[10:02] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[11:31] Shahnoza: Yo'lda yangilik bormi?
+[11:33] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:36] Shahnoza: O'zingizni qalay his qilyapsiz?
+[11:38] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[12:09] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:11] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[12:14] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:16] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:01] Shahnoza: Yo'lda yangilik bormi?
+[13:03] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:25] Shahnoza: Holatingiz qanday?
+[14:27] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[14:29] Shahnoza: Taxminan qachon yetib borasiz?
+[14:31] Shavkat Ergashev: Agar tirbandlik bo'lmasa 7pmda.
+[15:14] Shahnoza: Hozir qayerdasiz?
+[15:16] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:15] Shahnoza: Hozir qayerdasiz?
+[16:17] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[16:20] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:22] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[16:24] Shahnoza: Taxminan qachon yetib borasiz?
+[16:26] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[17:34] Shahnoza: Hozir qayerdasiz?
+[17:36] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[17:39] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[17:41] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:27] Shahnoza: Hozir qayerdasiz?
+[18:29] Shavkat Ergashev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[19:46] Shahnoza: LD-72854 bilan ishlar qalay?
+[19:48] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[20:14] Shavkat Ergashev: Muammo chiqdi, yo'l ta'miri sekinlashtiryapti LD-72854da. Yo'l chetiga to'xtadim.
+[20:15] Shahnoza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[20:17] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[20:19] Shahnoza: A376 yo'lida 297-belgida turibman.
+[20:24] Shahnoza: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[21:40] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[21:58] Shahnoza: LD-72854 bilan ishlar qalay?
+[22:00] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:21] Shahnoza: Hozir qayerdasiz?
+[22:23] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:07] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:09] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:25] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:27] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[23:44] Shahnoza: Holatingiz qanday?
+[23:46] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[00:08] Shahnoza: Yo'lda yangilik bormi?
+[00:10] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:04] Shahnoza: Holatingiz qanday?
+[01:06] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:27] Shahnoza: Hozir qayerdasiz?
+[01:29] Shavkat Ergashev: Namangangacha taxminan 496 km qoldi.
+[02:10] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:12] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[02:33] Shahnoza: Yo'lda yangilik bormi?
+[02:35] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:14] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:16] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:57] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:59] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:27] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:29] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:57] Shahnoza: Hozir qayerdasiz?
+[04:59] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:33] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:35] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:06] Shahnoza: Holatingiz qanday?
+[06:08] Shavkat Ergashev: Namangangacha taxminan 287 km qoldi.
+[07:06] Shahnoza: Yo'lda yangilik bormi?
+[07:08] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[07:34] Shahnoza: Holatingiz qanday?
+[07:36] Shavkat Ergashev: Namangangacha taxminan 77 km qoldi.
+[08:29] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:31] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:47] Shahnoza: LD-72854 bilan ishlar qalay?
+[08:49] Shavkat Ergashev: Namangangacha taxminan 55 km qoldi.
+[09:07] Shahnoza: Hozir qayerdasiz?
+[09:09] Shavkat Ergashev: Namangangacha taxminan 52 km qoldi.
+[09:46] Shahnoza: LD-72854 bilan ishlar qalay?
+[09:48] Shavkat Ergashev: Namangangacha taxminan 168 km qoldi.
+[10:13] Shahnoza: LD-72854 bilan ishlar qalay?
+[10:15] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:54] Shahnoza: Hozir qayerdasiz?
+[10:56] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:41] Shahnoza: Holatingiz qanday?
+[11:43] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:21] Shahnoza: Holatingiz qanday?
+[12:23] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:18] Shahnoza: Hozir qayerdasiz?
+[13:20] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:04] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:06] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:00] Shahnoza: Hozir qayerdasiz?
+[15:02] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:59] Shahnoza: Hozir qayerdasiz?
+[16:01] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:53] Shahnoza: LD-72854 bilan ishlar qalay?
+[16:55] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:30] Shahnoza: Holatingiz qanday?
+[17:32] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:10] Shahnoza: Hozir qayerdasiz?
+[18:12] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:52] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:54] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:31] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:33] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:18] Shahnoza: LD-72854 bilan ishlar qalay?
+[20:20] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:05] Shavkat Ergashev: LD-72854 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[21:07] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[21:09] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[21:10] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[21:12] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[21:14] Shavkat Ergashev: Tushunarli.
+[21:16] Shahnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

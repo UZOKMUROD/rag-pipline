@@ -1,0 +1,151 @@
+Chat Log #096
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Otabek Sultonov | Truck: #176 (tentli furgon)
+Operator: Malika
+Load: LD-54442 | Route: Farg'ona -> Andijon
+Date: 2026-05-14
+--------------------------------------------------
+[16:33] Malika: Salom, Otabek, ishlar qalay?
+[16:34] Otabek Sultonov: Xayrli tong, menda hammasi yaxshi.
+[16:36] Malika: Siz uchun yuk bor - LD-54442, tentli furgon, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[16:38] Otabek Sultonov: Tushunarli, yuklash vaqti qachon?
+[16:40] Malika: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[16:42] Otabek Sultonov: Bu reys uchun narx qancha?
+[16:44] Malika: 3662 ming so'm, 871 km.
+[16:46] Otabek Sultonov: Yaxshi, bu reysni olaman.
+[16:48] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[16:51] Otabek Sultonov: Oldim, imzolab qaytarib yubordim.
+[17:16] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:18] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[18:34] Malika: Hozir qayerdasiz?
+[18:36] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:25] Malika: LD-54442 bilan ishlar qalay?
+[19:27] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[19:30] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:32] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[20:01] Malika: Hozir qayerdasiz?
+[20:03] Otabek Sultonov: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[21:23] Malika: Hozir qayerdasiz?
+[21:25] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:27] Malika: Taxminan qachon yetib borasiz?
+[21:29] Otabek Sultonov: Taxminan noonda yetib boraman.
+[22:27] Malika: Holatingiz qanday?
+[22:29] Otabek Sultonov: Osmon ochiq, muammo yo'q.
+[22:32] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[22:34] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[22:36] Malika: Taxminan qachon yetib borasiz?
+[22:38] Otabek Sultonov: Ehtimol 3pm, balki ertaroq.
+[23:54] Malika: Yo'lda yangilik bormi?
+[23:56] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:59] Malika: O'zingizni qalay his qilyapsiz?
+[00:01] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:26] Malika: Holatingiz qanday?
+[00:28] Otabek Sultonov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[00:31] Malika: O'zingizni qalay his qilyapsiz?
+[00:33] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[01:11] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:13] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[01:16] Malika: Xabar berib turganingiz uchun rahmat.
+[01:18] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[02:20] Malika: LD-54442 bilan ishlar qalay?
+[02:22] Otabek Sultonov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[02:25] Malika: Xabar berib turganingiz uchun rahmat.
+[02:27] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[02:29] Malika: Taxminan qachon yetib borasiz?
+[02:31] Otabek Sultonov: Taxminan 5pmda yetib boraman.
+[03:51] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:53] Otabek Sultonov: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[04:12] Malika: Holatingiz qanday?
+[04:14] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:29] Malika: LD-54442 bilan ishlar qalay?
+[04:31] Otabek Sultonov: Hozirgina yoqilg'i quydim.
+[04:34] Malika: Biror narsa kerak bo'lsa ayting.
+[04:36] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[05:13] Malika: Hozir qayerdasiz?
+[05:15] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:17] Malika: Taxminan qachon yetib borasiz?
+[05:19] Otabek Sultonov: Agar tirbandlik bo'lmasa 10amda.
+[06:13] Malika: LD-54442 bilan ishlar qalay?
+[06:15] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[06:18] Malika: O'zingizni qalay his qilyapsiz?
+[06:20] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[07:10] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:12] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[07:15] Malika: Biror narsa kerak bo'lsa ayting.
+[07:17] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[08:36] Malika: LD-54442 bilan ishlar qalay?
+[08:38] Otabek Sultonov: Yo'llar bo'sh, yaxshi ketyapman.
+[08:41] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:43] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[09:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:06] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[09:09] Malika: O'zingizni qalay his qilyapsiz?
+[09:11] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:51] Malika: LD-54442 bilan ishlar qalay?
+[09:53] Otabek Sultonov: Hozirgina yoqilg'i quydim.
+[10:12] Malika: Yo'lda yangilik bormi?
+[10:14] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[10:54] Malika: Hozir qayerdasiz?
+[10:56] Otabek Sultonov: Hozirgina yoqilg'i quydim.
+[11:06] Otabek Sultonov: Muammo chiqdi, ELD qurilmasi ishlamayapti LD-54442da. Yo'l chetiga to'xtadim.
+[11:07] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[11:09] Otabek Sultonov: Ha, men yaxshiman, faqat yordam kerak.
+[11:11] Malika: M39 yo'lida 306-belgida turibman.
+[11:16] Malika: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[12:41] Otabek Sultonov: Ta'mirlandi, yana yo'lga tushdim.
+[13:22] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[13:24] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:57] Malika: Holatingiz qanday?
+[13:59] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:58] Malika: Yo'lda yangilik bormi?
+[15:00] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:37] Malika: Yo'lda yangilik bormi?
+[15:39] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:07] Malika: LD-54442 bilan ishlar qalay?
+[16:09] Otabek Sultonov: Andijongacha taxminan 166 km qoldi.
+[16:56] Malika: Hozir qayerdasiz?
+[16:58] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:38] Malika: Hozir qayerdasiz?
+[17:40] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:38] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:40] Otabek Sultonov: Andijongacha taxminan 205 km qoldi.
+[18:57] Malika: LD-54442 bilan ishlar qalay?
+[18:59] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:30] Malika: LD-54442 bilan ishlar qalay?
+[19:32] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:48] Malika: Holatingiz qanday?
+[19:50] Otabek Sultonov: Andijongacha taxminan 500 km qoldi.
+[20:28] Malika: Yo'lda yangilik bormi?
+[20:30] Otabek Sultonov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[21:18] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[21:20] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:01] Malika: Holatingiz qanday?
+[22:03] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:25] Malika: Yo'lda yangilik bormi?
+[22:27] Otabek Sultonov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[23:03] Malika: Hozir qayerdasiz?
+[23:05] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:59] Malika: Hozir qayerdasiz?
+[00:01] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:34] Malika: LD-54442 bilan ishlar qalay?
+[00:36] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:21] Malika: Yo'lda yangilik bormi?
+[01:23] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:40] Malika: Yo'lda yangilik bormi?
+[01:42] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:20] Malika: Yo'lda yangilik bormi?
+[02:22] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:18] Malika: Hozir qayerdasiz?
+[03:20] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:49] Malika: Yo'lda yangilik bormi?
+[03:51] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:31] Malika: Hozir qayerdasiz?
+[04:33] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:21] Otabek Sultonov: LD-54442 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:23] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[05:25] Otabek Sultonov: Ha, hozir rasmga olaman.
+[05:26] Otabek Sultonov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:28] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:30] Otabek Sultonov: Yaxshi.
+[05:32] Malika: Rahmat, aloqada bo'lamiz.

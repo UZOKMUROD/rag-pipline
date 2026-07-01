@@ -1,0 +1,128 @@
+Chat Log #261
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Anderson | Truck: #827 (flatbed)
+Operator: Emily
+Load: LD-82496 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-02-28
+--------------------------------------------------
+[11:04] Emily: Morning Kevin, you there?
+[11:05] Kevin Anderson: Yeah, go ahead.
+[11:07] Emily: Got a load for you - LD-82496, flatbed, pickup in Nashville, TN, delivery to Birmingham, AL.
+[11:09] Kevin Anderson: Ok, what's the pickup window?
+[11:11] Emily: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[11:13] Kevin Anderson: What's the rate on this one?
+[11:15] Emily: $3843 all in, 892 miles.
+[11:17] Kevin Anderson: Sounds good, I'll take it.
+[11:19] Emily: Great, sending the rate confirmation now.
+[11:22] Kevin Anderson: Got it, signed and sent back.
+[12:37] Emily: How's LD-82496 looking?
+[12:39] Kevin Anderson: No problem, just doing my job.
+[13:41] Emily: Any updates on your progress?
+[13:43] Kevin Anderson: Accident up ahead, traffic's backed up.
+[13:46] Emily: Let me know if you need anything.
+[13:48] Kevin Anderson: Yeah, long one, but manageable.
+[15:08] Emily: Where are you at right now?
+[15:10] Kevin Anderson: Just passed Nashville, TN, everything's fine.
+[16:23] Emily: How's LD-82496 looking?
+[16:25] Kevin Anderson: About 327 miles out from Birmingham, AL now.
+[16:28] Emily: Appreciate you keeping me posted.
+[16:30] Kevin Anderson: Will do, thanks for checking in.
+[16:32] Emily: What's your ETA?
+[16:34] Kevin Anderson: Looking at 3pm if traffic stays clear.
+[17:28] Emily: Where are you at right now?
+[17:30] Kevin Anderson: Roads are clear now, moving well.
+[17:33] Emily: Appreciate you keeping me posted.
+[17:35] Kevin Anderson: Doing alright, just tired.
+[18:03] Emily: Still on schedule?
+[18:05] Kevin Anderson: Rain is picking up here, slowing down a bit.
+[18:21] Emily: What's your status?
+[18:23] Kevin Anderson: Roads are clear now, moving well.
+[18:55] Emily: What's your status?
+[18:57] Kevin Anderson: Just crossed the state line, all good.
+[20:22] Emily: Still on schedule?
+[20:24] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[20:26] Emily: What's your ETA?
+[20:28] Kevin Anderson: Should be there around 3pm.
+[21:02] Emily: Still on schedule?
+[21:04] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[21:07] Emily: Appreciate you keeping me posted.
+[21:09] Kevin Anderson: Doing alright, just tired.
+[21:11] Emily: What's your ETA?
+[21:13] Kevin Anderson: Should be there around noon.
+[22:08] Emily: What's your status?
+[22:10] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[22:13] Emily: Appreciate you keeping me posted.
+[22:15] Kevin Anderson: Will do, thanks for checking in.
+[23:31] Emily: Any updates on your progress?
+[23:33] Kevin Anderson: Accident up ahead, traffic's backed up.
+[23:36] Emily: Let me know if you need anything.
+[23:38] Kevin Anderson: Will do, thanks for checking in.
+[00:30] Emily: Still on schedule?
+[00:32] Kevin Anderson: No problem, just doing my job.
+[00:34] Emily: What's your ETA?
+[00:36] Kevin Anderson: Should be there around 10am.
+[01:08] Emily: Still on schedule?
+[01:10] Kevin Anderson: Stopping for fuel in a bit.
+[02:33] Emily: How's LD-82496 looking?
+[02:35] Kevin Anderson: Accident up ahead, traffic's backed up.
+[02:38] Emily: Let me know if you need anything.
+[02:40] Kevin Anderson: Doing alright, just tired.
+[03:06] Kevin Anderson: Still sitting at the receiver, been here almost 4 hours already.
+[03:08] Emily: Let me call them and see what's going on.
+[03:18] Emily: Ok talked to them, they said 30 more minutes, forklift issue.
+[03:20] Kevin Anderson: Make sure detention pay gets logged for this.
+[03:22] Emily: Already noted, don't worry, you'll get paid for the wait.
+[03:42] Emily: What's your status?
+[03:44] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[04:37] Emily: Where are you at right now?
+[04:39] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[05:08] Emily: Still on schedule?
+[05:10] Kevin Anderson: Making good time, no issues so far.
+[05:25] Emily: Where are you at right now?
+[05:27] Kevin Anderson: About 342 miles out from Birmingham, AL now.
+[06:07] Emily: Any updates on your progress?
+[06:09] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[06:42] Emily: Any updates on your progress?
+[06:44] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[07:20] Emily: How's LD-82496 looking?
+[07:22] Kevin Anderson: Making good time, no issues so far.
+[08:18] Emily: How's LD-82496 looking?
+[08:20] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[08:45] Emily: What's your status?
+[08:47] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[09:43] Emily: Any updates on your progress?
+[09:45] Kevin Anderson: Just passed Nashville, TN, everything's fine.
+[10:21] Emily: How's LD-82496 looking?
+[10:23] Kevin Anderson: Making good time, no issues so far.
+[11:23] Emily: Any updates on your progress?
+[11:25] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[12:07] Emily: Still on schedule?
+[12:09] Kevin Anderson: About 146 miles out from Birmingham, AL now.
+[12:32] Emily: How's LD-82496 looking?
+[12:34] Kevin Anderson: Just passed Nashville, TN, everything's fine.
+[13:24] Emily: Where are you at right now?
+[13:26] Kevin Anderson: About 298 miles out from Birmingham, AL now.
+[14:24] Emily: Still on schedule?
+[14:26] Kevin Anderson: Just passed Nashville, TN, everything's fine.
+[15:23] Emily: Where are you at right now?
+[15:25] Kevin Anderson: Making good time, no issues so far.
+[15:55] Emily: Any updates on your progress?
+[15:57] Kevin Anderson: Making good time, no issues so far.
+[16:19] Emily: What's your status?
+[16:21] Kevin Anderson: Just passed Nashville, TN, everything's fine.
+[16:59] Emily: Where are you at right now?
+[17:01] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[17:39] Emily: What's your status?
+[17:41] Kevin Anderson: About 265 miles out from Birmingham, AL now.
+[18:33] Emily: How's LD-82496 looking?
+[18:35] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[19:02] Emily: Where are you at right now?
+[19:04] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[20:34] Kevin Anderson: Just delivered LD-82496 at Birmingham, AL, all good, no damages.
+[20:36] Emily: Do you have the signed BOL?
+[20:38] Kevin Anderson: Yep, taking a picture now.
+[20:39] Kevin Anderson: [Image attached: signed_bol.jpg]
+[20:41] Emily: Sending you the next load details shortly.
+[20:43] Kevin Anderson: Understood.
+[20:45] Emily: Appreciate it, talk soon.

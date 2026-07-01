@@ -1,0 +1,129 @@
+Chat Log #416
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Clark | Truck: #580 (step deck)
+Operator: Sarah
+Load: LD-26445 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-02-24
+--------------------------------------------------
+[09:20] Sarah: Brian, got a minute?
+[09:21] Brian Clark: Yeah, go ahead.
+[09:23] Sarah: Got a load for you - LD-26445, step deck, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[09:25] Brian Clark: Ok, what's the pickup window?
+[09:27] Sarah: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[09:29] Brian Clark: What's the rate on this one?
+[09:31] Sarah: $3344 all in, 771 miles.
+[09:33] Brian Clark: Sounds good, I'll take it.
+[09:35] Sarah: Great, sending the rate confirmation now.
+[09:38] Brian Clark: Got it, signed and sent back.
+[09:57] Sarah: How's LD-26445 looking?
+[09:59] Brian Clark: Doing alright, just tired.
+[10:02] Sarah: Long trip, huh? Get some rest when you can.
+[10:04] Brian Clark: No problem, just doing my job.
+[11:22] Sarah: How's LD-26445 looking?
+[11:24] Brian Clark: Yeah, long one, but manageable.
+[12:31] Sarah: Where are you at right now?
+[12:33] Brian Clark: Fuel prices are decent around here.
+[12:36] Sarah: Let me know if you need anything.
+[12:38] Brian Clark: Doing alright, just tired.
+[13:46] Sarah: Where are you at right now?
+[13:48] Brian Clark: Weather's getting rough up ahead, heads up.
+[13:51] Sarah: Long trip, huh? Get some rest when you can.
+[13:53] Brian Clark: Will do, thanks for checking in.
+[14:55] Sarah: Any updates on your progress?
+[14:57] Brian Clark: Yeah, long one, but manageable.
+[15:00] Sarah: Long trip, huh? Get some rest when you can.
+[15:02] Brian Clark: No problem, just doing my job.
+[15:45] Sarah: How's LD-26445 looking?
+[15:47] Brian Clark: Roads are clear now, moving well.
+[16:54] Sarah: Still on schedule?
+[16:56] Brian Clark: About 97 miles out from Pittsburgh, PA now.
+[17:36] Sarah: Still on schedule?
+[17:38] Brian Clark: Will do, thanks for checking in.
+[19:04] Sarah: What's your status?
+[19:06] Brian Clark: Roads are wet, taking it easy.
+[19:09] Sarah: Long trip, huh? Get some rest when you can.
+[19:11] Brian Clark: No problem, just doing my job.
+[19:29] Sarah: What's your status?
+[19:31] Brian Clark: Hit some traffic near Pittsburgh, PA, adding maybe 20 minutes.
+[19:34] Sarah: Long trip, huh? Get some rest when you can.
+[19:36] Brian Clark: Doing alright, just tired.
+[19:53] Sarah: How's LD-26445 looking?
+[19:55] Brian Clark: Stopped for a quick break, back on the road in a few.
+[19:58] Sarah: Appreciate you keeping me posted.
+[20:00] Brian Clark: Yeah, long one, but manageable.
+[21:21] Sarah: How's LD-26445 looking?
+[21:23] Brian Clark: Stopping for fuel in a bit.
+[21:26] Sarah: Let me know if you need anything.
+[21:28] Brian Clark: No problem, just doing my job.
+[22:16] Sarah: How's LD-26445 looking?
+[22:18] Brian Clark: Stopped for a quick break, back on the road in a few.
+[22:46] Sarah: How's LD-26445 looking?
+[22:48] Brian Clark: Stopped for a quick break, back on the road in a few.
+[22:51] Sarah: How are you holding up out there?
+[22:53] Brian Clark: Yeah, long one, but manageable.
+[23:47] Sarah: What's your status?
+[23:49] Brian Clark: Making good time, no issues so far.
+[23:52] Sarah: How are you holding up out there?
+[23:54] Brian Clark: No problem, just doing my job.
+[00:19] Sarah: Still on schedule?
+[00:21] Brian Clark: Just topped off the tank.
+[01:23] Sarah: Still on schedule?
+[01:25] Brian Clark: No problem, just doing my job.
+[01:28] Sarah: Appreciate you keeping me posted.
+[01:30] Brian Clark: Yeah, long one, but manageable.
+[01:32] Sarah: What's your ETA?
+[01:34] Brian Clark: Should be there around 5pm.
+[01:56] Sarah: What's your status?
+[01:58] Brian Clark: Just passed Pittsburgh, PA, everything's fine.
+[02:27] Sarah: Where are you at right now?
+[02:29] Brian Clark: Roads are wet, taking it easy.
+[02:52] Brian Clark: I've got a problem, an accident blocking the highway on LD-26445. Pulled over on the shoulder.
+[02:53] Sarah: Are you safe? Anyone hurt?
+[02:55] Brian Clark: Yeah I'm fine, just need roadside assistance.
+[02:57] Sarah: Mile marker 116 on I-10.
+[03:02] Sarah: Truck is on the way, ETA about 1 hour.
+[04:32] Brian Clark: Fixed and rolling again.
+[05:06] Sarah: Still on schedule?
+[05:08] Brian Clark: Making good time, no issues so far.
+[06:03] Sarah: Still on schedule?
+[06:05] Brian Clark: About 390 miles out from Pittsburgh, PA now.
+[06:59] Sarah: Still on schedule?
+[07:01] Brian Clark: Making good time, no issues so far.
+[07:52] Sarah: Still on schedule?
+[07:54] Brian Clark: About 73 miles out from Pittsburgh, PA now.
+[08:46] Sarah: Where are you at right now?
+[08:48] Brian Clark: Making good time, no issues so far.
+[09:43] Sarah: What's your status?
+[09:45] Brian Clark: Just passed Columbus, OH, everything's fine.
+[10:31] Sarah: Any updates on your progress?
+[10:33] Brian Clark: About 57 miles out from Pittsburgh, PA now.
+[11:18] Sarah: What's your status?
+[11:20] Brian Clark: About 303 miles out from Pittsburgh, PA now.
+[11:44] Sarah: What's your status?
+[11:46] Brian Clark: Just crossed the state line, all good.
+[12:40] Sarah: How's LD-26445 looking?
+[12:42] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[13:34] Sarah: Any updates on your progress?
+[13:36] Brian Clark: Just crossed the state line, all good.
+[13:51] Sarah: What's your status?
+[13:53] Brian Clark: Traffic's a bit heavy but I'm still on schedule.
+[14:28] Sarah: How's LD-26445 looking?
+[14:30] Brian Clark: Just passed Pittsburgh, PA, everything's fine.
+[15:11] Sarah: Still on schedule?
+[15:13] Brian Clark: Making good time, no issues so far.
+[15:30] Sarah: Where are you at right now?
+[15:32] Brian Clark: Making good time, no issues so far.
+[16:16] Sarah: Any updates on your progress?
+[16:18] Brian Clark: Making good time, no issues so far.
+[16:55] Sarah: What's your status?
+[16:57] Brian Clark: About 290 miles out from Pittsburgh, PA now.
+[17:49] Sarah: Any updates on your progress?
+[17:51] Brian Clark: Stopped for a quick break, back on the road in a few.
+[19:04] Brian Clark: Just delivered LD-26445 at Pittsburgh, PA, all good, no damages.
+[19:06] Sarah: Do you have the signed BOL?
+[19:08] Brian Clark: Yep, taking a picture now.
+[19:09] Brian Clark: [Image attached: signed_bol.jpg]
+[19:11] Sarah: Sending you the next load details shortly.
+[19:13] Brian Clark: Understood.
+[19:15] Sarah: Thanks for the update, drive safe.

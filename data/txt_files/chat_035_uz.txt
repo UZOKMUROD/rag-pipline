@@ -1,0 +1,149 @@
+Chat Log #035
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #501 (tentli furgon)
+Operator: Shahnoza
+Load: LD-27082 | Route: Samarqand -> Buxoro
+Date: 2026-05-02
+--------------------------------------------------
+[13:26] Shahnoza: Salom, Farrukh, ishlar qalay?
+[13:27] Farrukh Tashkentov: Ha, aytavering.
+[13:29] Shahnoza: Siz uchun yuk bor - LD-27082, tentli furgon, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[13:31] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[13:33] Shahnoza: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[13:35] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[13:37] Shahnoza: 1855 ming so'm, 693 km.
+[13:39] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[13:41] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:44] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[14:46] Shahnoza: Holatingiz qanday?
+[14:48] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[14:50] Shahnoza: Taxminan qachon yetib borasiz?
+[14:52] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[15:29] Shahnoza: Yo'lda yangilik bormi?
+[15:31] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:34] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[15:36] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[16:03] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:05] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[16:07] Shahnoza: Taxminan qachon yetib borasiz?
+[16:09] Farrukh Tashkentov: Ehtimol 10am, balki ertaroq.
+[16:44] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:46] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[16:48] Shahnoza: Taxminan qachon yetib borasiz?
+[16:50] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[18:19] Shahnoza: LD-27082 bilan ishlar qalay?
+[18:21] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:24] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[18:26] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:34] Shahnoza: Yo'lda yangilik bormi?
+[19:36] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[20:12] Shahnoza: Yo'lda yangilik bormi?
+[20:14] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:17] Shahnoza: O'zingizni qalay his qilyapsiz?
+[20:19] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[20:36] Shahnoza: Yo'lda yangilik bormi?
+[20:38] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:41] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:43] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[22:00] Shahnoza: LD-27082 bilan ishlar qalay?
+[22:02] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[22:05] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[22:07] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[23:04] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:06] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[23:09] Shahnoza: O'zingizni qalay his qilyapsiz?
+[23:11] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[00:14] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:16] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:19] Shahnoza: O'zingizni qalay his qilyapsiz?
+[00:21] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[01:14] Shahnoza: Yo'lda yangilik bormi?
+[01:16] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[01:18] Shahnoza: Taxminan qachon yetib borasiz?
+[01:20] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[01:41] Shahnoza: Yo'lda yangilik bormi?
+[01:43] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:21] Shahnoza: Hozir qayerdasiz?
+[02:23] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[02:25] Shahnoza: Taxminan qachon yetib borasiz?
+[02:27] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[03:46] Shahnoza: Yo'lda yangilik bormi?
+[03:48] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:51] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[03:53] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[04:08] Farrukh Tashkentov: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[04:10] Shahnoza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[05:10] Shahnoza: Yo'lda yangilik bormi?
+[05:12] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[05:33] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:35] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:30] Shahnoza: Yo'lda yangilik bormi?
+[06:32] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:07] Shahnoza: Yo'lda yangilik bormi?
+[07:09] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[07:53] Shahnoza: Hozir qayerdasiz?
+[07:55] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:20] Shahnoza: Holatingiz qanday?
+[08:22] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:06] Shahnoza: LD-27082 bilan ishlar qalay?
+[09:08] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:07] Shahnoza: LD-27082 bilan ishlar qalay?
+[10:09] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:50] Shahnoza: Hozir qayerdasiz?
+[10:52] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:34] Shahnoza: Holatingiz qanday?
+[11:36] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:02] Shahnoza: Hozir qayerdasiz?
+[12:04] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:47] Shahnoza: Holatingiz qanday?
+[12:49] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[13:29] Shahnoza: Holatingiz qanday?
+[13:31] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:11] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:13] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:30] Shahnoza: Yo'lda yangilik bormi?
+[14:32] Farrukh Tashkentov: Buxorogacha taxminan 297 km qoldi.
+[15:20] Shahnoza: Holatingiz qanday?
+[15:22] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:05] Shahnoza: Yo'lda yangilik bormi?
+[16:07] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:49] Shahnoza: LD-27082 bilan ishlar qalay?
+[16:51] Farrukh Tashkentov: Buxorogacha taxminan 308 km qoldi.
+[17:06] Shahnoza: Hozir qayerdasiz?
+[17:08] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:29] Shahnoza: LD-27082 bilan ishlar qalay?
+[17:31] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:20] Shahnoza: Hozir qayerdasiz?
+[18:22] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[18:43] Shahnoza: Holatingiz qanday?
+[18:45] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:22] Shahnoza: Yo'lda yangilik bormi?
+[19:24] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:19] Shahnoza: LD-27082 bilan ishlar qalay?
+[20:21] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[20:49] Shahnoza: Holatingiz qanday?
+[20:51] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:08] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:10] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:51] Shahnoza: Holatingiz qanday?
+[21:53] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:47] Shahnoza: Holatingiz qanday?
+[22:49] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:36] Shahnoza: Hozir qayerdasiz?
+[23:38] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:20] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:22] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:09] Shahnoza: Yo'lda yangilik bormi?
+[01:11] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:38] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:40] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[02:31] Shahnoza: Holatingiz qanday?
+[02:33] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:08] Farrukh Tashkentov: LD-27082 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:10] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[03:12] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[03:13] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:15] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:17] Farrukh Tashkentov: Tushunarli.
+[03:19] Shahnoza: Rahmat, aloqada bo'lamiz.

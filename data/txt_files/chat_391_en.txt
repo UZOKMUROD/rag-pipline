@@ -1,0 +1,128 @@
+Chat Log #391
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Lewis | Truck: #360 (flatbed)
+Operator: Kayla
+Load: LD-56779 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-02-11
+--------------------------------------------------
+[09:40] Kayla: Hey Luis, how's it going?
+[09:41] Luis Lewis: Yeah, go ahead.
+[09:43] Kayla: Got a load for you - LD-56779, flatbed, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[09:45] Luis Lewis: Ok, what's the pickup window?
+[09:47] Kayla: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[09:49] Luis Lewis: What's the rate on this one?
+[09:51] Kayla: $2060 all in, 739 miles.
+[09:53] Luis Lewis: Sounds good, I'll take it.
+[09:55] Kayla: Great, sending the rate confirmation now.
+[09:58] Luis Lewis: Got it, signed and sent back.
+[10:24] Kayla: What's your status?
+[10:26] Luis Lewis: Yeah, long one, but manageable.
+[10:29] Kayla: Long trip, huh? Get some rest when you can.
+[10:31] Luis Lewis: Yeah, long one, but manageable.
+[11:50] Kayla: Still on schedule?
+[11:52] Luis Lewis: No problem, just doing my job.
+[12:25] Kayla: What's your status?
+[12:27] Luis Lewis: Fuel prices are decent around here.
+[12:30] Kayla: How are you holding up out there?
+[12:32] Luis Lewis: No problem, just doing my job.
+[13:21] Kayla: Still on schedule?
+[13:23] Luis Lewis: Construction zone slowing everyone down.
+[13:25] Kayla: What's your ETA?
+[13:27] Luis Lewis: Probably 3pm, maybe a bit earlier.
+[14:19] Kayla: How's LD-56779 looking?
+[14:21] Luis Lewis: Making good time, no issues so far.
+[14:24] Kayla: Let me know if you need anything.
+[14:26] Luis Lewis: Will do, thanks for checking in.
+[15:04] Kayla: Any updates on your progress?
+[15:06] Luis Lewis: Stopping for fuel in a bit.
+[15:37] Kayla: What's your status?
+[15:39] Luis Lewis: About 261 miles out from St. Louis, MO now.
+[15:42] Kayla: Long trip, huh? Get some rest when you can.
+[15:44] Luis Lewis: Doing alright, just tired.
+[16:21] Kayla: Where are you at right now?
+[16:23] Luis Lewis: Stopping for fuel in a bit.
+[16:49] Kayla: What's your status?
+[16:51] Luis Lewis: Just crossed the state line, all good.
+[17:09] Kayla: Still on schedule?
+[17:11] Luis Lewis: About 324 miles out from St. Louis, MO now.
+[18:41] Kayla: Any updates on your progress?
+[18:43] Luis Lewis: Stopped for a quick break, back on the road in a few.
+[19:31] Kayla: Any updates on your progress?
+[19:33] Luis Lewis: Roads are wet, taking it easy.
+[19:35] Kayla: What's your ETA?
+[19:37] Luis Lewis: Probably 10am, maybe a bit earlier.
+[19:56] Kayla: Where are you at right now?
+[19:58] Luis Lewis: Construction zone slowing everyone down.
+[20:01] Kayla: Let me know if you need anything.
+[20:03] Luis Lewis: Doing alright, just tired.
+[20:05] Kayla: What's your ETA?
+[20:07] Luis Lewis: Should be there around 7pm.
+[21:08] Kayla: Still on schedule?
+[21:10] Luis Lewis: Just topped off the tank.
+[21:49] Kayla: How's LD-56779 looking?
+[21:51] Luis Lewis: Will do, thanks for checking in.
+[21:53] Kayla: What's your ETA?
+[21:55] Luis Lewis: Should be there around noon.
+[22:28] Kayla: Any updates on your progress?
+[22:30] Luis Lewis: Stopped for a quick break, back on the road in a few.
+[22:33] Kayla: Appreciate you keeping me posted.
+[22:35] Luis Lewis: Will do, thanks for checking in.
+[23:49] Kayla: How's LD-56779 looking?
+[23:51] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[23:54] Kayla: How are you holding up out there?
+[23:56] Luis Lewis: Will do, thanks for checking in.
+[00:14] Kayla: What's your status?
+[00:16] Luis Lewis: Rain is picking up here, slowing down a bit.
+[00:18] Kayla: What's your ETA?
+[00:20] Luis Lewis: Looking at noon if traffic stays clear.
+[01:50] Kayla: Still on schedule?
+[01:52] Luis Lewis: Just topped off the tank.
+[01:55] Kayla: Appreciate you keeping me posted.
+[01:57] Luis Lewis: No problem, just doing my job.
+[02:09] Luis Lewis: Still sitting at the shipper, been here almost 3 hours already.
+[02:11] Kayla: Let me call them and see what's going on.
+[02:21] Kayla: Ok talked to them, they said 30 more minutes, forklift issue.
+[02:23] Luis Lewis: Make sure detention pay gets logged for this.
+[02:25] Kayla: Already noted, don't worry, you'll get paid for the wait.
+[03:15] Kayla: What's your status?
+[03:17] Luis Lewis: Stopped for a quick break, back on the road in a few.
+[04:00] Kayla: What's your status?
+[04:02] Luis Lewis: Just crossed the state line, all good.
+[04:31] Kayla: How's LD-56779 looking?
+[04:33] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[05:21] Kayla: What's your status?
+[05:23] Luis Lewis: Making good time, no issues so far.
+[06:19] Kayla: Still on schedule?
+[06:21] Luis Lewis: Stopped for a quick break, back on the road in a few.
+[06:52] Kayla: What's your status?
+[06:54] Luis Lewis: Making good time, no issues so far.
+[07:28] Kayla: Still on schedule?
+[07:30] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[08:24] Kayla: How's LD-56779 looking?
+[08:26] Luis Lewis: About 257 miles out from St. Louis, MO now.
+[09:19] Kayla: What's your status?
+[09:21] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[10:21] Kayla: What's your status?
+[10:23] Luis Lewis: About 356 miles out from St. Louis, MO now.
+[11:20] Kayla: Any updates on your progress?
+[11:22] Luis Lewis: Just passed St. Louis, MO, everything's fine.
+[11:56] Kayla: How's LD-56779 looking?
+[11:58] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[12:57] Kayla: Any updates on your progress?
+[12:59] Luis Lewis: Just passed Kansas City, MO, everything's fine.
+[13:18] Kayla: How's LD-56779 looking?
+[13:20] Luis Lewis: Making good time, no issues so far.
+[14:07] Kayla: Any updates on your progress?
+[14:09] Luis Lewis: Traffic's a bit heavy but I'm still on schedule.
+[14:55] Kayla: Still on schedule?
+[14:57] Luis Lewis: Just crossed the state line, all good.
+[15:47] Kayla: Where are you at right now?
+[15:49] Luis Lewis: Just passed Kansas City, MO, everything's fine.
+[16:32] Luis Lewis: Just delivered LD-56779 at St. Louis, MO, all good, no damages.
+[16:34] Kayla: Do you have the signed BOL?
+[16:36] Luis Lewis: Yep, taking a picture now.
+[16:37] Luis Lewis: [Image attached: signed_bol.jpg]
+[16:39] Kayla: Sending you the next load details shortly.
+[16:41] Luis Lewis: Sounds good.
+[16:43] Kayla: Thanks for the update, drive safe.

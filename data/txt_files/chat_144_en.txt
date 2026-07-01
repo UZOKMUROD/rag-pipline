@@ -1,0 +1,129 @@
+Chat Log #144
+Company: Silk Road Logistics
+Language: English
+Driver: James Martinez | Truck: #201 (dry van)
+Operator: Sarah
+Load: LD-23494 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-05-15
+--------------------------------------------------
+[12:49] Sarah: Morning James, you there?
+[12:50] James Martinez: Yeah, go ahead.
+[12:52] Sarah: Got a load for you - LD-23494, dry van, pickup in Nashville, TN, delivery to Birmingham, AL.
+[12:54] James Martinez: Ok, what's the pickup window?
+[12:56] Sarah: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[12:58] James Martinez: What's the rate on this one?
+[13:00] Sarah: $3504 all in, 771 miles.
+[13:02] James Martinez: Sounds good, I'll take it.
+[13:04] Sarah: Great, sending the rate confirmation now.
+[13:07] James Martinez: Got it, signed and sent back.
+[14:20] Sarah: What's your status?
+[14:22] James Martinez: Traffic's a bit heavy but I'm still on schedule.
+[15:52] Sarah: Still on schedule?
+[15:54] James Martinez: Doing alright, just tired.
+[17:07] Sarah: How's LD-23494 looking?
+[17:09] James Martinez: Rain is picking up here, slowing down a bit.
+[18:21] Sarah: Still on schedule?
+[18:23] James Martinez: Construction zone slowing everyone down.
+[18:26] Sarah: Long trip, huh? Get some rest when you can.
+[18:28] James Martinez: Will do, thanks for checking in.
+[19:16] Sarah: How's LD-23494 looking?
+[19:18] James Martinez: Doing alright, just tired.
+[19:55] Sarah: How's LD-23494 looking?
+[19:57] James Martinez: Roads are clear now, moving well.
+[19:59] Sarah: What's your ETA?
+[20:01] James Martinez: Should be there around 3pm.
+[20:37] Sarah: Where are you at right now?
+[20:39] James Martinez: Just topped off the tank.
+[22:06] Sarah: What's your status?
+[22:08] James Martinez: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[22:11] Sarah: Long trip, huh? Get some rest when you can.
+[22:13] James Martinez: No problem, just doing my job.
+[23:22] Sarah: How's LD-23494 looking?
+[23:24] James Martinez: Stopped for a quick break, back on the road in a few.
+[00:45] Sarah: Any updates on your progress?
+[00:47] James Martinez: About 444 miles out from Birmingham, AL now.
+[00:49] Sarah: What's your ETA?
+[00:51] James Martinez: Should be there around noon.
+[02:13] Sarah: How's LD-23494 looking?
+[02:15] James Martinez: Traffic's a bit heavy but I'm still on schedule.
+[02:42] Sarah: Any updates on your progress?
+[02:44] James Martinez: Fuel prices are decent around here.
+[02:47] Sarah: Long trip, huh? Get some rest when you can.
+[02:49] James Martinez: No problem, just doing my job.
+[03:48] Sarah: Any updates on your progress?
+[03:50] James Martinez: Traffic's a bit heavy but I'm still on schedule.
+[04:38] Sarah: Where are you at right now?
+[04:40] James Martinez: Making good time, no issues so far.
+[04:43] Sarah: How are you holding up out there?
+[04:45] James Martinez: Will do, thanks for checking in.
+[05:24] Sarah: Any updates on your progress?
+[05:26] James Martinez: Roads are clear now, moving well.
+[06:47] Sarah: Any updates on your progress?
+[06:49] James Martinez: Just crossed the state line, all good.
+[07:40] Sarah: Still on schedule?
+[07:42] James Martinez: Rain is picking up here, slowing down a bit.
+[08:33] Sarah: How's LD-23494 looking?
+[08:35] James Martinez: Making good time, no issues so far.
+[08:37] Sarah: What's your ETA?
+[08:39] James Martinez: Looking at 7pm if traffic stays clear.
+[09:07] Sarah: What's your status?
+[09:09] James Martinez: Making good time, no issues so far.
+[10:25] Sarah: How's LD-23494 looking?
+[10:27] James Martinez: Stopping for fuel in a bit.
+[10:43] James Martinez: Coming up on my HOS limit, only got about 1 hour left.
+[10:45] Sarah: Understood, get your rest, I'll let the receiver know.
+[11:37] Sarah: How's LD-23494 looking?
+[11:39] James Martinez: Just crossed the state line, all good.
+[12:07] Sarah: Still on schedule?
+[12:09] James Martinez: Just crossed the state line, all good.
+[12:24] Sarah: Where are you at right now?
+[12:26] James Martinez: About 518 miles out from Birmingham, AL now.
+[12:55] Sarah: Where are you at right now?
+[12:57] James Martinez: Making good time, no issues so far.
+[13:49] Sarah: Any updates on your progress?
+[13:51] James Martinez: Traffic's a bit heavy but I'm still on schedule.
+[14:48] Sarah: What's your status?
+[14:50] James Martinez: Making good time, no issues so far.
+[15:40] Sarah: How's LD-23494 looking?
+[15:42] James Martinez: Just passed Birmingham, AL, everything's fine.
+[16:35] Sarah: How's LD-23494 looking?
+[16:37] James Martinez: Just passed Nashville, TN, everything's fine.
+[17:16] Sarah: Still on schedule?
+[17:18] James Martinez: Making good time, no issues so far.
+[18:07] Sarah: Still on schedule?
+[18:09] James Martinez: Just crossed the state line, all good.
+[18:57] Sarah: How's LD-23494 looking?
+[18:59] James Martinez: Just crossed the state line, all good.
+[19:23] Sarah: Where are you at right now?
+[19:25] James Martinez: Stopped for a quick break, back on the road in a few.
+[19:58] Sarah: Any updates on your progress?
+[20:00] James Martinez: Stopped for a quick break, back on the road in a few.
+[20:31] Sarah: What's your status?
+[20:33] James Martinez: Making good time, no issues so far.
+[20:54] Sarah: Still on schedule?
+[20:56] James Martinez: About 540 miles out from Birmingham, AL now.
+[21:27] Sarah: Still on schedule?
+[21:29] James Martinez: Just crossed the state line, all good.
+[22:07] Sarah: What's your status?
+[22:09] James Martinez: Just passed Birmingham, AL, everything's fine.
+[23:08] Sarah: Still on schedule?
+[23:10] James Martinez: Making good time, no issues so far.
+[23:45] Sarah: Any updates on your progress?
+[23:47] James Martinez: Just passed Birmingham, AL, everything's fine.
+[00:19] Sarah: Where are you at right now?
+[00:21] James Martinez: About 106 miles out from Birmingham, AL now.
+[00:56] Sarah: How's LD-23494 looking?
+[00:58] James Martinez: Just crossed the state line, all good.
+[01:49] Sarah: Any updates on your progress?
+[01:51] James Martinez: Making good time, no issues so far.
+[02:21] Sarah: What's your status?
+[02:23] James Martinez: About 221 miles out from Birmingham, AL now.
+[03:02] Sarah: Still on schedule?
+[03:04] James Martinez: Just crossed the state line, all good.
+[04:15] James Martinez: Just delivered LD-23494 at Birmingham, AL, all good, no damages.
+[04:17] Sarah: Do you have the signed BOL?
+[04:19] James Martinez: Yep, taking a picture now.
+[04:20] James Martinez: [Image attached: signed_bol.jpg]
+[04:22] Sarah: Sending you the next load details shortly.
+[04:24] James Martinez: Sounds good.
+[04:26] Sarah: Thanks for the update, drive safe.

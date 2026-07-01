@@ -1,0 +1,131 @@
+Chat Log #237
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Lopez | Truck: #627 (reefer)
+Operator: Brittany
+Load: LD-41042 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-02-21
+--------------------------------------------------
+[16:53] Brittany: Morning Kevin, you there?
+[16:54] Kevin Lopez: Morning, all good on my end.
+[16:56] Brittany: Got a load for you - LD-41042, reefer, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[16:58] Kevin Lopez: Ok, what's the pickup window?
+[17:00] Brittany: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[17:02] Kevin Lopez: What's the rate on this one?
+[17:04] Brittany: $3681 all in, 564 miles.
+[17:06] Kevin Lopez: Sounds good, I'll take it.
+[17:08] Brittany: Great, sending the rate confirmation now.
+[17:11] Kevin Lopez: Got it, signed and sent back.
+[18:18] Brittany: How's LD-41042 looking?
+[18:20] Kevin Lopez: Roads are wet, taking it easy.
+[19:13] Brittany: Any updates on your progress?
+[19:15] Kevin Lopez: Roads are wet, taking it easy.
+[20:37] Brittany: Where are you at right now?
+[20:39] Kevin Lopez: Construction zone slowing everyone down.
+[21:51] Brittany: Still on schedule?
+[21:53] Kevin Lopez: Stopping for fuel in a bit.
+[21:56] Brittany: Long trip, huh? Get some rest when you can.
+[21:58] Kevin Lopez: Yeah, long one, but manageable.
+[23:08] Brittany: What's your status?
+[23:10] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[23:13] Brittany: Let me know if you need anything.
+[23:15] Kevin Lopez: Yeah, long one, but manageable.
+[23:17] Brittany: What's your ETA?
+[23:19] Kevin Lopez: Probably 10am, maybe a bit earlier.
+[23:45] Brittany: Where are you at right now?
+[23:47] Kevin Lopez: No problem, just doing my job.
+[23:50] Brittany: How are you holding up out there?
+[23:52] Kevin Lopez: Doing alright, just tired.
+[23:54] Brittany: What's your ETA?
+[23:56] Kevin Lopez: Looking at 3pm if traffic stays clear.
+[01:11] Brittany: Still on schedule?
+[01:13] Kevin Lopez: Doing alright, just tired.
+[01:16] Brittany: Let me know if you need anything.
+[01:18] Kevin Lopez: Doing alright, just tired.
+[01:45] Brittany: Where are you at right now?
+[01:47] Kevin Lopez: Stopping for fuel in a bit.
+[01:49] Brittany: What's your ETA?
+[01:51] Kevin Lopez: Should be there around 10am.
+[02:37] Brittany: Still on schedule?
+[02:39] Kevin Lopez: Clear skies here, no problems.
+[02:42] Brittany: Let me know if you need anything.
+[02:44] Kevin Lopez: Yeah, long one, but manageable.
+[03:55] Brittany: Still on schedule?
+[03:57] Kevin Lopez: Roads are wet, taking it easy.
+[04:00] Brittany: Long trip, huh? Get some rest when you can.
+[04:02] Kevin Lopez: Doing alright, just tired.
+[04:32] Brittany: Where are you at right now?
+[04:34] Kevin Lopez: Roads are clear now, moving well.
+[05:14] Brittany: Any updates on your progress?
+[05:16] Kevin Lopez: Just topped off the tank.
+[05:19] Brittany: Long trip, huh? Get some rest when you can.
+[05:21] Kevin Lopez: Yeah, long one, but manageable.
+[05:23] Brittany: What's your ETA?
+[05:25] Kevin Lopez: Probably 7pm, maybe a bit earlier.
+[06:19] Brittany: Any updates on your progress?
+[06:21] Kevin Lopez: Fuel prices are decent around here.
+[07:35] Brittany: Still on schedule?
+[07:37] Kevin Lopez: Rain is picking up here, slowing down a bit.
+[07:40] Brittany: Long trip, huh? Get some rest when you can.
+[07:42] Kevin Lopez: Doing alright, just tired.
+[08:23] Brittany: Where are you at right now?
+[08:25] Kevin Lopez: Just passed St. Louis, MO, everything's fine.
+[08:52] Brittany: Still on schedule?
+[08:54] Kevin Lopez: Making good time, no issues so far.
+[09:40] Brittany: What's your status?
+[09:42] Kevin Lopez: About 264 miles out from St. Louis, MO now.
+[10:05] Brittany: What's your status?
+[10:07] Kevin Lopez: Making good time, no issues so far.
+[10:51] Brittany: Still on schedule?
+[10:53] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[11:15] Brittany: What's your status?
+[11:17] Kevin Lopez: Making good time, no issues so far.
+[12:17] Brittany: How's LD-41042 looking?
+[12:19] Kevin Lopez: Making good time, no issues so far.
+[13:19] Brittany: Still on schedule?
+[13:21] Kevin Lopez: Just passed Kansas City, MO, everything's fine.
+[13:36] Brittany: How's LD-41042 looking?
+[13:38] Kevin Lopez: Making good time, no issues so far.
+[14:15] Brittany: Any updates on your progress?
+[14:17] Kevin Lopez: About 327 miles out from St. Louis, MO now.
+[15:04] Brittany: Still on schedule?
+[15:06] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[15:52] Brittany: Any updates on your progress?
+[15:54] Kevin Lopez: About 180 miles out from St. Louis, MO now.
+[16:51] Brittany: Still on schedule?
+[16:53] Kevin Lopez: Just passed St. Louis, MO, everything's fine.
+[17:25] Brittany: Any updates on your progress?
+[17:27] Kevin Lopez: Making good time, no issues so far.
+[17:48] Brittany: Where are you at right now?
+[17:50] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[18:19] Brittany: How's LD-41042 looking?
+[18:21] Kevin Lopez: Making good time, no issues so far.
+[18:42] Brittany: Where are you at right now?
+[18:44] Kevin Lopez: Just passed St. Louis, MO, everything's fine.
+[19:39] Brittany: How's LD-41042 looking?
+[19:41] Kevin Lopez: Just passed Kansas City, MO, everything's fine.
+[20:37] Brittany: Any updates on your progress?
+[20:39] Kevin Lopez: Making good time, no issues so far.
+[21:10] Brittany: What's your status?
+[21:12] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[21:42] Brittany: What's your status?
+[21:44] Kevin Lopez: Making good time, no issues so far.
+[22:03] Brittany: What's your status?
+[22:05] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[22:38] Brittany: How's LD-41042 looking?
+[22:40] Kevin Lopez: Just passed Kansas City, MO, everything's fine.
+[22:56] Brittany: What's your status?
+[22:58] Kevin Lopez: Just crossed the state line, all good.
+[23:28] Brittany: How's LD-41042 looking?
+[23:30] Kevin Lopez: Just crossed the state line, all good.
+[00:18] Brittany: What's your status?
+[00:20] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[01:12] Brittany: How's LD-41042 looking?
+[01:14] Kevin Lopez: Making good time, no issues so far.
+[02:44] Kevin Lopez: Just delivered LD-41042 at St. Louis, MO, all good, no damages.
+[02:46] Brittany: Do you have the signed BOL?
+[02:48] Kevin Lopez: Yep, taking a picture now.
+[02:49] Kevin Lopez: [Image attached: signed_bol.jpg]
+[02:51] Brittany: Sending you the next load details shortly.
+[02:53] Kevin Lopez: Sounds good.
+[02:55] Brittany: Appreciate it, talk soon.

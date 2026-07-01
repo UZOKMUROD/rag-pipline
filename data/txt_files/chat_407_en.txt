@@ -1,0 +1,127 @@
+Chat Log #407
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Anderson | Truck: #701 (flatbed)
+Operator: Amanda
+Load: LD-54447 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-04-09
+--------------------------------------------------
+[13:00] Amanda: Kevin, got a minute?
+[13:01] Kevin Anderson: Hey, yeah I'm here.
+[13:03] Amanda: Got a load for you - LD-54447, flatbed, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[13:05] Kevin Anderson: Ok, what's the pickup window?
+[13:07] Amanda: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[13:09] Kevin Anderson: What's the rate on this one?
+[13:11] Amanda: $2891 all in, 636 miles.
+[13:13] Kevin Anderson: Sounds good, I'll take it.
+[13:15] Amanda: Great, sending the rate confirmation now.
+[13:18] Kevin Anderson: Got it, signed and sent back.
+[13:59] Amanda: How's LD-54447 looking?
+[14:01] Kevin Anderson: Roads are clear now, moving well.
+[15:04] Amanda: Any updates on your progress?
+[15:06] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[15:08] Amanda: What's your ETA?
+[15:10] Kevin Anderson: Should be there around 5pm.
+[15:27] Amanda: How's LD-54447 looking?
+[15:29] Kevin Anderson: No problem, just doing my job.
+[15:32] Amanda: Long trip, huh? Get some rest when you can.
+[15:34] Kevin Anderson: Will do, thanks for checking in.
+[15:36] Amanda: What's your ETA?
+[15:38] Kevin Anderson: Should be there around 10am.
+[16:19] Amanda: What's your status?
+[16:21] Kevin Anderson: Making good time, no issues so far.
+[16:24] Amanda: Let me know if you need anything.
+[16:26] Kevin Anderson: Doing alright, just tired.
+[17:25] Amanda: Where are you at right now?
+[17:27] Kevin Anderson: Roads are clear now, moving well.
+[17:30] Amanda: How are you holding up out there?
+[17:32] Kevin Anderson: No problem, just doing my job.
+[17:34] Amanda: What's your ETA?
+[17:36] Kevin Anderson: Should be there around 5pm.
+[18:55] Amanda: Any updates on your progress?
+[18:57] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[19:00] Amanda: How are you holding up out there?
+[19:02] Kevin Anderson: No problem, just doing my job.
+[19:46] Amanda: Still on schedule?
+[19:48] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[19:50] Amanda: What's your ETA?
+[19:52] Kevin Anderson: Should be there around noon.
+[20:16] Amanda: How's LD-54447 looking?
+[20:18] Kevin Anderson: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[20:21] Amanda: How are you holding up out there?
+[20:23] Kevin Anderson: Yeah, long one, but manageable.
+[20:59] Amanda: Where are you at right now?
+[21:01] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[21:03] Amanda: What's your ETA?
+[21:05] Kevin Anderson: Probably 7pm, maybe a bit earlier.
+[21:48] Amanda: What's your status?
+[21:50] Kevin Anderson: Making good time, no issues so far.
+[22:40] Amanda: Any updates on your progress?
+[22:42] Kevin Anderson: Clear skies here, no problems.
+[23:17] Amanda: What's your status?
+[23:19] Kevin Anderson: Just crossed the state line, all good.
+[23:21] Amanda: What's your ETA?
+[23:23] Kevin Anderson: Looking at 3pm if traffic stays clear.
+[23:54] Amanda: Where are you at right now?
+[23:56] Kevin Anderson: Construction zone slowing everyone down.
+[01:25] Amanda: Still on schedule?
+[01:27] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[01:45] Amanda: How's LD-54447 looking?
+[01:47] Kevin Anderson: Just passed Salt Lake City, UT, everything's fine.
+[02:09] Amanda: How's LD-54447 looking?
+[02:11] Kevin Anderson: Making good time, no issues so far.
+[03:05] Amanda: Still on schedule?
+[03:07] Kevin Anderson: Just crossed the state line, all good.
+[03:37] Amanda: How's LD-54447 looking?
+[03:39] Kevin Anderson: About 538 miles out from Salt Lake City, UT now.
+[04:18] Amanda: What's your status?
+[04:20] Kevin Anderson: Just crossed the state line, all good.
+[04:49] Amanda: How's LD-54447 looking?
+[04:51] Kevin Anderson: Just crossed the state line, all good.
+[05:15] Amanda: Any updates on your progress?
+[05:17] Kevin Anderson: Just crossed the state line, all good.
+[06:03] Amanda: How's LD-54447 looking?
+[06:05] Kevin Anderson: Just crossed the state line, all good.
+[06:30] Amanda: Still on schedule?
+[06:32] Kevin Anderson: About 363 miles out from Salt Lake City, UT now.
+[07:18] Amanda: Any updates on your progress?
+[07:20] Kevin Anderson: Making good time, no issues so far.
+[07:55] Amanda: Where are you at right now?
+[07:57] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[08:23] Amanda: How's LD-54447 looking?
+[08:25] Kevin Anderson: Making good time, no issues so far.
+[09:14] Amanda: Where are you at right now?
+[09:16] Kevin Anderson: Traffic's a bit heavy but I'm still on schedule.
+[09:42] Amanda: How's LD-54447 looking?
+[09:44] Kevin Anderson: About 512 miles out from Salt Lake City, UT now.
+[10:23] Amanda: What's your status?
+[10:25] Kevin Anderson: Just crossed the state line, all good.
+[10:40] Amanda: Any updates on your progress?
+[10:42] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[11:25] Amanda: Any updates on your progress?
+[11:27] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[11:59] Amanda: How's LD-54447 looking?
+[12:01] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[12:42] Amanda: Any updates on your progress?
+[12:44] Kevin Anderson: Just passed Denver, CO, everything's fine.
+[13:32] Amanda: Where are you at right now?
+[13:34] Kevin Anderson: Just passed Salt Lake City, UT, everything's fine.
+[14:16] Amanda: Any updates on your progress?
+[14:18] Kevin Anderson: Making good time, no issues so far.
+[15:06] Amanda: Still on schedule?
+[15:08] Kevin Anderson: Just crossed the state line, all good.
+[15:32] Amanda: What's your status?
+[15:34] Kevin Anderson: Just crossed the state line, all good.
+[15:54] Amanda: Still on schedule?
+[15:56] Kevin Anderson: Making good time, no issues so far.
+[16:18] Amanda: Still on schedule?
+[16:20] Kevin Anderson: Stopped for a quick break, back on the road in a few.
+[17:04] Amanda: Still on schedule?
+[17:06] Kevin Anderson: Just crossed the state line, all good.
+[18:22] Kevin Anderson: Just delivered LD-54447 at Salt Lake City, UT, all good, no damages.
+[18:24] Amanda: Do you have the signed BOL?
+[18:26] Kevin Anderson: Yep, taking a picture now.
+[18:27] Kevin Anderson: [Image attached: signed_bol.jpg]
+[18:29] Amanda: Sending you the next load details shortly.
+[18:31] Kevin Anderson: Will do.
+[18:33] Amanda: Thanks for the update, drive safe.

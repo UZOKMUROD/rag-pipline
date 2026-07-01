@@ -1,0 +1,148 @@
+Chat Log #108
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #627 (platforma)
+Operator: Shahnoza
+Load: LD-31767 | Route: Toshkent -> Samarqand
+Date: 2026-05-03
+--------------------------------------------------
+[17:36] Shahnoza: Salom, Farrukh, ishlar qalay?
+[17:37] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[17:39] Shahnoza: Siz uchun yuk bor - LD-31767, platforma, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[17:41] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[17:43] Shahnoza: Yuklash 09:00-11:00, tushirish esa ertaga 14:00 bo'ladi.
+[17:45] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[17:47] Shahnoza: 2774 ming so'm, 957 km.
+[17:49] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[17:51] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:54] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[18:41] Shahnoza: Hozir qayerdasiz?
+[18:43] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:06] Shahnoza: LD-31767 bilan ishlar qalay?
+[20:08] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[20:11] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[20:13] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[21:21] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:23] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[21:26] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:28] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[21:30] Shahnoza: Taxminan qachon yetib borasiz?
+[21:32] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[22:25] Shahnoza: Hozir qayerdasiz?
+[22:27] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[22:30] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[22:32] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[22:34] Shahnoza: Taxminan qachon yetib borasiz?
+[22:36] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 7pmda.
+[23:57] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:59] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:02] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:04] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[00:45] Shahnoza: Hozir qayerdasiz?
+[00:47] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[02:09] Shahnoza: Yo'lda yangilik bormi?
+[02:11] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:35] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:37] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:40] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:42] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[04:06] Shahnoza: Holatingiz qanday?
+[04:08] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:10] Shahnoza: Taxminan qachon yetib borasiz?
+[04:12] Farrukh Tashkentov: Ehtimol 5pm, balki ertaroq.
+[04:49] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:51] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[04:54] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[04:56] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[05:27] Shahnoza: Hozir qayerdasiz?
+[05:29] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[05:32] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[05:34] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[06:40] Shahnoza: Hozir qayerdasiz?
+[06:42] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[06:45] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[06:47] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[07:59] Shahnoza: LD-31767 bilan ishlar qalay?
+[08:01] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[08:03] Shahnoza: Taxminan qachon yetib borasiz?
+[08:05] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 5pmda.
+[09:28] Shahnoza: Holatingiz qanday?
+[09:30] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[09:33] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:35] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[10:31] Shahnoza: Holatingiz qanday?
+[10:33] Farrukh Tashkentov: Samarqandgacha taxminan 278 km qoldi.
+[11:46] Shahnoza: Hozir qayerdasiz?
+[11:48] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:10] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:12] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[14:41] Shahnoza: Holatingiz qanday?
+[14:43] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:45] Shahnoza: Taxminan qachon yetib borasiz?
+[14:47] Farrukh Tashkentov: Ehtimol 10am, balki ertaroq.
+[15:23] Shahnoza: Hozir qayerdasiz?
+[15:25] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[15:28] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[15:30] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[15:47] Farrukh Tashkentov: Hali ham omborda turibman, deyarli 2 soat bo'ldi.
+[15:49] Shahnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[15:59] Shahnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[16:01] Farrukh Tashkentov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[16:03] Shahnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[16:29] Shahnoza: Holatingiz qanday?
+[16:31] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:58] Shahnoza: Yo'lda yangilik bormi?
+[17:00] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:51] Shahnoza: Holatingiz qanday?
+[17:53] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:49] Shahnoza: Yo'lda yangilik bormi?
+[18:51] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:30] Shahnoza: Yo'lda yangilik bormi?
+[19:32] Farrukh Tashkentov: Samarqandgacha taxminan 208 km qoldi.
+[20:25] Shahnoza: LD-31767 bilan ishlar qalay?
+[20:27] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:58] Shahnoza: Yo'lda yangilik bormi?
+[21:00] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:30] Shahnoza: Yo'lda yangilik bormi?
+[21:32] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:17] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:19] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:39] Shahnoza: Holatingiz qanday?
+[22:41] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:31] Shahnoza: Hozir qayerdasiz?
+[23:33] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:26] Shahnoza: LD-31767 bilan ishlar qalay?
+[00:28] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[01:12] Shahnoza: Hozir qayerdasiz?
+[01:14] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:37] Shahnoza: Yo'lda yangilik bormi?
+[01:39] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:31] Shahnoza: LD-31767 bilan ishlar qalay?
+[02:33] Farrukh Tashkentov: Samarqandgacha taxminan 306 km qoldi.
+[03:11] Shahnoza: LD-31767 bilan ishlar qalay?
+[03:13] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:09] Shahnoza: Yo'lda yangilik bormi?
+[04:11] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:04] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:06] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:03] Shahnoza: Hozir qayerdasiz?
+[06:05] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:57] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:59] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[07:44] Shahnoza: Yo'lda yangilik bormi?
+[07:46] Farrukh Tashkentov: Samarqandgacha taxminan 45 km qoldi.
+[08:40] Shahnoza: Holatingiz qanday?
+[08:42] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:13] Shahnoza: LD-31767 bilan ishlar qalay?
+[09:15] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:09] Shahnoza: Yo'lda yangilik bormi?
+[10:11] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:46] Shahnoza: Holatingiz qanday?
+[10:48] Farrukh Tashkentov: Samarqandgacha taxminan 473 km qoldi.
+[12:01] Farrukh Tashkentov: LD-31767 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[12:03] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[12:05] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[12:06] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[12:08] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[12:10] Farrukh Tashkentov: Yaxshi.
+[12:12] Shahnoza: Ajoyib ish, rahmat.

@@ -1,0 +1,125 @@
+Chat Log #249
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Johnson | Truck: #348 (dry van)
+Operator: Brittany
+Load: LD-49593 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-04-26
+--------------------------------------------------
+[11:10] Brittany: Andrew, got a minute?
+[11:11] Andrew Johnson: Morning, all good on my end.
+[11:13] Brittany: Got a load for you - LD-49593, dry van, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[11:15] Andrew Johnson: Ok, what's the pickup window?
+[11:17] Brittany: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[11:19] Andrew Johnson: What's the rate on this one?
+[11:21] Brittany: $3781 all in, 501 miles.
+[11:23] Andrew Johnson: Sounds good, I'll take it.
+[11:25] Brittany: Great, sending the rate confirmation now.
+[11:28] Andrew Johnson: Got it, signed and sent back.
+[12:34] Brittany: How's LD-49593 looking?
+[12:36] Andrew Johnson: Hit some traffic near Fresno, CA, adding maybe 20 minutes.
+[13:40] Brittany: Where are you at right now?
+[13:42] Andrew Johnson: About 21 miles out from Las Vegas, NV now.
+[14:59] Brittany: What's your status?
+[15:01] Andrew Johnson: Fuel prices are decent around here.
+[15:34] Brittany: How's LD-49593 looking?
+[15:36] Andrew Johnson: Just passed Fresno, CA, everything's fine.
+[17:04] Brittany: Still on schedule?
+[17:06] Andrew Johnson: Stopping for fuel in a bit.
+[17:54] Brittany: How's LD-49593 looking?
+[17:56] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[17:58] Brittany: What's your ETA?
+[18:00] Andrew Johnson: Probably 10am, maybe a bit earlier.
+[18:16] Brittany: How's LD-49593 looking?
+[18:18] Andrew Johnson: Just topped off the tank.
+[18:21] Brittany: Appreciate you keeping me posted.
+[18:23] Andrew Johnson: Will do, thanks for checking in.
+[18:25] Brittany: What's your ETA?
+[18:27] Andrew Johnson: Looking at 7pm if traffic stays clear.
+[18:44] Brittany: Still on schedule?
+[18:46] Andrew Johnson: Rain is picking up here, slowing down a bit.
+[18:48] Brittany: What's your ETA?
+[18:50] Andrew Johnson: Should be there around 7pm.
+[19:33] Brittany: Still on schedule?
+[19:35] Andrew Johnson: Stopping for fuel in a bit.
+[20:35] Brittany: Any updates on your progress?
+[20:37] Andrew Johnson: Just passed Las Vegas, NV, everything's fine.
+[20:40] Brittany: Let me know if you need anything.
+[20:42] Andrew Johnson: Yeah, long one, but manageable.
+[20:44] Brittany: What's your ETA?
+[20:46] Andrew Johnson: Should be there around 7pm.
+[21:07] Brittany: How's LD-49593 looking?
+[21:09] Andrew Johnson: Fuel prices are decent around here.
+[22:20] Brittany: Where are you at right now?
+[22:22] Andrew Johnson: Roads are clear now, moving well.
+[22:25] Brittany: Let me know if you need anything.
+[22:27] Andrew Johnson: Doing alright, just tired.
+[22:51] Brittany: How's LD-49593 looking?
+[22:53] Andrew Johnson: Just passed Fresno, CA, everything's fine.
+[22:56] Brittany: Appreciate you keeping me posted.
+[22:58] Andrew Johnson: Yeah, long one, but manageable.
+[23:55] Brittany: What's your status?
+[23:57] Andrew Johnson: Construction zone slowing everyone down.
+[00:47] Brittany: Where are you at right now?
+[00:49] Andrew Johnson: Clear skies here, no problems.
+[00:52] Brittany: Appreciate you keeping me posted.
+[00:54] Andrew Johnson: No problem, just doing my job.
+[01:12] Brittany: What's your status?
+[01:14] Andrew Johnson: Just passed Fresno, CA, everything's fine.
+[02:06] Brittany: How's LD-49593 looking?
+[02:08] Andrew Johnson: About 534 miles out from Las Vegas, NV now.
+[02:32] Andrew Johnson: I've got a problem, an accident blocking the highway on LD-49593. Pulled over on the shoulder.
+[02:33] Brittany: Are you safe? Anyone hurt?
+[02:35] Andrew Johnson: Yeah I'm fine, just need roadside assistance.
+[02:37] Brittany: Mile marker 74 on I-70.
+[02:42] Brittany: Truck is on the way, ETA about 30 min.
+[03:59] Andrew Johnson: Fixed and rolling again.
+[04:41] Brittany: Where are you at right now?
+[04:43] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[05:09] Brittany: Where are you at right now?
+[05:11] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[06:08] Brittany: Any updates on your progress?
+[06:10] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[06:59] Brittany: Still on schedule?
+[07:01] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[07:26] Brittany: Where are you at right now?
+[07:28] Andrew Johnson: Making good time, no issues so far.
+[07:55] Brittany: How's LD-49593 looking?
+[07:57] Andrew Johnson: Just crossed the state line, all good.
+[08:21] Brittany: Where are you at right now?
+[08:23] Andrew Johnson: Just passed Las Vegas, NV, everything's fine.
+[08:39] Brittany: How's LD-49593 looking?
+[08:41] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[08:58] Brittany: Where are you at right now?
+[09:00] Andrew Johnson: About 277 miles out from Las Vegas, NV now.
+[09:21] Brittany: How's LD-49593 looking?
+[09:23] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[09:58] Brittany: Where are you at right now?
+[10:00] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[10:56] Brittany: Where are you at right now?
+[10:58] Andrew Johnson: About 356 miles out from Las Vegas, NV now.
+[11:47] Brittany: Still on schedule?
+[11:49] Andrew Johnson: Just passed Fresno, CA, everything's fine.
+[12:38] Brittany: Where are you at right now?
+[12:40] Andrew Johnson: Just crossed the state line, all good.
+[13:04] Brittany: Where are you at right now?
+[13:06] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[13:21] Brittany: Any updates on your progress?
+[13:23] Andrew Johnson: About 473 miles out from Las Vegas, NV now.
+[14:16] Brittany: Where are you at right now?
+[14:18] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:07] Brittany: Where are you at right now?
+[15:09] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:29] Brittany: Where are you at right now?
+[15:31] Andrew Johnson: Just passed Las Vegas, NV, everything's fine.
+[16:26] Brittany: Still on schedule?
+[16:28] Andrew Johnson: About 349 miles out from Las Vegas, NV now.
+[17:27] Brittany: How's LD-49593 looking?
+[17:29] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[18:49] Andrew Johnson: Just delivered LD-49593 at Las Vegas, NV, all good, no damages.
+[18:51] Brittany: Do you have the signed BOL?
+[18:53] Andrew Johnson: Yep, taking a picture now.
+[18:54] Andrew Johnson: [Image attached: signed_bol.jpg]
+[18:56] Brittany: Sending you the next load details shortly.
+[18:58] Andrew Johnson: Understood.
+[19:00] Brittany: Thanks for the update, drive safe.

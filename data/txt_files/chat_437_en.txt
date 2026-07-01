@@ -1,0 +1,129 @@
+Chat Log #437
+Company: Silk Road Logistics
+Language: English
+Driver: Daniel Moore | Truck: #605 (flatbed)
+Operator: Nicole
+Load: LD-17028 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-01-21
+--------------------------------------------------
+[11:38] Nicole: Daniel, got a minute?
+[11:39] Daniel Moore: Hey, yeah I'm here.
+[11:41] Nicole: Got a load for you - LD-17028, flatbed, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[11:43] Daniel Moore: Ok, what's the pickup window?
+[11:45] Nicole: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[11:47] Daniel Moore: What's the rate on this one?
+[11:49] Nicole: $2069 all in, 812 miles.
+[11:51] Daniel Moore: Sounds good, I'll take it.
+[11:53] Nicole: Great, sending the rate confirmation now.
+[11:56] Daniel Moore: Got it, signed and sent back.
+[12:54] Nicole: What's your status?
+[12:56] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[12:58] Nicole: What's your ETA?
+[13:00] Daniel Moore: Should be there around noon.
+[13:31] Nicole: Still on schedule?
+[13:33] Daniel Moore: Just topped off the tank.
+[13:36] Nicole: Appreciate you keeping me posted.
+[13:38] Daniel Moore: Will do, thanks for checking in.
+[14:10] Nicole: Any updates on your progress?
+[14:12] Daniel Moore: Weather's getting rough up ahead, heads up.
+[14:15] Nicole: Let me know if you need anything.
+[14:17] Daniel Moore: Will do, thanks for checking in.
+[14:49] Nicole: Still on schedule?
+[14:51] Daniel Moore: Stopped for a quick break, back on the road in a few.
+[14:54] Nicole: How are you holding up out there?
+[14:56] Daniel Moore: Doing alright, just tired.
+[15:41] Nicole: Still on schedule?
+[15:43] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[15:46] Nicole: Long trip, huh? Get some rest when you can.
+[15:48] Daniel Moore: Yeah, long one, but manageable.
+[16:28] Nicole: How's LD-17028 looking?
+[16:30] Daniel Moore: Accident up ahead, traffic's backed up.
+[17:41] Nicole: Where are you at right now?
+[17:43] Daniel Moore: Clear skies here, no problems.
+[19:12] Nicole: What's your status?
+[19:14] Daniel Moore: Just topped off the tank.
+[19:55] Nicole: Still on schedule?
+[19:57] Daniel Moore: Making good time, no issues so far.
+[20:35] Nicole: How's LD-17028 looking?
+[20:37] Daniel Moore: Accident up ahead, traffic's backed up.
+[20:40] Nicole: Long trip, huh? Get some rest when you can.
+[20:42] Daniel Moore: Doing alright, just tired.
+[20:44] Nicole: What's your ETA?
+[20:46] Daniel Moore: Probably 3pm, maybe a bit earlier.
+[21:22] Nicole: What's your status?
+[21:24] Daniel Moore: Yeah, long one, but manageable.
+[21:27] Nicole: Let me know if you need anything.
+[21:29] Daniel Moore: Yeah, long one, but manageable.
+[21:31] Nicole: What's your ETA?
+[21:33] Daniel Moore: Should be there around 5pm.
+[22:20] Nicole: Where are you at right now?
+[22:22] Daniel Moore: Doing alright, just tired.
+[22:57] Nicole: Where are you at right now?
+[22:59] Daniel Moore: Clear skies here, no problems.
+[23:51] Nicole: Where are you at right now?
+[23:53] Daniel Moore: Stopping for fuel in a bit.
+[23:56] Nicole: Let me know if you need anything.
+[23:58] Daniel Moore: Yeah, long one, but manageable.
+[01:14] Nicole: How's LD-17028 looking?
+[01:16] Daniel Moore: Will do, thanks for checking in.
+[01:19] Nicole: Let me know if you need anything.
+[01:21] Daniel Moore: No problem, just doing my job.
+[02:22] Nicole: Still on schedule?
+[02:24] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[02:27] Nicole: Long trip, huh? Get some rest when you can.
+[02:29] Daniel Moore: Will do, thanks for checking in.
+[02:54] Nicole: Still on schedule?
+[02:56] Daniel Moore: Rain is picking up here, slowing down a bit.
+[02:59] Nicole: How are you holding up out there?
+[03:01] Daniel Moore: Doing alright, just tired.
+[03:03] Nicole: What's your ETA?
+[03:05] Daniel Moore: Probably 3pm, maybe a bit earlier.
+[04:19] Nicole: Still on schedule?
+[04:21] Daniel Moore: No problem, just doing my job.
+[04:38] Nicole: What's your status?
+[04:40] Daniel Moore: Rain is picking up here, slowing down a bit.
+[04:43] Nicole: How are you holding up out there?
+[04:45] Daniel Moore: Yeah, long one, but manageable.
+[05:02] Nicole: Where are you at right now?
+[05:04] Daniel Moore: Just passed Phoenix, AZ, everything's fine.
+[05:06] Nicole: What's your ETA?
+[05:08] Daniel Moore: Looking at 5pm if traffic stays clear.
+[05:19] Daniel Moore: I've got a problem, a DOT inspection on LD-17028. Pulled over on the shoulder.
+[05:20] Nicole: Are you safe? Anyone hurt?
+[05:22] Daniel Moore: Yeah I'm fine, just need roadside assistance.
+[05:24] Nicole: Mile marker 226 on I-80.
+[05:29] Nicole: Truck is on the way, ETA about 45 min.
+[06:26] Daniel Moore: Fixed and rolling again.
+[07:16] Nicole: Still on schedule?
+[07:18] Daniel Moore: Stopped for a quick break, back on the road in a few.
+[08:06] Nicole: Where are you at right now?
+[08:08] Daniel Moore: About 548 miles out from Phoenix, AZ now.
+[09:02] Nicole: Any updates on your progress?
+[09:04] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[09:37] Nicole: How's LD-17028 looking?
+[09:39] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[10:31] Nicole: Where are you at right now?
+[10:33] Daniel Moore: Making good time, no issues so far.
+[11:09] Nicole: Any updates on your progress?
+[11:11] Daniel Moore: Stopped for a quick break, back on the road in a few.
+[11:49] Nicole: How's LD-17028 looking?
+[11:51] Daniel Moore: Making good time, no issues so far.
+[12:20] Nicole: What's your status?
+[12:22] Daniel Moore: Just crossed the state line, all good.
+[13:03] Nicole: What's your status?
+[13:05] Daniel Moore: Traffic's a bit heavy but I'm still on schedule.
+[14:02] Nicole: What's your status?
+[14:04] Daniel Moore: Just crossed the state line, all good.
+[14:40] Nicole: Where are you at right now?
+[14:42] Daniel Moore: Making good time, no issues so far.
+[15:19] Nicole: Still on schedule?
+[15:21] Daniel Moore: Stopped for a quick break, back on the road in a few.
+[15:54] Nicole: Still on schedule?
+[15:56] Daniel Moore: Just crossed the state line, all good.
+[16:58] Daniel Moore: Just delivered LD-17028 at Phoenix, AZ, all good, no damages.
+[17:00] Nicole: Do you have the signed BOL?
+[17:02] Daniel Moore: Yep, taking a picture now.
+[17:03] Daniel Moore: [Image attached: signed_bol.jpg]
+[17:05] Nicole: Sending you the next load details shortly.
+[17:07] Daniel Moore: Understood.
+[17:09] Nicole: Great work, thank you.

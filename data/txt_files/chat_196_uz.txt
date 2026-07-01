@@ -1,0 +1,143 @@
+Chat Log #196
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ulugbek Nazarov | Truck: #918 (tentli furgon)
+Operator: Malika
+Load: LD-84889 | Route: Buxoro -> Navoiy
+Date: 2026-01-01
+--------------------------------------------------
+[17:39] Malika: Salom, Ulugbek, ishlar qalay?
+[17:40] Ulugbek Nazarov: Xayrli tong, menda hammasi yaxshi.
+[17:42] Malika: Siz uchun yuk bor - LD-84889, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[17:44] Ulugbek Nazarov: Tushunarli, yuklash vaqti qachon?
+[17:46] Malika: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[17:48] Ulugbek Nazarov: Bu reys uchun narx qancha?
+[17:50] Malika: 3077 ming so'm, 715 km.
+[17:52] Ulugbek Nazarov: Yaxshi, bu reysni olaman.
+[17:54] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:57] Ulugbek Nazarov: Oldim, imzolab qaytarib yubordim.
+[18:42] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:44] Ulugbek Nazarov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[18:47] Malika: O'zingizni qalay his qilyapsiz?
+[18:49] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[20:02] Malika: Hozir qayerdasiz?
+[20:04] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:06] Malika: Taxminan qachon yetib borasiz?
+[20:08] Ulugbek Nazarov: Taxminan 3pmda yetib boraman.
+[20:52] Malika: LD-84889 bilan ishlar qalay?
+[20:54] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:57] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:59] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[21:01] Malika: Taxminan qachon yetib borasiz?
+[21:03] Ulugbek Nazarov: Taxminan 7pmda yetib boraman.
+[21:43] Malika: LD-84889 bilan ishlar qalay?
+[21:45] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:58] Malika: Holatingiz qanday?
+[23:00] Ulugbek Nazarov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:03] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:05] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:37] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[23:39] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:42] Malika: O'zingizni qalay his qilyapsiz?
+[23:44] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[00:44] Malika: LD-84889 bilan ishlar qalay?
+[00:46] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:49] Malika: O'zingizni qalay his qilyapsiz?
+[00:51] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[02:15] Malika: LD-84889 bilan ishlar qalay?
+[02:17] Ulugbek Nazarov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[02:35] Malika: Hozir qayerdasiz?
+[02:37] Ulugbek Nazarov: Osmon ochiq, muammo yo'q.
+[03:49] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:51] Ulugbek Nazarov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[05:05] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:07] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:10] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[05:12] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[05:14] Malika: Taxminan qachon yetib borasiz?
+[05:16] Ulugbek Nazarov: Taxminan 7pmda yetib boraman.
+[06:27] Malika: Hozir qayerdasiz?
+[06:29] Ulugbek Nazarov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[06:32] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[06:34] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[06:59] Malika: Yo'lda yangilik bormi?
+[07:01] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:04] Malika: Biror narsa kerak bo'lsa ayting.
+[07:06] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[08:26] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[08:28] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[08:53] Malika: LD-84889 bilan ishlar qalay?
+[08:55] Ulugbek Nazarov: Bu yerda yoqilg'i narxlari yomon emas.
+[08:57] Malika: Taxminan qachon yetib borasiz?
+[08:59] Ulugbek Nazarov: Taxminan 7pmda yetib boraman.
+[09:48] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:50] Ulugbek Nazarov: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[09:53] Malika: O'zingizni qalay his qilyapsiz?
+[09:55] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[10:17] Ulugbek Nazarov: Haydash vaqtim limitiga yaqinlashyapman, atigi 30 minutes qoldi.
+[10:19] Malika: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[11:16] Malika: Yo'lda yangilik bormi?
+[11:18] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:06] Malika: Yo'lda yangilik bormi?
+[12:08] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:01] Malika: Holatingiz qanday?
+[13:03] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:49] Malika: Hozir qayerdasiz?
+[13:51] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:47] Malika: Hozir qayerdasiz?
+[14:49] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:13] Malika: Holatingiz qanday?
+[15:15] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[15:36] Malika: LD-84889 bilan ishlar qalay?
+[15:38] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:09] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[16:11] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:58] Malika: Holatingiz qanday?
+[17:00] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:46] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:48] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:17] Malika: LD-84889 bilan ishlar qalay?
+[18:19] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[19:03] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:05] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:44] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:46] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[20:24] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:26] Ulugbek Nazarov: Navoiygacha taxminan 220 km qoldi.
+[21:00] Malika: LD-84889 bilan ishlar qalay?
+[21:02] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:49] Malika: Hozir qayerdasiz?
+[21:51] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:30] Malika: Holatingiz qanday?
+[22:32] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:18] Malika: Holatingiz qanday?
+[23:20] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:36] Malika: Holatingiz qanday?
+[23:38] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:06] Malika: Hozir qayerdasiz?
+[00:08] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:27] Malika: Hozir qayerdasiz?
+[00:29] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:45] Malika: Yo'lda yangilik bormi?
+[00:47] Ulugbek Nazarov: Navoiygacha taxminan 289 km qoldi.
+[01:25] Malika: Yo'lda yangilik bormi?
+[01:27] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[01:54] Malika: Hozir qayerdasiz?
+[01:56] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[02:19] Malika: Hozir qayerdasiz?
+[02:21] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:05] Malika: LD-84889 bilan ishlar qalay?
+[03:07] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:33] Malika: Yo'lda yangilik bormi?
+[03:35] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:33] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[04:35] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:25] Malika: Yo'lda yangilik bormi?
+[05:27] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:32] Ulugbek Nazarov: LD-84889 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:34] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[06:36] Ulugbek Nazarov: Ha, hozir rasmga olaman.
+[06:37] Ulugbek Nazarov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:39] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:41] Ulugbek Nazarov: Yaxshi.
+[06:43] Malika: Ajoyib ish, rahmat.

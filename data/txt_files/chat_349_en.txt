@@ -1,0 +1,131 @@
+Chat Log #349
+Company: Silk Road Logistics
+Language: English
+Driver: Brian White | Truck: #523 (flatbed)
+Operator: Emily
+Load: LD-12135 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-06-04
+--------------------------------------------------
+[08:05] Emily: Morning Brian, you there?
+[08:06] Brian White: Morning, all good on my end.
+[08:08] Emily: Got a load for you - LD-12135, flatbed, pickup in Houston, TX, delivery to New Orleans, LA.
+[08:10] Brian White: Ok, what's the pickup window?
+[08:12] Emily: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[08:14] Brian White: What's the rate on this one?
+[08:16] Emily: $4085 all in, 738 miles.
+[08:18] Brian White: Sounds good, I'll take it.
+[08:20] Emily: Great, sending the rate confirmation now.
+[08:23] Brian White: Got it, signed and sent back.
+[09:33] Emily: Where are you at right now?
+[09:35] Brian White: Yeah, long one, but manageable.
+[10:28] Emily: What's your status?
+[10:30] Brian White: Doing alright, just tired.
+[11:07] Emily: How's LD-12135 looking?
+[11:09] Brian White: Hit some traffic near Houston, TX, adding maybe 20 minutes.
+[11:12] Emily: Long trip, huh? Get some rest when you can.
+[11:14] Brian White: No problem, just doing my job.
+[11:59] Emily: Still on schedule?
+[12:01] Brian White: Clear skies here, no problems.
+[12:43] Emily: What's your status?
+[12:45] Brian White: Accident up ahead, traffic's backed up.
+[13:31] Emily: Still on schedule?
+[13:33] Brian White: Making good time, no issues so far.
+[13:36] Emily: Let me know if you need anything.
+[13:38] Brian White: Yeah, long one, but manageable.
+[14:20] Emily: How's LD-12135 looking?
+[14:22] Brian White: Roads are wet, taking it easy.
+[15:11] Emily: Any updates on your progress?
+[15:13] Brian White: Roads are wet, taking it easy.
+[15:15] Emily: What's your ETA?
+[15:17] Brian White: Probably noon, maybe a bit earlier.
+[16:26] Emily: Any updates on your progress?
+[16:28] Brian White: Hit some traffic near Houston, TX, adding maybe 20 minutes.
+[16:31] Emily: How are you holding up out there?
+[16:33] Brian White: No problem, just doing my job.
+[17:42] Emily: How's LD-12135 looking?
+[17:44] Brian White: Making good time, no issues so far.
+[18:56] Emily: Where are you at right now?
+[18:58] Brian White: Yeah, long one, but manageable.
+[19:38] Emily: What's your status?
+[19:40] Brian White: No problem, just doing my job.
+[20:03] Emily: Any updates on your progress?
+[20:05] Brian White: Hit some traffic near New Orleans, LA, adding maybe 20 minutes.
+[21:08] Emily: What's your status?
+[21:10] Brian White: Doing alright, just tired.
+[21:13] Emily: Appreciate you keeping me posted.
+[21:15] Brian White: Doing alright, just tired.
+[21:17] Emily: What's your ETA?
+[21:19] Brian White: Looking at 5pm if traffic stays clear.
+[22:14] Emily: Still on schedule?
+[22:16] Brian White: Stopped for a quick break, back on the road in a few.
+[23:16] Emily: What's your status?
+[23:18] Brian White: Roads are clear now, moving well.
+[00:13] Emily: What's your status?
+[00:15] Brian White: Roads are clear now, moving well.
+[00:18] Emily: Appreciate you keeping me posted.
+[00:20] Brian White: Doing alright, just tired.
+[01:08] Emily: Still on schedule?
+[01:10] Brian White: Just passed Houston, TX, everything's fine.
+[01:40] Brian White: Coming up on my HOS limit, only got about 30 minutes left.
+[01:42] Emily: Understood, get your rest, I'll let the receiver know.
+[02:00] Emily: Still on schedule?
+[02:02] Brian White: Just passed Houston, TX, everything's fine.
+[02:29] Emily: How's LD-12135 looking?
+[02:31] Brian White: Making good time, no issues so far.
+[03:08] Emily: Still on schedule?
+[03:10] Brian White: Just passed Houston, TX, everything's fine.
+[04:08] Emily: Still on schedule?
+[04:10] Brian White: Just passed New Orleans, LA, everything's fine.
+[04:54] Emily: Any updates on your progress?
+[04:56] Brian White: Just crossed the state line, all good.
+[05:34] Emily: Still on schedule?
+[05:36] Brian White: Traffic's a bit heavy but I'm still on schedule.
+[06:14] Emily: Where are you at right now?
+[06:16] Brian White: Making good time, no issues so far.
+[06:43] Emily: Any updates on your progress?
+[06:45] Brian White: Making good time, no issues so far.
+[07:08] Emily: Where are you at right now?
+[07:10] Brian White: Making good time, no issues so far.
+[07:57] Emily: Where are you at right now?
+[07:59] Brian White: Stopped for a quick break, back on the road in a few.
+[08:36] Emily: Any updates on your progress?
+[08:38] Brian White: Just crossed the state line, all good.
+[09:22] Emily: What's your status?
+[09:24] Brian White: Just passed New Orleans, LA, everything's fine.
+[09:58] Emily: What's your status?
+[10:00] Brian White: Stopped for a quick break, back on the road in a few.
+[10:34] Emily: What's your status?
+[10:36] Brian White: Traffic's a bit heavy but I'm still on schedule.
+[11:20] Emily: Any updates on your progress?
+[11:22] Brian White: Making good time, no issues so far.
+[12:09] Emily: Any updates on your progress?
+[12:11] Brian White: About 519 miles out from New Orleans, LA now.
+[12:46] Emily: Still on schedule?
+[12:48] Brian White: Just passed New Orleans, LA, everything's fine.
+[13:08] Emily: How's LD-12135 looking?
+[13:10] Brian White: Just passed New Orleans, LA, everything's fine.
+[13:52] Emily: What's your status?
+[13:54] Brian White: About 366 miles out from New Orleans, LA now.
+[14:42] Emily: What's your status?
+[14:44] Brian White: Making good time, no issues so far.
+[15:20] Emily: Any updates on your progress?
+[15:22] Brian White: Just passed Houston, TX, everything's fine.
+[16:11] Emily: Still on schedule?
+[16:13] Brian White: Just passed Houston, TX, everything's fine.
+[17:13] Emily: What's your status?
+[17:15] Brian White: About 43 miles out from New Orleans, LA now.
+[17:51] Emily: Where are you at right now?
+[17:53] Brian White: Making good time, no issues so far.
+[18:09] Emily: Where are you at right now?
+[18:11] Brian White: Traffic's a bit heavy but I'm still on schedule.
+[18:39] Emily: How's LD-12135 looking?
+[18:41] Brian White: Just crossed the state line, all good.
+[19:11] Emily: Where are you at right now?
+[19:13] Brian White: Traffic's a bit heavy but I'm still on schedule.
+[20:17] Brian White: Just delivered LD-12135 at New Orleans, LA, all good, no damages.
+[20:19] Emily: Do you have the signed BOL?
+[20:21] Brian White: Yep, taking a picture now.
+[20:22] Brian White: [Image attached: signed_bol.jpg]
+[20:24] Emily: Sending you the next load details shortly.
+[20:26] Brian White: Sounds good.
+[20:28] Emily: Appreciate it, talk soon.

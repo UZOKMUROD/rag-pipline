@@ -1,0 +1,128 @@
+Chat Log #268
+Company: Silk Road Logistics
+Language: English
+Driver: Anthony Clark | Truck: #366 (step deck)
+Operator: Amanda
+Load: LD-80949 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-03-02
+--------------------------------------------------
+[11:24] Amanda: Morning Anthony, you there?
+[11:25] Anthony Clark: Hey, yeah I'm here.
+[11:27] Amanda: Got a load for you - LD-80949, step deck, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[11:29] Anthony Clark: Ok, what's the pickup window?
+[11:31] Amanda: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[11:33] Anthony Clark: What's the rate on this one?
+[11:35] Amanda: $1925 all in, 931 miles.
+[11:37] Anthony Clark: Sounds good, I'll take it.
+[11:39] Amanda: Great, sending the rate confirmation now.
+[11:42] Anthony Clark: Got it, signed and sent back.
+[12:25] Amanda: How's LD-80949 looking?
+[12:27] Anthony Clark: Rain is picking up here, slowing down a bit.
+[12:29] Amanda: What's your ETA?
+[12:31] Anthony Clark: Looking at 7pm if traffic stays clear.
+[13:21] Amanda: Where are you at right now?
+[13:23] Anthony Clark: Roads are wet, taking it easy.
+[14:30] Amanda: Any updates on your progress?
+[14:32] Anthony Clark: Fuel prices are decent around here.
+[14:35] Amanda: Long trip, huh? Get some rest when you can.
+[14:37] Anthony Clark: No problem, just doing my job.
+[15:09] Amanda: How's LD-80949 looking?
+[15:11] Anthony Clark: Stopping for fuel in a bit.
+[15:14] Amanda: Appreciate you keeping me posted.
+[15:16] Anthony Clark: Will do, thanks for checking in.
+[16:16] Amanda: Still on schedule?
+[16:18] Anthony Clark: Roads are clear now, moving well.
+[16:21] Amanda: Let me know if you need anything.
+[16:23] Anthony Clark: Doing alright, just tired.
+[17:44] Amanda: Where are you at right now?
+[17:46] Anthony Clark: Clear skies here, no problems.
+[18:22] Amanda: What's your status?
+[18:24] Anthony Clark: Just topped off the tank.
+[18:26] Amanda: What's your ETA?
+[18:28] Anthony Clark: Should be there around 7pm.
+[18:49] Amanda: Still on schedule?
+[18:51] Anthony Clark: Just passed Jacksonville, FL, everything's fine.
+[18:54] Amanda: Long trip, huh? Get some rest when you can.
+[18:56] Anthony Clark: Yeah, long one, but manageable.
+[19:12] Amanda: Any updates on your progress?
+[19:14] Anthony Clark: Traffic's a bit heavy but I'm still on schedule.
+[19:17] Amanda: Long trip, huh? Get some rest when you can.
+[19:19] Anthony Clark: Doing alright, just tired.
+[20:46] Amanda: Still on schedule?
+[20:48] Anthony Clark: About 432 miles out from Tampa, FL now.
+[22:16] Amanda: How's LD-80949 looking?
+[22:18] Anthony Clark: Making good time, no issues so far.
+[23:20] Amanda: Still on schedule?
+[23:22] Anthony Clark: Doing alright, just tired.
+[23:25] Amanda: Appreciate you keeping me posted.
+[23:27] Anthony Clark: No problem, just doing my job.
+[00:18] Amanda: Still on schedule?
+[00:20] Anthony Clark: Just crossed the state line, all good.
+[00:44] Amanda: Any updates on your progress?
+[00:46] Anthony Clark: Hit some traffic near Jacksonville, FL, adding maybe 20 minutes.
+[00:48] Amanda: What's your ETA?
+[00:50] Anthony Clark: Probably noon, maybe a bit earlier.
+[02:07] Amanda: How's LD-80949 looking?
+[02:09] Anthony Clark: No problem, just doing my job.
+[02:12] Amanda: How are you holding up out there?
+[02:14] Anthony Clark: Will do, thanks for checking in.
+[02:16] Amanda: What's your ETA?
+[02:18] Anthony Clark: Should be there around 7pm.
+[02:34] Anthony Clark: Still sitting at the warehouse dock, been here almost 4 hours already.
+[02:36] Amanda: Let me call them and see what's going on.
+[02:46] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[02:48] Anthony Clark: Make sure detention pay gets logged for this.
+[02:50] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[03:17] Amanda: What's your status?
+[03:19] Anthony Clark: Stopped for a quick break, back on the road in a few.
+[04:09] Amanda: Still on schedule?
+[04:11] Anthony Clark: Just crossed the state line, all good.
+[05:11] Amanda: Still on schedule?
+[05:13] Anthony Clark: Stopped for a quick break, back on the road in a few.
+[05:47] Amanda: Any updates on your progress?
+[05:49] Anthony Clark: Just crossed the state line, all good.
+[06:12] Amanda: What's your status?
+[06:14] Anthony Clark: Just passed Jacksonville, FL, everything's fine.
+[07:05] Amanda: How's LD-80949 looking?
+[07:07] Anthony Clark: Stopped for a quick break, back on the road in a few.
+[08:06] Amanda: Where are you at right now?
+[08:08] Anthony Clark: Traffic's a bit heavy but I'm still on schedule.
+[08:25] Amanda: Still on schedule?
+[08:27] Anthony Clark: Just passed Jacksonville, FL, everything's fine.
+[08:48] Amanda: What's your status?
+[08:50] Anthony Clark: Just crossed the state line, all good.
+[09:26] Amanda: Any updates on your progress?
+[09:28] Anthony Clark: About 127 miles out from Tampa, FL now.
+[09:57] Amanda: How's LD-80949 looking?
+[09:59] Anthony Clark: Just crossed the state line, all good.
+[10:44] Amanda: What's your status?
+[10:46] Anthony Clark: Making good time, no issues so far.
+[11:13] Amanda: Where are you at right now?
+[11:15] Anthony Clark: About 367 miles out from Tampa, FL now.
+[11:39] Amanda: How's LD-80949 looking?
+[11:41] Anthony Clark: Traffic's a bit heavy but I'm still on schedule.
+[12:31] Amanda: Where are you at right now?
+[12:33] Anthony Clark: About 590 miles out from Tampa, FL now.
+[13:13] Amanda: What's your status?
+[13:15] Anthony Clark: Just passed Jacksonville, FL, everything's fine.
+[14:07] Amanda: Where are you at right now?
+[14:09] Anthony Clark: About 438 miles out from Tampa, FL now.
+[14:44] Amanda: Where are you at right now?
+[14:46] Anthony Clark: Stopped for a quick break, back on the road in a few.
+[15:08] Amanda: Any updates on your progress?
+[15:10] Anthony Clark: Just passed Jacksonville, FL, everything's fine.
+[15:42] Amanda: How's LD-80949 looking?
+[15:44] Anthony Clark: Traffic's a bit heavy but I'm still on schedule.
+[16:33] Amanda: Where are you at right now?
+[16:35] Anthony Clark: Just passed Tampa, FL, everything's fine.
+[17:25] Amanda: Any updates on your progress?
+[17:27] Anthony Clark: About 42 miles out from Tampa, FL now.
+[18:16] Amanda: Where are you at right now?
+[18:18] Anthony Clark: About 313 miles out from Tampa, FL now.
+[18:50] Anthony Clark: Just delivered LD-80949 at Tampa, FL, all good, no damages.
+[18:52] Amanda: Do you have the signed BOL?
+[18:54] Anthony Clark: Yep, taking a picture now.
+[18:55] Anthony Clark: [Image attached: signed_bol.jpg]
+[18:57] Amanda: Sending you the next load details shortly.
+[18:59] Anthony Clark: Will do.
+[19:01] Amanda: Great work, thank you.

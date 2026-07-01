@@ -1,0 +1,131 @@
+Chat Log #374
+Company: Silk Road Logistics
+Language: English
+Driver: James Williams | Truck: #346 (step deck)
+Operator: Jessica
+Load: LD-67073 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-02-03
+--------------------------------------------------
+[17:22] Jessica: Morning James, you there?
+[17:23] James Williams: Morning, all good on my end.
+[17:25] Jessica: Got a load for you - LD-67073, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[17:27] James Williams: Ok, what's the pickup window?
+[17:29] Jessica: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[17:31] James Williams: What's the rate on this one?
+[17:33] Jessica: $3131 all in, 483 miles.
+[17:35] James Williams: Sounds good, I'll take it.
+[17:37] Jessica: Great, sending the rate confirmation now.
+[17:40] James Williams: Got it, signed and sent back.
+[18:35] Jessica: Still on schedule?
+[18:37] James Williams: Making good time, no issues so far.
+[18:40] Jessica: Long trip, huh? Get some rest when you can.
+[18:42] James Williams: Will do, thanks for checking in.
+[19:52] Jessica: Where are you at right now?
+[19:54] James Williams: Accident up ahead, traffic's backed up.
+[19:57] Jessica: How are you holding up out there?
+[19:59] James Williams: No problem, just doing my job.
+[20:33] Jessica: What's your status?
+[20:35] James Williams: Construction zone slowing everyone down.
+[21:06] Jessica: Any updates on your progress?
+[21:08] James Williams: Roads are clear now, moving well.
+[21:10] Jessica: What's your ETA?
+[21:12] James Williams: Should be there around 5pm.
+[21:40] Jessica: Any updates on your progress?
+[21:42] James Williams: Roads are clear now, moving well.
+[22:48] Jessica: What's your status?
+[22:50] James Williams: No problem, just doing my job.
+[23:35] Jessica: Any updates on your progress?
+[23:37] James Williams: Roads are clear now, moving well.
+[00:06] Jessica: Still on schedule?
+[00:08] James Williams: Accident up ahead, traffic's backed up.
+[00:11] Jessica: How are you holding up out there?
+[00:13] James Williams: No problem, just doing my job.
+[01:24] Jessica: What's your status?
+[01:26] James Williams: Just passed Birmingham, AL, everything's fine.
+[01:29] Jessica: Let me know if you need anything.
+[01:31] James Williams: Doing alright, just tired.
+[01:33] Jessica: What's your ETA?
+[01:35] James Williams: Should be there around 10am.
+[02:51] Jessica: What's your status?
+[02:53] James Williams: About 200 miles out from Birmingham, AL now.
+[03:19] Jessica: Where are you at right now?
+[03:21] James Williams: Just passed Birmingham, AL, everything's fine.
+[03:24] Jessica: How are you holding up out there?
+[03:26] James Williams: Yeah, long one, but manageable.
+[03:44] Jessica: How's LD-67073 looking?
+[03:46] James Williams: Just passed Nashville, TN, everything's fine.
+[03:48] Jessica: What's your ETA?
+[03:50] James Williams: Looking at 3pm if traffic stays clear.
+[04:20] Jessica: Any updates on your progress?
+[04:22] James Williams: Just passed Nashville, TN, everything's fine.
+[05:43] Jessica: How's LD-67073 looking?
+[05:45] James Williams: Weather's getting rough up ahead, heads up.
+[05:48] Jessica: Appreciate you keeping me posted.
+[05:50] James Williams: No problem, just doing my job.
+[05:52] Jessica: What's your ETA?
+[05:54] James Williams: Should be there around noon.
+[06:19] Jessica: What's your status?
+[06:21] James Williams: Making good time, no issues so far.
+[07:25] Jessica: Still on schedule?
+[07:27] James Williams: Just crossed the state line, all good.
+[08:15] Jessica: Any updates on your progress?
+[08:17] James Williams: Doing alright, just tired.
+[08:20] Jessica: Appreciate you keeping me posted.
+[08:22] James Williams: No problem, just doing my job.
+[08:24] Jessica: What's your ETA?
+[08:26] James Williams: Probably noon, maybe a bit earlier.
+[08:41] James Williams: Coming up on my HOS limit, only got about 45 minutes left.
+[08:43] Jessica: Understood, get your rest, I'll let the receiver know.
+[09:40] Jessica: How's LD-67073 looking?
+[09:42] James Williams: Just passed Nashville, TN, everything's fine.
+[10:33] Jessica: Still on schedule?
+[10:35] James Williams: Stopped for a quick break, back on the road in a few.
+[10:54] Jessica: Where are you at right now?
+[10:56] James Williams: Stopped for a quick break, back on the road in a few.
+[11:36] Jessica: Where are you at right now?
+[11:38] James Williams: Making good time, no issues so far.
+[12:10] Jessica: Any updates on your progress?
+[12:12] James Williams: About 390 miles out from Birmingham, AL now.
+[12:27] Jessica: How's LD-67073 looking?
+[12:29] James Williams: Stopped for a quick break, back on the road in a few.
+[12:54] Jessica: Any updates on your progress?
+[12:56] James Williams: Just crossed the state line, all good.
+[13:35] Jessica: How's LD-67073 looking?
+[13:37] James Williams: Just crossed the state line, all good.
+[14:09] Jessica: Where are you at right now?
+[14:11] James Williams: Stopped for a quick break, back on the road in a few.
+[15:11] Jessica: Still on schedule?
+[15:13] James Williams: Just crossed the state line, all good.
+[15:49] Jessica: Where are you at right now?
+[15:51] James Williams: Just passed Birmingham, AL, everything's fine.
+[16:09] Jessica: What's your status?
+[16:11] James Williams: About 506 miles out from Birmingham, AL now.
+[16:53] Jessica: How's LD-67073 looking?
+[16:55] James Williams: Just crossed the state line, all good.
+[17:50] Jessica: Still on schedule?
+[17:52] James Williams: Just passed Birmingham, AL, everything's fine.
+[18:17] Jessica: Still on schedule?
+[18:19] James Williams: Just crossed the state line, all good.
+[18:49] Jessica: Where are you at right now?
+[18:51] James Williams: Just crossed the state line, all good.
+[19:06] Jessica: How's LD-67073 looking?
+[19:08] James Williams: Traffic's a bit heavy but I'm still on schedule.
+[19:24] Jessica: Any updates on your progress?
+[19:26] James Williams: About 158 miles out from Birmingham, AL now.
+[20:25] Jessica: Still on schedule?
+[20:27] James Williams: About 581 miles out from Birmingham, AL now.
+[21:11] Jessica: Where are you at right now?
+[21:13] James Williams: Just crossed the state line, all good.
+[21:30] Jessica: How's LD-67073 looking?
+[21:32] James Williams: Stopped for a quick break, back on the road in a few.
+[22:09] Jessica: Still on schedule?
+[22:11] James Williams: Just passed Birmingham, AL, everything's fine.
+[22:39] Jessica: What's your status?
+[22:41] James Williams: Just passed Nashville, TN, everything's fine.
+[23:32] James Williams: Just delivered LD-67073 at Birmingham, AL, all good, no damages.
+[23:34] Jessica: Do you have the signed BOL?
+[23:36] James Williams: Yep, taking a picture now.
+[23:37] James Williams: [Image attached: signed_bol.jpg]
+[23:39] Jessica: Sending you the next load details shortly.
+[23:41] James Williams: Sounds good.
+[23:43] Jessica: Thanks for the update, drive safe.

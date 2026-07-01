@@ -1,0 +1,129 @@
+Chat Log #183
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Rodriguez | Truck: #339 (flatbed)
+Operator: Jessica
+Load: LD-98614 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-03-03
+--------------------------------------------------
+[12:31] Jessica: Morning Andre, you there?
+[12:32] Andre Rodriguez: Yeah, go ahead.
+[12:34] Jessica: Got a load for you - LD-98614, flatbed, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[12:36] Andre Rodriguez: Ok, what's the pickup window?
+[12:38] Jessica: Pickup is 13:00-15:00, delivery appointment is 09:00 the next day.
+[12:40] Andre Rodriguez: What's the rate on this one?
+[12:42] Jessica: $2175 all in, 865 miles.
+[12:44] Andre Rodriguez: Sounds good, I'll take it.
+[12:46] Jessica: Great, sending the rate confirmation now.
+[12:49] Andre Rodriguez: Got it, signed and sent back.
+[13:26] Jessica: Any updates on your progress?
+[13:28] Andre Rodriguez: Just topped off the tank.
+[14:05] Jessica: Where are you at right now?
+[14:07] Andre Rodriguez: Construction zone slowing everyone down.
+[15:31] Jessica: Where are you at right now?
+[15:33] Andre Rodriguez: Hit some traffic near Fresno, CA, adding maybe 20 minutes.
+[15:35] Jessica: What's your ETA?
+[15:37] Andre Rodriguez: Probably 5pm, maybe a bit earlier.
+[16:02] Jessica: How's LD-98614 looking?
+[16:04] Andre Rodriguez: Yeah, long one, but manageable.
+[16:07] Jessica: Long trip, huh? Get some rest when you can.
+[16:09] Andre Rodriguez: Yeah, long one, but manageable.
+[16:27] Jessica: Any updates on your progress?
+[16:29] Andre Rodriguez: No problem, just doing my job.
+[17:17] Jessica: How's LD-98614 looking?
+[17:19] Andre Rodriguez: Just passed Las Vegas, NV, everything's fine.
+[18:25] Jessica: What's your status?
+[18:27] Andre Rodriguez: Construction zone slowing everyone down.
+[19:38] Jessica: How's LD-98614 looking?
+[19:40] Andre Rodriguez: Just topped off the tank.
+[20:44] Jessica: How's LD-98614 looking?
+[20:46] Andre Rodriguez: Stopping for fuel in a bit.
+[20:49] Jessica: How are you holding up out there?
+[20:51] Andre Rodriguez: Doing alright, just tired.
+[22:08] Jessica: Still on schedule?
+[22:10] Andre Rodriguez: Clear skies here, no problems.
+[22:13] Jessica: Appreciate you keeping me posted.
+[22:15] Andre Rodriguez: Will do, thanks for checking in.
+[22:33] Jessica: Where are you at right now?
+[22:35] Andre Rodriguez: About 25 miles out from Las Vegas, NV now.
+[22:38] Jessica: How are you holding up out there?
+[22:40] Andre Rodriguez: Yeah, long one, but manageable.
+[22:55] Jessica: How's LD-98614 looking?
+[22:57] Andre Rodriguez: Accident up ahead, traffic's backed up.
+[23:00] Jessica: Appreciate you keeping me posted.
+[23:02] Andre Rodriguez: No problem, just doing my job.
+[23:04] Jessica: What's your ETA?
+[23:06] Andre Rodriguez: Probably 5pm, maybe a bit earlier.
+[00:31] Jessica: How's LD-98614 looking?
+[00:33] Andre Rodriguez: Construction zone slowing everyone down.
+[00:36] Jessica: Let me know if you need anything.
+[00:38] Andre Rodriguez: No problem, just doing my job.
+[01:51] Jessica: Any updates on your progress?
+[01:53] Andre Rodriguez: Accident up ahead, traffic's backed up.
+[01:56] Jessica: Long trip, huh? Get some rest when you can.
+[01:58] Andre Rodriguez: Doing alright, just tired.
+[03:19] Jessica: How's LD-98614 looking?
+[03:21] Andre Rodriguez: Stopping for fuel in a bit.
+[03:23] Jessica: What's your ETA?
+[03:25] Andre Rodriguez: Probably 10am, maybe a bit earlier.
+[04:15] Jessica: Any updates on your progress?
+[04:17] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[05:02] Jessica: Still on schedule?
+[05:04] Andre Rodriguez: About 136 miles out from Las Vegas, NV now.
+[05:56] Jessica: Any updates on your progress?
+[05:58] Andre Rodriguez: Just crossed the state line, all good.
+[06:55] Jessica: How's LD-98614 looking?
+[06:57] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[07:46] Jessica: Where are you at right now?
+[07:48] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[08:47] Jessica: How's LD-98614 looking?
+[08:49] Andre Rodriguez: About 559 miles out from Las Vegas, NV now.
+[09:10] Jessica: How's LD-98614 looking?
+[09:12] Andre Rodriguez: About 494 miles out from Las Vegas, NV now.
+[09:51] Jessica: Still on schedule?
+[09:53] Andre Rodriguez: Just passed Fresno, CA, everything's fine.
+[10:37] Jessica: Where are you at right now?
+[10:39] Andre Rodriguez: Just passed Las Vegas, NV, everything's fine.
+[11:13] Jessica: Still on schedule?
+[11:15] Andre Rodriguez: Making good time, no issues so far.
+[12:11] Jessica: Any updates on your progress?
+[12:13] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[13:09] Jessica: How's LD-98614 looking?
+[13:11] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[14:08] Jessica: What's your status?
+[14:10] Andre Rodriguez: About 66 miles out from Las Vegas, NV now.
+[14:54] Jessica: Any updates on your progress?
+[14:56] Andre Rodriguez: Making good time, no issues so far.
+[15:36] Jessica: Where are you at right now?
+[15:38] Andre Rodriguez: About 45 miles out from Las Vegas, NV now.
+[16:26] Jessica: Still on schedule?
+[16:28] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[16:46] Jessica: What's your status?
+[16:48] Andre Rodriguez: Just crossed the state line, all good.
+[17:27] Jessica: Any updates on your progress?
+[17:29] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[17:56] Jessica: Where are you at right now?
+[17:58] Andre Rodriguez: Just passed Fresno, CA, everything's fine.
+[18:24] Jessica: What's your status?
+[18:26] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[19:17] Jessica: Still on schedule?
+[19:19] Andre Rodriguez: Just crossed the state line, all good.
+[19:54] Jessica: Any updates on your progress?
+[19:56] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[20:47] Jessica: How's LD-98614 looking?
+[20:49] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[21:48] Jessica: Where are you at right now?
+[21:50] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[22:14] Jessica: How's LD-98614 looking?
+[22:16] Andre Rodriguez: Making good time, no issues so far.
+[23:02] Jessica: Any updates on your progress?
+[23:04] Andre Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[23:21] Jessica: What's your status?
+[23:23] Andre Rodriguez: Stopped for a quick break, back on the road in a few.
+[23:56] Andre Rodriguez: Just delivered LD-98614 at Las Vegas, NV, all good, no damages.
+[23:58] Jessica: Do you have the signed BOL?
+[00:00] Andre Rodriguez: Yep, taking a picture now.
+[00:01] Andre Rodriguez: [Image attached: signed_bol.jpg]
+[00:03] Jessica: Sending you the next load details shortly.
+[00:05] Andre Rodriguez: Understood.
+[00:07] Jessica: Great work, thank you.

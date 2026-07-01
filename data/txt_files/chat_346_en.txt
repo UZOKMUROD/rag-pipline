@@ -1,0 +1,128 @@
+Chat Log #346
+Company: Silk Road Logistics
+Language: English
+Driver: Jason Wilson | Truck: #798 (step deck)
+Operator: Brittany
+Load: LD-24504 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-06-15
+--------------------------------------------------
+[18:56] Brittany: Morning Jason, you there?
+[18:57] Jason Wilson: Morning, all good on my end.
+[18:59] Brittany: Got a load for you - LD-24504, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[19:01] Jason Wilson: Ok, what's the pickup window?
+[19:03] Brittany: Pickup is 09:00-11:00, delivery appointment is 07:30 the next day.
+[19:05] Jason Wilson: What's the rate on this one?
+[19:07] Brittany: $2303 all in, 769 miles.
+[19:09] Jason Wilson: Sounds good, I'll take it.
+[19:11] Brittany: Great, sending the rate confirmation now.
+[19:14] Jason Wilson: Got it, signed and sent back.
+[19:53] Brittany: What's your status?
+[19:55] Jason Wilson: About 302 miles out from Birmingham, AL now.
+[21:21] Brittany: Where are you at right now?
+[21:23] Jason Wilson: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[22:19] Brittany: What's your status?
+[22:21] Jason Wilson: Just passed Nashville, TN, everything's fine.
+[22:51] Brittany: How's LD-24504 looking?
+[22:53] Jason Wilson: Accident up ahead, traffic's backed up.
+[23:19] Brittany: Still on schedule?
+[23:21] Jason Wilson: Stopped for a quick break, back on the road in a few.
+[23:24] Brittany: Let me know if you need anything.
+[23:26] Jason Wilson: Yeah, long one, but manageable.
+[23:28] Brittany: What's your ETA?
+[23:30] Jason Wilson: Probably 3pm, maybe a bit earlier.
+[23:45] Brittany: Still on schedule?
+[23:47] Jason Wilson: Roads are wet, taking it easy.
+[00:42] Brittany: Still on schedule?
+[00:44] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[01:27] Brittany: What's your status?
+[01:29] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[02:22] Brittany: What's your status?
+[02:24] Jason Wilson: Yeah, long one, but manageable.
+[02:26] Brittany: What's your ETA?
+[02:28] Jason Wilson: Looking at 5pm if traffic stays clear.
+[03:25] Brittany: Still on schedule?
+[03:27] Jason Wilson: Yeah, long one, but manageable.
+[03:30] Brittany: Long trip, huh? Get some rest when you can.
+[03:32] Jason Wilson: Doing alright, just tired.
+[04:36] Brittany: How's LD-24504 looking?
+[04:38] Jason Wilson: Clear skies here, no problems.
+[04:41] Brittany: Let me know if you need anything.
+[04:43] Jason Wilson: Yeah, long one, but manageable.
+[05:32] Brittany: Still on schedule?
+[05:34] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[05:58] Brittany: Still on schedule?
+[06:00] Jason Wilson: Stopping for fuel in a bit.
+[07:24] Brittany: How's LD-24504 looking?
+[07:26] Jason Wilson: About 449 miles out from Birmingham, AL now.
+[08:17] Brittany: Still on schedule?
+[08:19] Jason Wilson: About 363 miles out from Birmingham, AL now.
+[08:36] Brittany: Any updates on your progress?
+[08:38] Jason Wilson: Hit some traffic near Birmingham, AL, adding maybe 20 minutes.
+[09:01] Jason Wilson: Still sitting at the shipper, been here almost 3 hours already.
+[09:03] Brittany: Let me call them and see what's going on.
+[09:13] Brittany: Ok talked to them, they said 30 more minutes, forklift issue.
+[09:15] Jason Wilson: Make sure detention pay gets logged for this.
+[09:17] Brittany: Already noted, don't worry, you'll get paid for the wait.
+[10:12] Brittany: What's your status?
+[10:14] Jason Wilson: Making good time, no issues so far.
+[11:09] Brittany: What's your status?
+[11:11] Jason Wilson: Just crossed the state line, all good.
+[11:49] Brittany: Where are you at right now?
+[11:51] Jason Wilson: Making good time, no issues so far.
+[12:26] Brittany: How's LD-24504 looking?
+[12:28] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[13:11] Brittany: Still on schedule?
+[13:13] Jason Wilson: Just crossed the state line, all good.
+[14:00] Brittany: How's LD-24504 looking?
+[14:02] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[14:43] Brittany: What's your status?
+[14:45] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[15:07] Brittany: What's your status?
+[15:09] Jason Wilson: About 345 miles out from Birmingham, AL now.
+[16:04] Brittany: What's your status?
+[16:06] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[16:34] Brittany: How's LD-24504 looking?
+[16:36] Jason Wilson: Just crossed the state line, all good.
+[16:54] Brittany: Still on schedule?
+[16:56] Jason Wilson: Just passed Birmingham, AL, everything's fine.
+[17:42] Brittany: Where are you at right now?
+[17:44] Jason Wilson: Making good time, no issues so far.
+[18:22] Brittany: What's your status?
+[18:24] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[18:40] Brittany: How's LD-24504 looking?
+[18:42] Jason Wilson: About 505 miles out from Birmingham, AL now.
+[19:04] Brittany: Where are you at right now?
+[19:06] Jason Wilson: Stopped for a quick break, back on the road in a few.
+[19:56] Brittany: Any updates on your progress?
+[19:58] Jason Wilson: Making good time, no issues so far.
+[20:45] Brittany: Where are you at right now?
+[20:47] Jason Wilson: Just crossed the state line, all good.
+[21:05] Brittany: How's LD-24504 looking?
+[21:07] Jason Wilson: Making good time, no issues so far.
+[21:38] Brittany: Still on schedule?
+[21:40] Jason Wilson: Stopped for a quick break, back on the road in a few.
+[22:30] Brittany: Still on schedule?
+[22:32] Jason Wilson: Just passed Nashville, TN, everything's fine.
+[23:26] Brittany: Still on schedule?
+[23:28] Jason Wilson: Just passed Birmingham, AL, everything's fine.
+[00:11] Brittany: Where are you at right now?
+[00:13] Jason Wilson: Just crossed the state line, all good.
+[00:30] Brittany: How's LD-24504 looking?
+[00:32] Jason Wilson: Just crossed the state line, all good.
+[00:55] Brittany: Any updates on your progress?
+[00:57] Jason Wilson: Just crossed the state line, all good.
+[01:54] Brittany: What's your status?
+[01:56] Jason Wilson: About 577 miles out from Birmingham, AL now.
+[02:31] Brittany: What's your status?
+[02:33] Jason Wilson: Just passed Nashville, TN, everything's fine.
+[02:59] Brittany: How's LD-24504 looking?
+[03:01] Jason Wilson: Traffic's a bit heavy but I'm still on schedule.
+[03:31] Brittany: Any updates on your progress?
+[03:33] Jason Wilson: Stopped for a quick break, back on the road in a few.
+[04:39] Jason Wilson: Just delivered LD-24504 at Birmingham, AL, all good, no damages.
+[04:41] Brittany: Do you have the signed BOL?
+[04:43] Jason Wilson: Yep, taking a picture now.
+[04:44] Jason Wilson: [Image attached: signed_bol.jpg]
+[04:46] Brittany: Sending you the next load details shortly.
+[04:48] Jason Wilson: Sounds good.
+[04:50] Brittany: Appreciate it, talk soon.

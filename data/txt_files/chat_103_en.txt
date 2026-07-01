@@ -1,0 +1,129 @@
+Chat Log #103
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Harris | Truck: #318 (step deck)
+Operator: Ashley
+Load: LD-90896 | Route: Portland, OR -> Seattle, WA
+Date: 2026-03-16
+--------------------------------------------------
+[12:18] Ashley: Morning Andrew, you there?
+[12:19] Andrew Harris: Yeah, go ahead.
+[12:21] Ashley: Got a load for you - LD-90896, step deck, pickup in Portland, OR, delivery to Seattle, WA.
+[12:23] Andrew Harris: Ok, what's the pickup window?
+[12:25] Ashley: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[12:27] Andrew Harris: What's the rate on this one?
+[12:29] Ashley: $3343 all in, 862 miles.
+[12:31] Andrew Harris: Sounds good, I'll take it.
+[12:33] Ashley: Great, sending the rate confirmation now.
+[12:36] Andrew Harris: Got it, signed and sent back.
+[13:47] Ashley: What's your status?
+[13:49] Andrew Harris: Roads are clear now, moving well.
+[13:52] Ashley: Let me know if you need anything.
+[13:54] Andrew Harris: Yeah, long one, but manageable.
+[15:15] Ashley: What's your status?
+[15:17] Andrew Harris: Hit some traffic near Seattle, WA, adding maybe 20 minutes.
+[15:19] Ashley: What's your ETA?
+[15:21] Andrew Harris: Looking at 3pm if traffic stays clear.
+[16:38] Ashley: Any updates on your progress?
+[16:40] Andrew Harris: Just topped off the tank.
+[16:42] Ashley: What's your ETA?
+[16:44] Andrew Harris: Looking at noon if traffic stays clear.
+[18:07] Ashley: Any updates on your progress?
+[18:09] Andrew Harris: Clear skies here, no problems.
+[18:12] Ashley: How are you holding up out there?
+[18:14] Andrew Harris: Doing alright, just tired.
+[19:43] Ashley: Still on schedule?
+[19:45] Andrew Harris: Hit some traffic near Seattle, WA, adding maybe 20 minutes.
+[19:48] Ashley: Long trip, huh? Get some rest when you can.
+[19:50] Andrew Harris: Will do, thanks for checking in.
+[20:08] Ashley: Still on schedule?
+[20:10] Andrew Harris: Yeah, long one, but manageable.
+[20:13] Ashley: Let me know if you need anything.
+[20:15] Andrew Harris: Will do, thanks for checking in.
+[21:13] Ashley: Any updates on your progress?
+[21:15] Andrew Harris: Roads are wet, taking it easy.
+[21:17] Ashley: What's your ETA?
+[21:19] Andrew Harris: Looking at 7pm if traffic stays clear.
+[22:14] Ashley: What's your status?
+[22:16] Andrew Harris: Rain is picking up here, slowing down a bit.
+[22:19] Ashley: Appreciate you keeping me posted.
+[22:21] Andrew Harris: Will do, thanks for checking in.
+[22:59] Ashley: Any updates on your progress?
+[23:01] Andrew Harris: About 310 miles out from Seattle, WA now.
+[23:04] Ashley: How are you holding up out there?
+[23:06] Andrew Harris: Will do, thanks for checking in.
+[23:08] Ashley: What's your ETA?
+[23:10] Andrew Harris: Probably 3pm, maybe a bit earlier.
+[00:28] Ashley: Where are you at right now?
+[00:30] Andrew Harris: Stopping for fuel in a bit.
+[01:31] Ashley: What's your status?
+[01:33] Andrew Harris: Will do, thanks for checking in.
+[01:36] Ashley: How are you holding up out there?
+[01:38] Andrew Harris: Doing alright, just tired.
+[02:03] Ashley: What's your status?
+[02:05] Andrew Harris: Roads are clear now, moving well.
+[02:08] Ashley: Long trip, huh? Get some rest when you can.
+[02:10] Andrew Harris: Yeah, long one, but manageable.
+[02:50] Ashley: Any updates on your progress?
+[02:52] Andrew Harris: Fuel prices are decent around here.
+[02:55] Ashley: Long trip, huh? Get some rest when you can.
+[02:57] Andrew Harris: Doing alright, just tired.
+[03:22] Ashley: How's LD-90896 looking?
+[03:24] Andrew Harris: Traffic's a bit heavy but I'm still on schedule.
+[04:51] Ashley: Any updates on your progress?
+[04:53] Andrew Harris: Stopped for a quick break, back on the road in a few.
+[05:29] Ashley: What's your status?
+[05:31] Andrew Harris: Just topped off the tank.
+[06:48] Ashley: Any updates on your progress?
+[06:50] Andrew Harris: Fuel prices are decent around here.
+[08:14] Ashley: Where are you at right now?
+[08:16] Andrew Harris: Roads are clear now, moving well.
+[08:19] Ashley: Let me know if you need anything.
+[08:21] Andrew Harris: No problem, just doing my job.
+[08:23] Ashley: What's your ETA?
+[08:25] Andrew Harris: Probably 3pm, maybe a bit earlier.
+[09:21] Ashley: How's LD-90896 looking?
+[09:23] Andrew Harris: No problem, just doing my job.
+[09:51] Ashley: How's LD-90896 looking?
+[09:53] Andrew Harris: Just crossed the state line, all good.
+[10:22] Ashley: How's LD-90896 looking?
+[10:24] Andrew Harris: Making good time, no issues so far.
+[11:02] Ashley: Still on schedule?
+[11:04] Andrew Harris: Making good time, no issues so far.
+[11:48] Ashley: Where are you at right now?
+[11:50] Andrew Harris: Traffic's a bit heavy but I'm still on schedule.
+[12:27] Ashley: Any updates on your progress?
+[12:29] Andrew Harris: Making good time, no issues so far.
+[13:16] Ashley: Still on schedule?
+[13:18] Andrew Harris: Just passed Portland, OR, everything's fine.
+[14:12] Ashley: Still on schedule?
+[14:14] Andrew Harris: Just passed Portland, OR, everything's fine.
+[15:04] Ashley: Where are you at right now?
+[15:06] Andrew Harris: About 292 miles out from Seattle, WA now.
+[16:05] Ashley: How's LD-90896 looking?
+[16:07] Andrew Harris: Just passed Seattle, WA, everything's fine.
+[16:48] Ashley: Where are you at right now?
+[16:50] Andrew Harris: Stopped for a quick break, back on the road in a few.
+[17:22] Ashley: Where are you at right now?
+[17:24] Andrew Harris: Just passed Portland, OR, everything's fine.
+[17:53] Ashley: How's LD-90896 looking?
+[17:55] Andrew Harris: Just passed Portland, OR, everything's fine.
+[18:29] Ashley: Where are you at right now?
+[18:31] Andrew Harris: Stopped for a quick break, back on the road in a few.
+[19:18] Ashley: Any updates on your progress?
+[19:20] Andrew Harris: About 193 miles out from Seattle, WA now.
+[20:13] Ashley: Still on schedule?
+[20:15] Andrew Harris: Making good time, no issues so far.
+[20:34] Ashley: Where are you at right now?
+[20:36] Andrew Harris: Making good time, no issues so far.
+[21:36] Ashley: Any updates on your progress?
+[21:38] Andrew Harris: Making good time, no issues so far.
+[22:25] Ashley: Where are you at right now?
+[22:27] Andrew Harris: Just passed Seattle, WA, everything's fine.
+[23:30] Andrew Harris: Just delivered LD-90896 at Seattle, WA, all good, no damages.
+[23:32] Ashley: Do you have the signed BOL?
+[23:34] Andrew Harris: Yep, taking a picture now.
+[23:35] Andrew Harris: [Image attached: signed_bol.jpg]
+[23:37] Ashley: Sending you the next load details shortly.
+[23:39] Andrew Harris: Understood.
+[23:41] Ashley: Great work, thank you.

@@ -1,0 +1,147 @@
+Chat Log #036
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #825 (platforma)
+Operator: Feruza
+Load: LD-79096 | Route: Qarshi -> Termiz
+Date: 2026-03-17
+--------------------------------------------------
+[08:53] Feruza: Shavkat, bir daqiqa bormi?
+[08:54] Shavkat Ergashev: Ha, aloqadaman.
+[08:56] Feruza: Siz uchun yuk bor - LD-79096, platforma, Qarshidan yuklanadi, Termizga tushiriladi.
+[08:58] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[09:00] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[09:02] Shavkat Ergashev: Bu reys uchun narx qancha?
+[09:04] Feruza: 1863 ming so'm, 766 km.
+[09:06] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[09:08] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:11] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[10:30] Feruza: Hozir qayerdasiz?
+[10:32] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:34] Feruza: Taxminan qachon yetib borasiz?
+[10:36] Shavkat Ergashev: Agar tirbandlik bo'lmasa 7pmda.
+[11:23] Feruza: Holatingiz qanday?
+[11:25] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[11:28] Feruza: Xabar berib turganingiz uchun rahmat.
+[11:30] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[11:32] Feruza: Taxminan qachon yetib borasiz?
+[11:34] Shavkat Ergashev: Taxminan 3pmda yetib boraman.
+[12:45] Feruza: Holatingiz qanday?
+[12:47] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[12:50] Feruza: O'zingizni qalay his qilyapsiz?
+[12:52] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[13:13] Feruza: Holatingiz qanday?
+[13:15] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:18] Feruza: Biror narsa kerak bo'lsa ayting.
+[13:20] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[13:46] Feruza: Hozir qayerdasiz?
+[13:48] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[13:51] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:53] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[14:43] Feruza: Hozir qayerdasiz?
+[14:45] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[15:03] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:05] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:28] Feruza: LD-79096 bilan ishlar qalay?
+[16:30] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[16:55] Feruza: Holatingiz qanday?
+[16:57] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[17:00] Feruza: Xabar berib turganingiz uchun rahmat.
+[17:02] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[17:04] Feruza: Taxminan qachon yetib borasiz?
+[17:06] Shavkat Ergashev: Ehtimol 7pm, balki ertaroq.
+[18:29] Feruza: Holatingiz qanday?
+[18:31] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:34] Feruza: O'zingizni qalay his qilyapsiz?
+[18:36] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:05] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:07] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:09] Feruza: Taxminan qachon yetib borasiz?
+[19:11] Shavkat Ergashev: Ehtimol 10am, balki ertaroq.
+[20:14] Feruza: Yo'lda yangilik bormi?
+[20:16] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[20:19] Feruza: Xabar berib turganingiz uchun rahmat.
+[20:21] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[20:55] Feruza: Hozir qayerdasiz?
+[20:57] Shavkat Ergashev: Termizgacha taxminan 291 km qoldi.
+[21:00] Feruza: Xabar berib turganingiz uchun rahmat.
+[21:02] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[21:04] Feruza: Taxminan qachon yetib borasiz?
+[21:06] Shavkat Ergashev: Taxminan 5pmda yetib boraman.
+[21:29] Feruza: Yo'lda yangilik bormi?
+[21:31] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:34] Feruza: Biror narsa kerak bo'lsa ayting.
+[21:36] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[22:40] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:42] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:45] Feruza: Biror narsa kerak bo'lsa ayting.
+[22:47] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[22:49] Feruza: Taxminan qachon yetib borasiz?
+[22:51] Shavkat Ergashev: Ehtimol noon, balki ertaroq.
+[00:15] Feruza: Holatingiz qanday?
+[00:17] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[01:08] Feruza: Hozir qayerdasiz?
+[01:10] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:13] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:15] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:05] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:07] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[02:10] Feruza: Biror narsa kerak bo'lsa ayting.
+[02:12] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:14] Feruza: Taxminan qachon yetib borasiz?
+[02:16] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[03:38] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:40] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[04:28] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:30] Shavkat Ergashev: Termiz yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[05:08] Shavkat Ergashev: Muammo chiqdi, avtomobil yo'lida avariya bo'lgan LD-79096da. Yo'l chetiga to'xtadim.
+[05:09] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[05:11] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[05:13] Feruza: A376 yo'lida 76-belgida turibman.
+[05:18] Feruza: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[06:15] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[06:44] Feruza: Yo'lda yangilik bormi?
+[06:46] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:29] Feruza: Yo'lda yangilik bormi?
+[07:31] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:05] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:07] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:30] Feruza: Hozir qayerdasiz?
+[08:32] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:11] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:13] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:37] Feruza: Hozir qayerdasiz?
+[09:39] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:39] Feruza: LD-79096 bilan ishlar qalay?
+[10:41] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:26] Feruza: Yo'lda yangilik bormi?
+[11:28] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:18] Feruza: Yo'lda yangilik bormi?
+[12:20] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:07] Feruza: Holatingiz qanday?
+[13:09] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:50] Feruza: Hozir qayerdasiz?
+[13:52] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:20] Feruza: Holatingiz qanday?
+[14:22] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:09] Feruza: Hozir qayerdasiz?
+[15:11] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:52] Feruza: Holatingiz qanday?
+[15:54] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:52] Feruza: Yo'lda yangilik bormi?
+[16:54] Shavkat Ergashev: Termizgacha taxminan 308 km qoldi.
+[17:26] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:28] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:58] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:00] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:34] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:36] Shavkat Ergashev: Termizgacha taxminan 440 km qoldi.
+[18:55] Feruza: Yo'lda yangilik bormi?
+[18:57] Shavkat Ergashev: Termizgacha taxminan 432 km qoldi.
+[19:32] Shavkat Ergashev: LD-79096 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[19:34] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[19:36] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[19:37] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[19:39] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[19:41] Shavkat Ergashev: Yaxshi.
+[19:43] Feruza: Ajoyib ish, rahmat.

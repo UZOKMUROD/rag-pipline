@@ -1,0 +1,153 @@
+Chat Log #431
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #675 (refrijerator)
+Operator: Feruza
+Load: LD-46592 | Route: Nukus -> Urganch
+Date: 2026-06-18
+--------------------------------------------------
+[06:30] Feruza: Xayrli tong, Farrukh, aloqadamisiz?
+[06:31] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[06:33] Feruza: Siz uchun yuk bor - LD-46592, refrijerator, Nukusdan yuklanadi, Urganchga tushiriladi.
+[06:35] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[06:37] Feruza: Yuklash 13:00-15:00, tushirish esa ertaga 16:00 bo'ladi.
+[06:39] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[06:41] Feruza: 3275 ming so'm, 408 km.
+[06:43] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[06:45] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:48] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[07:28] Feruza: Hozir qayerdasiz?
+[07:30] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[08:04] Feruza: Hozir qayerdasiz?
+[08:06] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[08:09] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:11] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[08:13] Feruza: Taxminan qachon yetib borasiz?
+[08:15] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[08:36] Feruza: Yo'lda yangilik bormi?
+[08:38] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[08:41] Feruza: Xabar berib turganingiz uchun rahmat.
+[08:43] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[08:58] Feruza: LD-46592 bilan ishlar qalay?
+[09:00] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:15] Feruza: Holatingiz qanday?
+[09:17] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[09:20] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:22] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:24] Feruza: Taxminan qachon yetib borasiz?
+[09:26] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[09:52] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:54] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:18] Feruza: LD-46592 bilan ishlar qalay?
+[10:20] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[11:37] Feruza: Hozir qayerdasiz?
+[11:39] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[11:41] Feruza: Taxminan qachon yetib borasiz?
+[11:43] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[13:06] Feruza: LD-46592 bilan ishlar qalay?
+[13:08] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[13:11] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:13] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[13:15] Feruza: Taxminan qachon yetib borasiz?
+[13:17] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 5pmda.
+[14:30] Feruza: Holatingiz qanday?
+[14:32] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[14:35] Feruza: Biror narsa kerak bo'lsa ayting.
+[14:37] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[15:35] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:37] Farrukh Tashkentov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[15:54] Feruza: Holatingiz qanday?
+[15:56] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:21] Feruza: LD-46592 bilan ishlar qalay?
+[17:23] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:26] Feruza: Xabar berib turganingiz uchun rahmat.
+[17:28] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[18:18] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:20] Farrukh Tashkentov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:15] Feruza: Yo'lda yangilik bormi?
+[19:17] Farrukh Tashkentov: Urganchgacha taxminan 516 km qoldi.
+[19:51] Feruza: LD-46592 bilan ishlar qalay?
+[19:53] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:55] Feruza: Taxminan qachon yetib borasiz?
+[19:57] Farrukh Tashkentov: Ehtimol 5pm, balki ertaroq.
+[20:32] Feruza: LD-46592 bilan ishlar qalay?
+[20:34] Farrukh Tashkentov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[20:37] Feruza: O'zingizni qalay his qilyapsiz?
+[20:39] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[20:41] Feruza: Taxminan qachon yetib borasiz?
+[20:43] Farrukh Tashkentov: Taxminan 7pmda yetib boraman.
+[21:17] Feruza: LD-46592 bilan ishlar qalay?
+[21:19] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[21:59] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:01] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[22:04] Feruza: Biror narsa kerak bo'lsa ayting.
+[22:06] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[22:08] Feruza: Taxminan qachon yetib borasiz?
+[22:10] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[22:38] Farrukh Tashkentov: Haydash vaqtim limitiga yaqinlashyapman, atigi 1 hour qoldi.
+[22:40] Feruza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[22:57] Feruza: Hozir qayerdasiz?
+[22:59] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:52] Feruza: Hozir qayerdasiz?
+[23:54] Farrukh Tashkentov: Urganchgacha taxminan 545 km qoldi.
+[00:21] Feruza: LD-46592 bilan ishlar qalay?
+[00:23] Farrukh Tashkentov: Urganchgacha taxminan 327 km qoldi.
+[00:41] Feruza: Hozir qayerdasiz?
+[00:43] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:06] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:08] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:06] Feruza: Holatingiz qanday?
+[02:08] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:52] Feruza: Yo'lda yangilik bormi?
+[02:54] Farrukh Tashkentov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[03:39] Feruza: Hozir qayerdasiz?
+[03:41] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:03] Feruza: Hozir qayerdasiz?
+[04:05] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:43] Feruza: Yo'lda yangilik bormi?
+[04:45] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:36] Feruza: Hozir qayerdasiz?
+[05:38] Farrukh Tashkentov: Urganchgacha taxminan 442 km qoldi.
+[06:16] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:18] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:54] Feruza: Yo'lda yangilik bormi?
+[06:56] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[07:37] Feruza: Yo'lda yangilik bormi?
+[07:39] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:35] Feruza: Hozir qayerdasiz?
+[08:37] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[09:10] Feruza: Holatingiz qanday?
+[09:12] Farrukh Tashkentov: Urganchgacha taxminan 176 km qoldi.
+[09:40] Feruza: Holatingiz qanday?
+[09:42] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[10:02] Feruza: LD-46592 bilan ishlar qalay?
+[10:04] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:48] Feruza: Holatingiz qanday?
+[10:50] Farrukh Tashkentov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[11:25] Feruza: Holatingiz qanday?
+[11:27] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:50] Feruza: LD-46592 bilan ishlar qalay?
+[11:52] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:18] Feruza: Holatingiz qanday?
+[12:20] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:08] Feruza: Hozir qayerdasiz?
+[13:10] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:59] Feruza: LD-46592 bilan ishlar qalay?
+[14:01] Farrukh Tashkentov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[14:21] Feruza: Holatingiz qanday?
+[14:23] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:59] Feruza: LD-46592 bilan ishlar qalay?
+[15:01] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:31] Feruza: Yo'lda yangilik bormi?
+[15:33] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:04] Feruza: Hozir qayerdasiz?
+[16:06] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:22] Feruza: Hozir qayerdasiz?
+[16:24] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:47] Farrukh Tashkentov: LD-46592 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[17:49] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[17:51] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[17:52] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[17:54] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[17:56] Farrukh Tashkentov: Tushundim.
+[17:58] Feruza: Ajoyib ish, rahmat.

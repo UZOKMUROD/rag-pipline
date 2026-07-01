@@ -1,0 +1,129 @@
+Chat Log #146
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Johnson | Truck: #125 (flatbed)
+Operator: Brittany
+Load: LD-52343 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-05-21
+--------------------------------------------------
+[12:58] Brittany: Hey Andrew, how's it going?
+[12:59] Andrew Johnson: Yeah, go ahead.
+[13:01] Brittany: Got a load for you - LD-52343, flatbed, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[13:03] Andrew Johnson: Ok, what's the pickup window?
+[13:05] Brittany: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[13:07] Andrew Johnson: What's the rate on this one?
+[13:09] Brittany: $1922 all in, 425 miles.
+[13:11] Andrew Johnson: Sounds good, I'll take it.
+[13:13] Brittany: Great, sending the rate confirmation now.
+[13:16] Andrew Johnson: Got it, signed and sent back.
+[14:07] Brittany: Still on schedule?
+[14:09] Andrew Johnson: Just topped off the tank.
+[15:07] Brittany: Where are you at right now?
+[15:09] Andrew Johnson: No problem, just doing my job.
+[15:12] Brittany: How are you holding up out there?
+[15:14] Andrew Johnson: No problem, just doing my job.
+[16:15] Brittany: What's your status?
+[16:17] Andrew Johnson: Yeah, long one, but manageable.
+[16:19] Brittany: What's your ETA?
+[16:21] Andrew Johnson: Probably 5pm, maybe a bit earlier.
+[17:51] Brittany: How's LD-52343 looking?
+[17:53] Andrew Johnson: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[17:56] Brittany: Let me know if you need anything.
+[17:58] Andrew Johnson: Doing alright, just tired.
+[18:56] Brittany: Any updates on your progress?
+[18:58] Andrew Johnson: Just crossed the state line, all good.
+[19:01] Brittany: Long trip, huh? Get some rest when you can.
+[19:03] Andrew Johnson: Yeah, long one, but manageable.
+[19:57] Brittany: How's LD-52343 looking?
+[19:59] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[20:28] Brittany: Any updates on your progress?
+[20:30] Andrew Johnson: Yeah, long one, but manageable.
+[21:28] Brittany: Any updates on your progress?
+[21:30] Andrew Johnson: Just crossed the state line, all good.
+[21:33] Brittany: Appreciate you keeping me posted.
+[21:35] Andrew Johnson: Doing alright, just tired.
+[22:35] Brittany: How's LD-52343 looking?
+[22:37] Andrew Johnson: Accident up ahead, traffic's backed up.
+[23:27] Brittany: Where are you at right now?
+[23:29] Andrew Johnson: Doing alright, just tired.
+[00:18] Brittany: How's LD-52343 looking?
+[00:20] Andrew Johnson: Roads are wet, taking it easy.
+[00:22] Brittany: What's your ETA?
+[00:24] Andrew Johnson: Looking at 3pm if traffic stays clear.
+[01:48] Brittany: Where are you at right now?
+[01:50] Andrew Johnson: Clear skies here, no problems.
+[02:55] Brittany: Any updates on your progress?
+[02:57] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[03:27] Brittany: Any updates on your progress?
+[03:29] Andrew Johnson: Stopping for fuel in a bit.
+[03:56] Brittany: Still on schedule?
+[03:58] Andrew Johnson: Just passed Los Angeles, CA, everything's fine.
+[04:01] Brittany: Long trip, huh? Get some rest when you can.
+[04:03] Andrew Johnson: Will do, thanks for checking in.
+[04:36] Brittany: Any updates on your progress?
+[04:38] Andrew Johnson: Making good time, no issues so far.
+[04:41] Brittany: How are you holding up out there?
+[04:43] Andrew Johnson: Yeah, long one, but manageable.
+[04:45] Brittany: What's your ETA?
+[04:47] Andrew Johnson: Should be there around noon.
+[05:08] Brittany: What's your status?
+[05:10] Andrew Johnson: Just crossed the state line, all good.
+[06:24] Brittany: Where are you at right now?
+[06:26] Andrew Johnson: Fuel prices are decent around here.
+[06:29] Brittany: Appreciate you keeping me posted.
+[06:31] Andrew Johnson: Doing alright, just tired.
+[07:10] Brittany: Any updates on your progress?
+[07:12] Andrew Johnson: Roads are wet, taking it easy.
+[07:22] Andrew Johnson: Coming up on my HOS limit, only got about 30 minutes left.
+[07:24] Brittany: Understood, get your rest, I'll let the receiver know.
+[08:22] Brittany: What's your status?
+[08:24] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[08:51] Brittany: How's LD-52343 looking?
+[08:53] Andrew Johnson: Just crossed the state line, all good.
+[09:26] Brittany: Where are you at right now?
+[09:28] Andrew Johnson: Just passed Los Angeles, CA, everything's fine.
+[10:07] Brittany: Any updates on your progress?
+[10:09] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[10:29] Brittany: Still on schedule?
+[10:31] Andrew Johnson: Just crossed the state line, all good.
+[11:31] Brittany: Any updates on your progress?
+[11:33] Andrew Johnson: About 110 miles out from Phoenix, AZ now.
+[11:49] Brittany: Where are you at right now?
+[11:51] Andrew Johnson: About 524 miles out from Phoenix, AZ now.
+[12:39] Brittany: Any updates on your progress?
+[12:41] Andrew Johnson: Making good time, no issues so far.
+[13:05] Brittany: What's your status?
+[13:07] Andrew Johnson: About 137 miles out from Phoenix, AZ now.
+[13:58] Brittany: Any updates on your progress?
+[14:00] Andrew Johnson: Making good time, no issues so far.
+[14:21] Brittany: Where are you at right now?
+[14:23] Andrew Johnson: Just passed Phoenix, AZ, everything's fine.
+[15:08] Brittany: What's your status?
+[15:10] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:25] Brittany: What's your status?
+[15:27] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[16:21] Brittany: How's LD-52343 looking?
+[16:23] Andrew Johnson: About 240 miles out from Phoenix, AZ now.
+[17:10] Brittany: Still on schedule?
+[17:12] Andrew Johnson: Traffic's a bit heavy but I'm still on schedule.
+[17:45] Brittany: What's your status?
+[17:47] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[18:13] Brittany: Any updates on your progress?
+[18:15] Andrew Johnson: Just passed Phoenix, AZ, everything's fine.
+[18:32] Brittany: Where are you at right now?
+[18:34] Andrew Johnson: Stopped for a quick break, back on the road in a few.
+[19:10] Brittany: What's your status?
+[19:12] Andrew Johnson: Just crossed the state line, all good.
+[19:45] Brittany: Still on schedule?
+[19:47] Andrew Johnson: Making good time, no issues so far.
+[20:44] Brittany: What's your status?
+[20:46] Andrew Johnson: Just crossed the state line, all good.
+[21:35] Brittany: Any updates on your progress?
+[21:37] Andrew Johnson: Just crossed the state line, all good.
+[22:34] Andrew Johnson: Just delivered LD-52343 at Phoenix, AZ, all good, no damages.
+[22:36] Brittany: Do you have the signed BOL?
+[22:38] Andrew Johnson: Yep, taking a picture now.
+[22:39] Andrew Johnson: [Image attached: signed_bol.jpg]
+[22:41] Brittany: Sending you the next load details shortly.
+[22:43] Andrew Johnson: Will do.
+[22:45] Brittany: Great work, thank you.

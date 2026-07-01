@@ -1,0 +1,147 @@
+Chat Log #471
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Alisher Yusupov | Truck: #959 (past ramali tirkama)
+Operator: Malika
+Load: LD-99600 | Route: Toshkent -> Samarqand
+Date: 2026-02-12
+--------------------------------------------------
+[14:32] Malika: Xayrli tong, Alisher, aloqadamisiz?
+[14:33] Alisher Yusupov: Ha, aloqadaman.
+[14:35] Malika: Siz uchun yuk bor - LD-99600, past ramali tirkama, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[14:37] Alisher Yusupov: Tushunarli, yuklash vaqti qachon?
+[14:39] Malika: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[14:41] Alisher Yusupov: Bu reys uchun narx qancha?
+[14:43] Malika: 4151 ming so'm, 892 km.
+[14:45] Alisher Yusupov: Yaxshi, bu reysni olaman.
+[14:47] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[14:50] Alisher Yusupov: Oldim, imzolab qaytarib yubordim.
+[15:44] Malika: Holatingiz qanday?
+[15:46] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[15:49] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[15:51] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[15:53] Malika: Taxminan qachon yetib borasiz?
+[15:55] Alisher Yusupov: Taxminan noonda yetib boraman.
+[16:43] Malika: Holatingiz qanday?
+[16:45] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[16:47] Malika: Taxminan qachon yetib borasiz?
+[16:49] Alisher Yusupov: Ehtimol noon, balki ertaroq.
+[17:09] Malika: LD-99600 bilan ishlar qalay?
+[17:11] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:06] Malika: Yo'lda yangilik bormi?
+[18:08] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[18:10] Malika: Taxminan qachon yetib borasiz?
+[18:12] Alisher Yusupov: Ehtimol 7pm, balki ertaroq.
+[18:44] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:46] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:49] Malika: Biror narsa kerak bo'lsa ayting.
+[18:51] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:39] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:41] Alisher Yusupov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:44] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:46] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[20:35] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:37] Alisher Yusupov: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:06] Malika: Yo'lda yangilik bormi?
+[22:08] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:11] Malika: Biror narsa kerak bo'lsa ayting.
+[22:13] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[22:37] Malika: Yo'lda yangilik bormi?
+[22:39] Alisher Yusupov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[22:42] Malika: O'zingizni qalay his qilyapsiz?
+[22:44] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[00:14] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[00:16] Alisher Yusupov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[00:19] Malika: Biror narsa kerak bo'lsa ayting.
+[00:21] Alisher Yusupov: Hammasi joyida, ishimni qilyapman.
+[01:27] Malika: Yo'lda yangilik bormi?
+[01:29] Alisher Yusupov: Yaxshi, faqat biroz charchadim.
+[01:32] Malika: Xabar berib turganingiz uchun rahmat.
+[01:34] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:16] Malika: LD-99600 bilan ishlar qalay?
+[02:18] Alisher Yusupov: Ha, uzoq, lekin chidayapman.
+[02:44] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[02:46] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:49] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[02:51] Alisher Yusupov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:29] Malika: Yo'lda yangilik bormi?
+[03:31] Alisher Yusupov: Samarqandgacha taxminan 230 km qoldi.
+[03:33] Malika: Taxminan qachon yetib borasiz?
+[03:35] Alisher Yusupov: Agar tirbandlik bo'lmasa 7pmda.
+[04:19] Malika: Hozir qayerdasiz?
+[04:21] Alisher Yusupov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[04:23] Malika: Taxminan qachon yetib borasiz?
+[04:25] Alisher Yusupov: Ehtimol 3pm, balki ertaroq.
+[04:43] Alisher Yusupov: Muammo chiqdi, g'ildirak yorilib qoldi LD-99600da. Yo'l chetiga to'xtadim.
+[04:44] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[04:46] Alisher Yusupov: Ha, men yaxshiman, faqat yordam kerak.
+[04:48] Malika: A380 yo'lida 146-belgida turibman.
+[04:53] Malika: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[05:41] Alisher Yusupov: Ta'mirlandi, yana yo'lga tushdim.
+[06:14] Malika: Hozir qayerdasiz?
+[06:16] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[07:16] Malika: Holatingiz qanday?
+[07:18] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:49] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:51] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:37] Malika: Holatingiz qanday?
+[08:39] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[09:05] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:07] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:06] Malika: Yo'lda yangilik bormi?
+[10:08] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:58] Malika: LD-99600 bilan ishlar qalay?
+[11:00] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:42] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[11:44] Alisher Yusupov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[12:09] Malika: Yo'lda yangilik bormi?
+[12:11] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:50] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[12:52] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:19] Malika: LD-99600 bilan ishlar qalay?
+[13:21] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:17] Malika: Yo'lda yangilik bormi?
+[14:19] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:06] Malika: Hozir qayerdasiz?
+[15:08] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:03] Malika: LD-99600 bilan ishlar qalay?
+[16:05] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:42] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[16:44] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:15] Malika: LD-99600 bilan ishlar qalay?
+[17:17] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:45] Malika: LD-99600 bilan ishlar qalay?
+[17:47] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[18:22] Malika: Yo'lda yangilik bormi?
+[18:24] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:00] Malika: Hozir qayerdasiz?
+[19:02] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:02] Malika: Hozir qayerdasiz?
+[20:04] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[20:55] Malika: Holatingiz qanday?
+[20:57] Alisher Yusupov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[21:24] Malika: Holatingiz qanday?
+[21:26] Alisher Yusupov: Samarqandgacha taxminan 168 km qoldi.
+[21:55] Malika: Yo'lda yangilik bormi?
+[21:57] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:34] Malika: Hozir qayerdasiz?
+[22:36] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:03] Malika: Yo'lda yangilik bormi?
+[23:05] Alisher Yusupov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:51] Malika: LD-99600 bilan ishlar qalay?
+[23:53] Alisher Yusupov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[00:09] Malika: LD-99600 bilan ishlar qalay?
+[00:11] Alisher Yusupov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:51] Malika: Holatingiz qanday?
+[00:53] Alisher Yusupov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:29] Malika: Yo'lda yangilik bormi?
+[01:31] Alisher Yusupov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[01:51] Malika: Holatingiz qanday?
+[01:53] Alisher Yusupov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:17] Alisher Yusupov: LD-99600 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:19] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[03:21] Alisher Yusupov: Ha, hozir rasmga olaman.
+[03:22] Alisher Yusupov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:24] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:26] Alisher Yusupov: Yaxshi.
+[03:28] Malika: Rahmat, aloqada bo'lamiz.

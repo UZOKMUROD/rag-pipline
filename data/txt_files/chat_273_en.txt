@@ -1,0 +1,128 @@
+Chat Log #273
+Company: Silk Road Logistics
+Language: English
+Driver: William White | Truck: #773 (flatbed)
+Operator: Sarah
+Load: LD-53997 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-05-27
+--------------------------------------------------
+[15:56] Sarah: Morning William, you there?
+[15:57] William White: Yeah, go ahead.
+[15:59] Sarah: Got a load for you - LD-53997, flatbed, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[16:01] William White: Ok, what's the pickup window?
+[16:03] Sarah: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[16:05] William White: What's the rate on this one?
+[16:07] Sarah: $3417 all in, 845 miles.
+[16:09] William White: Sounds good, I'll take it.
+[16:11] Sarah: Great, sending the rate confirmation now.
+[16:14] William White: Got it, signed and sent back.
+[17:03] Sarah: How's LD-53997 looking?
+[17:05] William White: Stopped for a quick break, back on the road in a few.
+[17:07] Sarah: What's your ETA?
+[17:09] William White: Should be there around 7pm.
+[18:39] Sarah: What's your status?
+[18:41] William White: Doing alright, just tired.
+[18:43] Sarah: What's your ETA?
+[18:45] William White: Should be there around 3pm.
+[20:07] Sarah: Still on schedule?
+[20:09] William White: Accident up ahead, traffic's backed up.
+[20:11] Sarah: What's your ETA?
+[20:13] William White: Probably 10am, maybe a bit earlier.
+[21:38] Sarah: Still on schedule?
+[21:40] William White: Weather's getting rough up ahead, heads up.
+[21:42] Sarah: What's your ETA?
+[21:44] William White: Looking at 5pm if traffic stays clear.
+[22:45] Sarah: Any updates on your progress?
+[22:47] William White: About 257 miles out from Salt Lake City, UT now.
+[22:49] Sarah: What's your ETA?
+[22:51] William White: Probably 5pm, maybe a bit earlier.
+[23:47] Sarah: How's LD-53997 looking?
+[23:49] William White: Just topped off the tank.
+[23:52] Sarah: Long trip, huh? Get some rest when you can.
+[23:54] William White: No problem, just doing my job.
+[00:36] Sarah: What's your status?
+[00:38] William White: Clear skies here, no problems.
+[01:15] Sarah: Where are you at right now?
+[01:17] William White: Stopping for fuel in a bit.
+[01:57] Sarah: What's your status?
+[01:59] William White: Stopping for fuel in a bit.
+[03:17] Sarah: What's your status?
+[03:19] William White: Roads are clear now, moving well.
+[03:21] Sarah: What's your ETA?
+[03:23] William White: Looking at 5pm if traffic stays clear.
+[03:54] Sarah: Still on schedule?
+[03:56] William White: Clear skies here, no problems.
+[03:59] Sarah: Long trip, huh? Get some rest when you can.
+[04:01] William White: Doing alright, just tired.
+[05:06] Sarah: Still on schedule?
+[05:08] William White: Just passed Denver, CO, everything's fine.
+[05:50] Sarah: Still on schedule?
+[05:52] William White: About 299 miles out from Salt Lake City, UT now.
+[05:55] Sarah: How are you holding up out there?
+[05:57] William White: No problem, just doing my job.
+[06:48] Sarah: How's LD-53997 looking?
+[06:50] William White: Just passed Salt Lake City, UT, everything's fine.
+[06:52] Sarah: What's your ETA?
+[06:54] William White: Looking at 3pm if traffic stays clear.
+[08:20] Sarah: Where are you at right now?
+[08:22] William White: Just topped off the tank.
+[09:21] Sarah: How's LD-53997 looking?
+[09:23] William White: Stopped for a quick break, back on the road in a few.
+[10:35] Sarah: What's your status?
+[10:37] William White: No problem, just doing my job.
+[11:51] Sarah: Any updates on your progress?
+[11:53] William White: No problem, just doing my job.
+[12:34] Sarah: What's your status?
+[12:36] William White: Just topped off the tank.
+[12:39] Sarah: Appreciate you keeping me posted.
+[12:41] William White: No problem, just doing my job.
+[14:11] Sarah: What's your status?
+[14:13] William White: About 288 miles out from Salt Lake City, UT now.
+[14:16] Sarah: Long trip, huh? Get some rest when you can.
+[14:18] William White: Will do, thanks for checking in.
+[15:05] Sarah: Still on schedule?
+[15:07] William White: Will do, thanks for checking in.
+[15:36] William White: Still sitting at the warehouse dock, been here almost 3 hours already.
+[15:38] Sarah: Let me call them and see what's going on.
+[15:48] Sarah: Ok talked to them, they said 30 more minutes, forklift issue.
+[15:50] William White: Make sure detention pay gets logged for this.
+[15:52] Sarah: Already noted, don't worry, you'll get paid for the wait.
+[16:08] Sarah: Any updates on your progress?
+[16:10] William White: Making good time, no issues so far.
+[16:55] Sarah: How's LD-53997 looking?
+[16:57] William White: About 505 miles out from Salt Lake City, UT now.
+[17:40] Sarah: Still on schedule?
+[17:42] William White: Traffic's a bit heavy but I'm still on schedule.
+[18:22] Sarah: Still on schedule?
+[18:24] William White: Traffic's a bit heavy but I'm still on schedule.
+[18:58] Sarah: How's LD-53997 looking?
+[19:00] William White: Traffic's a bit heavy but I'm still on schedule.
+[19:49] Sarah: What's your status?
+[19:51] William White: Just passed Denver, CO, everything's fine.
+[20:46] Sarah: What's your status?
+[20:48] William White: Just crossed the state line, all good.
+[21:04] Sarah: What's your status?
+[21:06] William White: Just passed Denver, CO, everything's fine.
+[21:45] Sarah: How's LD-53997 looking?
+[21:47] William White: About 576 miles out from Salt Lake City, UT now.
+[22:45] Sarah: Any updates on your progress?
+[22:47] William White: About 298 miles out from Salt Lake City, UT now.
+[23:21] Sarah: Any updates on your progress?
+[23:23] William White: Traffic's a bit heavy but I'm still on schedule.
+[00:07] Sarah: How's LD-53997 looking?
+[00:09] William White: Stopped for a quick break, back on the road in a few.
+[00:49] Sarah: Where are you at right now?
+[00:51] William White: Stopped for a quick break, back on the road in a few.
+[01:35] Sarah: Where are you at right now?
+[01:37] William White: Stopped for a quick break, back on the road in a few.
+[01:58] Sarah: How's LD-53997 looking?
+[02:00] William White: Stopped for a quick break, back on the road in a few.
+[02:33] Sarah: Still on schedule?
+[02:35] William White: Traffic's a bit heavy but I'm still on schedule.
+[03:08] William White: Just delivered LD-53997 at Salt Lake City, UT, all good, no damages.
+[03:10] Sarah: Do you have the signed BOL?
+[03:12] William White: Yep, taking a picture now.
+[03:13] William White: [Image attached: signed_bol.jpg]
+[03:15] Sarah: Sending you the next load details shortly.
+[03:17] William White: Sounds good.
+[03:19] Sarah: Thanks for the update, drive safe.

@@ -1,0 +1,129 @@
+Chat Log #185
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Wilson | Truck: #908 (step deck)
+Operator: Sarah
+Load: LD-57362 | Route: Portland, OR -> Seattle, WA
+Date: 2026-04-07
+--------------------------------------------------
+[06:06] Sarah: Hey Andre, how's it going?
+[06:07] Andre Wilson: Yeah, go ahead.
+[06:09] Sarah: Got a load for you - LD-57362, step deck, pickup in Portland, OR, delivery to Seattle, WA.
+[06:11] Andre Wilson: Ok, what's the pickup window?
+[06:13] Sarah: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[06:15] Andre Wilson: What's the rate on this one?
+[06:17] Sarah: $2774 all in, 376 miles.
+[06:19] Andre Wilson: Sounds good, I'll take it.
+[06:21] Sarah: Great, sending the rate confirmation now.
+[06:24] Andre Wilson: Got it, signed and sent back.
+[07:35] Sarah: Where are you at right now?
+[07:37] Andre Wilson: Yeah, long one, but manageable.
+[08:02] Sarah: Any updates on your progress?
+[08:04] Andre Wilson: Just topped off the tank.
+[08:07] Sarah: How are you holding up out there?
+[08:09] Andre Wilson: No problem, just doing my job.
+[08:37] Sarah: Still on schedule?
+[08:39] Andre Wilson: Just topped off the tank.
+[08:42] Sarah: Let me know if you need anything.
+[08:44] Andre Wilson: No problem, just doing my job.
+[09:03] Sarah: What's your status?
+[09:05] Andre Wilson: Accident up ahead, traffic's backed up.
+[09:42] Sarah: What's your status?
+[09:44] Andre Wilson: About 182 miles out from Seattle, WA now.
+[11:09] Sarah: Where are you at right now?
+[11:11] Andre Wilson: Roads are clear now, moving well.
+[12:08] Sarah: Still on schedule?
+[12:10] Andre Wilson: Fuel prices are decent around here.
+[12:13] Sarah: How are you holding up out there?
+[12:15] Andre Wilson: Doing alright, just tired.
+[13:29] Sarah: How's LD-57362 looking?
+[13:31] Andre Wilson: Doing alright, just tired.
+[13:34] Sarah: Long trip, huh? Get some rest when you can.
+[13:36] Andre Wilson: Will do, thanks for checking in.
+[14:31] Sarah: How's LD-57362 looking?
+[14:33] Andre Wilson: Fuel prices are decent around here.
+[14:36] Sarah: Appreciate you keeping me posted.
+[14:38] Andre Wilson: Doing alright, just tired.
+[15:31] Sarah: Still on schedule?
+[15:33] Andre Wilson: Rain is picking up here, slowing down a bit.
+[16:29] Sarah: Still on schedule?
+[16:31] Andre Wilson: Roads are wet, taking it easy.
+[16:34] Sarah: How are you holding up out there?
+[16:36] Andre Wilson: No problem, just doing my job.
+[17:30] Sarah: What's your status?
+[17:32] Andre Wilson: Rain is picking up here, slowing down a bit.
+[17:34] Sarah: What's your ETA?
+[17:36] Andre Wilson: Should be there around noon.
+[18:03] Sarah: Where are you at right now?
+[18:05] Andre Wilson: Accident up ahead, traffic's backed up.
+[18:08] Sarah: Let me know if you need anything.
+[18:10] Andre Wilson: Yeah, long one, but manageable.
+[19:04] Sarah: Still on schedule?
+[19:06] Andre Wilson: Just topped off the tank.
+[19:08] Sarah: What's your ETA?
+[19:10] Andre Wilson: Should be there around 10am.
+[19:29] Sarah: Where are you at right now?
+[19:31] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[20:43] Sarah: How's LD-57362 looking?
+[20:45] Andre Wilson: About 63 miles out from Seattle, WA now.
+[20:47] Sarah: What's your ETA?
+[20:49] Andre Wilson: Should be there around 5pm.
+[21:46] Sarah: Where are you at right now?
+[21:48] Andre Wilson: Stopping for fuel in a bit.
+[21:51] Sarah: How are you holding up out there?
+[21:53] Andre Wilson: Yeah, long one, but manageable.
+[21:55] Sarah: What's your ETA?
+[21:57] Andre Wilson: Probably 3pm, maybe a bit earlier.
+[23:24] Sarah: How's LD-57362 looking?
+[23:26] Andre Wilson: Just passed Portland, OR, everything's fine.
+[23:58] Sarah: Any updates on your progress?
+[00:00] Andre Wilson: Roads are clear now, moving well.
+[00:25] Andre Wilson: Coming up on my HOS limit, only got about 30 minutes left.
+[00:27] Sarah: Understood, get your rest, I'll let the receiver know.
+[00:42] Sarah: Any updates on your progress?
+[00:44] Andre Wilson: Just passed Portland, OR, everything's fine.
+[01:11] Sarah: Where are you at right now?
+[01:13] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[01:43] Sarah: What's your status?
+[01:45] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[02:39] Sarah: How's LD-57362 looking?
+[02:41] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[03:16] Sarah: How's LD-57362 looking?
+[03:18] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[03:41] Sarah: How's LD-57362 looking?
+[03:43] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[03:58] Sarah: Still on schedule?
+[04:00] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[04:56] Sarah: What's your status?
+[04:58] Andre Wilson: Making good time, no issues so far.
+[05:41] Sarah: How's LD-57362 looking?
+[05:43] Andre Wilson: About 472 miles out from Seattle, WA now.
+[06:23] Sarah: Still on schedule?
+[06:25] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[07:09] Sarah: What's your status?
+[07:11] Andre Wilson: Just passed Portland, OR, everything's fine.
+[07:43] Sarah: How's LD-57362 looking?
+[07:45] Andre Wilson: Just passed Portland, OR, everything's fine.
+[08:24] Sarah: Where are you at right now?
+[08:26] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[09:01] Sarah: How's LD-57362 looking?
+[09:03] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[09:42] Sarah: What's your status?
+[09:44] Andre Wilson: About 591 miles out from Seattle, WA now.
+[10:01] Sarah: Where are you at right now?
+[10:03] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[10:35] Sarah: Where are you at right now?
+[10:37] Andre Wilson: Just passed Seattle, WA, everything's fine.
+[11:33] Sarah: Where are you at right now?
+[11:35] Andre Wilson: Just passed Seattle, WA, everything's fine.
+[12:28] Sarah: Where are you at right now?
+[12:30] Andre Wilson: Making good time, no issues so far.
+[13:27] Sarah: Where are you at right now?
+[13:29] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[14:28] Andre Wilson: Just delivered LD-57362 at Seattle, WA, all good, no damages.
+[14:30] Sarah: Do you have the signed BOL?
+[14:32] Andre Wilson: Yep, taking a picture now.
+[14:33] Andre Wilson: [Image attached: signed_bol.jpg]
+[14:35] Sarah: Sending you the next load details shortly.
+[14:37] Andre Wilson: Copy that.
+[14:39] Sarah: Thanks for the update, drive safe.

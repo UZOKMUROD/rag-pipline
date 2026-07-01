@@ -1,0 +1,133 @@
+Chat Log #363
+Company: Silk Road Logistics
+Language: English
+Driver: Steve Martinez | Truck: #280 (dry van)
+Operator: Amanda
+Load: LD-85343 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-06-02
+--------------------------------------------------
+[06:16] Amanda: Hey Steve, how's it going?
+[06:17] Steve Martinez: Hey, yeah I'm here.
+[06:19] Amanda: Got a load for you - LD-85343, dry van, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[06:21] Steve Martinez: Ok, what's the pickup window?
+[06:23] Amanda: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[06:25] Steve Martinez: What's the rate on this one?
+[06:27] Amanda: $2072 all in, 921 miles.
+[06:29] Steve Martinez: Sounds good, I'll take it.
+[06:31] Amanda: Great, sending the rate confirmation now.
+[06:34] Steve Martinez: Got it, signed and sent back.
+[07:09] Amanda: What's your status?
+[07:11] Steve Martinez: Weather's getting rough up ahead, heads up.
+[07:14] Amanda: Let me know if you need anything.
+[07:16] Steve Martinez: Doing alright, just tired.
+[08:09] Amanda: How's LD-85343 looking?
+[08:11] Steve Martinez: Fuel prices are decent around here.
+[09:06] Amanda: What's your status?
+[09:08] Steve Martinez: Stopping for fuel in a bit.
+[10:22] Amanda: How's LD-85343 looking?
+[10:24] Steve Martinez: Just topped off the tank.
+[10:26] Amanda: What's your ETA?
+[10:28] Steve Martinez: Should be there around 5pm.
+[11:36] Amanda: How's LD-85343 looking?
+[11:38] Steve Martinez: Making good time, no issues so far.
+[11:40] Amanda: What's your ETA?
+[11:42] Steve Martinez: Should be there around 5pm.
+[11:58] Amanda: Still on schedule?
+[12:00] Steve Martinez: Doing alright, just tired.
+[12:44] Amanda: What's your status?
+[12:46] Steve Martinez: Making good time, no issues so far.
+[12:48] Amanda: What's your ETA?
+[12:50] Steve Martinez: Probably 3pm, maybe a bit earlier.
+[13:20] Amanda: Where are you at right now?
+[13:22] Steve Martinez: Doing alright, just tired.
+[13:25] Amanda: Long trip, huh? Get some rest when you can.
+[13:27] Steve Martinez: No problem, just doing my job.
+[14:51] Amanda: How's LD-85343 looking?
+[14:53] Steve Martinez: Fuel prices are decent around here.
+[14:56] Amanda: Appreciate you keeping me posted.
+[14:58] Steve Martinez: No problem, just doing my job.
+[16:21] Amanda: Where are you at right now?
+[16:23] Steve Martinez: Doing alright, just tired.
+[16:44] Amanda: What's your status?
+[16:46] Steve Martinez: Just crossed the state line, all good.
+[17:44] Amanda: What's your status?
+[17:46] Steve Martinez: Doing alright, just tired.
+[17:49] Amanda: How are you holding up out there?
+[17:51] Steve Martinez: No problem, just doing my job.
+[17:53] Amanda: What's your ETA?
+[17:55] Steve Martinez: Probably 7pm, maybe a bit earlier.
+[19:08] Amanda: Where are you at right now?
+[19:10] Steve Martinez: Hit some traffic near Indianapolis, IN, adding maybe 20 minutes.
+[20:01] Amanda: Where are you at right now?
+[20:03] Steve Martinez: Fuel prices are decent around here.
+[20:57] Amanda: Where are you at right now?
+[20:59] Steve Martinez: Will do, thanks for checking in.
+[21:19] Amanda: How's LD-85343 looking?
+[21:21] Steve Martinez: Doing alright, just tired.
+[21:24] Amanda: How are you holding up out there?
+[21:26] Steve Martinez: Yeah, long one, but manageable.
+[21:28] Amanda: What's your ETA?
+[21:30] Steve Martinez: Looking at 5pm if traffic stays clear.
+[22:41] Amanda: Any updates on your progress?
+[22:43] Steve Martinez: Stopped for a quick break, back on the road in a few.
+[23:45] Amanda: Still on schedule?
+[23:47] Steve Martinez: Construction zone slowing everyone down.
+[00:11] Amanda: How's LD-85343 looking?
+[00:13] Steve Martinez: Stopped for a quick break, back on the road in a few.
+[00:16] Amanda: How are you holding up out there?
+[00:18] Steve Martinez: Will do, thanks for checking in.
+[00:20] Amanda: What's your ETA?
+[00:22] Steve Martinez: Should be there around 7pm.
+[01:01] Steve Martinez: Coming up on my HOS limit, only got about 45 minutes left.
+[01:03] Amanda: Understood, get your rest, I'll let the receiver know.
+[02:00] Amanda: Where are you at right now?
+[02:02] Steve Martinez: About 180 miles out from Louisville, KY now.
+[02:42] Amanda: How's LD-85343 looking?
+[02:44] Steve Martinez: Making good time, no issues so far.
+[03:14] Amanda: Where are you at right now?
+[03:16] Steve Martinez: Just crossed the state line, all good.
+[03:39] Amanda: Still on schedule?
+[03:41] Steve Martinez: Making good time, no issues so far.
+[04:19] Amanda: What's your status?
+[04:21] Steve Martinez: Just passed Louisville, KY, everything's fine.
+[04:36] Amanda: Any updates on your progress?
+[04:38] Steve Martinez: About 315 miles out from Louisville, KY now.
+[05:25] Amanda: Where are you at right now?
+[05:27] Steve Martinez: Just crossed the state line, all good.
+[06:04] Amanda: How's LD-85343 looking?
+[06:06] Steve Martinez: Just passed Louisville, KY, everything's fine.
+[06:25] Amanda: How's LD-85343 looking?
+[06:27] Steve Martinez: Just passed Indianapolis, IN, everything's fine.
+[07:20] Amanda: What's your status?
+[07:22] Steve Martinez: Just passed Indianapolis, IN, everything's fine.
+[08:12] Amanda: How's LD-85343 looking?
+[08:14] Steve Martinez: About 65 miles out from Louisville, KY now.
+[09:01] Amanda: Where are you at right now?
+[09:03] Steve Martinez: Just crossed the state line, all good.
+[09:47] Amanda: Still on schedule?
+[09:49] Steve Martinez: Traffic's a bit heavy but I'm still on schedule.
+[10:35] Amanda: Any updates on your progress?
+[10:37] Steve Martinez: Making good time, no issues so far.
+[11:02] Amanda: Still on schedule?
+[11:04] Steve Martinez: About 357 miles out from Louisville, KY now.
+[11:51] Amanda: Any updates on your progress?
+[11:53] Steve Martinez: Traffic's a bit heavy but I'm still on schedule.
+[12:08] Amanda: How's LD-85343 looking?
+[12:10] Steve Martinez: Just passed Louisville, KY, everything's fine.
+[12:44] Amanda: Any updates on your progress?
+[12:46] Steve Martinez: Stopped for a quick break, back on the road in a few.
+[13:45] Amanda: Where are you at right now?
+[13:47] Steve Martinez: Just crossed the state line, all good.
+[14:23] Amanda: Where are you at right now?
+[14:25] Steve Martinez: Making good time, no issues so far.
+[14:42] Amanda: What's your status?
+[14:44] Steve Martinez: Just crossed the state line, all good.
+[15:35] Amanda: Any updates on your progress?
+[15:37] Steve Martinez: Making good time, no issues so far.
+[16:28] Steve Martinez: Just delivered LD-85343 at Louisville, KY, all good, no damages.
+[16:30] Amanda: Do you have the signed BOL?
+[16:32] Steve Martinez: Yep, taking a picture now.
+[16:33] Steve Martinez: [Image attached: signed_bol.jpg]
+[16:35] Amanda: Sending you the next load details shortly.
+[16:37] Steve Martinez: Will do.
+[16:39] Amanda: Great work, thank you.

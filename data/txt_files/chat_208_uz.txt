@@ -1,0 +1,153 @@
+Chat Log #208
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #222 (tentli furgon)
+Operator: Malika
+Load: LD-57383 | Route: Qarshi -> Termiz
+Date: 2026-01-28
+--------------------------------------------------
+[11:42] Malika: Xayrli tong, Farrukh, aloqadamisiz?
+[11:43] Farrukh Tashkentov: Ha, aloqadaman.
+[11:45] Malika: Siz uchun yuk bor - LD-57383, tentli furgon, Qarshidan yuklanadi, Termizga tushiriladi.
+[11:47] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[11:49] Malika: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[11:51] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[11:53] Malika: 3342 ming so'm, 967 km.
+[11:55] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[11:57] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:00] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[12:52] Malika: Holatingiz qanday?
+[12:54] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[12:57] Malika: Xabar berib turganingiz uchun rahmat.
+[12:59] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[13:01] Malika: Taxminan qachon yetib borasiz?
+[13:03] Farrukh Tashkentov: Taxminan 5pmda yetib boraman.
+[13:49] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[13:51] Farrukh Tashkentov: Termizgacha taxminan 56 km qoldi.
+[14:46] Malika: LD-57383 bilan ishlar qalay?
+[14:48] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:50] Malika: Taxminan qachon yetib borasiz?
+[14:52] Farrukh Tashkentov: Taxminan noonda yetib boraman.
+[15:58] Malika: Holatingiz qanday?
+[16:00] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[16:47] Malika: Yo'lda yangilik bormi?
+[16:49] Farrukh Tashkentov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[16:51] Malika: Taxminan qachon yetib borasiz?
+[16:53] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[17:50] Malika: LD-57383 bilan ishlar qalay?
+[17:52] Farrukh Tashkentov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[18:39] Malika: Hozir qayerdasiz?
+[18:41] Farrukh Tashkentov: Termizgacha taxminan 43 km qoldi.
+[18:44] Malika: Biror narsa kerak bo'lsa ayting.
+[18:46] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[19:45] Malika: LD-57383 bilan ishlar qalay?
+[19:47] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[19:49] Malika: Taxminan qachon yetib borasiz?
+[19:51] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 5pmda.
+[21:20] Malika: LD-57383 bilan ishlar qalay?
+[21:22] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:24] Malika: Taxminan qachon yetib borasiz?
+[21:26] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[22:52] Malika: Hozir qayerdasiz?
+[22:54] Farrukh Tashkentov: Termizgacha taxminan 518 km qoldi.
+[23:43] Malika: Hozir qayerdasiz?
+[23:45] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:47] Malika: Taxminan qachon yetib borasiz?
+[23:49] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[01:17] Malika: Hozir qayerdasiz?
+[01:19] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[01:22] Malika: O'zingizni qalay his qilyapsiz?
+[01:24] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[01:41] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:43] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:52] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[02:54] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:57] Malika: O'zingizni qalay his qilyapsiz?
+[02:59] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[03:25] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:27] Farrukh Tashkentov: Termiz yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[04:37] Malika: LD-57383 bilan ishlar qalay?
+[04:39] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[04:42] Malika: Biror narsa kerak bo'lsa ayting.
+[04:44] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[05:47] Malika: Hozir qayerdasiz?
+[05:49] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[05:51] Malika: Taxminan qachon yetib borasiz?
+[05:53] Farrukh Tashkentov: Taxminan 3pmda yetib boraman.
+[06:59] Malika: Yo'lda yangilik bormi?
+[07:01] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[07:04] Malika: Xabar berib turganingiz uchun rahmat.
+[07:06] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[07:39] Malika: Yo'lda yangilik bormi?
+[07:41] Farrukh Tashkentov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[07:44] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:46] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[08:13] Malika: LD-57383 bilan ishlar qalay?
+[08:15] Farrukh Tashkentov: Qarshi yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[09:32] Malika: Holatingiz qanday?
+[09:34] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[09:37] Malika: Biror narsa kerak bo'lsa ayting.
+[09:39] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[09:41] Malika: Taxminan qachon yetib borasiz?
+[09:43] Farrukh Tashkentov: Ehtimol 3pm, balki ertaroq.
+[10:11] Farrukh Tashkentov: Muammo chiqdi, ELD qurilmasi ishlamayapti LD-57383da. Yo'l chetiga to'xtadim.
+[10:12] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[10:14] Farrukh Tashkentov: Ha, men yaxshiman, faqat yordam kerak.
+[10:16] Malika: M34 yo'lida 203-belgida turibman.
+[10:21] Malika: Yordam mashinasi yo'lda, taxminan 45 mindan keyin yetib keladi.
+[11:44] Farrukh Tashkentov: Ta'mirlandi, yana yo'lga tushdim.
+[12:17] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[12:19] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:09] Malika: Yo'lda yangilik bormi?
+[13:11] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:59] Malika: Hozir qayerdasiz?
+[14:01] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:57] Malika: Hozir qayerdasiz?
+[14:59] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:35] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[15:37] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:19] Malika: Holatingiz qanday?
+[16:21] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:54] Malika: Hozir qayerdasiz?
+[16:56] Farrukh Tashkentov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[17:18] Malika: Hozir qayerdasiz?
+[17:20] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:00] Malika: Yo'lda yangilik bormi?
+[18:02] Farrukh Tashkentov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[18:59] Malika: Hozir qayerdasiz?
+[19:01] Farrukh Tashkentov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[19:23] Malika: Holatingiz qanday?
+[19:25] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:16] Malika: Hozir qayerdasiz?
+[20:18] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:56] Malika: LD-57383 bilan ishlar qalay?
+[20:58] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:21] Malika: Holatingiz qanday?
+[21:23] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:15] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[22:17] Farrukh Tashkentov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[23:10] Malika: Hozir qayerdasiz?
+[23:12] Farrukh Tashkentov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[23:36] Malika: Holatingiz qanday?
+[23:38] Farrukh Tashkentov: Termizgacha taxminan 186 km qoldi.
+[00:05] Malika: Holatingiz qanday?
+[00:07] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:40] Malika: Holatingiz qanday?
+[00:42] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:40] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:42] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:11] Malika: LD-57383 bilan ishlar qalay?
+[02:13] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:07] Malika: LD-57383 bilan ishlar qalay?
+[03:09] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:39] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:41] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:36] Malika: LD-57383 bilan ishlar qalay?
+[04:38] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:52] Farrukh Tashkentov: LD-57383 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:54] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[05:56] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[05:57] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:59] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:01] Farrukh Tashkentov: Tushundim.
+[06:03] Malika: Ajoyib ish, rahmat.

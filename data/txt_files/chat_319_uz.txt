@@ -1,0 +1,155 @@
+Chat Log #319
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #616 (tentli furgon)
+Operator: Nodira
+Load: LD-10071 | Route: Buxoro -> Navoiy
+Date: 2026-03-23
+--------------------------------------------------
+[11:58] Nodira: Xayrli tong, Shavkat, aloqadamisiz?
+[11:59] Shavkat Ergashev: Ha, aytavering.
+[12:01] Nodira: Siz uchun yuk bor - LD-10071, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[12:03] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[12:05] Nodira: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[12:07] Shavkat Ergashev: Bu reys uchun narx qancha?
+[12:09] Nodira: 2262 ming so'm, 822 km.
+[12:11] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[12:13] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:16] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[13:42] Nodira: LD-10071 bilan ishlar qalay?
+[13:44] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[14:34] Nodira: Yo'lda yangilik bormi?
+[14:36] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[14:39] Nodira: O'zingizni qalay his qilyapsiz?
+[14:41] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[15:52] Nodira: Yo'lda yangilik bormi?
+[15:54] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[17:01] Nodira: LD-10071 bilan ishlar qalay?
+[17:03] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:06] Nodira: Xabar berib turganingiz uchun rahmat.
+[17:08] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[17:30] Nodira: Holatingiz qanday?
+[17:32] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[18:08] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:10] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[18:35] Nodira: Hozir qayerdasiz?
+[18:37] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[18:40] Nodira: O'zingizni qalay his qilyapsiz?
+[18:42] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[18:44] Nodira: Taxminan qachon yetib borasiz?
+[18:46] Shavkat Ergashev: Agar tirbandlik bo'lmasa 7pmda.
+[19:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:39] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:04] Nodira: Yo'lda yangilik bormi?
+[21:06] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:09] Nodira: Biror narsa kerak bo'lsa ayting.
+[21:11] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[22:29] Nodira: Hozir qayerdasiz?
+[22:31] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:34] Nodira: Xabar berib turganingiz uchun rahmat.
+[22:36] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:38] Nodira: Taxminan qachon yetib borasiz?
+[22:40] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[23:31] Nodira: Hozir qayerdasiz?
+[23:33] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[23:58] Nodira: Holatingiz qanday?
+[00:00] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:03] Nodira: O'zingizni qalay his qilyapsiz?
+[00:05] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[00:07] Nodira: Taxminan qachon yetib borasiz?
+[00:09] Shavkat Ergashev: Taxminan 10amda yetib boraman.
+[01:19] Nodira: Hozir qayerdasiz?
+[01:21] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[01:24] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:26] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[02:41] Nodira: Holatingiz qanday?
+[02:43] Shavkat Ergashev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[03:44] Nodira: Holatingiz qanday?
+[03:46] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[03:49] Nodira: Biror narsa kerak bo'lsa ayting.
+[03:51] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[04:30] Shavkat Ergashev: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[04:32] Nodira: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[04:55] Nodira: Holatingiz qanday?
+[04:57] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:54] Nodira: Yo'lda yangilik bormi?
+[05:56] Shavkat Ergashev: Navoiygacha taxminan 404 km qoldi.
+[06:37] Nodira: LD-10071 bilan ishlar qalay?
+[06:39] Shavkat Ergashev: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[07:17] Nodira: Holatingiz qanday?
+[07:19] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:09] Nodira: Hozir qayerdasiz?
+[08:11] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:34] Nodira: LD-10071 bilan ishlar qalay?
+[08:36] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:57] Nodira: Holatingiz qanday?
+[08:59] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:33] Nodira: Yo'lda yangilik bormi?
+[09:35] Shavkat Ergashev: Navoiygacha taxminan 65 km qoldi.
+[10:09] Nodira: Hozir qayerdasiz?
+[10:11] Shavkat Ergashev: Navoiygacha taxminan 214 km qoldi.
+[11:08] Nodira: Yo'lda yangilik bormi?
+[11:10] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:46] Nodira: Holatingiz qanday?
+[11:48] Shavkat Ergashev: Navoiygacha taxminan 445 km qoldi.
+[12:04] Nodira: Hozir qayerdasiz?
+[12:06] Shavkat Ergashev: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[12:46] Nodira: Hozir qayerdasiz?
+[12:48] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:26] Nodira: LD-10071 bilan ishlar qalay?
+[13:28] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:58] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:00] Shavkat Ergashev: Navoiygacha taxminan 561 km qoldi.
+[14:18] Nodira: Yo'lda yangilik bormi?
+[14:20] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:56] Nodira: Hozir qayerdasiz?
+[14:58] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:36] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[15:38] Shavkat Ergashev: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[15:55] Nodira: Yo'lda yangilik bormi?
+[15:57] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:56] Nodira: LD-10071 bilan ishlar qalay?
+[16:58] Shavkat Ergashev: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[17:17] Nodira: Holatingiz qanday?
+[17:19] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:18] Nodira: Holatingiz qanday?
+[18:20] Shavkat Ergashev: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[19:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:09] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:30] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:32] Shavkat Ergashev: Navoiygacha taxminan 521 km qoldi.
+[19:55] Nodira: Holatingiz qanday?
+[19:57] Shavkat Ergashev: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[20:48] Nodira: LD-10071 bilan ishlar qalay?
+[20:50] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:46] Nodira: LD-10071 bilan ishlar qalay?
+[21:48] Shavkat Ergashev: Navoiygacha taxminan 232 km qoldi.
+[22:32] Nodira: Yo'lda yangilik bormi?
+[22:34] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:56] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:58] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:29] Nodira: LD-10071 bilan ishlar qalay?
+[23:31] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:00] Nodira: Yo'lda yangilik bormi?
+[00:02] Shavkat Ergashev: Navoiygacha taxminan 573 km qoldi.
+[00:45] Nodira: LD-10071 bilan ishlar qalay?
+[00:47] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:08] Nodira: Holatingiz qanday?
+[01:10] Shavkat Ergashev: Navoiygacha taxminan 63 km qoldi.
+[02:04] Nodira: Holatingiz qanday?
+[02:06] Shavkat Ergashev: Navoiygacha taxminan 435 km qoldi.
+[02:36] Nodira: Yo'lda yangilik bormi?
+[02:38] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:09] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:11] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:01] Nodira: Hozir qayerdasiz?
+[04:03] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:22] Nodira: Hozir qayerdasiz?
+[04:24] Shavkat Ergashev: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[05:29] Shavkat Ergashev: LD-10071 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:31] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[05:33] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[05:34] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:36] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:38] Shavkat Ergashev: Xo'p bo'ladi.
+[05:40] Nodira: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

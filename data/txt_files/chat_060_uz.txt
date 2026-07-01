@@ -1,0 +1,148 @@
+Chat Log #060
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Otabek Sultonov | Truck: #752 (platforma)
+Operator: Gulnora
+Load: LD-69089 | Route: Qarshi -> Termiz
+Date: 2026-05-13
+--------------------------------------------------
+[12:23] Gulnora: Salom, Otabek, ishlar qalay?
+[12:24] Otabek Sultonov: Ha, aloqadaman.
+[12:26] Gulnora: Siz uchun yuk bor - LD-69089, platforma, Qarshidan yuklanadi, Termizga tushiriladi.
+[12:28] Otabek Sultonov: Tushunarli, yuklash vaqti qachon?
+[12:30] Gulnora: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[12:32] Otabek Sultonov: Bu reys uchun narx qancha?
+[12:34] Gulnora: 2880 ming so'm, 565 km.
+[12:36] Otabek Sultonov: Yaxshi, bu reysni olaman.
+[12:38] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:41] Otabek Sultonov: Oldim, imzolab qaytarib yubordim.
+[13:44] Gulnora: LD-69089 bilan ishlar qalay?
+[13:46] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:40] Gulnora: Yo'lda yangilik bormi?
+[14:42] Otabek Sultonov: Oldinda avariya bo'lgan, tirbandlik bor.
+[16:08] Gulnora: Yo'lda yangilik bormi?
+[16:10] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:13] Gulnora: Biror narsa kerak bo'lsa ayting.
+[16:15] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:54] Gulnora: LD-69089 bilan ishlar qalay?
+[16:56] Otabek Sultonov: Hozirgina yoqilg'i quydim.
+[16:59] Gulnora: Biror narsa kerak bo'lsa ayting.
+[17:01] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[17:43] Gulnora: LD-69089 bilan ishlar qalay?
+[17:45] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[18:35] Gulnora: Hozir qayerdasiz?
+[18:37] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:40] Gulnora: Biror narsa kerak bo'lsa ayting.
+[18:42] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:52] Gulnora: Holatingiz qanday?
+[19:54] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:57] Gulnora: Xabar berib turganingiz uchun rahmat.
+[19:59] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[20:01] Gulnora: Taxminan qachon yetib borasiz?
+[20:03] Otabek Sultonov: Agar tirbandlik bo'lmasa noonda.
+[21:20] Gulnora: Holatingiz qanday?
+[21:22] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:25] Gulnora: O'zingizni qalay his qilyapsiz?
+[21:27] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[21:29] Gulnora: Taxminan qachon yetib borasiz?
+[21:31] Otabek Sultonov: Ehtimol noon, balki ertaroq.
+[22:50] Gulnora: Hozir qayerdasiz?
+[22:52] Otabek Sultonov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[22:54] Gulnora: Taxminan qachon yetib borasiz?
+[22:56] Otabek Sultonov: Agar tirbandlik bo'lmasa 10amda.
+[23:39] Gulnora: LD-69089 bilan ishlar qalay?
+[23:41] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:07] Gulnora: Hozir qayerdasiz?
+[01:09] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:12] Gulnora: Biror narsa kerak bo'lsa ayting.
+[01:14] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[02:35] Gulnora: LD-69089 bilan ishlar qalay?
+[02:37] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[03:00] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[03:02] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:24] Gulnora: Holatingiz qanday?
+[03:26] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:24] Gulnora: LD-69089 bilan ishlar qalay?
+[04:26] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:29] Gulnora: Biror narsa kerak bo'lsa ayting.
+[04:31] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[04:33] Gulnora: Taxminan qachon yetib borasiz?
+[04:35] Otabek Sultonov: Taxminan 5pmda yetib boraman.
+[04:55] Gulnora: Hozir qayerdasiz?
+[04:57] Otabek Sultonov: Yo'llar bo'sh, yaxshi ketyapman.
+[05:32] Gulnora: LD-69089 bilan ishlar qalay?
+[05:34] Otabek Sultonov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[05:36] Gulnora: Taxminan qachon yetib borasiz?
+[05:38] Otabek Sultonov: Ehtimol 3pm, balki ertaroq.
+[06:31] Gulnora: LD-69089 bilan ishlar qalay?
+[06:33] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[07:24] Gulnora: Yo'lda yangilik bormi?
+[07:26] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[07:29] Gulnora: Biror narsa kerak bo'lsa ayting.
+[07:31] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[07:48] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[07:50] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:53] Gulnora: Biror narsa kerak bo'lsa ayting.
+[07:55] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[08:12] Otabek Sultonov: Hali ham jo'natuvchida turibman, deyarli 4 soat bo'ldi.
+[08:14] Gulnora: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[08:24] Gulnora: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[08:26] Otabek Sultonov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[08:28] Gulnora: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[09:15] Gulnora: Yo'lda yangilik bormi?
+[09:17] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:53] Gulnora: Holatingiz qanday?
+[09:55] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:37] Gulnora: LD-69089 bilan ishlar qalay?
+[10:39] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:06] Gulnora: Holatingiz qanday?
+[11:08] Otabek Sultonov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[11:35] Gulnora: Yo'lda yangilik bormi?
+[11:37] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[12:25] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:13] Gulnora: Holatingiz qanday?
+[13:15] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:59] Gulnora: Yo'lda yangilik bormi?
+[14:01] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:00] Gulnora: LD-69089 bilan ishlar qalay?
+[15:02] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:02] Gulnora: Hozir qayerdasiz?
+[16:04] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:35] Gulnora: Yo'lda yangilik bormi?
+[16:37] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:08] Gulnora: LD-69089 bilan ishlar qalay?
+[17:10] Otabek Sultonov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[17:47] Gulnora: Holatingiz qanday?
+[17:49] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:37] Gulnora: Holatingiz qanday?
+[18:39] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:58] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[19:00] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:17] Gulnora: Yo'lda yangilik bormi?
+[19:19] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:17] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:19] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:48] Gulnora: Yo'lda yangilik bormi?
+[20:50] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:20] Gulnora: LD-69089 bilan ishlar qalay?
+[21:22] Otabek Sultonov: Termizgacha taxminan 296 km qoldi.
+[22:20] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[22:22] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:37] Gulnora: Hozir qayerdasiz?
+[22:39] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:18] Gulnora: Holatingiz qanday?
+[23:20] Otabek Sultonov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[23:49] Gulnora: Yo'lda yangilik bormi?
+[23:51] Otabek Sultonov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[00:36] Gulnora: LD-69089 bilan ishlar qalay?
+[00:38] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:12] Gulnora: LD-69089 bilan ishlar qalay?
+[01:14] Otabek Sultonov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[02:00] Otabek Sultonov: LD-69089 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[02:02] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[02:04] Otabek Sultonov: Ha, hozir rasmga olaman.
+[02:05] Otabek Sultonov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:07] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:09] Otabek Sultonov: Yaxshi.
+[02:11] Gulnora: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

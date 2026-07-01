@@ -1,0 +1,128 @@
+Chat Log #267
+Company: Silk Road Logistics
+Language: English
+Driver: Victor White | Truck: #213 (reefer)
+Operator: Amanda
+Load: LD-26749 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-04-13
+--------------------------------------------------
+[16:24] Amanda: Morning Victor, you there?
+[16:25] Victor White: Yeah, go ahead.
+[16:27] Amanda: Got a load for you - LD-26749, reefer, pickup in Houston, TX, delivery to New Orleans, LA.
+[16:29] Victor White: Ok, what's the pickup window?
+[16:31] Amanda: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[16:33] Victor White: What's the rate on this one?
+[16:35] Amanda: $2193 all in, 896 miles.
+[16:37] Victor White: Sounds good, I'll take it.
+[16:39] Amanda: Great, sending the rate confirmation now.
+[16:42] Victor White: Got it, signed and sent back.
+[17:30] Amanda: What's your status?
+[17:32] Victor White: Weather's getting rough up ahead, heads up.
+[17:35] Amanda: Long trip, huh? Get some rest when you can.
+[17:37] Victor White: Yeah, long one, but manageable.
+[18:56] Amanda: Any updates on your progress?
+[18:58] Victor White: No problem, just doing my job.
+[19:01] Amanda: Long trip, huh? Get some rest when you can.
+[19:03] Victor White: Doing alright, just tired.
+[19:05] Amanda: What's your ETA?
+[19:07] Victor White: Probably 3pm, maybe a bit earlier.
+[20:12] Amanda: Any updates on your progress?
+[20:14] Victor White: Just crossed the state line, all good.
+[21:33] Amanda: Where are you at right now?
+[21:35] Victor White: Roads are clear now, moving well.
+[21:38] Amanda: Appreciate you keeping me posted.
+[21:40] Victor White: Will do, thanks for checking in.
+[22:33] Amanda: What's your status?
+[22:35] Victor White: Clear skies here, no problems.
+[23:41] Amanda: Any updates on your progress?
+[23:43] Victor White: Construction zone slowing everyone down.
+[00:33] Amanda: Still on schedule?
+[00:35] Victor White: Weather's getting rough up ahead, heads up.
+[00:38] Amanda: Long trip, huh? Get some rest when you can.
+[00:40] Victor White: Yeah, long one, but manageable.
+[02:01] Amanda: How's LD-26749 looking?
+[02:03] Victor White: About 87 miles out from New Orleans, LA now.
+[02:06] Amanda: Long trip, huh? Get some rest when you can.
+[02:08] Victor White: Will do, thanks for checking in.
+[02:10] Amanda: What's your ETA?
+[02:12] Victor White: Probably noon, maybe a bit earlier.
+[03:09] Amanda: How's LD-26749 looking?
+[03:11] Victor White: Weather's getting rough up ahead, heads up.
+[04:12] Amanda: How's LD-26749 looking?
+[04:14] Victor White: Just passed New Orleans, LA, everything's fine.
+[04:50] Amanda: Still on schedule?
+[04:52] Victor White: Yeah, long one, but manageable.
+[04:55] Amanda: Long trip, huh? Get some rest when you can.
+[04:57] Victor White: Will do, thanks for checking in.
+[06:20] Amanda: Still on schedule?
+[06:22] Victor White: Construction zone slowing everyone down.
+[06:25] Amanda: Long trip, huh? Get some rest when you can.
+[06:27] Victor White: Yeah, long one, but manageable.
+[07:55] Amanda: How's LD-26749 looking?
+[07:57] Victor White: About 493 miles out from New Orleans, LA now.
+[08:00] Amanda: How are you holding up out there?
+[08:02] Victor White: Yeah, long one, but manageable.
+[08:04] Amanda: What's your ETA?
+[08:06] Victor White: Probably 7pm, maybe a bit earlier.
+[08:54] Amanda: What's your status?
+[08:56] Victor White: Fuel prices are decent around here.
+[08:58] Amanda: What's your ETA?
+[09:00] Victor White: Probably 3pm, maybe a bit earlier.
+[09:59] Amanda: Any updates on your progress?
+[10:01] Victor White: Just crossed the state line, all good.
+[10:03] Amanda: What's your ETA?
+[10:05] Victor White: Looking at 10am if traffic stays clear.
+[10:40] Victor White: Still sitting at the receiver, been here almost 3 hours already.
+[10:42] Amanda: Let me call them and see what's going on.
+[10:52] Amanda: Ok talked to them, they said 30 more minutes, forklift issue.
+[10:54] Victor White: Make sure detention pay gets logged for this.
+[10:56] Amanda: Already noted, don't worry, you'll get paid for the wait.
+[11:55] Amanda: How's LD-26749 looking?
+[11:57] Victor White: Stopped for a quick break, back on the road in a few.
+[12:50] Amanda: What's your status?
+[12:52] Victor White: Just passed Houston, TX, everything's fine.
+[13:26] Amanda: How's LD-26749 looking?
+[13:28] Victor White: About 482 miles out from New Orleans, LA now.
+[14:13] Amanda: What's your status?
+[14:15] Victor White: Stopped for a quick break, back on the road in a few.
+[14:41] Amanda: Still on schedule?
+[14:43] Victor White: Making good time, no issues so far.
+[15:30] Amanda: What's your status?
+[15:32] Victor White: Making good time, no issues so far.
+[16:08] Amanda: Any updates on your progress?
+[16:10] Victor White: Traffic's a bit heavy but I'm still on schedule.
+[16:34] Amanda: Still on schedule?
+[16:36] Victor White: Traffic's a bit heavy but I'm still on schedule.
+[16:57] Amanda: What's your status?
+[16:59] Victor White: Stopped for a quick break, back on the road in a few.
+[17:53] Amanda: How's LD-26749 looking?
+[17:55] Victor White: Making good time, no issues so far.
+[18:21] Amanda: What's your status?
+[18:23] Victor White: Making good time, no issues so far.
+[18:49] Amanda: What's your status?
+[18:51] Victor White: Traffic's a bit heavy but I'm still on schedule.
+[19:38] Amanda: Any updates on your progress?
+[19:40] Victor White: Making good time, no issues so far.
+[20:25] Amanda: Where are you at right now?
+[20:27] Victor White: Just passed New Orleans, LA, everything's fine.
+[21:14] Amanda: What's your status?
+[21:16] Victor White: Just crossed the state line, all good.
+[21:53] Amanda: Any updates on your progress?
+[21:55] Victor White: Traffic's a bit heavy but I'm still on schedule.
+[22:49] Amanda: How's LD-26749 looking?
+[22:51] Victor White: Just crossed the state line, all good.
+[23:35] Amanda: Any updates on your progress?
+[23:37] Victor White: Making good time, no issues so far.
+[00:05] Amanda: Where are you at right now?
+[00:07] Victor White: About 101 miles out from New Orleans, LA now.
+[00:57] Amanda: Where are you at right now?
+[00:59] Victor White: Making good time, no issues so far.
+[01:18] Amanda: Where are you at right now?
+[01:20] Victor White: Traffic's a bit heavy but I'm still on schedule.
+[02:45] Victor White: Just delivered LD-26749 at New Orleans, LA, all good, no damages.
+[02:47] Amanda: Do you have the signed BOL?
+[02:49] Victor White: Yep, taking a picture now.
+[02:50] Victor White: [Image attached: signed_bol.jpg]
+[02:52] Amanda: Sending you the next load details shortly.
+[02:54] Victor White: Copy that.
+[02:56] Amanda: Appreciate it, talk soon.

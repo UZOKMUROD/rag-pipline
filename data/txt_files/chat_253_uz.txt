@@ -1,0 +1,151 @@
+Chat Log #253
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #254 (past ramali tirkama)
+Operator: Gulnora
+Load: LD-45931 | Route: Jizzax -> Guliston
+Date: 2026-05-05
+--------------------------------------------------
+[09:09] Gulnora: Xayrli tong, Sardor, aloqadamisiz?
+[09:10] Sardor Rakhimov: Ha, aloqadaman.
+[09:12] Gulnora: Siz uchun yuk bor - LD-45931, past ramali tirkama, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[09:14] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[09:16] Gulnora: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[09:18] Sardor Rakhimov: Bu reys uchun narx qancha?
+[09:20] Gulnora: 1808 ming so'm, 638 km.
+[09:22] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[09:24] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:27] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[10:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[10:26] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[10:29] Gulnora: Biror narsa kerak bo'lsa ayting.
+[10:31] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[11:01] Gulnora: Yo'lda yangilik bormi?
+[11:03] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[11:06] Gulnora: O'zingizni qalay his qilyapsiz?
+[11:08] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[11:40] Gulnora: Yo'lda yangilik bormi?
+[11:42] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[12:42] Gulnora: Hozir qayerdasiz?
+[12:44] Sardor Rakhimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[12:47] Gulnora: Biror narsa kerak bo'lsa ayting.
+[12:49] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[14:12] Gulnora: LD-45931 bilan ishlar qalay?
+[14:14] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[14:17] Gulnora: Xabar berib turganingiz uchun rahmat.
+[14:19] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:57] Gulnora: Holatingiz qanday?
+[14:59] Sardor Rakhimov: Gulistongacha taxminan 329 km qoldi.
+[15:02] Gulnora: O'zingizni qalay his qilyapsiz?
+[15:04] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[16:25] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:44] Gulnora: LD-45931 bilan ishlar qalay?
+[16:46] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[18:15] Gulnora: Yo'lda yangilik bormi?
+[18:17] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[18:20] Gulnora: Xabar berib turganingiz uchun rahmat.
+[18:22] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:00] Gulnora: Holatingiz qanday?
+[19:02] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[20:30] Gulnora: LD-45931 bilan ishlar qalay?
+[20:32] Sardor Rakhimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:58] Gulnora: Hozir qayerdasiz?
+[21:00] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:02] Gulnora: Taxminan qachon yetib borasiz?
+[21:04] Sardor Rakhimov: Ehtimol 10am, balki ertaroq.
+[22:29] Gulnora: Holatingiz qanday?
+[22:31] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[22:34] Gulnora: O'zingizni qalay his qilyapsiz?
+[22:36] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:38] Gulnora: Taxminan qachon yetib borasiz?
+[22:40] Sardor Rakhimov: Ehtimol 3pm, balki ertaroq.
+[23:33] Gulnora: LD-45931 bilan ishlar qalay?
+[23:35] Sardor Rakhimov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:14] Sardor Rakhimov: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[00:16] Gulnora: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[01:04] Gulnora: Yo'lda yangilik bormi?
+[01:06] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:34] Gulnora: Hozir qayerdasiz?
+[01:36] Sardor Rakhimov: Gulistongacha taxminan 193 km qoldi.
+[02:16] Gulnora: Yo'lda yangilik bormi?
+[02:18] Sardor Rakhimov: Gulistongacha taxminan 77 km qoldi.
+[03:01] Gulnora: Yo'lda yangilik bormi?
+[03:03] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[03:58] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[04:00] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:29] Gulnora: LD-45931 bilan ishlar qalay?
+[04:31] Sardor Rakhimov: Gulistongacha taxminan 507 km qoldi.
+[05:14] Gulnora: Yo'lda yangilik bormi?
+[05:16] Sardor Rakhimov: Gulistongacha taxminan 588 km qoldi.
+[05:49] Gulnora: Hozir qayerdasiz?
+[05:51] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:34] Gulnora: Yo'lda yangilik bormi?
+[06:36] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[07:14] Gulnora: Holatingiz qanday?
+[07:16] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:09] Gulnora: Holatingiz qanday?
+[08:11] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:03] Gulnora: Holatingiz qanday?
+[09:05] Sardor Rakhimov: Gulistongacha taxminan 471 km qoldi.
+[09:35] Gulnora: Hozir qayerdasiz?
+[09:37] Sardor Rakhimov: Gulistongacha taxminan 275 km qoldi.
+[10:32] Gulnora: Hozir qayerdasiz?
+[10:34] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:05] Gulnora: LD-45931 bilan ishlar qalay?
+[11:07] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:58] Gulnora: Yo'lda yangilik bormi?
+[12:00] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[12:17] Gulnora: Hozir qayerdasiz?
+[12:19] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[13:12] Gulnora: Holatingiz qanday?
+[13:14] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:35] Gulnora: Yo'lda yangilik bormi?
+[13:37] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:30] Gulnora: Holatingiz qanday?
+[14:32] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:48] Gulnora: Hozir qayerdasiz?
+[14:50] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:18] Gulnora: Yo'lda yangilik bormi?
+[15:20] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:12] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[16:14] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:35] Gulnora: Holatingiz qanday?
+[16:37] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:52] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[16:54] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:20] Gulnora: LD-45931 bilan ishlar qalay?
+[17:22] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:00] Gulnora: Hozir qayerdasiz?
+[18:02] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:55] Gulnora: Hozir qayerdasiz?
+[18:57] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:37] Gulnora: Hozir qayerdasiz?
+[19:39] Sardor Rakhimov: Gulistongacha taxminan 43 km qoldi.
+[20:23] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:25] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:42] Gulnora: Yo'lda yangilik bormi?
+[20:44] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:42] Gulnora: Yo'lda yangilik bormi?
+[21:44] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:09] Gulnora: Yo'lda yangilik bormi?
+[22:11] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:55] Gulnora: LD-45931 bilan ishlar qalay?
+[22:57] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:33] Gulnora: Hozir qayerdasiz?
+[23:35] Sardor Rakhimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[00:13] Gulnora: LD-45931 bilan ishlar qalay?
+[00:15] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:03] Gulnora: Yo'lda yangilik bormi?
+[01:05] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:05] Gulnora: Yo'lda yangilik bormi?
+[02:07] Sardor Rakhimov: Gulistongacha taxminan 530 km qoldi.
+[02:42] Gulnora: Hozir qayerdasiz?
+[02:44] Sardor Rakhimov: Gulistongacha taxminan 143 km qoldi.
+[03:37] Sardor Rakhimov: LD-45931 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:39] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[03:41] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[03:42] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:44] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:46] Sardor Rakhimov: Yaxshi.
+[03:48] Gulnora: Rahmat, aloqada bo'lamiz.

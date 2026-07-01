@@ -1,0 +1,151 @@
+Chat Log #089
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ulugbek Nazarov | Truck: #640 (tentli furgon)
+Operator: Feruza
+Load: LD-63242 | Route: Toshkent -> Namangan
+Date: 2026-05-15
+--------------------------------------------------
+[14:47] Feruza: Salom, Ulugbek, ishlar qalay?
+[14:48] Ulugbek Nazarov: Ha, aytavering.
+[14:50] Feruza: Siz uchun yuk bor - LD-63242, tentli furgon, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[14:52] Ulugbek Nazarov: Tushunarli, yuklash vaqti qachon?
+[14:54] Feruza: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[14:56] Ulugbek Nazarov: Bu reys uchun narx qancha?
+[14:58] Feruza: 3043 ming so'm, 428 km.
+[15:00] Ulugbek Nazarov: Yaxshi, bu reysni olaman.
+[15:02] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[15:05] Ulugbek Nazarov: Oldim, imzolab qaytarib yubordim.
+[16:31] Feruza: Yo'lda yangilik bormi?
+[16:33] Ulugbek Nazarov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:46] Feruza: Holatingiz qanday?
+[17:48] Ulugbek Nazarov: Yo'llar bo'sh, yaxshi ketyapman.
+[17:51] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[17:53] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[19:21] Feruza: Yo'lda yangilik bormi?
+[19:23] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:26] Feruza: Biror narsa kerak bo'lsa ayting.
+[19:28] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[20:18] Feruza: Holatingiz qanday?
+[20:20] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:23] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:25] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[21:35] Feruza: Yo'lda yangilik bormi?
+[21:37] Ulugbek Nazarov: Yo'llar bo'sh, yaxshi ketyapman.
+[21:40] Feruza: Biror narsa kerak bo'lsa ayting.
+[21:42] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:22] Feruza: Holatingiz qanday?
+[22:24] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:07] Feruza: LD-63242 bilan ishlar qalay?
+[23:09] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:39] Feruza: Holatingiz qanday?
+[23:41] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:43] Feruza: Taxminan qachon yetib borasiz?
+[23:45] Ulugbek Nazarov: Agar tirbandlik bo'lmasa 10amda.
+[00:51] Feruza: Yo'lda yangilik bormi?
+[00:53] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:55] Feruza: Taxminan qachon yetib borasiz?
+[00:57] Ulugbek Nazarov: Taxminan 3pmda yetib boraman.
+[02:18] Feruza: Holatingiz qanday?
+[02:20] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:39] Feruza: Holatingiz qanday?
+[03:41] Ulugbek Nazarov: Hozirgina yoqilg'i quydim.
+[03:43] Feruza: Taxminan qachon yetib borasiz?
+[03:45] Ulugbek Nazarov: Taxminan 3pmda yetib boraman.
+[04:04] Feruza: Hozir qayerdasiz?
+[04:06] Ulugbek Nazarov: Hozirgina yoqilg'i quydim.
+[04:09] Feruza: Xabar berib turganingiz uchun rahmat.
+[04:11] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[04:53] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:55] Ulugbek Nazarov: Osmon ochiq, muammo yo'q.
+[04:58] Feruza: Xabar berib turganingiz uchun rahmat.
+[05:00] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[05:55] Feruza: LD-63242 bilan ishlar qalay?
+[05:57] Ulugbek Nazarov: Hozirgina yoqilg'i quydim.
+[06:28] Feruza: Hozir qayerdasiz?
+[06:30] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:23] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:25] Ulugbek Nazarov: Namangangacha taxminan 328 km qoldi.
+[08:16] Feruza: Hozir qayerdasiz?
+[08:18] Ulugbek Nazarov: Namangangacha taxminan 251 km qoldi.
+[09:16] Feruza: LD-63242 bilan ishlar qalay?
+[09:18] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:10] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:12] Ulugbek Nazarov: Namangangacha taxminan 113 km qoldi.
+[10:55] Feruza: LD-63242 bilan ishlar qalay?
+[10:57] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:16] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:18] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:44] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:46] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:23] Feruza: Yo'lda yangilik bormi?
+[12:25] Ulugbek Nazarov: Namangangacha taxminan 501 km qoldi.
+[12:51] Feruza: Yo'lda yangilik bormi?
+[12:53] Ulugbek Nazarov: Namangangacha taxminan 95 km qoldi.
+[13:46] Feruza: Holatingiz qanday?
+[13:48] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:09] Feruza: Holatingiz qanday?
+[14:11] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:31] Feruza: Yo'lda yangilik bormi?
+[14:33] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:08] Feruza: Hozir qayerdasiz?
+[15:10] Ulugbek Nazarov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[15:45] Feruza: LD-63242 bilan ishlar qalay?
+[15:47] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:05] Feruza: Hozir qayerdasiz?
+[16:07] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:48] Feruza: Holatingiz qanday?
+[16:50] Ulugbek Nazarov: Namangangacha taxminan 375 km qoldi.
+[17:50] Feruza: Hozir qayerdasiz?
+[17:52] Ulugbek Nazarov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[18:33] Feruza: Holatingiz qanday?
+[18:35] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:57] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:59] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:58] Feruza: LD-63242 bilan ishlar qalay?
+[20:00] Ulugbek Nazarov: Namangangacha taxminan 150 km qoldi.
+[20:55] Feruza: Hozir qayerdasiz?
+[20:57] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:52] Feruza: Yo'lda yangilik bormi?
+[21:54] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:22] Feruza: Yo'lda yangilik bormi?
+[22:24] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:01] Feruza: LD-63242 bilan ishlar qalay?
+[23:03] Ulugbek Nazarov: Namangangacha taxminan 223 km qoldi.
+[00:01] Feruza: Holatingiz qanday?
+[00:03] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:34] Feruza: LD-63242 bilan ishlar qalay?
+[00:36] Ulugbek Nazarov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[01:33] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:35] Ulugbek Nazarov: Namangangacha taxminan 600 km qoldi.
+[02:12] Feruza: LD-63242 bilan ishlar qalay?
+[02:14] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:02] Feruza: Holatingiz qanday?
+[03:04] Ulugbek Nazarov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[03:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:48] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:36] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:38] Ulugbek Nazarov: Namangangacha taxminan 191 km qoldi.
+[05:29] Feruza: Holatingiz qanday?
+[05:31] Ulugbek Nazarov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:55] Feruza: LD-63242 bilan ishlar qalay?
+[05:57] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:55] Feruza: LD-63242 bilan ishlar qalay?
+[06:57] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:20] Feruza: LD-63242 bilan ishlar qalay?
+[07:22] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:08] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:10] Ulugbek Nazarov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[09:06] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:08] Ulugbek Nazarov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[09:31] Feruza: LD-63242 bilan ishlar qalay?
+[09:33] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:15] Feruza: Yo'lda yangilik bormi?
+[10:17] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:30] Ulugbek Nazarov: LD-63242 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[11:32] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[11:34] Ulugbek Nazarov: Ha, hozir rasmga olaman.
+[11:35] Ulugbek Nazarov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[11:37] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[11:39] Ulugbek Nazarov: Xo'p bo'ladi.
+[11:41] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

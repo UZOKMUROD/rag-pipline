@@ -1,0 +1,131 @@
+Chat Log #284
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Anderson | Truck: #242 (step deck)
+Operator: Amanda
+Load: LD-35200 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-05-18
+--------------------------------------------------
+[08:55] Amanda: Hey Mike, how's it going?
+[08:56] Mike Anderson: Yeah, go ahead.
+[08:58] Amanda: Got a load for you - LD-35200, step deck, pickup in Charlotte, NC, delivery to Richmond, VA.
+[09:00] Mike Anderson: Ok, what's the pickup window?
+[09:02] Amanda: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[09:04] Mike Anderson: What's the rate on this one?
+[09:06] Amanda: $4166 all in, 982 miles.
+[09:08] Mike Anderson: Sounds good, I'll take it.
+[09:10] Amanda: Great, sending the rate confirmation now.
+[09:13] Mike Anderson: Got it, signed and sent back.
+[10:08] Amanda: What's your status?
+[10:10] Mike Anderson: Stopping for fuel in a bit.
+[10:13] Amanda: Appreciate you keeping me posted.
+[10:15] Mike Anderson: Will do, thanks for checking in.
+[10:33] Amanda: How's LD-35200 looking?
+[10:35] Mike Anderson: Making good time, no issues so far.
+[10:38] Amanda: How are you holding up out there?
+[10:40] Mike Anderson: Will do, thanks for checking in.
+[11:24] Amanda: Where are you at right now?
+[11:26] Mike Anderson: Yeah, long one, but manageable.
+[11:28] Amanda: What's your ETA?
+[11:30] Mike Anderson: Probably noon, maybe a bit earlier.
+[12:15] Amanda: How's LD-35200 looking?
+[12:17] Mike Anderson: Roads are wet, taking it easy.
+[12:20] Amanda: Appreciate you keeping me posted.
+[12:22] Mike Anderson: Yeah, long one, but manageable.
+[12:24] Amanda: What's your ETA?
+[12:26] Mike Anderson: Probably 5pm, maybe a bit earlier.
+[12:42] Amanda: What's your status?
+[12:44] Mike Anderson: Clear skies here, no problems.
+[12:47] Amanda: How are you holding up out there?
+[12:49] Mike Anderson: Yeah, long one, but manageable.
+[12:51] Amanda: What's your ETA?
+[12:53] Mike Anderson: Probably 10am, maybe a bit earlier.
+[14:14] Amanda: How's LD-35200 looking?
+[14:16] Mike Anderson: About 419 miles out from Richmond, VA now.
+[14:19] Amanda: Long trip, huh? Get some rest when you can.
+[14:21] Mike Anderson: Yeah, long one, but manageable.
+[14:50] Amanda: Still on schedule?
+[14:52] Mike Anderson: Fuel prices are decent around here.
+[14:55] Amanda: How are you holding up out there?
+[14:57] Mike Anderson: Yeah, long one, but manageable.
+[16:03] Amanda: What's your status?
+[16:05] Mike Anderson: Roads are wet, taking it easy.
+[16:08] Amanda: Let me know if you need anything.
+[16:10] Mike Anderson: Will do, thanks for checking in.
+[16:49] Amanda: Still on schedule?
+[16:51] Mike Anderson: Hit some traffic near Richmond, VA, adding maybe 20 minutes.
+[17:09] Amanda: How's LD-35200 looking?
+[17:11] Mike Anderson: Will do, thanks for checking in.
+[17:14] Amanda: Let me know if you need anything.
+[17:16] Mike Anderson: Yeah, long one, but manageable.
+[17:54] Amanda: Any updates on your progress?
+[17:56] Mike Anderson: Yeah, long one, but manageable.
+[18:16] Amanda: How's LD-35200 looking?
+[18:18] Mike Anderson: About 583 miles out from Richmond, VA now.
+[18:21] Amanda: Appreciate you keeping me posted.
+[18:23] Mike Anderson: Will do, thanks for checking in.
+[19:03] Amanda: How's LD-35200 looking?
+[19:05] Mike Anderson: Hit some traffic near Charlotte, NC, adding maybe 20 minutes.
+[19:08] Amanda: How are you holding up out there?
+[19:10] Mike Anderson: No problem, just doing my job.
+[19:33] Amanda: What's your status?
+[19:35] Mike Anderson: Just crossed the state line, all good.
+[19:38] Amanda: How are you holding up out there?
+[19:40] Mike Anderson: Doing alright, just tired.
+[20:22] Amanda: Where are you at right now?
+[20:24] Mike Anderson: Stopping for fuel in a bit.
+[21:13] Amanda: How's LD-35200 looking?
+[21:15] Mike Anderson: No problem, just doing my job.
+[21:30] Amanda: Still on schedule?
+[21:32] Mike Anderson: Fuel prices are decent around here.
+[21:35] Amanda: How are you holding up out there?
+[21:37] Mike Anderson: No problem, just doing my job.
+[22:06] Amanda: Any updates on your progress?
+[22:08] Mike Anderson: Clear skies here, no problems.
+[22:11] Amanda: Long trip, huh? Get some rest when you can.
+[22:13] Mike Anderson: Yeah, long one, but manageable.
+[23:34] Amanda: Any updates on your progress?
+[23:36] Mike Anderson: No problem, just doing my job.
+[01:03] Amanda: Still on schedule?
+[01:05] Mike Anderson: Stopped for a quick break, back on the road in a few.
+[02:29] Amanda: What's your status?
+[02:31] Mike Anderson: Roads are clear now, moving well.
+[02:34] Amanda: Appreciate you keeping me posted.
+[02:36] Mike Anderson: Will do, thanks for checking in.
+[03:24] Amanda: How's LD-35200 looking?
+[03:26] Mike Anderson: Just passed Charlotte, NC, everything's fine.
+[04:18] Amanda: Where are you at right now?
+[04:20] Mike Anderson: Just crossed the state line, all good.
+[05:14] Amanda: How's LD-35200 looking?
+[05:16] Mike Anderson: Just passed Richmond, VA, everything's fine.
+[05:31] Amanda: Where are you at right now?
+[05:33] Mike Anderson: Just passed Richmond, VA, everything's fine.
+[06:12] Amanda: How's LD-35200 looking?
+[06:14] Mike Anderson: About 226 miles out from Richmond, VA now.
+[07:09] Amanda: How's LD-35200 looking?
+[07:11] Mike Anderson: Making good time, no issues so far.
+[08:00] Amanda: Still on schedule?
+[08:02] Mike Anderson: Just crossed the state line, all good.
+[08:24] Amanda: Any updates on your progress?
+[08:26] Mike Anderson: Stopped for a quick break, back on the road in a few.
+[08:47] Amanda: Any updates on your progress?
+[08:49] Mike Anderson: About 150 miles out from Richmond, VA now.
+[09:09] Amanda: What's your status?
+[09:11] Mike Anderson: Just passed Charlotte, NC, everything's fine.
+[09:48] Amanda: Where are you at right now?
+[09:50] Mike Anderson: Making good time, no issues so far.
+[10:26] Amanda: How's LD-35200 looking?
+[10:28] Mike Anderson: Just crossed the state line, all good.
+[11:00] Amanda: Still on schedule?
+[11:02] Mike Anderson: Stopped for a quick break, back on the road in a few.
+[11:31] Amanda: Any updates on your progress?
+[11:33] Mike Anderson: Just crossed the state line, all good.
+[12:29] Amanda: Where are you at right now?
+[12:31] Mike Anderson: Traffic's a bit heavy but I'm still on schedule.
+[13:23] Mike Anderson: Just delivered LD-35200 at Richmond, VA, all good, no damages.
+[13:25] Amanda: Do you have the signed BOL?
+[13:27] Mike Anderson: Yep, taking a picture now.
+[13:28] Mike Anderson: [Image attached: signed_bol.jpg]
+[13:30] Amanda: Sending you the next load details shortly.
+[13:32] Mike Anderson: Will do.
+[13:34] Amanda: Appreciate it, talk soon.

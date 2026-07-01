@@ -1,0 +1,124 @@
+Chat Log #321
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas Smith | Truck: #865 (reefer)
+Operator: Kayla
+Load: LD-86413 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-06-24
+--------------------------------------------------
+[12:58] Kayla: Hey Thomas, how's it going?
+[12:59] Thomas Smith: Hey, yeah I'm here.
+[13:01] Kayla: Got a load for you - LD-86413, reefer, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[13:03] Thomas Smith: Ok, what's the pickup window?
+[13:05] Kayla: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[13:07] Thomas Smith: What's the rate on this one?
+[13:09] Kayla: $3974 all in, 506 miles.
+[13:11] Thomas Smith: Sounds good, I'll take it.
+[13:13] Kayla: Great, sending the rate confirmation now.
+[13:16] Thomas Smith: Got it, signed and sent back.
+[14:06] Kayla: Still on schedule?
+[14:08] Thomas Smith: Just passed Minneapolis, MN, everything's fine.
+[15:00] Kayla: What's your status?
+[15:02] Thomas Smith: Hit some traffic near Milwaukee, WI, adding maybe 20 minutes.
+[16:14] Kayla: What's your status?
+[16:16] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[17:23] Kayla: What's your status?
+[17:25] Thomas Smith: Rain is picking up here, slowing down a bit.
+[18:43] Kayla: What's your status?
+[18:45] Thomas Smith: About 401 miles out from Milwaukee, WI now.
+[18:48] Kayla: Let me know if you need anything.
+[18:50] Thomas Smith: No problem, just doing my job.
+[19:09] Kayla: What's your status?
+[19:11] Thomas Smith: Hit some traffic near Milwaukee, WI, adding maybe 20 minutes.
+[19:14] Kayla: Appreciate you keeping me posted.
+[19:16] Thomas Smith: Doing alright, just tired.
+[19:18] Kayla: What's your ETA?
+[19:20] Thomas Smith: Looking at noon if traffic stays clear.
+[20:04] Kayla: Where are you at right now?
+[20:06] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[21:17] Kayla: How's LD-86413 looking?
+[21:19] Thomas Smith: Construction zone slowing everyone down.
+[21:22] Kayla: Let me know if you need anything.
+[21:24] Thomas Smith: Will do, thanks for checking in.
+[21:39] Kayla: How's LD-86413 looking?
+[21:41] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[22:33] Kayla: Any updates on your progress?
+[22:35] Thomas Smith: Yeah, long one, but manageable.
+[22:38] Kayla: How are you holding up out there?
+[22:40] Thomas Smith: No problem, just doing my job.
+[23:11] Kayla: Still on schedule?
+[23:13] Thomas Smith: Rain is picking up here, slowing down a bit.
+[23:46] Kayla: Any updates on your progress?
+[23:48] Thomas Smith: Just passed Minneapolis, MN, everything's fine.
+[23:51] Kayla: Appreciate you keeping me posted.
+[23:53] Thomas Smith: Will do, thanks for checking in.
+[01:19] Kayla: How's LD-86413 looking?
+[01:21] Thomas Smith: Accident up ahead, traffic's backed up.
+[01:24] Kayla: Let me know if you need anything.
+[01:26] Thomas Smith: Yeah, long one, but manageable.
+[01:28] Kayla: What's your ETA?
+[01:30] Thomas Smith: Probably 3pm, maybe a bit earlier.
+[02:33] Kayla: How's LD-86413 looking?
+[02:35] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[02:37] Kayla: What's your ETA?
+[02:39] Thomas Smith: Should be there around noon.
+[03:58] Kayla: Any updates on your progress?
+[04:00] Thomas Smith: Fuel prices are decent around here.
+[04:03] Kayla: How are you holding up out there?
+[04:05] Thomas Smith: Doing alright, just tired.
+[05:00] Kayla: Still on schedule?
+[05:02] Thomas Smith: Stopped for a quick break, back on the road in a few.
+[05:05] Kayla: Long trip, huh? Get some rest when you can.
+[05:07] Thomas Smith: Will do, thanks for checking in.
+[05:25] Kayla: Where are you at right now?
+[05:27] Thomas Smith: Accident up ahead, traffic's backed up.
+[05:30] Kayla: Long trip, huh? Get some rest when you can.
+[05:32] Thomas Smith: No problem, just doing my job.
+[05:49] Kayla: Where are you at right now?
+[05:51] Thomas Smith: Just crossed the state line, all good.
+[06:50] Kayla: How's LD-86413 looking?
+[06:52] Thomas Smith: Fuel prices are decent around here.
+[06:55] Kayla: How are you holding up out there?
+[06:57] Thomas Smith: Will do, thanks for checking in.
+[07:50] Kayla: What's your status?
+[07:52] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[08:25] Kayla: Any updates on your progress?
+[08:27] Thomas Smith: Just crossed the state line, all good.
+[08:30] Kayla: How are you holding up out there?
+[08:32] Thomas Smith: Doing alright, just tired.
+[08:54] Kayla: Any updates on your progress?
+[08:56] Thomas Smith: Hit some traffic near Milwaukee, WI, adding maybe 20 minutes.
+[09:07] Thomas Smith: Still sitting at the receiver, been here almost 3 hours already.
+[09:09] Kayla: Let me call them and see what's going on.
+[09:19] Kayla: Ok talked to them, they said 30 more minutes, forklift issue.
+[09:21] Thomas Smith: Make sure detention pay gets logged for this.
+[09:23] Kayla: Already noted, don't worry, you'll get paid for the wait.
+[10:03] Kayla: How's LD-86413 looking?
+[10:05] Thomas Smith: Making good time, no issues so far.
+[10:58] Kayla: Any updates on your progress?
+[11:00] Thomas Smith: Just passed Milwaukee, WI, everything's fine.
+[11:16] Kayla: What's your status?
+[11:18] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[11:40] Kayla: What's your status?
+[11:42] Thomas Smith: Traffic's a bit heavy but I'm still on schedule.
+[12:33] Kayla: Still on schedule?
+[12:35] Thomas Smith: Just passed Milwaukee, WI, everything's fine.
+[13:12] Kayla: Where are you at right now?
+[13:14] Thomas Smith: Stopped for a quick break, back on the road in a few.
+[13:37] Kayla: How's LD-86413 looking?
+[13:39] Thomas Smith: Stopped for a quick break, back on the road in a few.
+[14:19] Kayla: Still on schedule?
+[14:21] Thomas Smith: Just passed Minneapolis, MN, everything's fine.
+[14:46] Kayla: Where are you at right now?
+[14:48] Thomas Smith: About 443 miles out from Milwaukee, WI now.
+[15:10] Kayla: Any updates on your progress?
+[15:12] Thomas Smith: Just crossed the state line, all good.
+[15:39] Kayla: Where are you at right now?
+[15:41] Thomas Smith: Stopped for a quick break, back on the road in a few.
+[16:53] Thomas Smith: Just delivered LD-86413 at Milwaukee, WI, all good, no damages.
+[16:55] Kayla: Do you have the signed BOL?
+[16:57] Thomas Smith: Yep, taking a picture now.
+[16:58] Thomas Smith: [Image attached: signed_bol.jpg]
+[17:00] Kayla: Sending you the next load details shortly.
+[17:02] Thomas Smith: Understood.
+[17:04] Kayla: Thanks for the update, drive safe.

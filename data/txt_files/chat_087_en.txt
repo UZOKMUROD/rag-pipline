@@ -1,0 +1,128 @@
+Chat Log #087
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas White | Truck: #796 (step deck)
+Operator: Ashley
+Load: LD-33933 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-04-08
+--------------------------------------------------
+[19:14] Ashley: Thomas, got a minute?
+[19:15] Thomas White: Morning, all good on my end.
+[19:17] Ashley: Got a load for you - LD-33933, step deck, pickup in Chicago, IL, delivery to Memphis, TN.
+[19:19] Thomas White: Ok, what's the pickup window?
+[19:21] Ashley: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[19:23] Thomas White: What's the rate on this one?
+[19:25] Ashley: $3740 all in, 855 miles.
+[19:27] Thomas White: Sounds good, I'll take it.
+[19:29] Ashley: Great, sending the rate confirmation now.
+[19:32] Thomas White: Got it, signed and sent back.
+[19:52] Ashley: Where are you at right now?
+[19:54] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[19:57] Ashley: Long trip, huh? Get some rest when you can.
+[19:59] Thomas White: No problem, just doing my job.
+[20:31] Ashley: What's your status?
+[20:33] Thomas White: Accident up ahead, traffic's backed up.
+[20:35] Ashley: What's your ETA?
+[20:37] Thomas White: Looking at 10am if traffic stays clear.
+[21:28] Ashley: How's LD-33933 looking?
+[21:30] Thomas White: Just topped off the tank.
+[21:32] Ashley: What's your ETA?
+[21:34] Thomas White: Looking at 3pm if traffic stays clear.
+[22:25] Ashley: Where are you at right now?
+[22:27] Thomas White: No problem, just doing my job.
+[23:49] Ashley: Where are you at right now?
+[23:51] Thomas White: No problem, just doing my job.
+[00:20] Ashley: What's your status?
+[00:22] Thomas White: Stopping for fuel in a bit.
+[00:38] Ashley: Where are you at right now?
+[00:40] Thomas White: Stopped for a quick break, back on the road in a few.
+[01:06] Ashley: Still on schedule?
+[01:08] Thomas White: Roads are clear now, moving well.
+[01:11] Ashley: Let me know if you need anything.
+[01:13] Thomas White: No problem, just doing my job.
+[01:51] Ashley: Still on schedule?
+[01:53] Thomas White: Stopping for fuel in a bit.
+[03:07] Ashley: How's LD-33933 looking?
+[03:09] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[04:02] Ashley: Still on schedule?
+[04:04] Thomas White: Stopping for fuel in a bit.
+[04:07] Ashley: Let me know if you need anything.
+[04:09] Thomas White: Will do, thanks for checking in.
+[04:29] Ashley: Still on schedule?
+[04:31] Thomas White: Making good time, no issues so far.
+[05:11] Ashley: Still on schedule?
+[05:13] Thomas White: Construction zone slowing everyone down.
+[05:15] Ashley: What's your ETA?
+[05:17] Thomas White: Should be there around noon.
+[06:47] Ashley: Any updates on your progress?
+[06:49] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[07:04] Ashley: What's your status?
+[07:06] Thomas White: Clear skies here, no problems.
+[07:38] Thomas White: Still sitting at the warehouse dock, been here almost 4 hours already.
+[07:40] Ashley: Let me call them and see what's going on.
+[07:50] Ashley: Ok talked to them, they said 30 more minutes, forklift issue.
+[07:52] Thomas White: Make sure detention pay gets logged for this.
+[07:54] Ashley: Already noted, don't worry, you'll get paid for the wait.
+[08:45] Ashley: How's LD-33933 looking?
+[08:47] Thomas White: Just crossed the state line, all good.
+[09:24] Ashley: Any updates on your progress?
+[09:26] Thomas White: About 111 miles out from Memphis, TN now.
+[10:14] Ashley: What's your status?
+[10:16] Thomas White: Just passed Memphis, TN, everything's fine.
+[10:37] Ashley: Any updates on your progress?
+[10:39] Thomas White: About 469 miles out from Memphis, TN now.
+[11:09] Ashley: How's LD-33933 looking?
+[11:11] Thomas White: Stopped for a quick break, back on the road in a few.
+[11:40] Ashley: Still on schedule?
+[11:42] Thomas White: Stopped for a quick break, back on the road in a few.
+[12:38] Ashley: Any updates on your progress?
+[12:40] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[13:02] Ashley: How's LD-33933 looking?
+[13:04] Thomas White: Making good time, no issues so far.
+[13:20] Ashley: Where are you at right now?
+[13:22] Thomas White: About 512 miles out from Memphis, TN now.
+[13:53] Ashley: Where are you at right now?
+[13:55] Thomas White: Just passed Memphis, TN, everything's fine.
+[14:54] Ashley: Where are you at right now?
+[14:56] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[15:18] Ashley: What's your status?
+[15:20] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[15:55] Ashley: How's LD-33933 looking?
+[15:57] Thomas White: About 23 miles out from Memphis, TN now.
+[16:35] Ashley: How's LD-33933 looking?
+[16:37] Thomas White: Just passed Memphis, TN, everything's fine.
+[17:00] Ashley: What's your status?
+[17:02] Thomas White: Just crossed the state line, all good.
+[17:47] Ashley: What's your status?
+[17:49] Thomas White: Stopped for a quick break, back on the road in a few.
+[18:43] Ashley: Still on schedule?
+[18:45] Thomas White: Just passed Chicago, IL, everything's fine.
+[19:04] Ashley: Any updates on your progress?
+[19:06] Thomas White: Just passed Chicago, IL, everything's fine.
+[19:21] Ashley: How's LD-33933 looking?
+[19:23] Thomas White: Just crossed the state line, all good.
+[20:10] Ashley: Any updates on your progress?
+[20:12] Thomas White: Just passed Chicago, IL, everything's fine.
+[20:41] Ashley: How's LD-33933 looking?
+[20:43] Thomas White: Just crossed the state line, all good.
+[21:14] Ashley: Where are you at right now?
+[21:16] Thomas White: Just crossed the state line, all good.
+[21:59] Ashley: What's your status?
+[22:01] Thomas White: Just passed Chicago, IL, everything's fine.
+[22:30] Ashley: Any updates on your progress?
+[22:32] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[22:53] Ashley: How's LD-33933 looking?
+[22:55] Thomas White: Just crossed the state line, all good.
+[23:47] Ashley: What's your status?
+[23:49] Thomas White: Just crossed the state line, all good.
+[00:26] Ashley: Any updates on your progress?
+[00:28] Thomas White: Traffic's a bit heavy but I'm still on schedule.
+[00:53] Ashley: What's your status?
+[00:55] Thomas White: Making good time, no issues so far.
+[02:13] Thomas White: Just delivered LD-33933 at Memphis, TN, all good, no damages.
+[02:15] Ashley: Do you have the signed BOL?
+[02:17] Thomas White: Yep, taking a picture now.
+[02:18] Thomas White: [Image attached: signed_bol.jpg]
+[02:20] Ashley: Sending you the next load details shortly.
+[02:22] Thomas White: Will do.
+[02:24] Ashley: Appreciate it, talk soon.

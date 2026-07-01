@@ -1,0 +1,131 @@
+Chat Log #055
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Smith | Truck: #493 (flatbed)
+Operator: Brittany
+Load: LD-55390 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-01-18
+--------------------------------------------------
+[15:30] Brittany: Andre, got a minute?
+[15:31] Andre Smith: Yeah, go ahead.
+[15:33] Brittany: Got a load for you - LD-55390, flatbed, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[15:35] Andre Smith: Ok, what's the pickup window?
+[15:37] Brittany: Pickup is 09:00-11:00, delivery appointment is 07:30 the next day.
+[15:39] Andre Smith: What's the rate on this one?
+[15:41] Brittany: $4083 all in, 948 miles.
+[15:43] Andre Smith: Sounds good, I'll take it.
+[15:45] Brittany: Great, sending the rate confirmation now.
+[15:48] Andre Smith: Got it, signed and sent back.
+[16:35] Brittany: How's LD-55390 looking?
+[16:37] Andre Smith: Fuel prices are decent around here.
+[16:39] Brittany: What's your ETA?
+[16:41] Andre Smith: Probably noon, maybe a bit earlier.
+[17:20] Brittany: How's LD-55390 looking?
+[17:22] Andre Smith: About 287 miles out from Louisville, KY now.
+[17:25] Brittany: Let me know if you need anything.
+[17:27] Andre Smith: No problem, just doing my job.
+[18:53] Brittany: Where are you at right now?
+[18:55] Andre Smith: Making good time, no issues so far.
+[18:57] Brittany: What's your ETA?
+[18:59] Andre Smith: Looking at noon if traffic stays clear.
+[19:45] Brittany: What's your status?
+[19:47] Andre Smith: Roads are wet, taking it easy.
+[19:50] Brittany: Let me know if you need anything.
+[19:52] Andre Smith: Will do, thanks for checking in.
+[20:41] Brittany: Where are you at right now?
+[20:43] Andre Smith: Accident up ahead, traffic's backed up.
+[21:32] Brittany: How's LD-55390 looking?
+[21:34] Andre Smith: Yeah, long one, but manageable.
+[21:37] Brittany: Let me know if you need anything.
+[21:39] Andre Smith: Yeah, long one, but manageable.
+[21:41] Brittany: What's your ETA?
+[21:43] Andre Smith: Should be there around noon.
+[23:07] Brittany: Still on schedule?
+[23:09] Andre Smith: About 422 miles out from Louisville, KY now.
+[00:19] Brittany: Still on schedule?
+[00:21] Andre Smith: Construction zone slowing everyone down.
+[00:24] Brittany: Appreciate you keeping me posted.
+[00:26] Andre Smith: Doing alright, just tired.
+[01:08] Brittany: What's your status?
+[01:10] Andre Smith: Hit some traffic near Louisville, KY, adding maybe 20 minutes.
+[02:23] Brittany: What's your status?
+[02:25] Andre Smith: Doing alright, just tired.
+[02:55] Brittany: Where are you at right now?
+[02:57] Andre Smith: Rain is picking up here, slowing down a bit.
+[03:00] Brittany: How are you holding up out there?
+[03:02] Andre Smith: Yeah, long one, but manageable.
+[03:55] Brittany: Still on schedule?
+[03:57] Andre Smith: Traffic's a bit heavy but I'm still on schedule.
+[04:56] Brittany: How's LD-55390 looking?
+[04:58] Andre Smith: Just topped off the tank.
+[06:01] Brittany: What's your status?
+[06:03] Andre Smith: Hit some traffic near Louisville, KY, adding maybe 20 minutes.
+[06:06] Brittany: Let me know if you need anything.
+[06:08] Andre Smith: No problem, just doing my job.
+[06:32] Brittany: Any updates on your progress?
+[06:34] Andre Smith: Accident up ahead, traffic's backed up.
+[06:37] Brittany: How are you holding up out there?
+[06:39] Andre Smith: Doing alright, just tired.
+[08:06] Brittany: Still on schedule?
+[08:08] Andre Smith: Just crossed the state line, all good.
+[08:11] Brittany: Appreciate you keeping me posted.
+[08:13] Andre Smith: No problem, just doing my job.
+[08:56] Brittany: Any updates on your progress?
+[08:58] Andre Smith: Traffic's a bit heavy but I'm still on schedule.
+[09:01] Brittany: Long trip, huh? Get some rest when you can.
+[09:03] Andre Smith: No problem, just doing my job.
+[09:31] Brittany: Any updates on your progress?
+[09:33] Andre Smith: Will do, thanks for checking in.
+[10:33] Brittany: What's your status?
+[10:35] Andre Smith: Roads are clear now, moving well.
+[10:37] Brittany: What's your ETA?
+[10:39] Andre Smith: Probably noon, maybe a bit earlier.
+[11:04] Brittany: How's LD-55390 looking?
+[11:06] Andre Smith: Roads are clear now, moving well.
+[11:35] Brittany: Where are you at right now?
+[11:37] Andre Smith: Construction zone slowing everyone down.
+[11:40] Brittany: How are you holding up out there?
+[11:42] Andre Smith: Doing alright, just tired.
+[11:59] Brittany: Where are you at right now?
+[12:01] Andre Smith: Making good time, no issues so far.
+[12:04] Brittany: Let me know if you need anything.
+[12:06] Andre Smith: Yeah, long one, but manageable.
+[12:38] Brittany: Where are you at right now?
+[12:40] Andre Smith: Just passed Louisville, KY, everything's fine.
+[13:30] Brittany: Still on schedule?
+[13:32] Andre Smith: About 498 miles out from Louisville, KY now.
+[13:52] Brittany: How's LD-55390 looking?
+[13:54] Andre Smith: Traffic's a bit heavy but I'm still on schedule.
+[14:12] Brittany: Any updates on your progress?
+[14:14] Andre Smith: Stopped for a quick break, back on the road in a few.
+[15:04] Brittany: How's LD-55390 looking?
+[15:06] Andre Smith: About 130 miles out from Louisville, KY now.
+[16:05] Brittany: Any updates on your progress?
+[16:07] Andre Smith: About 199 miles out from Louisville, KY now.
+[16:25] Brittany: Any updates on your progress?
+[16:27] Andre Smith: Traffic's a bit heavy but I'm still on schedule.
+[16:43] Brittany: What's your status?
+[16:45] Andre Smith: About 342 miles out from Louisville, KY now.
+[17:22] Brittany: Where are you at right now?
+[17:24] Andre Smith: Just crossed the state line, all good.
+[18:12] Brittany: What's your status?
+[18:14] Andre Smith: Just crossed the state line, all good.
+[18:52] Brittany: What's your status?
+[18:54] Andre Smith: Just crossed the state line, all good.
+[19:36] Brittany: How's LD-55390 looking?
+[19:38] Andre Smith: Stopped for a quick break, back on the road in a few.
+[20:05] Brittany: Any updates on your progress?
+[20:07] Andre Smith: Traffic's a bit heavy but I'm still on schedule.
+[20:59] Brittany: Still on schedule?
+[21:01] Andre Smith: About 297 miles out from Louisville, KY now.
+[21:24] Brittany: Still on schedule?
+[21:26] Andre Smith: Just passed Louisville, KY, everything's fine.
+[21:52] Brittany: Any updates on your progress?
+[21:54] Andre Smith: Stopped for a quick break, back on the road in a few.
+[22:57] Andre Smith: Just delivered LD-55390 at Louisville, KY, all good, no damages.
+[22:59] Brittany: Do you have the signed BOL?
+[23:01] Andre Smith: Yep, taking a picture now.
+[23:02] Andre Smith: [Image attached: signed_bol.jpg]
+[23:04] Brittany: Sending you the next load details shortly.
+[23:06] Andre Smith: Copy that.
+[23:08] Brittany: Thanks for the update, drive safe.

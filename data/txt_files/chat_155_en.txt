@@ -1,0 +1,128 @@
+Chat Log #155
+Company: Silk Road Logistics
+Language: English
+Driver: Marcus Moore | Truck: #877 (flatbed)
+Operator: Ashley
+Load: LD-60552 | Route: Portland, OR -> Seattle, WA
+Date: 2026-02-07
+--------------------------------------------------
+[18:30] Ashley: Hey Marcus, how's it going?
+[18:31] Marcus Moore: Yeah, go ahead.
+[18:33] Ashley: Got a load for you - LD-60552, flatbed, pickup in Portland, OR, delivery to Seattle, WA.
+[18:35] Marcus Moore: Ok, what's the pickup window?
+[18:37] Ashley: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[18:39] Marcus Moore: What's the rate on this one?
+[18:41] Ashley: $3495 all in, 608 miles.
+[18:43] Marcus Moore: Sounds good, I'll take it.
+[18:45] Ashley: Great, sending the rate confirmation now.
+[18:48] Marcus Moore: Got it, signed and sent back.
+[19:54] Ashley: Where are you at right now?
+[19:56] Marcus Moore: Will do, thanks for checking in.
+[19:59] Ashley: Let me know if you need anything.
+[20:01] Marcus Moore: Doing alright, just tired.
+[20:25] Ashley: Still on schedule?
+[20:27] Marcus Moore: Hit some traffic near Portland, OR, adding maybe 20 minutes.
+[20:29] Ashley: What's your ETA?
+[20:31] Marcus Moore: Looking at 5pm if traffic stays clear.
+[21:50] Ashley: Still on schedule?
+[21:52] Marcus Moore: About 551 miles out from Seattle, WA now.
+[21:55] Ashley: Appreciate you keeping me posted.
+[21:57] Marcus Moore: Will do, thanks for checking in.
+[21:59] Ashley: What's your ETA?
+[22:01] Marcus Moore: Probably 3pm, maybe a bit earlier.
+[22:45] Ashley: Where are you at right now?
+[22:47] Marcus Moore: Weather's getting rough up ahead, heads up.
+[22:50] Ashley: Let me know if you need anything.
+[22:52] Marcus Moore: Will do, thanks for checking in.
+[23:38] Ashley: Any updates on your progress?
+[23:40] Marcus Moore: Just crossed the state line, all good.
+[23:56] Ashley: Still on schedule?
+[23:58] Marcus Moore: No problem, just doing my job.
+[01:20] Ashley: Where are you at right now?
+[01:22] Marcus Moore: Fuel prices are decent around here.
+[02:41] Ashley: Where are you at right now?
+[02:43] Marcus Moore: Construction zone slowing everyone down.
+[02:46] Ashley: Appreciate you keeping me posted.
+[02:48] Marcus Moore: Will do, thanks for checking in.
+[03:26] Ashley: Any updates on your progress?
+[03:28] Marcus Moore: Roads are wet, taking it easy.
+[03:31] Ashley: Let me know if you need anything.
+[03:33] Marcus Moore: Yeah, long one, but manageable.
+[03:35] Ashley: What's your ETA?
+[03:37] Marcus Moore: Probably 7pm, maybe a bit earlier.
+[04:10] Ashley: Still on schedule?
+[04:12] Marcus Moore: Just crossed the state line, all good.
+[05:11] Ashley: Where are you at right now?
+[05:13] Marcus Moore: No problem, just doing my job.
+[05:16] Ashley: Long trip, huh? Get some rest when you can.
+[05:18] Marcus Moore: No problem, just doing my job.
+[05:20] Ashley: What's your ETA?
+[05:22] Marcus Moore: Looking at noon if traffic stays clear.
+[06:08] Ashley: Where are you at right now?
+[06:10] Marcus Moore: About 292 miles out from Seattle, WA now.
+[06:13] Ashley: Let me know if you need anything.
+[06:15] Marcus Moore: Will do, thanks for checking in.
+[06:17] Ashley: What's your ETA?
+[06:19] Marcus Moore: Looking at 7pm if traffic stays clear.
+[07:49] Ashley: What's your status?
+[07:51] Marcus Moore: No problem, just doing my job.
+[07:54] Ashley: Let me know if you need anything.
+[07:56] Marcus Moore: Will do, thanks for checking in.
+[07:58] Ashley: What's your ETA?
+[08:00] Marcus Moore: Should be there around noon.
+[09:08] Ashley: Still on schedule?
+[09:10] Marcus Moore: Just crossed the state line, all good.
+[10:36] Ashley: What's your status?
+[10:38] Marcus Moore: About 582 miles out from Seattle, WA now.
+[10:41] Ashley: Appreciate you keeping me posted.
+[10:43] Marcus Moore: No problem, just doing my job.
+[11:43] Ashley: Any updates on your progress?
+[11:45] Marcus Moore: Just crossed the state line, all good.
+[12:42] Ashley: Any updates on your progress?
+[12:44] Marcus Moore: Hit some traffic near Seattle, WA, adding maybe 20 minutes.
+[13:24] Marcus Moore: Still sitting at the receiver, been here almost 4 hours already.
+[13:26] Ashley: Let me call them and see what's going on.
+[13:36] Ashley: Ok talked to them, they said 30 more minutes, forklift issue.
+[13:38] Marcus Moore: Make sure detention pay gets logged for this.
+[13:40] Ashley: Already noted, don't worry, you'll get paid for the wait.
+[14:31] Ashley: How's LD-60552 looking?
+[14:33] Marcus Moore: Just passed Seattle, WA, everything's fine.
+[15:16] Ashley: Still on schedule?
+[15:18] Marcus Moore: Traffic's a bit heavy but I'm still on schedule.
+[16:11] Ashley: Still on schedule?
+[16:13] Marcus Moore: Just crossed the state line, all good.
+[16:53] Ashley: What's your status?
+[16:55] Marcus Moore: Just passed Portland, OR, everything's fine.
+[17:30] Ashley: What's your status?
+[17:32] Marcus Moore: Making good time, no issues so far.
+[18:02] Ashley: Still on schedule?
+[18:04] Marcus Moore: Traffic's a bit heavy but I'm still on schedule.
+[19:01] Ashley: How's LD-60552 looking?
+[19:03] Marcus Moore: Just passed Portland, OR, everything's fine.
+[19:35] Ashley: How's LD-60552 looking?
+[19:37] Marcus Moore: Making good time, no issues so far.
+[20:19] Ashley: Still on schedule?
+[20:21] Marcus Moore: Stopped for a quick break, back on the road in a few.
+[21:02] Ashley: How's LD-60552 looking?
+[21:04] Marcus Moore: Traffic's a bit heavy but I'm still on schedule.
+[21:56] Ashley: What's your status?
+[21:58] Marcus Moore: Making good time, no issues so far.
+[22:13] Ashley: Where are you at right now?
+[22:15] Marcus Moore: Just crossed the state line, all good.
+[22:53] Ashley: Where are you at right now?
+[22:55] Marcus Moore: Stopped for a quick break, back on the road in a few.
+[23:48] Ashley: What's your status?
+[23:50] Marcus Moore: Just passed Portland, OR, everything's fine.
+[00:49] Ashley: How's LD-60552 looking?
+[00:51] Marcus Moore: Stopped for a quick break, back on the road in a few.
+[01:43] Ashley: Still on schedule?
+[01:45] Marcus Moore: Just crossed the state line, all good.
+[02:42] Ashley: How's LD-60552 looking?
+[02:44] Marcus Moore: Just crossed the state line, all good.
+[03:29] Marcus Moore: Just delivered LD-60552 at Seattle, WA, all good, no damages.
+[03:31] Ashley: Do you have the signed BOL?
+[03:33] Marcus Moore: Yep, taking a picture now.
+[03:34] Marcus Moore: [Image attached: signed_bol.jpg]
+[03:36] Ashley: Sending you the next load details shortly.
+[03:38] Marcus Moore: Sounds good.
+[03:40] Ashley: Appreciate it, talk soon.

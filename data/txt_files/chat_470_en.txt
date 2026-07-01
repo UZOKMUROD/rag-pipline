@@ -1,0 +1,131 @@
+Chat Log #470
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas Davis | Truck: #926 (reefer)
+Operator: Rachel
+Load: LD-39325 | Route: Portland, OR -> Seattle, WA
+Date: 2026-04-22
+--------------------------------------------------
+[07:02] Rachel: Morning Thomas, you there?
+[07:03] Thomas Davis: Yeah, go ahead.
+[07:05] Rachel: Got a load for you - LD-39325, reefer, pickup in Portland, OR, delivery to Seattle, WA.
+[07:07] Thomas Davis: Ok, what's the pickup window?
+[07:09] Rachel: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[07:11] Thomas Davis: What's the rate on this one?
+[07:13] Rachel: $3571 all in, 597 miles.
+[07:15] Thomas Davis: Sounds good, I'll take it.
+[07:17] Rachel: Great, sending the rate confirmation now.
+[07:20] Thomas Davis: Got it, signed and sent back.
+[08:47] Rachel: Any updates on your progress?
+[08:49] Thomas Davis: Yeah, long one, but manageable.
+[08:52] Rachel: Appreciate you keeping me posted.
+[08:54] Thomas Davis: Doing alright, just tired.
+[09:20] Rachel: What's your status?
+[09:22] Thomas Davis: Roads are wet, taking it easy.
+[09:53] Rachel: Still on schedule?
+[09:55] Thomas Davis: Just crossed the state line, all good.
+[09:57] Rachel: What's your ETA?
+[09:59] Thomas Davis: Probably 10am, maybe a bit earlier.
+[10:58] Rachel: What's your status?
+[11:00] Thomas Davis: Yeah, long one, but manageable.
+[12:26] Rachel: Still on schedule?
+[12:28] Thomas Davis: Clear skies here, no problems.
+[13:56] Rachel: Any updates on your progress?
+[13:58] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[15:23] Rachel: What's your status?
+[15:25] Thomas Davis: No problem, just doing my job.
+[15:27] Rachel: What's your ETA?
+[15:29] Thomas Davis: Looking at noon if traffic stays clear.
+[16:55] Rachel: Still on schedule?
+[16:57] Thomas Davis: Will do, thanks for checking in.
+[17:52] Rachel: Where are you at right now?
+[17:54] Thomas Davis: Roads are clear now, moving well.
+[17:56] Rachel: What's your ETA?
+[17:58] Thomas Davis: Probably noon, maybe a bit earlier.
+[18:21] Rachel: Any updates on your progress?
+[18:23] Thomas Davis: Fuel prices are decent around here.
+[19:38] Rachel: Where are you at right now?
+[19:40] Thomas Davis: About 301 miles out from Seattle, WA now.
+[20:30] Rachel: Any updates on your progress?
+[20:32] Thomas Davis: Roads are wet, taking it easy.
+[20:51] Rachel: Where are you at right now?
+[20:53] Thomas Davis: Hit some traffic near Seattle, WA, adding maybe 20 minutes.
+[21:23] Rachel: Where are you at right now?
+[21:25] Thomas Davis: Clear skies here, no problems.
+[21:58] Rachel: Any updates on your progress?
+[22:00] Thomas Davis: Just passed Portland, OR, everything's fine.
+[22:03] Rachel: Long trip, huh? Get some rest when you can.
+[22:05] Thomas Davis: Doing alright, just tired.
+[22:07] Rachel: What's your ETA?
+[22:09] Thomas Davis: Looking at noon if traffic stays clear.
+[22:38] Rachel: Still on schedule?
+[22:40] Thomas Davis: Yeah, long one, but manageable.
+[23:29] Rachel: Any updates on your progress?
+[23:31] Thomas Davis: About 317 miles out from Seattle, WA now.
+[23:34] Rachel: Appreciate you keeping me posted.
+[23:36] Thomas Davis: Will do, thanks for checking in.
+[23:54] Rachel: Still on schedule?
+[23:56] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[01:20] Rachel: How's LD-39325 looking?
+[01:22] Thomas Davis: Roads are clear now, moving well.
+[01:25] Rachel: How are you holding up out there?
+[01:27] Thomas Davis: Will do, thanks for checking in.
+[01:37] Thomas Davis: I've got a problem, road construction slowing things down on LD-39325. Pulled over on the shoulder.
+[01:38] Rachel: Are you safe? Anyone hurt?
+[01:40] Thomas Davis: Yeah I'm fine, just need roadside assistance.
+[01:42] Rachel: Mile marker 139 on I-80.
+[01:47] Rachel: Truck is on the way, ETA about 1.5 hours.
+[03:13] Thomas Davis: Fixed and rolling again.
+[04:04] Rachel: What's your status?
+[04:06] Thomas Davis: About 512 miles out from Seattle, WA now.
+[04:46] Rachel: What's your status?
+[04:48] Thomas Davis: Making good time, no issues so far.
+[05:32] Rachel: Where are you at right now?
+[05:34] Thomas Davis: Making good time, no issues so far.
+[06:27] Rachel: Any updates on your progress?
+[06:29] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[07:29] Rachel: Any updates on your progress?
+[07:31] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[07:50] Rachel: Still on schedule?
+[07:52] Thomas Davis: Just crossed the state line, all good.
+[08:11] Rachel: What's your status?
+[08:13] Thomas Davis: Just passed Portland, OR, everything's fine.
+[08:33] Rachel: Still on schedule?
+[08:35] Thomas Davis: Just crossed the state line, all good.
+[09:15] Rachel: What's your status?
+[09:17] Thomas Davis: About 41 miles out from Seattle, WA now.
+[09:34] Rachel: What's your status?
+[09:36] Thomas Davis: Stopped for a quick break, back on the road in a few.
+[10:13] Rachel: Still on schedule?
+[10:15] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[10:51] Rachel: How's LD-39325 looking?
+[10:53] Thomas Davis: Making good time, no issues so far.
+[11:22] Rachel: Where are you at right now?
+[11:24] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[12:16] Rachel: Still on schedule?
+[12:18] Thomas Davis: About 266 miles out from Seattle, WA now.
+[13:13] Rachel: What's your status?
+[13:15] Thomas Davis: Just passed Seattle, WA, everything's fine.
+[13:40] Rachel: How's LD-39325 looking?
+[13:42] Thomas Davis: Just crossed the state line, all good.
+[14:23] Rachel: How's LD-39325 looking?
+[14:25] Thomas Davis: Just crossed the state line, all good.
+[14:41] Rachel: What's your status?
+[14:43] Thomas Davis: Just crossed the state line, all good.
+[15:14] Rachel: Any updates on your progress?
+[15:16] Thomas Davis: Traffic's a bit heavy but I'm still on schedule.
+[16:07] Rachel: Still on schedule?
+[16:09] Thomas Davis: Just crossed the state line, all good.
+[16:35] Rachel: Where are you at right now?
+[16:37] Thomas Davis: Just crossed the state line, all good.
+[17:17] Rachel: How's LD-39325 looking?
+[17:19] Thomas Davis: Just passed Portland, OR, everything's fine.
+[17:51] Rachel: What's your status?
+[17:53] Thomas Davis: About 294 miles out from Seattle, WA now.
+[19:17] Thomas Davis: Just delivered LD-39325 at Seattle, WA, all good, no damages.
+[19:19] Rachel: Do you have the signed BOL?
+[19:21] Thomas Davis: Yep, taking a picture now.
+[19:22] Thomas Davis: [Image attached: signed_bol.jpg]
+[19:24] Rachel: Sending you the next load details shortly.
+[19:26] Thomas Davis: Sounds good.
+[19:28] Rachel: Appreciate it, talk soon.

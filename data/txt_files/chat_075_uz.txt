@@ -1,0 +1,146 @@
+Chat Log #075
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #510 (tentli furgon)
+Operator: Nodira
+Load: LD-27425 | Route: Qarshi -> Termiz
+Date: 2026-06-20
+--------------------------------------------------
+[16:37] Nodira: Xayrli tong, Bobur, aloqadamisiz?
+[16:38] Bobur Mirzayev: Ha, aytavering.
+[16:40] Nodira: Siz uchun yuk bor - LD-27425, tentli furgon, Qarshidan yuklanadi, Termizga tushiriladi.
+[16:42] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[16:44] Nodira: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[16:46] Bobur Mirzayev: Bu reys uchun narx qancha?
+[16:48] Nodira: 3737 ming so'm, 733 km.
+[16:50] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[16:52] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[16:55] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[17:20] Nodira: Hozir qayerdasiz?
+[17:22] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[17:25] Nodira: Xabar berib turganingiz uchun rahmat.
+[17:27] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[18:45] Nodira: Yo'lda yangilik bormi?
+[18:47] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:47] Nodira: Holatingiz qanday?
+[19:49] Bobur Mirzayev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[21:19] Nodira: Hozir qayerdasiz?
+[21:21] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:50] Nodira: Holatingiz qanday?
+[21:52] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[23:22] Nodira: Hozir qayerdasiz?
+[23:24] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:51] Nodira: Holatingiz qanday?
+[23:53] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[23:55] Nodira: Taxminan qachon yetib borasiz?
+[23:57] Bobur Mirzayev: Agar tirbandlik bo'lmasa 5pmda.
+[00:43] Nodira: LD-27425 bilan ishlar qalay?
+[00:45] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[00:47] Nodira: Taxminan qachon yetib borasiz?
+[00:49] Bobur Mirzayev: Ehtimol noon, balki ertaroq.
+[01:55] Nodira: LD-27425 bilan ishlar qalay?
+[01:57] Bobur Mirzayev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[01:59] Nodira: Taxminan qachon yetib borasiz?
+[02:01] Bobur Mirzayev: Agar tirbandlik bo'lmasa 10amda.
+[02:56] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[02:58] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:01] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:03] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[03:05] Nodira: Taxminan qachon yetib borasiz?
+[03:07] Bobur Mirzayev: Agar tirbandlik bo'lmasa noonda.
+[04:33] Nodira: Holatingiz qanday?
+[04:35] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[04:38] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[04:40] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[05:58] Nodira: Yo'lda yangilik bormi?
+[06:00] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[06:40] Nodira: LD-27425 bilan ishlar qalay?
+[06:42] Bobur Mirzayev: Osmon ochiq, muammo yo'q.
+[06:45] Nodira: O'zingizni qalay his qilyapsiz?
+[06:47] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[08:11] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:13] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[08:54] Nodira: LD-27425 bilan ishlar qalay?
+[08:56] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:59] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:01] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[09:03] Nodira: Taxminan qachon yetib borasiz?
+[09:05] Bobur Mirzayev: Agar tirbandlik bo'lmasa 10amda.
+[09:28] Bobur Mirzayev: Hali ham jo'natuvchida turibman, deyarli 4 soat bo'ldi.
+[09:30] Nodira: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[09:40] Nodira: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[09:42] Bobur Mirzayev: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[09:44] Nodira: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[10:16] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[10:18] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[10:54] Nodira: Hozir qayerdasiz?
+[10:56] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:46] Nodira: Yo'lda yangilik bormi?
+[11:48] Bobur Mirzayev: Termizgacha taxminan 42 km qoldi.
+[12:43] Nodira: Hozir qayerdasiz?
+[12:45] Bobur Mirzayev: Termizgacha taxminan 340 km qoldi.
+[13:08] Nodira: Hozir qayerdasiz?
+[13:10] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:06] Nodira: Yo'lda yangilik bormi?
+[14:08] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:32] Nodira: Holatingiz qanday?
+[14:34] Bobur Mirzayev: Termizgacha taxminan 105 km qoldi.
+[15:04] Nodira: Yo'lda yangilik bormi?
+[15:06] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:04] Nodira: Yo'lda yangilik bormi?
+[16:06] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:35] Nodira: Holatingiz qanday?
+[16:37] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:12] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:14] Bobur Mirzayev: Hozirgina Termizdan o'tdim, hammasi joyida.
+[17:54] Nodira: LD-27425 bilan ishlar qalay?
+[17:56] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:41] Nodira: LD-27425 bilan ishlar qalay?
+[18:43] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:30] Nodira: Holatingiz qanday?
+[19:32] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[19:56] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:58] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:28] Nodira: Holatingiz qanday?
+[20:30] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:57] Nodira: Holatingiz qanday?
+[20:59] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:38] Nodira: LD-27425 bilan ishlar qalay?
+[21:40] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:16] Nodira: LD-27425 bilan ishlar qalay?
+[22:18] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:33] Nodira: Hozir qayerdasiz?
+[22:35] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:24] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:26] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:11] Nodira: LD-27425 bilan ishlar qalay?
+[00:13] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:45] Nodira: Holatingiz qanday?
+[00:47] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:12] Nodira: Hozir qayerdasiz?
+[01:14] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:57] Nodira: LD-27425 bilan ishlar qalay?
+[01:59] Bobur Mirzayev: Termizgacha taxminan 484 km qoldi.
+[02:39] Nodira: LD-27425 bilan ishlar qalay?
+[02:41] Bobur Mirzayev: Termizgacha taxminan 379 km qoldi.
+[03:19] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:21] Bobur Mirzayev: Hozirgina Termizdan o'tdim, hammasi joyida.
+[03:59] Nodira: LD-27425 bilan ishlar qalay?
+[04:01] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:20] Nodira: LD-27425 bilan ishlar qalay?
+[04:22] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:40] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[04:42] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:21] Nodira: Hozir qayerdasiz?
+[05:23] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[05:40] Nodira: Yo'lda yangilik bormi?
+[05:42] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[06:16] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[06:18] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:42] Bobur Mirzayev: LD-27425 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[07:44] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[07:46] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[07:47] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[07:49] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[07:51] Bobur Mirzayev: Xo'p bo'ladi.
+[07:53] Nodira: Rahmat, aloqada bo'lamiz.

@@ -1,0 +1,128 @@
+Chat Log #405
+Company: Silk Road Logistics
+Language: English
+Driver: John Harris | Truck: #957 (reefer)
+Operator: Jessica
+Load: LD-69002 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-01-28
+--------------------------------------------------
+[06:41] Jessica: John, got a minute?
+[06:42] John Harris: Hey, yeah I'm here.
+[06:44] Jessica: Got a load for you - LD-69002, reefer, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[06:46] John Harris: Ok, what's the pickup window?
+[06:48] Jessica: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[06:50] John Harris: What's the rate on this one?
+[06:52] Jessica: $2010 all in, 1095 miles.
+[06:54] John Harris: Sounds good, I'll take it.
+[06:56] Jessica: Great, sending the rate confirmation now.
+[06:59] John Harris: Got it, signed and sent back.
+[07:35] Jessica: Where are you at right now?
+[07:37] John Harris: About 30 miles out from Pittsburgh, PA now.
+[08:34] Jessica: What's your status?
+[08:36] John Harris: Rain is picking up here, slowing down a bit.
+[08:39] Jessica: Long trip, huh? Get some rest when you can.
+[08:41] John Harris: Yeah, long one, but manageable.
+[09:43] Jessica: Any updates on your progress?
+[09:45] John Harris: Weather's getting rough up ahead, heads up.
+[09:48] Jessica: Appreciate you keeping me posted.
+[09:50] John Harris: Yeah, long one, but manageable.
+[11:01] Jessica: Where are you at right now?
+[11:03] John Harris: Hit some traffic near Columbus, OH, adding maybe 20 minutes.
+[12:21] Jessica: Still on schedule?
+[12:23] John Harris: Clear skies here, no problems.
+[12:26] Jessica: How are you holding up out there?
+[12:28] John Harris: Will do, thanks for checking in.
+[13:43] Jessica: Any updates on your progress?
+[13:45] John Harris: No problem, just doing my job.
+[13:48] Jessica: Let me know if you need anything.
+[13:50] John Harris: Will do, thanks for checking in.
+[13:52] Jessica: What's your ETA?
+[13:54] John Harris: Probably 7pm, maybe a bit earlier.
+[14:21] Jessica: How's LD-69002 looking?
+[14:23] John Harris: Doing alright, just tired.
+[14:26] Jessica: Let me know if you need anything.
+[14:28] John Harris: Yeah, long one, but manageable.
+[14:30] Jessica: What's your ETA?
+[14:32] John Harris: Looking at 5pm if traffic stays clear.
+[15:04] Jessica: How's LD-69002 looking?
+[15:06] John Harris: Construction zone slowing everyone down.
+[16:30] Jessica: Any updates on your progress?
+[16:32] John Harris: Will do, thanks for checking in.
+[17:55] Jessica: What's your status?
+[17:57] John Harris: Just passed Columbus, OH, everything's fine.
+[18:58] Jessica: Still on schedule?
+[19:00] John Harris: Just passed Pittsburgh, PA, everything's fine.
+[19:03] Jessica: Let me know if you need anything.
+[19:05] John Harris: Will do, thanks for checking in.
+[19:07] Jessica: What's your ETA?
+[19:09] John Harris: Should be there around 3pm.
+[20:30] Jessica: Where are you at right now?
+[20:32] John Harris: Roads are clear now, moving well.
+[21:56] Jessica: Still on schedule?
+[21:58] John Harris: Traffic's a bit heavy but I'm still on schedule.
+[22:49] Jessica: Any updates on your progress?
+[22:51] John Harris: Stopping for fuel in a bit.
+[22:54] Jessica: Appreciate you keeping me posted.
+[22:56] John Harris: Will do, thanks for checking in.
+[23:47] Jessica: What's your status?
+[23:49] John Harris: Hit some traffic near Columbus, OH, adding maybe 20 minutes.
+[00:04] Jessica: How's LD-69002 looking?
+[00:06] John Harris: Fuel prices are decent around here.
+[00:09] Jessica: Appreciate you keeping me posted.
+[00:11] John Harris: Will do, thanks for checking in.
+[00:13] Jessica: What's your ETA?
+[00:15] John Harris: Looking at 3pm if traffic stays clear.
+[01:06] Jessica: How's LD-69002 looking?
+[01:08] John Harris: Construction zone slowing everyone down.
+[02:22] Jessica: Where are you at right now?
+[02:24] John Harris: Stopped for a quick break, back on the road in a few.
+[03:14] Jessica: Where are you at right now?
+[03:16] John Harris: Just passed Pittsburgh, PA, everything's fine.
+[03:19] Jessica: Long trip, huh? Get some rest when you can.
+[03:21] John Harris: Doing alright, just tired.
+[04:30] Jessica: What's your status?
+[04:32] John Harris: Accident up ahead, traffic's backed up.
+[04:47] John Harris: Still sitting at the receiver, been here almost 4 hours already.
+[04:49] Jessica: Let me call them and see what's going on.
+[04:59] Jessica: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:01] John Harris: Make sure detention pay gets logged for this.
+[05:03] Jessica: Already noted, don't worry, you'll get paid for the wait.
+[05:35] Jessica: What's your status?
+[05:37] John Harris: Traffic's a bit heavy but I'm still on schedule.
+[06:14] Jessica: What's your status?
+[06:16] John Harris: Just crossed the state line, all good.
+[07:03] Jessica: Any updates on your progress?
+[07:05] John Harris: Stopped for a quick break, back on the road in a few.
+[07:52] Jessica: Still on schedule?
+[07:54] John Harris: Just passed Pittsburgh, PA, everything's fine.
+[08:44] Jessica: How's LD-69002 looking?
+[08:46] John Harris: Making good time, no issues so far.
+[09:01] Jessica: Still on schedule?
+[09:03] John Harris: Making good time, no issues so far.
+[09:51] Jessica: Where are you at right now?
+[09:53] John Harris: About 488 miles out from Pittsburgh, PA now.
+[10:10] Jessica: Still on schedule?
+[10:12] John Harris: Just passed Pittsburgh, PA, everything's fine.
+[10:52] Jessica: Still on schedule?
+[10:54] John Harris: Traffic's a bit heavy but I'm still on schedule.
+[11:22] Jessica: Where are you at right now?
+[11:24] John Harris: Stopped for a quick break, back on the road in a few.
+[11:59] Jessica: Where are you at right now?
+[12:01] John Harris: Traffic's a bit heavy but I'm still on schedule.
+[12:20] Jessica: How's LD-69002 looking?
+[12:22] John Harris: About 472 miles out from Pittsburgh, PA now.
+[13:01] Jessica: What's your status?
+[13:03] John Harris: Stopped for a quick break, back on the road in a few.
+[14:03] Jessica: Any updates on your progress?
+[14:05] John Harris: About 91 miles out from Pittsburgh, PA now.
+[14:44] Jessica: What's your status?
+[14:46] John Harris: Just crossed the state line, all good.
+[15:05] Jessica: What's your status?
+[15:07] John Harris: Traffic's a bit heavy but I'm still on schedule.
+[15:52] John Harris: Just delivered LD-69002 at Pittsburgh, PA, all good, no damages.
+[15:54] Jessica: Do you have the signed BOL?
+[15:56] John Harris: Yep, taking a picture now.
+[15:57] John Harris: [Image attached: signed_bol.jpg]
+[15:59] Jessica: Sending you the next load details shortly.
+[16:01] John Harris: Sounds good.
+[16:03] Jessica: Great work, thank you.

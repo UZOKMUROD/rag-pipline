@@ -1,0 +1,151 @@
+Chat Log #194
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Otabek Sultonov | Truck: #167 (tentli furgon)
+Operator: Dilnoza
+Load: LD-19035 | Route: Toshkent -> Samarqand
+Date: 2026-06-17
+--------------------------------------------------
+[05:35] Dilnoza: Otabek, bir daqiqa bormi?
+[05:36] Otabek Sultonov: Ha, aloqadaman.
+[05:38] Dilnoza: Siz uchun yuk bor - LD-19035, tentli furgon, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[05:40] Otabek Sultonov: Tushunarli, yuklash vaqti qachon?
+[05:42] Dilnoza: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[05:44] Otabek Sultonov: Bu reys uchun narx qancha?
+[05:46] Dilnoza: 2304 ming so'm, 563 km.
+[05:48] Otabek Sultonov: Yaxshi, bu reysni olaman.
+[05:50] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[05:53] Otabek Sultonov: Oldim, imzolab qaytarib yubordim.
+[07:10] Dilnoza: Hozir qayerdasiz?
+[07:12] Otabek Sultonov: Samarqandgacha taxminan 119 km qoldi.
+[07:15] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:17] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[07:19] Dilnoza: Taxminan qachon yetib borasiz?
+[07:21] Otabek Sultonov: Ehtimol 10am, balki ertaroq.
+[08:48] Dilnoza: Hozir qayerdasiz?
+[08:50] Otabek Sultonov: Samarqandgacha taxminan 475 km qoldi.
+[08:53] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:55] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[09:51] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:53] Otabek Sultonov: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[11:23] Dilnoza: Holatingiz qanday?
+[11:25] Otabek Sultonov: Bu yerda yoqilg'i narxlari yomon emas.
+[11:28] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[11:30] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[11:32] Dilnoza: Taxminan qachon yetib borasiz?
+[11:34] Otabek Sultonov: Taxminan noonda yetib boraman.
+[12:47] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:49] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:52] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[12:54] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:13] Dilnoza: Hozir qayerdasiz?
+[13:15] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[13:33] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:35] Otabek Sultonov: Bu yerda yoqilg'i narxlari yomon emas.
+[14:17] Dilnoza: Yo'lda yangilik bormi?
+[14:19] Otabek Sultonov: Bu yerda yoqilg'i narxlari yomon emas.
+[14:46] Dilnoza: Holatingiz qanday?
+[14:48] Otabek Sultonov: Yo'llar bo'sh, yaxshi ketyapman.
+[15:10] Dilnoza: Hozir qayerdasiz?
+[15:12] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[15:27] Dilnoza: Yo'lda yangilik bormi?
+[15:29] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[16:27] Dilnoza: Holatingiz qanday?
+[16:29] Otabek Sultonov: Osmon ochiq, muammo yo'q.
+[16:32] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:34] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[17:11] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:13] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:52] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:54] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[17:57] Dilnoza: O'zingizni qalay his qilyapsiz?
+[17:59] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[19:26] Dilnoza: LD-19035 bilan ishlar qalay?
+[19:28] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:31] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[19:33] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[20:07] Otabek Sultonov: Haydash vaqtim limitiga yaqinlashyapman, atigi 1 hour qoldi.
+[20:09] Dilnoza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[20:44] Dilnoza: LD-19035 bilan ishlar qalay?
+[20:46] Otabek Sultonov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[21:17] Dilnoza: Yo'lda yangilik bormi?
+[21:19] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:18] Dilnoza: LD-19035 bilan ishlar qalay?
+[22:20] Otabek Sultonov: Samarqandgacha taxminan 125 km qoldi.
+[22:51] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:53] Otabek Sultonov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[23:22] Dilnoza: Holatingiz qanday?
+[23:24] Otabek Sultonov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:02] Dilnoza: Yo'lda yangilik bormi?
+[00:04] Otabek Sultonov: Samarqandgacha taxminan 113 km qoldi.
+[00:19] Dilnoza: LD-19035 bilan ishlar qalay?
+[00:21] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:55] Dilnoza: Hozir qayerdasiz?
+[00:57] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:17] Dilnoza: Hozir qayerdasiz?
+[01:19] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:04] Dilnoza: Holatingiz qanday?
+[02:06] Otabek Sultonov: Samarqandgacha taxminan 27 km qoldi.
+[03:00] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:02] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:51] Dilnoza: LD-19035 bilan ishlar qalay?
+[03:53] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:47] Dilnoza: Yo'lda yangilik bormi?
+[04:49] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:36] Dilnoza: Yo'lda yangilik bormi?
+[05:38] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:27] Dilnoza: Yo'lda yangilik bormi?
+[06:29] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:28] Dilnoza: Yo'lda yangilik bormi?
+[07:30] Otabek Sultonov: Samarqandgacha taxminan 391 km qoldi.
+[07:54] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:56] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:51] Dilnoza: Yo'lda yangilik bormi?
+[08:53] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:49] Dilnoza: Yo'lda yangilik bormi?
+[09:51] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:51] Dilnoza: Holatingiz qanday?
+[10:53] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:48] Dilnoza: LD-19035 bilan ishlar qalay?
+[11:50] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:10] Dilnoza: Yo'lda yangilik bormi?
+[12:12] Otabek Sultonov: Samarqandgacha taxminan 570 km qoldi.
+[12:30] Dilnoza: Hozir qayerdasiz?
+[12:32] Otabek Sultonov: Samarqandgacha taxminan 450 km qoldi.
+[12:53] Dilnoza: Holatingiz qanday?
+[12:55] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:32] Dilnoza: Holatingiz qanday?
+[13:34] Otabek Sultonov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[13:52] Dilnoza: LD-19035 bilan ishlar qalay?
+[13:54] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:45] Dilnoza: LD-19035 bilan ishlar qalay?
+[14:47] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:44] Dilnoza: Holatingiz qanday?
+[15:46] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:10] Dilnoza: Yo'lda yangilik bormi?
+[16:12] Otabek Sultonov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[16:30] Dilnoza: Yo'lda yangilik bormi?
+[16:32] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:06] Dilnoza: LD-19035 bilan ishlar qalay?
+[17:08] Otabek Sultonov: Samarqandgacha taxminan 87 km qoldi.
+[17:39] Dilnoza: Yo'lda yangilik bormi?
+[17:41] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:06] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:08] Otabek Sultonov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[18:57] Dilnoza: Holatingiz qanday?
+[18:59] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:45] Dilnoza: Holatingiz qanday?
+[19:47] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:28] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:30] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:45] Dilnoza: LD-19035 bilan ishlar qalay?
+[20:47] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:24] Dilnoza: LD-19035 bilan ishlar qalay?
+[21:26] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:08] Otabek Sultonov: LD-19035 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[22:10] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[22:12] Otabek Sultonov: Ha, hozir rasmga olaman.
+[22:13] Otabek Sultonov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[22:15] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[22:17] Otabek Sultonov: Tushunarli.
+[22:19] Dilnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

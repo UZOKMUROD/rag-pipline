@@ -1,0 +1,130 @@
+Chat Log #050
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Wilson | Truck: #535 (flatbed)
+Operator: Jessica
+Load: LD-47332 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-02-28
+--------------------------------------------------
+[07:18] Jessica: Morning Andre, you there?
+[07:19] Andre Wilson: Morning, all good on my end.
+[07:21] Jessica: Got a load for you - LD-47332, flatbed, pickup in Houston, TX, delivery to New Orleans, LA.
+[07:23] Andre Wilson: Ok, what's the pickup window?
+[07:25] Jessica: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[07:27] Andre Wilson: What's the rate on this one?
+[07:29] Jessica: $3334 all in, 938 miles.
+[07:31] Andre Wilson: Sounds good, I'll take it.
+[07:33] Jessica: Great, sending the rate confirmation now.
+[07:36] Andre Wilson: Got it, signed and sent back.
+[08:24] Jessica: Any updates on your progress?
+[08:26] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[09:13] Jessica: Where are you at right now?
+[09:15] Andre Wilson: No problem, just doing my job.
+[09:17] Jessica: What's your ETA?
+[09:19] Andre Wilson: Probably 5pm, maybe a bit earlier.
+[10:49] Jessica: Still on schedule?
+[10:51] Andre Wilson: No problem, just doing my job.
+[10:54] Jessica: How are you holding up out there?
+[10:56] Andre Wilson: No problem, just doing my job.
+[11:12] Jessica: What's your status?
+[11:14] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[11:16] Jessica: What's your ETA?
+[11:18] Andre Wilson: Looking at 10am if traffic stays clear.
+[11:34] Jessica: How's LD-47332 looking?
+[11:36] Andre Wilson: Just passed New Orleans, LA, everything's fine.
+[11:39] Jessica: Appreciate you keeping me posted.
+[11:41] Andre Wilson: Yeah, long one, but manageable.
+[11:43] Jessica: What's your ETA?
+[11:45] Andre Wilson: Should be there around 5pm.
+[12:47] Jessica: How's LD-47332 looking?
+[12:49] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[12:52] Jessica: How are you holding up out there?
+[12:54] Andre Wilson: Will do, thanks for checking in.
+[13:54] Jessica: Where are you at right now?
+[13:56] Andre Wilson: Just topped off the tank.
+[13:59] Jessica: Long trip, huh? Get some rest when you can.
+[14:01] Andre Wilson: Doing alright, just tired.
+[14:31] Jessica: How's LD-47332 looking?
+[14:33] Andre Wilson: Just passed Houston, TX, everything's fine.
+[14:36] Jessica: Appreciate you keeping me posted.
+[14:38] Andre Wilson: Will do, thanks for checking in.
+[14:54] Jessica: Where are you at right now?
+[14:56] Andre Wilson: Roads are wet, taking it easy.
+[14:59] Jessica: How are you holding up out there?
+[15:01] Andre Wilson: Will do, thanks for checking in.
+[15:40] Jessica: What's your status?
+[15:42] Andre Wilson: Stopping for fuel in a bit.
+[15:45] Jessica: How are you holding up out there?
+[15:47] Andre Wilson: Yeah, long one, but manageable.
+[15:49] Jessica: What's your ETA?
+[15:51] Andre Wilson: Looking at 10am if traffic stays clear.
+[17:02] Jessica: What's your status?
+[17:04] Andre Wilson: Construction zone slowing everyone down.
+[17:07] Jessica: How are you holding up out there?
+[17:09] Andre Wilson: Yeah, long one, but manageable.
+[17:11] Jessica: What's your ETA?
+[17:13] Andre Wilson: Looking at 7pm if traffic stays clear.
+[18:07] Jessica: Any updates on your progress?
+[18:09] Andre Wilson: Hit some traffic near Houston, TX, adding maybe 20 minutes.
+[19:21] Jessica: How's LD-47332 looking?
+[19:23] Andre Wilson: Rain is picking up here, slowing down a bit.
+[19:49] Jessica: How's LD-47332 looking?
+[19:51] Andre Wilson: Construction zone slowing everyone down.
+[19:54] Jessica: How are you holding up out there?
+[19:56] Andre Wilson: Yeah, long one, but manageable.
+[20:58] Jessica: What's your status?
+[21:00] Andre Wilson: Just topped off the tank.
+[21:41] Jessica: What's your status?
+[21:43] Andre Wilson: Clear skies here, no problems.
+[21:46] Jessica: Long trip, huh? Get some rest when you can.
+[21:48] Andre Wilson: No problem, just doing my job.
+[21:50] Jessica: What's your ETA?
+[21:52] Andre Wilson: Probably 10am, maybe a bit earlier.
+[23:08] Jessica: How's LD-47332 looking?
+[23:10] Andre Wilson: Yeah, long one, but manageable.
+[23:12] Jessica: What's your ETA?
+[23:14] Andre Wilson: Probably noon, maybe a bit earlier.
+[00:08] Jessica: What's your status?
+[00:10] Andre Wilson: Rain is picking up here, slowing down a bit.
+[00:47] Andre Wilson: Still sitting at the shipper, been here almost 3 hours already.
+[00:49] Jessica: Let me call them and see what's going on.
+[00:59] Jessica: Ok talked to them, they said 30 more minutes, forklift issue.
+[01:01] Andre Wilson: Make sure detention pay gets logged for this.
+[01:03] Jessica: Already noted, don't worry, you'll get paid for the wait.
+[01:23] Jessica: How's LD-47332 looking?
+[01:25] Andre Wilson: Stopped for a quick break, back on the road in a few.
+[02:04] Jessica: What's your status?
+[02:06] Andre Wilson: Just passed New Orleans, LA, everything's fine.
+[02:37] Jessica: Where are you at right now?
+[02:39] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[03:13] Jessica: How's LD-47332 looking?
+[03:15] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[03:31] Jessica: Where are you at right now?
+[03:33] Andre Wilson: Making good time, no issues so far.
+[04:25] Jessica: What's your status?
+[04:27] Andre Wilson: Just passed Houston, TX, everything's fine.
+[05:26] Jessica: Any updates on your progress?
+[05:28] Andre Wilson: Just passed Houston, TX, everything's fine.
+[06:03] Jessica: Any updates on your progress?
+[06:05] Andre Wilson: Just passed Houston, TX, everything's fine.
+[06:54] Jessica: What's your status?
+[06:56] Andre Wilson: About 412 miles out from New Orleans, LA now.
+[07:41] Jessica: What's your status?
+[07:43] Andre Wilson: Just crossed the state line, all good.
+[07:58] Jessica: What's your status?
+[08:00] Andre Wilson: Making good time, no issues so far.
+[08:33] Jessica: What's your status?
+[08:35] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[08:58] Jessica: How's LD-47332 looking?
+[09:00] Andre Wilson: Making good time, no issues so far.
+[09:53] Jessica: Any updates on your progress?
+[09:55] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[10:39] Jessica: Still on schedule?
+[10:41] Andre Wilson: Traffic's a bit heavy but I'm still on schedule.
+[11:51] Andre Wilson: Just delivered LD-47332 at New Orleans, LA, all good, no damages.
+[11:53] Jessica: Do you have the signed BOL?
+[11:55] Andre Wilson: Yep, taking a picture now.
+[11:56] Andre Wilson: [Image attached: signed_bol.jpg]
+[11:58] Jessica: Sending you the next load details shortly.
+[12:00] Andre Wilson: Sounds good.
+[12:02] Jessica: Thanks for the update, drive safe.

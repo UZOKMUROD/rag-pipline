@@ -1,0 +1,150 @@
+Chat Log #491
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #906 (past ramali tirkama)
+Operator: Gulnora
+Load: LD-17594 | Route: Toshkent -> Samarqand
+Date: 2026-04-04
+--------------------------------------------------
+[19:58] Gulnora: Salom, Ravshan, ishlar qalay?
+[19:59] Ravshan Xolmatov: Ha, aytavering.
+[20:01] Gulnora: Siz uchun yuk bor - LD-17594, past ramali tirkama, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[20:03] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[20:05] Gulnora: Yuklash 08:00-10:00, tushirish esa ertaga 09:00 bo'ladi.
+[20:07] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[20:09] Gulnora: 3536 ming so'm, 448 km.
+[20:11] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[20:13] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[20:16] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[21:42] Gulnora: Yo'lda yangilik bormi?
+[21:44] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:47] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:49] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:51] Gulnora: Taxminan qachon yetib borasiz?
+[21:53] Ravshan Xolmatov: Taxminan 7pmda yetib boraman.
+[22:12] Gulnora: Holatingiz qanday?
+[22:14] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[22:17] Gulnora: O'zingizni qalay his qilyapsiz?
+[22:19] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[23:03] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:05] Ravshan Xolmatov: Hozirgina yoqilg'i quydim.
+[23:08] Gulnora: O'zingizni qalay his qilyapsiz?
+[23:10] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[23:12] Gulnora: Taxminan qachon yetib borasiz?
+[23:14] Ravshan Xolmatov: Ehtimol 10am, balki ertaroq.
+[00:18] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[00:20] Ravshan Xolmatov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:22] Gulnora: Taxminan qachon yetib borasiz?
+[00:24] Ravshan Xolmatov: Ehtimol 5pm, balki ertaroq.
+[00:53] Gulnora: Holatingiz qanday?
+[00:55] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[01:23] Gulnora: Hozir qayerdasiz?
+[01:25] Ravshan Xolmatov: Samarqandgacha taxminan 392 km qoldi.
+[01:28] Gulnora: O'zingizni qalay his qilyapsiz?
+[01:30] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:32] Gulnora: Taxminan qachon yetib borasiz?
+[01:34] Ravshan Xolmatov: Taxminan 7pmda yetib boraman.
+[02:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:26] Ravshan Xolmatov: Hozirgina yoqilg'i quydim.
+[02:52] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:54] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[03:36] Gulnora: Holatingiz qanday?
+[03:38] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:51] Gulnora: Holatingiz qanday?
+[04:53] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:56] Gulnora: Biror narsa kerak bo'lsa ayting.
+[04:58] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[05:00] Gulnora: Taxminan qachon yetib borasiz?
+[05:02] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 5pmda.
+[06:13] Gulnora: LD-17594 bilan ishlar qalay?
+[06:15] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[07:15] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[07:17] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:20] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:22] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[07:39] Gulnora: LD-17594 bilan ishlar qalay?
+[07:41] Ravshan Xolmatov: Bu yerda yoqilg'i narxlari yomon emas.
+[08:53] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[08:55] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[08:58] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:00] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:02] Gulnora: Taxminan qachon yetib borasiz?
+[09:04] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 10amda.
+[09:27] Gulnora: Holatingiz qanday?
+[09:29] Ravshan Xolmatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[10:38] Gulnora: Holatingiz qanday?
+[10:40] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[10:58] Ravshan Xolmatov: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[11:00] Gulnora: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[11:10] Gulnora: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[11:12] Ravshan Xolmatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[11:14] Gulnora: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[12:12] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[12:14] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[13:04] Gulnora: Yo'lda yangilik bormi?
+[13:06] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:26] Gulnora: Yo'lda yangilik bormi?
+[13:28] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:51] Gulnora: LD-17594 bilan ishlar qalay?
+[13:53] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:41] Gulnora: Yo'lda yangilik bormi?
+[14:43] Ravshan Xolmatov: Samarqandgacha taxminan 252 km qoldi.
+[15:21] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[15:23] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:09] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[16:11] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:35] Gulnora: Yo'lda yangilik bormi?
+[16:37] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:31] Gulnora: Hozir qayerdasiz?
+[17:33] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:48] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[17:50] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:06] Gulnora: Yo'lda yangilik bormi?
+[18:08] Ravshan Xolmatov: Samarqandgacha taxminan 136 km qoldi.
+[18:41] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[18:43] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:10] Gulnora: Holatingiz qanday?
+[19:12] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:32] Gulnora: Yo'lda yangilik bormi?
+[19:34] Ravshan Xolmatov: Samarqandgacha taxminan 187 km qoldi.
+[20:00] Gulnora: Holatingiz qanday?
+[20:02] Ravshan Xolmatov: Samarqandgacha taxminan 212 km qoldi.
+[20:50] Gulnora: Yo'lda yangilik bormi?
+[20:52] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:10] Gulnora: Holatingiz qanday?
+[21:12] Ravshan Xolmatov: Samarqandgacha taxminan 43 km qoldi.
+[21:51] Gulnora: Holatingiz qanday?
+[21:53] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:18] Gulnora: Holatingiz qanday?
+[22:20] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:41] Gulnora: Hozir qayerdasiz?
+[22:43] Ravshan Xolmatov: Samarqandgacha taxminan 275 km qoldi.
+[23:13] Gulnora: Yo'lda yangilik bormi?
+[23:15] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:06] Gulnora: Holatingiz qanday?
+[00:08] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:28] Gulnora: Yo'lda yangilik bormi?
+[00:30] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:12] Gulnora: LD-17594 bilan ishlar qalay?
+[01:14] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:36] Gulnora: Hozir qayerdasiz?
+[01:38] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:06] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:08] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:48] Gulnora: Holatingiz qanday?
+[02:50] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:07] Gulnora: Holatingiz qanday?
+[03:09] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:51] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[03:53] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:36] Gulnora: Yo'lda yangilik bormi?
+[04:38] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:34] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[05:36] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:53] Ravshan Xolmatov: LD-17594 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:55] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[06:57] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[06:58] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[07:00] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[07:02] Ravshan Xolmatov: Yaxshi.
+[07:04] Gulnora: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

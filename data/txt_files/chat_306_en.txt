@@ -1,0 +1,127 @@
+Chat Log #306
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Brown | Truck: #754 (dry van)
+Operator: Amanda
+Load: LD-26512 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-03-13
+--------------------------------------------------
+[17:55] Amanda: Mike, got a minute?
+[17:56] Mike Brown: Morning, all good on my end.
+[17:58] Amanda: Got a load for you - LD-26512, dry van, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[18:00] Mike Brown: Ok, what's the pickup window?
+[18:02] Amanda: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[18:04] Mike Brown: What's the rate on this one?
+[18:06] Amanda: $2618 all in, 417 miles.
+[18:08] Mike Brown: Sounds good, I'll take it.
+[18:10] Amanda: Great, sending the rate confirmation now.
+[18:13] Mike Brown: Got it, signed and sent back.
+[19:38] Amanda: Where are you at right now?
+[19:40] Mike Brown: Roads are clear now, moving well.
+[19:43] Amanda: Appreciate you keeping me posted.
+[19:45] Mike Brown: Will do, thanks for checking in.
+[20:35] Amanda: Still on schedule?
+[20:37] Mike Brown: Just topped off the tank.
+[21:12] Amanda: Any updates on your progress?
+[21:14] Mike Brown: Traffic's a bit heavy but I'm still on schedule.
+[21:17] Amanda: How are you holding up out there?
+[21:19] Mike Brown: Doing alright, just tired.
+[22:37] Amanda: Where are you at right now?
+[22:39] Mike Brown: Construction zone slowing everyone down.
+[22:41] Amanda: What's your ETA?
+[22:43] Mike Brown: Should be there around 10am.
+[23:56] Amanda: What's your status?
+[23:58] Mike Brown: Stopped for a quick break, back on the road in a few.
+[00:15] Amanda: What's your status?
+[00:17] Mike Brown: Yeah, long one, but manageable.
+[01:39] Amanda: What's your status?
+[01:41] Mike Brown: Just crossed the state line, all good.
+[01:58] Amanda: How's LD-26512 looking?
+[02:00] Mike Brown: Making good time, no issues so far.
+[02:03] Amanda: Appreciate you keeping me posted.
+[02:05] Mike Brown: Doing alright, just tired.
+[03:22] Amanda: Still on schedule?
+[03:24] Mike Brown: Stopped for a quick break, back on the road in a few.
+[04:21] Amanda: How's LD-26512 looking?
+[04:23] Mike Brown: Making good time, no issues so far.
+[04:25] Amanda: What's your ETA?
+[04:27] Mike Brown: Looking at 10am if traffic stays clear.
+[04:43] Amanda: What's your status?
+[04:45] Mike Brown: Traffic's a bit heavy but I'm still on schedule.
+[04:48] Amanda: Let me know if you need anything.
+[04:50] Mike Brown: Will do, thanks for checking in.
+[05:23] Amanda: How's LD-26512 looking?
+[05:25] Mike Brown: No problem, just doing my job.
+[05:28] Amanda: Let me know if you need anything.
+[05:30] Mike Brown: Will do, thanks for checking in.
+[05:32] Amanda: What's your ETA?
+[05:34] Mike Brown: Should be there around 5pm.
+[06:47] Amanda: Still on schedule?
+[06:49] Mike Brown: Rain is picking up here, slowing down a bit.
+[07:22] Amanda: Where are you at right now?
+[07:24] Mike Brown: Stopped for a quick break, back on the road in a few.
+[07:26] Amanda: What's your ETA?
+[07:28] Mike Brown: Probably 3pm, maybe a bit earlier.
+[08:29] Amanda: How's LD-26512 looking?
+[08:31] Mike Brown: Traffic's a bit heavy but I'm still on schedule.
+[08:34] Amanda: How are you holding up out there?
+[08:36] Mike Brown: Will do, thanks for checking in.
+[10:06] Amanda: What's your status?
+[10:08] Mike Brown: Hit some traffic near Indianapolis, IN, adding maybe 20 minutes.
+[10:11] Amanda: Long trip, huh? Get some rest when you can.
+[10:13] Mike Brown: Doing alright, just tired.
+[10:15] Amanda: What's your ETA?
+[10:17] Mike Brown: Looking at 10am if traffic stays clear.
+[10:55] Mike Brown: I've got a problem, the check engine light coming on on LD-26512. Pulled over on the shoulder.
+[10:56] Amanda: Are you safe? Anyone hurt?
+[10:58] Mike Brown: Yeah I'm fine, just need roadside assistance.
+[11:00] Amanda: Mile marker 258 on I-35.
+[11:05] Amanda: Truck is on the way, ETA about 1.5 hours.
+[11:49] Mike Brown: Fixed and rolling again.
+[12:09] Amanda: Still on schedule?
+[12:11] Mike Brown: Just passed Indianapolis, IN, everything's fine.
+[12:52] Amanda: What's your status?
+[12:54] Mike Brown: Stopped for a quick break, back on the road in a few.
+[13:52] Amanda: Still on schedule?
+[13:54] Mike Brown: Just passed Louisville, KY, everything's fine.
+[14:27] Amanda: What's your status?
+[14:29] Mike Brown: Just passed Indianapolis, IN, everything's fine.
+[15:03] Amanda: Still on schedule?
+[15:05] Mike Brown: Stopped for a quick break, back on the road in a few.
+[15:34] Amanda: Still on schedule?
+[15:36] Mike Brown: Just crossed the state line, all good.
+[15:51] Amanda: How's LD-26512 looking?
+[15:53] Mike Brown: Traffic's a bit heavy but I'm still on schedule.
+[16:42] Amanda: Still on schedule?
+[16:44] Mike Brown: Just passed Indianapolis, IN, everything's fine.
+[17:38] Amanda: Where are you at right now?
+[17:40] Mike Brown: Stopped for a quick break, back on the road in a few.
+[18:25] Amanda: Where are you at right now?
+[18:27] Mike Brown: About 492 miles out from Louisville, KY now.
+[18:53] Amanda: Any updates on your progress?
+[18:55] Mike Brown: Stopped for a quick break, back on the road in a few.
+[19:35] Amanda: What's your status?
+[19:37] Mike Brown: About 366 miles out from Louisville, KY now.
+[19:56] Amanda: How's LD-26512 looking?
+[19:58] Mike Brown: Making good time, no issues so far.
+[20:34] Amanda: Still on schedule?
+[20:36] Mike Brown: Just passed Louisville, KY, everything's fine.
+[21:07] Amanda: Any updates on your progress?
+[21:09] Mike Brown: Making good time, no issues so far.
+[22:06] Amanda: Where are you at right now?
+[22:08] Mike Brown: About 342 miles out from Louisville, KY now.
+[22:42] Amanda: Still on schedule?
+[22:44] Mike Brown: Just passed Indianapolis, IN, everything's fine.
+[23:15] Amanda: Any updates on your progress?
+[23:17] Mike Brown: About 412 miles out from Louisville, KY now.
+[00:00] Amanda: What's your status?
+[00:02] Mike Brown: Traffic's a bit heavy but I'm still on schedule.
+[00:23] Amanda: What's your status?
+[00:25] Mike Brown: Stopped for a quick break, back on the road in a few.
+[01:50] Mike Brown: Just delivered LD-26512 at Louisville, KY, all good, no damages.
+[01:52] Amanda: Do you have the signed BOL?
+[01:54] Mike Brown: Yep, taking a picture now.
+[01:55] Mike Brown: [Image attached: signed_bol.jpg]
+[01:57] Amanda: Sending you the next load details shortly.
+[01:59] Mike Brown: Sounds good.
+[02:01] Amanda: Thanks for the update, drive safe.

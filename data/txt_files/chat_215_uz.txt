@@ -1,0 +1,144 @@
+Chat Log #215
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #299 (tentli furgon)
+Operator: Feruza
+Load: LD-18600 | Route: Farg'ona -> Andijon
+Date: 2026-01-17
+--------------------------------------------------
+[08:26] Feruza: Xayrli tong, Sardor, aloqadamisiz?
+[08:27] Sardor Rakhimov: Ha, aytavering.
+[08:29] Feruza: Siz uchun yuk bor - LD-18600, tentli furgon, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[08:31] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[08:33] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 07:30 bo'ladi.
+[08:35] Sardor Rakhimov: Bu reys uchun narx qancha?
+[08:37] Feruza: 2140 ming so'm, 913 km.
+[08:39] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[08:41] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:44] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[10:11] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:13] Sardor Rakhimov: Andijongacha taxminan 411 km qoldi.
+[11:12] Feruza: LD-18600 bilan ishlar qalay?
+[11:14] Sardor Rakhimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[11:17] Feruza: Biror narsa kerak bo'lsa ayting.
+[11:19] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[12:19] Feruza: Yo'lda yangilik bormi?
+[12:21] Sardor Rakhimov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[13:27] Feruza: Yo'lda yangilik bormi?
+[13:29] Sardor Rakhimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[13:31] Feruza: Taxminan qachon yetib borasiz?
+[13:33] Sardor Rakhimov: Agar tirbandlik bo'lmasa 5pmda.
+[14:15] Feruza: Holatingiz qanday?
+[14:17] Sardor Rakhimov: Yo'llar bo'sh, yaxshi ketyapman.
+[14:44] Feruza: Yo'lda yangilik bormi?
+[14:46] Sardor Rakhimov: Hozirgina yoqilg'i quydim.
+[14:49] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:51] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[15:14] Feruza: Hozir qayerdasiz?
+[15:16] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:19] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[15:21] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[16:27] Feruza: Holatingiz qanday?
+[16:29] Sardor Rakhimov: Andijongacha taxminan 565 km qoldi.
+[16:32] Feruza: O'zingizni qalay his qilyapsiz?
+[16:34] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:13] Feruza: Hozir qayerdasiz?
+[17:15] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[18:02] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:04] Sardor Rakhimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[18:24] Feruza: Hozir qayerdasiz?
+[18:26] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[19:18] Feruza: LD-18600 bilan ishlar qalay?
+[19:20] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[20:17] Feruza: LD-18600 bilan ishlar qalay?
+[20:19] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:22] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:24] Sardor Rakhimov: Bu yerda yoqilg'i narxlari yomon emas.
+[22:10] Feruza: Yo'lda yangilik bormi?
+[22:12] Sardor Rakhimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[22:14] Feruza: Taxminan qachon yetib borasiz?
+[22:16] Sardor Rakhimov: Agar tirbandlik bo'lmasa noonda.
+[22:43] Sardor Rakhimov: Hali ham jo'natuvchida turibman, deyarli 2 soat bo'ldi.
+[22:45] Feruza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[22:55] Feruza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[22:57] Sardor Rakhimov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[22:59] Feruza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[23:58] Feruza: Hozir qayerdasiz?
+[00:00] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:24] Feruza: Yo'lda yangilik bormi?
+[00:26] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:10] Feruza: Yo'lda yangilik bormi?
+[01:12] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:08] Feruza: LD-18600 bilan ishlar qalay?
+[02:10] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:07] Feruza: Holatingiz qanday?
+[03:09] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:00] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:02] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:54] Feruza: Hozir qayerdasiz?
+[04:56] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:52] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:54] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:36] Feruza: LD-18600 bilan ishlar qalay?
+[06:38] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:32] Feruza: Hozir qayerdasiz?
+[07:34] Sardor Rakhimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[08:15] Feruza: Hozir qayerdasiz?
+[08:17] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:38] Feruza: Holatingiz qanday?
+[08:40] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:12] Feruza: LD-18600 bilan ishlar qalay?
+[09:14] Sardor Rakhimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[10:02] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:04] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:45] Feruza: Holatingiz qanday?
+[10:47] Sardor Rakhimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[11:08] Feruza: Hozir qayerdasiz?
+[11:10] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:02] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:04] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:51] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:53] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:51] Feruza: LD-18600 bilan ishlar qalay?
+[13:53] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:29] Feruza: Holatingiz qanday?
+[14:31] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:48] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:24] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:26] Sardor Rakhimov: Andijongacha taxminan 66 km qoldi.
+[15:57] Feruza: LD-18600 bilan ishlar qalay?
+[15:59] Sardor Rakhimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[16:23] Feruza: Yo'lda yangilik bormi?
+[16:25] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:12] Feruza: Hozir qayerdasiz?
+[17:14] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:43] Feruza: LD-18600 bilan ishlar qalay?
+[17:45] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:36] Feruza: Holatingiz qanday?
+[18:38] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:24] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:26] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:42] Feruza: LD-18600 bilan ishlar qalay?
+[19:44] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:59] Feruza: Hozir qayerdasiz?
+[20:01] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:55] Feruza: Hozir qayerdasiz?
+[20:57] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:30] Feruza: LD-18600 bilan ishlar qalay?
+[21:32] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:07] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:09] Sardor Rakhimov: Andijongacha taxminan 242 km qoldi.
+[22:48] Feruza: LD-18600 bilan ishlar qalay?
+[22:50] Sardor Rakhimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[23:38] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:40] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:39] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:41] Sardor Rakhimov: Andijongacha taxminan 172 km qoldi.
+[01:45] Sardor Rakhimov: LD-18600 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[01:47] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[01:49] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[01:50] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[01:52] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[01:54] Sardor Rakhimov: Tushundim.
+[01:56] Feruza: Ajoyib ish, rahmat.

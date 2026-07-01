@@ -1,0 +1,151 @@
+Chat Log #484
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #650 (past ramali tirkama)
+Operator: Gulnora
+Load: LD-31514 | Route: Toshkent -> Namangan
+Date: 2026-01-18
+--------------------------------------------------
+[20:01] Gulnora: Xayrli tong, Sardor, aloqadamisiz?
+[20:02] Sardor Rakhimov: Xayrli tong, menda hammasi yaxshi.
+[20:04] Gulnora: Siz uchun yuk bor - LD-31514, past ramali tirkama, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[20:06] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[20:08] Gulnora: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[20:10] Sardor Rakhimov: Bu reys uchun narx qancha?
+[20:12] Gulnora: 2488 ming so'm, 827 km.
+[20:14] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[20:16] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[20:19] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[21:22] Gulnora: Holatingiz qanday?
+[21:24] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:10] Gulnora: LD-31514 bilan ishlar qalay?
+[22:12] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[22:53] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[22:55] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:58] Gulnora: Biror narsa kerak bo'lsa ayting.
+[23:00] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[23:02] Gulnora: Taxminan qachon yetib borasiz?
+[23:04] Sardor Rakhimov: Taxminan 5pmda yetib boraman.
+[23:57] Gulnora: Holatingiz qanday?
+[23:59] Sardor Rakhimov: Hozirgina yoqilg'i quydim.
+[01:20] Gulnora: Holatingiz qanday?
+[01:22] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[01:25] Gulnora: O'zingizni qalay his qilyapsiz?
+[01:27] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[02:07] Gulnora: Holatingiz qanday?
+[02:09] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:12] Gulnora: Xabar berib turganingiz uchun rahmat.
+[02:14] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:39] Gulnora: Holatingiz qanday?
+[03:41] Sardor Rakhimov: Namangangacha taxminan 220 km qoldi.
+[03:44] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:46] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[03:48] Gulnora: Taxminan qachon yetib borasiz?
+[03:50] Sardor Rakhimov: Agar tirbandlik bo'lmasa 10amda.
+[04:43] Gulnora: Yo'lda yangilik bormi?
+[04:45] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[05:27] Gulnora: Holatingiz qanday?
+[05:29] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:31] Gulnora: Taxminan qachon yetib borasiz?
+[05:33] Sardor Rakhimov: Agar tirbandlik bo'lmasa 3pmda.
+[06:29] Gulnora: Yo'lda yangilik bormi?
+[06:31] Sardor Rakhimov: Bu yerda yoqilg'i narxlari yomon emas.
+[06:34] Gulnora: Xabar berib turganingiz uchun rahmat.
+[06:36] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[07:16] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[07:18] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[07:45] Gulnora: Holatingiz qanday?
+[07:47] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:40] Gulnora: Holatingiz qanday?
+[08:42] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[09:10] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[09:12] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:14] Gulnora: Taxminan qachon yetib borasiz?
+[09:16] Sardor Rakhimov: Ehtimol 3pm, balki ertaroq.
+[09:45] Gulnora: Holatingiz qanday?
+[09:47] Sardor Rakhimov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[09:50] Gulnora: O'zingizni qalay his qilyapsiz?
+[09:52] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[11:02] Gulnora: Holatingiz qanday?
+[11:04] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[11:07] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[11:09] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[11:50] Gulnora: Holatingiz qanday?
+[11:52] Sardor Rakhimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:12] Gulnora: Holatingiz qanday?
+[12:14] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[13:25] Gulnora: LD-31514 bilan ishlar qalay?
+[13:27] Sardor Rakhimov: Hozirgina yoqilg'i quydim.
+[13:46] Sardor Rakhimov: Muammo chiqdi, DYHX tekshiruvi LD-31514da. Yo'l chetiga to'xtadim.
+[13:47] Gulnora: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[13:49] Sardor Rakhimov: Ha, men yaxshiman, faqat yordam kerak.
+[13:51] Gulnora: A373 yo'lida 186-belgida turibman.
+[13:56] Gulnora: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[15:09] Sardor Rakhimov: Ta'mirlandi, yana yo'lga tushdim.
+[15:34] Gulnora: LD-31514 bilan ishlar qalay?
+[15:36] Sardor Rakhimov: Namangangacha taxminan 398 km qoldi.
+[16:01] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[16:03] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:37] Gulnora: Holatingiz qanday?
+[16:39] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:55] Gulnora: Yo'lda yangilik bormi?
+[16:57] Sardor Rakhimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[17:17] Gulnora: LD-31514 bilan ishlar qalay?
+[17:19] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:05] Gulnora: LD-31514 bilan ishlar qalay?
+[18:07] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:01] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[19:03] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:29] Gulnora: Hozir qayerdasiz?
+[19:31] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:05] Gulnora: Holatingiz qanday?
+[20:07] Sardor Rakhimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[21:00] Gulnora: Yo'lda yangilik bormi?
+[21:02] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:23] Gulnora: Hozir qayerdasiz?
+[21:25] Sardor Rakhimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[21:46] Gulnora: Hozir qayerdasiz?
+[21:48] Sardor Rakhimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[22:20] Gulnora: Hozir qayerdasiz?
+[22:22] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:20] Gulnora: Holatingiz qanday?
+[23:22] Sardor Rakhimov: Namangangacha taxminan 371 km qoldi.
+[23:46] Gulnora: Holatingiz qanday?
+[23:48] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:43] Gulnora: LD-31514 bilan ishlar qalay?
+[00:45] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:22] Gulnora: LD-31514 bilan ishlar qalay?
+[01:24] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:53] Gulnora: Hozir qayerdasiz?
+[01:55] Sardor Rakhimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[02:17] Gulnora: Yo'lda yangilik bormi?
+[02:19] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:16] Gulnora: Holatingiz qanday?
+[03:18] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:57] Gulnora: Yo'lda yangilik bormi?
+[03:59] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:29] Gulnora: Holatingiz qanday?
+[04:31] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:01] Gulnora: Yo'lda yangilik bormi?
+[05:03] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[05:26] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:48] Gulnora: Holatingiz qanday?
+[05:50] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:19] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[06:21] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:11] Gulnora: Hozir qayerdasiz?
+[07:13] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:11] Gulnora: Yo'lda yangilik bormi?
+[08:13] Sardor Rakhimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:41] Gulnora: LD-31514 bilan ishlar qalay?
+[08:43] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:02] Gulnora: Yo'lda yangilik bormi?
+[09:04] Sardor Rakhimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[09:56] Sardor Rakhimov: LD-31514 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[09:58] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[10:00] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[10:01] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[10:03] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[10:05] Sardor Rakhimov: Xo'p bo'ladi.
+[10:07] Gulnora: Rahmat, aloqada bo'lamiz.

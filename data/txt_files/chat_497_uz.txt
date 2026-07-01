@@ -1,0 +1,149 @@
+Chat Log #497
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #458 (tentli furgon)
+Operator: Dilnoza
+Load: LD-26346 | Route: Farg'ona -> Andijon
+Date: 2026-04-22
+--------------------------------------------------
+[07:41] Dilnoza: Xayrli tong, Shavkat, aloqadamisiz?
+[07:42] Shavkat Ergashev: Xayrli tong, menda hammasi yaxshi.
+[07:44] Dilnoza: Siz uchun yuk bor - LD-26346, tentli furgon, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[07:46] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[07:48] Dilnoza: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[07:50] Shavkat Ergashev: Bu reys uchun narx qancha?
+[07:52] Dilnoza: 1878 ming so'm, 437 km.
+[07:54] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[07:56] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[07:59] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[08:21] Dilnoza: LD-26346 bilan ishlar qalay?
+[08:23] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[08:48] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:50] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:00] Dilnoza: Hozir qayerdasiz?
+[10:02] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[10:05] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[10:07] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:52] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:54] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[10:57] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[10:59] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[12:07] Dilnoza: Yo'lda yangilik bormi?
+[12:09] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[13:34] Dilnoza: Holatingiz qanday?
+[13:36] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[13:38] Dilnoza: Taxminan qachon yetib borasiz?
+[13:40] Shavkat Ergashev: Ehtimol 5pm, balki ertaroq.
+[14:19] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:21] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[14:24] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:26] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[15:20] Dilnoza: Hozir qayerdasiz?
+[15:22] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:39] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:41] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[16:43] Dilnoza: Taxminan qachon yetib borasiz?
+[16:45] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[18:06] Dilnoza: Hozir qayerdasiz?
+[18:08] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[19:02] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:04] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[19:55] Dilnoza: Holatingiz qanday?
+[19:57] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[20:00] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[20:02] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[20:04] Dilnoza: Taxminan qachon yetib borasiz?
+[20:06] Shavkat Ergashev: Agar tirbandlik bo'lmasa 10amda.
+[21:03] Dilnoza: Hozir qayerdasiz?
+[21:05] Shavkat Ergashev: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[21:08] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:10] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:12] Dilnoza: Taxminan qachon yetib borasiz?
+[21:14] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[21:33] Dilnoza: Hozir qayerdasiz?
+[21:35] Shavkat Ergashev: Andijongacha taxminan 339 km qoldi.
+[21:38] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:40] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[22:01] Dilnoza: Hozir qayerdasiz?
+[22:03] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[23:09] Dilnoza: Hozir qayerdasiz?
+[23:11] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[00:14] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:16] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:30] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:32] Shavkat Ergashev: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[02:46] Dilnoza: Hozir qayerdasiz?
+[02:48] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[02:51] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[02:53] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[04:04] Dilnoza: Hozir qayerdasiz?
+[04:06] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:53] Dilnoza: LD-26346 bilan ishlar qalay?
+[04:55] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[05:17] Shavkat Ergashev: Haydash vaqtim limitiga yaqinlashyapman, atigi 30 minutes qoldi.
+[05:19] Dilnoza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[06:09] Dilnoza: Yo'lda yangilik bormi?
+[06:11] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:42] Dilnoza: Holatingiz qanday?
+[06:44] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[07:36] Dilnoza: Yo'lda yangilik bormi?
+[07:38] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:12] Dilnoza: Hozir qayerdasiz?
+[08:14] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:58] Dilnoza: Hozir qayerdasiz?
+[09:00] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:18] Dilnoza: Yo'lda yangilik bormi?
+[09:20] Shavkat Ergashev: Andijongacha taxminan 221 km qoldi.
+[10:17] Dilnoza: Hozir qayerdasiz?
+[10:19] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:19] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:21] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:08] Dilnoza: LD-26346 bilan ishlar qalay?
+[12:10] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:03] Dilnoza: LD-26346 bilan ishlar qalay?
+[13:05] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:50] Dilnoza: Holatingiz qanday?
+[13:52] Shavkat Ergashev: Andijongacha taxminan 49 km qoldi.
+[14:30] Dilnoza: LD-26346 bilan ishlar qalay?
+[14:32] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[15:03] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:05] Shavkat Ergashev: Andijongacha taxminan 417 km qoldi.
+[15:29] Dilnoza: LD-26346 bilan ishlar qalay?
+[15:31] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:55] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:57] Shavkat Ergashev: Andijongacha taxminan 273 km qoldi.
+[16:49] Dilnoza: Yo'lda yangilik bormi?
+[16:51] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:19] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:21] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:00] Dilnoza: Holatingiz qanday?
+[18:02] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:21] Dilnoza: Hozir qayerdasiz?
+[18:23] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:06] Dilnoza: Yo'lda yangilik bormi?
+[19:08] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:57] Dilnoza: Yo'lda yangilik bormi?
+[19:59] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:37] Dilnoza: LD-26346 bilan ishlar qalay?
+[20:39] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:06] Dilnoza: Yo'lda yangilik bormi?
+[21:08] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[21:36] Dilnoza: Hozir qayerdasiz?
+[21:38] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[22:03] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:05] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:48] Dilnoza: Hozir qayerdasiz?
+[22:50] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[23:32] Dilnoza: LD-26346 bilan ishlar qalay?
+[23:34] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:27] Dilnoza: LD-26346 bilan ishlar qalay?
+[00:29] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:55] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:57] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[02:27] Shavkat Ergashev: LD-26346 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[02:29] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[02:31] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[02:32] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:34] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:36] Shavkat Ergashev: Tushunarli.
+[02:38] Dilnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

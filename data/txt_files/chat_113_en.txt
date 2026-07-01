@@ -1,0 +1,126 @@
+Chat Log #113
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Johnson | Truck: #301 (dry van)
+Operator: Nicole
+Load: LD-47912 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-06-27
+--------------------------------------------------
+[09:52] Nicole: Luis, got a minute?
+[09:53] Luis Johnson: Yeah, go ahead.
+[09:55] Nicole: Got a load for you - LD-47912, dry van, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[09:57] Luis Johnson: Ok, what's the pickup window?
+[09:59] Nicole: Pickup is 13:00-15:00, delivery appointment is 14:00 the next day.
+[10:01] Luis Johnson: What's the rate on this one?
+[10:03] Nicole: $4158 all in, 725 miles.
+[10:05] Luis Johnson: Sounds good, I'll take it.
+[10:07] Nicole: Great, sending the rate confirmation now.
+[10:10] Luis Johnson: Got it, signed and sent back.
+[11:03] Nicole: Where are you at right now?
+[11:05] Luis Johnson: Stopped for a quick break, back on the road in a few.
+[11:07] Nicole: What's your ETA?
+[11:09] Luis Johnson: Should be there around 7pm.
+[11:39] Nicole: Any updates on your progress?
+[11:41] Luis Johnson: Fuel prices are decent around here.
+[12:49] Nicole: Where are you at right now?
+[12:51] Luis Johnson: Just passed Los Angeles, CA, everything's fine.
+[13:28] Nicole: Still on schedule?
+[13:30] Luis Johnson: Making good time, no issues so far.
+[14:05] Nicole: How's LD-47912 looking?
+[14:07] Luis Johnson: Just passed Phoenix, AZ, everything's fine.
+[14:10] Nicole: Let me know if you need anything.
+[14:12] Luis Johnson: Will do, thanks for checking in.
+[15:27] Nicole: Any updates on your progress?
+[15:29] Luis Johnson: About 129 miles out from Phoenix, AZ now.
+[15:32] Nicole: Let me know if you need anything.
+[15:34] Luis Johnson: Will do, thanks for checking in.
+[16:17] Nicole: Still on schedule?
+[16:19] Luis Johnson: Just passed Phoenix, AZ, everything's fine.
+[16:22] Nicole: Let me know if you need anything.
+[16:24] Luis Johnson: Yeah, long one, but manageable.
+[16:51] Nicole: Any updates on your progress?
+[16:53] Luis Johnson: Hit some traffic near Los Angeles, CA, adding maybe 20 minutes.
+[16:56] Nicole: How are you holding up out there?
+[16:58] Luis Johnson: No problem, just doing my job.
+[18:03] Nicole: How's LD-47912 looking?
+[18:05] Luis Johnson: Stopping for fuel in a bit.
+[18:08] Nicole: How are you holding up out there?
+[18:10] Luis Johnson: Doing alright, just tired.
+[18:12] Nicole: What's your ETA?
+[18:14] Luis Johnson: Looking at 5pm if traffic stays clear.
+[19:23] Nicole: Still on schedule?
+[19:25] Luis Johnson: About 526 miles out from Phoenix, AZ now.
+[20:22] Nicole: Where are you at right now?
+[20:24] Luis Johnson: Rain is picking up here, slowing down a bit.
+[21:17] Nicole: How's LD-47912 looking?
+[21:19] Luis Johnson: Construction zone slowing everyone down.
+[22:38] Nicole: Still on schedule?
+[22:40] Luis Johnson: Doing alright, just tired.
+[22:43] Nicole: Appreciate you keeping me posted.
+[22:45] Luis Johnson: Will do, thanks for checking in.
+[22:47] Nicole: What's your ETA?
+[22:49] Luis Johnson: Probably 10am, maybe a bit earlier.
+[23:53] Nicole: How's LD-47912 looking?
+[23:55] Luis Johnson: Weather's getting rough up ahead, heads up.
+[23:57] Nicole: What's your ETA?
+[23:59] Luis Johnson: Looking at 3pm if traffic stays clear.
+[01:18] Nicole: Still on schedule?
+[01:20] Luis Johnson: Stopping for fuel in a bit.
+[01:23] Nicole: How are you holding up out there?
+[01:25] Luis Johnson: No problem, just doing my job.
+[01:52] Nicole: Where are you at right now?
+[01:54] Luis Johnson: Just topped off the tank.
+[03:13] Nicole: What's your status?
+[03:15] Luis Johnson: Just topped off the tank.
+[04:37] Nicole: What's your status?
+[04:39] Luis Johnson: Just topped off the tank.
+[04:41] Nicole: What's your ETA?
+[04:43] Luis Johnson: Probably 3pm, maybe a bit earlier.
+[06:08] Nicole: How's LD-47912 looking?
+[06:10] Luis Johnson: Traffic's a bit heavy but I'm still on schedule.
+[06:13] Nicole: Let me know if you need anything.
+[06:15] Luis Johnson: Will do, thanks for checking in.
+[06:28] Luis Johnson: Still sitting at the shipper, been here almost 4 hours already.
+[06:30] Nicole: Let me call them and see what's going on.
+[06:40] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[06:42] Luis Johnson: Make sure detention pay gets logged for this.
+[06:44] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[07:12] Nicole: Where are you at right now?
+[07:14] Luis Johnson: About 371 miles out from Phoenix, AZ now.
+[07:33] Nicole: Still on schedule?
+[07:35] Luis Johnson: Just passed Los Angeles, CA, everything's fine.
+[08:09] Nicole: Any updates on your progress?
+[08:11] Luis Johnson: Traffic's a bit heavy but I'm still on schedule.
+[08:58] Nicole: Still on schedule?
+[09:00] Luis Johnson: Traffic's a bit heavy but I'm still on schedule.
+[09:27] Nicole: Any updates on your progress?
+[09:29] Luis Johnson: Stopped for a quick break, back on the road in a few.
+[09:54] Nicole: Still on schedule?
+[09:56] Luis Johnson: About 91 miles out from Phoenix, AZ now.
+[10:20] Nicole: Any updates on your progress?
+[10:22] Luis Johnson: Making good time, no issues so far.
+[10:55] Nicole: Still on schedule?
+[10:57] Luis Johnson: Stopped for a quick break, back on the road in a few.
+[11:32] Nicole: Still on schedule?
+[11:34] Luis Johnson: About 475 miles out from Phoenix, AZ now.
+[11:56] Nicole: Any updates on your progress?
+[11:58] Luis Johnson: Just passed Phoenix, AZ, everything's fine.
+[12:46] Nicole: How's LD-47912 looking?
+[12:48] Luis Johnson: Stopped for a quick break, back on the road in a few.
+[13:26] Nicole: Where are you at right now?
+[13:28] Luis Johnson: About 284 miles out from Phoenix, AZ now.
+[14:08] Nicole: Any updates on your progress?
+[14:10] Luis Johnson: Traffic's a bit heavy but I'm still on schedule.
+[14:53] Nicole: Any updates on your progress?
+[14:55] Luis Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:33] Nicole: Still on schedule?
+[15:35] Luis Johnson: Just passed Los Angeles, CA, everything's fine.
+[16:10] Nicole: Any updates on your progress?
+[16:12] Luis Johnson: Just passed Los Angeles, CA, everything's fine.
+[16:47] Luis Johnson: Just delivered LD-47912 at Phoenix, AZ, all good, no damages.
+[16:49] Nicole: Do you have the signed BOL?
+[16:51] Luis Johnson: Yep, taking a picture now.
+[16:52] Luis Johnson: [Image attached: signed_bol.jpg]
+[16:54] Nicole: Sending you the next load details shortly.
+[16:56] Luis Johnson: Sounds good.
+[16:58] Nicole: Appreciate it, talk soon.

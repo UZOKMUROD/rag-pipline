@@ -1,0 +1,131 @@
+Chat Log #024
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Smith | Truck: #631 (flatbed)
+Operator: Kayla
+Load: LD-83529 | Route: Houston, TX -> New Orleans, LA
+Date: 2026-05-13
+--------------------------------------------------
+[09:27] Kayla: Morning Eric, you there?
+[09:28] Eric Smith: Morning, all good on my end.
+[09:30] Kayla: Got a load for you - LD-83529, flatbed, pickup in Houston, TX, delivery to New Orleans, LA.
+[09:32] Eric Smith: Ok, what's the pickup window?
+[09:34] Kayla: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[09:36] Eric Smith: What's the rate on this one?
+[09:38] Kayla: $3604 all in, 367 miles.
+[09:40] Eric Smith: Sounds good, I'll take it.
+[09:42] Kayla: Great, sending the rate confirmation now.
+[09:45] Eric Smith: Got it, signed and sent back.
+[10:14] Kayla: What's your status?
+[10:16] Eric Smith: Construction zone slowing everyone down.
+[10:19] Kayla: Long trip, huh? Get some rest when you can.
+[10:21] Eric Smith: Doing alright, just tired.
+[10:23] Kayla: What's your ETA?
+[10:25] Eric Smith: Should be there around noon.
+[11:39] Kayla: Where are you at right now?
+[11:41] Eric Smith: Yeah, long one, but manageable.
+[11:43] Kayla: What's your ETA?
+[11:45] Eric Smith: Looking at 7pm if traffic stays clear.
+[12:56] Kayla: What's your status?
+[12:58] Eric Smith: Making good time, no issues so far.
+[13:01] Kayla: Appreciate you keeping me posted.
+[13:03] Eric Smith: Yeah, long one, but manageable.
+[14:12] Kayla: Any updates on your progress?
+[14:14] Eric Smith: Just crossed the state line, all good.
+[14:45] Kayla: How's LD-83529 looking?
+[14:47] Eric Smith: Weather's getting rough up ahead, heads up.
+[14:49] Kayla: What's your ETA?
+[14:51] Eric Smith: Probably 3pm, maybe a bit earlier.
+[16:21] Kayla: Any updates on your progress?
+[16:23] Eric Smith: Construction zone slowing everyone down.
+[16:26] Kayla: Long trip, huh? Get some rest when you can.
+[16:28] Eric Smith: Will do, thanks for checking in.
+[16:51] Kayla: Where are you at right now?
+[16:53] Eric Smith: Doing alright, just tired.
+[16:56] Kayla: Appreciate you keeping me posted.
+[16:58] Eric Smith: Yeah, long one, but manageable.
+[17:56] Kayla: How's LD-83529 looking?
+[17:58] Eric Smith: Accident up ahead, traffic's backed up.
+[18:01] Kayla: Let me know if you need anything.
+[18:03] Eric Smith: Yeah, long one, but manageable.
+[19:23] Kayla: Where are you at right now?
+[19:25] Eric Smith: Making good time, no issues so far.
+[19:27] Kayla: What's your ETA?
+[19:29] Eric Smith: Looking at 7pm if traffic stays clear.
+[20:11] Kayla: Still on schedule?
+[20:13] Eric Smith: About 238 miles out from New Orleans, LA now.
+[20:15] Kayla: What's your ETA?
+[20:17] Eric Smith: Looking at 7pm if traffic stays clear.
+[21:32] Kayla: What's your status?
+[21:34] Eric Smith: Just passed Houston, TX, everything's fine.
+[22:11] Kayla: Still on schedule?
+[22:13] Eric Smith: Making good time, no issues so far.
+[22:16] Kayla: Let me know if you need anything.
+[22:18] Eric Smith: No problem, just doing my job.
+[22:59] Kayla: Any updates on your progress?
+[23:01] Eric Smith: Just crossed the state line, all good.
+[23:04] Kayla: Appreciate you keeping me posted.
+[23:06] Eric Smith: Yeah, long one, but manageable.
+[23:08] Kayla: What's your ETA?
+[23:10] Eric Smith: Looking at 3pm if traffic stays clear.
+[23:52] Kayla: How's LD-83529 looking?
+[23:54] Eric Smith: Fuel prices are decent around here.
+[00:46] Kayla: Where are you at right now?
+[00:48] Eric Smith: Fuel prices are decent around here.
+[02:15] Kayla: How's LD-83529 looking?
+[02:17] Eric Smith: Weather's getting rough up ahead, heads up.
+[02:20] Kayla: Let me know if you need anything.
+[02:22] Eric Smith: Doing alright, just tired.
+[03:51] Kayla: What's your status?
+[03:53] Eric Smith: Stopped for a quick break, back on the road in a few.
+[04:47] Kayla: Where are you at right now?
+[04:49] Eric Smith: Doing alright, just tired.
+[04:52] Kayla: Let me know if you need anything.
+[04:54] Eric Smith: Will do, thanks for checking in.
+[05:34] Kayla: Still on schedule?
+[05:36] Eric Smith: Roads are wet, taking it easy.
+[05:39] Kayla: Let me know if you need anything.
+[05:41] Eric Smith: Doing alright, just tired.
+[05:43] Kayla: What's your ETA?
+[05:45] Eric Smith: Should be there around 3pm.
+[06:22] Kayla: Still on schedule?
+[06:24] Eric Smith: About 367 miles out from New Orleans, LA now.
+[06:56] Kayla: Any updates on your progress?
+[06:58] Eric Smith: Just crossed the state line, all good.
+[07:45] Kayla: Where are you at right now?
+[07:47] Eric Smith: About 586 miles out from New Orleans, LA now.
+[08:13] Kayla: How's LD-83529 looking?
+[08:15] Eric Smith: About 546 miles out from New Orleans, LA now.
+[09:02] Kayla: What's your status?
+[09:04] Eric Smith: About 499 miles out from New Orleans, LA now.
+[09:29] Kayla: How's LD-83529 looking?
+[09:31] Eric Smith: Making good time, no issues so far.
+[10:27] Kayla: Where are you at right now?
+[10:29] Eric Smith: About 81 miles out from New Orleans, LA now.
+[10:55] Kayla: Any updates on your progress?
+[10:57] Eric Smith: Making good time, no issues so far.
+[11:44] Kayla: Any updates on your progress?
+[11:46] Eric Smith: Traffic's a bit heavy but I'm still on schedule.
+[12:43] Kayla: Where are you at right now?
+[12:45] Eric Smith: Making good time, no issues so far.
+[13:28] Kayla: Any updates on your progress?
+[13:30] Eric Smith: Traffic's a bit heavy but I'm still on schedule.
+[13:53] Kayla: Where are you at right now?
+[13:55] Eric Smith: Traffic's a bit heavy but I'm still on schedule.
+[14:30] Kayla: Still on schedule?
+[14:32] Eric Smith: About 398 miles out from New Orleans, LA now.
+[14:52] Kayla: Still on schedule?
+[14:54] Eric Smith: Making good time, no issues so far.
+[15:43] Kayla: Still on schedule?
+[15:45] Eric Smith: Just crossed the state line, all good.
+[16:39] Kayla: How's LD-83529 looking?
+[16:41] Eric Smith: About 349 miles out from New Orleans, LA now.
+[17:22] Kayla: How's LD-83529 looking?
+[17:24] Eric Smith: Stopped for a quick break, back on the road in a few.
+[18:05] Eric Smith: Just delivered LD-83529 at New Orleans, LA, all good, no damages.
+[18:07] Kayla: Do you have the signed BOL?
+[18:09] Eric Smith: Yep, taking a picture now.
+[18:10] Eric Smith: [Image attached: signed_bol.jpg]
+[18:12] Kayla: Sending you the next load details shortly.
+[18:14] Eric Smith: Understood.
+[18:16] Kayla: Appreciate it, talk soon.

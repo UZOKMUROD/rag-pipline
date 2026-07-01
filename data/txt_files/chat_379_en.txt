@@ -1,0 +1,130 @@
+Chat Log #379
+Company: Silk Road Logistics
+Language: English
+Driver: Steve Moore | Truck: #324 (step deck)
+Operator: Nicole
+Load: LD-81456 | Route: Dallas, TX -> Atlanta, GA
+Date: 2026-03-04
+--------------------------------------------------
+[07:48] Nicole: Hey Steve, how's it going?
+[07:49] Steve Moore: Morning, all good on my end.
+[07:51] Nicole: Got a load for you - LD-81456, step deck, pickup in Dallas, TX, delivery to Atlanta, GA.
+[07:53] Steve Moore: Ok, what's the pickup window?
+[07:55] Nicole: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[07:57] Steve Moore: What's the rate on this one?
+[07:59] Nicole: $2189 all in, 766 miles.
+[08:01] Steve Moore: Sounds good, I'll take it.
+[08:03] Nicole: Great, sending the rate confirmation now.
+[08:06] Steve Moore: Got it, signed and sent back.
+[09:17] Nicole: What's your status?
+[09:19] Steve Moore: Just passed Atlanta, GA, everything's fine.
+[09:22] Nicole: Long trip, huh? Get some rest when you can.
+[09:24] Steve Moore: No problem, just doing my job.
+[10:15] Nicole: Where are you at right now?
+[10:17] Steve Moore: Just crossed the state line, all good.
+[11:34] Nicole: What's your status?
+[11:36] Steve Moore: Accident up ahead, traffic's backed up.
+[11:39] Nicole: Long trip, huh? Get some rest when you can.
+[11:41] Steve Moore: Will do, thanks for checking in.
+[12:37] Nicole: What's your status?
+[12:39] Steve Moore: No problem, just doing my job.
+[12:42] Nicole: How are you holding up out there?
+[12:44] Steve Moore: Yeah, long one, but manageable.
+[12:59] Nicole: What's your status?
+[13:01] Steve Moore: Making good time, no issues so far.
+[13:32] Nicole: Where are you at right now?
+[13:34] Steve Moore: Roads are wet, taking it easy.
+[13:37] Nicole: Long trip, huh? Get some rest when you can.
+[13:39] Steve Moore: No problem, just doing my job.
+[14:24] Nicole: Where are you at right now?
+[14:26] Steve Moore: Making good time, no issues so far.
+[14:29] Nicole: Let me know if you need anything.
+[14:31] Steve Moore: Yeah, long one, but manageable.
+[14:50] Nicole: Still on schedule?
+[14:52] Steve Moore: Roads are clear now, moving well.
+[14:55] Nicole: Appreciate you keeping me posted.
+[14:57] Steve Moore: Doing alright, just tired.
+[14:59] Nicole: What's your ETA?
+[15:01] Steve Moore: Probably 10am, maybe a bit earlier.
+[16:25] Nicole: Still on schedule?
+[16:27] Steve Moore: Roads are wet, taking it easy.
+[16:30] Nicole: Let me know if you need anything.
+[16:32] Steve Moore: No problem, just doing my job.
+[16:34] Nicole: What's your ETA?
+[16:36] Steve Moore: Probably 7pm, maybe a bit earlier.
+[17:35] Nicole: How's LD-81456 looking?
+[17:37] Steve Moore: Yeah, long one, but manageable.
+[18:57] Nicole: Still on schedule?
+[18:59] Steve Moore: No problem, just doing my job.
+[19:02] Nicole: Appreciate you keeping me posted.
+[19:04] Steve Moore: Doing alright, just tired.
+[20:16] Nicole: Any updates on your progress?
+[20:18] Steve Moore: Doing alright, just tired.
+[21:04] Nicole: Any updates on your progress?
+[21:06] Steve Moore: Will do, thanks for checking in.
+[21:09] Nicole: Long trip, huh? Get some rest when you can.
+[21:11] Steve Moore: Yeah, long one, but manageable.
+[21:58] Nicole: Where are you at right now?
+[22:00] Steve Moore: Accident up ahead, traffic's backed up.
+[22:51] Nicole: What's your status?
+[22:53] Steve Moore: Doing alright, just tired.
+[22:56] Nicole: Let me know if you need anything.
+[22:58] Steve Moore: No problem, just doing my job.
+[23:47] Nicole: Where are you at right now?
+[23:49] Steve Moore: Just crossed the state line, all good.
+[00:35] Nicole: What's your status?
+[00:37] Steve Moore: Traffic's a bit heavy but I'm still on schedule.
+[00:39] Nicole: What's your ETA?
+[00:41] Steve Moore: Probably 10am, maybe a bit earlier.
+[01:00] Nicole: How's LD-81456 looking?
+[01:02] Steve Moore: About 500 miles out from Atlanta, GA now.
+[01:37] Nicole: Still on schedule?
+[01:39] Steve Moore: About 101 miles out from Atlanta, GA now.
+[02:56] Nicole: How's LD-81456 looking?
+[02:58] Steve Moore: Just topped off the tank.
+[03:00] Nicole: What's your ETA?
+[03:02] Steve Moore: Looking at 5pm if traffic stays clear.
+[04:03] Nicole: Still on schedule?
+[04:05] Steve Moore: Roads are wet, taking it easy.
+[04:34] Nicole: Where are you at right now?
+[04:36] Steve Moore: Stopping for fuel in a bit.
+[05:14] Steve Moore: Still sitting at the receiver, been here almost 3 hours already.
+[05:16] Nicole: Let me call them and see what's going on.
+[05:26] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:28] Steve Moore: Make sure detention pay gets logged for this.
+[05:30] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[05:52] Nicole: Still on schedule?
+[05:54] Steve Moore: Making good time, no issues so far.
+[06:23] Nicole: How's LD-81456 looking?
+[06:25] Steve Moore: Just crossed the state line, all good.
+[06:52] Nicole: How's LD-81456 looking?
+[06:54] Steve Moore: Stopped for a quick break, back on the road in a few.
+[07:16] Nicole: Any updates on your progress?
+[07:18] Steve Moore: Making good time, no issues so far.
+[07:53] Nicole: How's LD-81456 looking?
+[07:55] Steve Moore: Stopped for a quick break, back on the road in a few.
+[08:46] Nicole: How's LD-81456 looking?
+[08:48] Steve Moore: Just crossed the state line, all good.
+[09:22] Nicole: Any updates on your progress?
+[09:24] Steve Moore: Just passed Atlanta, GA, everything's fine.
+[09:59] Nicole: What's your status?
+[10:01] Steve Moore: Traffic's a bit heavy but I'm still on schedule.
+[11:00] Nicole: How's LD-81456 looking?
+[11:02] Steve Moore: About 333 miles out from Atlanta, GA now.
+[11:51] Nicole: How's LD-81456 looking?
+[11:53] Steve Moore: About 344 miles out from Atlanta, GA now.
+[12:09] Nicole: How's LD-81456 looking?
+[12:11] Steve Moore: Traffic's a bit heavy but I'm still on schedule.
+[12:44] Nicole: What's your status?
+[12:46] Steve Moore: Making good time, no issues so far.
+[13:06] Nicole: How's LD-81456 looking?
+[13:08] Steve Moore: Just crossed the state line, all good.
+[13:47] Nicole: What's your status?
+[13:49] Steve Moore: Just passed Dallas, TX, everything's fine.
+[14:28] Steve Moore: Just delivered LD-81456 at Atlanta, GA, all good, no damages.
+[14:30] Nicole: Do you have the signed BOL?
+[14:32] Steve Moore: Yep, taking a picture now.
+[14:33] Steve Moore: [Image attached: signed_bol.jpg]
+[14:35] Nicole: Sending you the next load details shortly.
+[14:37] Steve Moore: Will do.
+[14:39] Nicole: Thanks for the update, drive safe.

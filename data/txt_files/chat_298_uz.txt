@@ -1,0 +1,151 @@
+Chat Log #298
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Otabek Sultonov | Truck: #249 (past ramali tirkama)
+Operator: Shahnoza
+Load: LD-11083 | Route: Andijon -> Farg'ona
+Date: 2026-05-22
+--------------------------------------------------
+[05:49] Shahnoza: Xayrli tong, Otabek, aloqadamisiz?
+[05:50] Otabek Sultonov: Ha, aloqadaman.
+[05:52] Shahnoza: Siz uchun yuk bor - LD-11083, past ramali tirkama, Andijondan yuklanadi, Farg'onaga tushiriladi.
+[05:54] Otabek Sultonov: Tushunarli, yuklash vaqti qachon?
+[05:56] Shahnoza: Yuklash 08:00-10:00, tushirish esa ertaga 09:00 bo'ladi.
+[05:58] Otabek Sultonov: Bu reys uchun narx qancha?
+[06:00] Shahnoza: 3810 ming so'm, 780 km.
+[06:02] Otabek Sultonov: Yaxshi, bu reysni olaman.
+[06:04] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:07] Otabek Sultonov: Oldim, imzolab qaytarib yubordim.
+[07:25] Shahnoza: Yo'lda yangilik bormi?
+[07:27] Otabek Sultonov: Hozirgina yoqilg'i quydim.
+[07:29] Shahnoza: Taxminan qachon yetib borasiz?
+[07:31] Otabek Sultonov: Ehtimol noon, balki ertaroq.
+[08:27] Shahnoza: Yo'lda yangilik bormi?
+[08:29] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[08:32] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:34] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[08:36] Shahnoza: Taxminan qachon yetib borasiz?
+[08:38] Otabek Sultonov: Ehtimol 5pm, balki ertaroq.
+[09:52] Shahnoza: Yo'lda yangilik bormi?
+[09:54] Otabek Sultonov: Farg'onagacha taxminan 564 km qoldi.
+[09:57] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[09:59] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:01] Shahnoza: Taxminan qachon yetib borasiz?
+[10:03] Otabek Sultonov: Taxminan 3pmda yetib boraman.
+[11:29] Shahnoza: Hozir qayerdasiz?
+[11:31] Otabek Sultonov: Bu yerda yoqilg'i narxlari yomon emas.
+[12:54] Shahnoza: LD-11083 bilan ishlar qalay?
+[12:56] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[12:59] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[13:01] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:18] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:20] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[14:23] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:25] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:27] Shahnoza: Taxminan qachon yetib borasiz?
+[14:29] Otabek Sultonov: Taxminan noonda yetib boraman.
+[14:52] Shahnoza: Hozir qayerdasiz?
+[14:54] Otabek Sultonov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[14:57] Shahnoza: O'zingizni qalay his qilyapsiz?
+[14:59] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[15:54] Shahnoza: Holatingiz qanday?
+[15:56] Otabek Sultonov: Oldinda avariya bo'lgan, tirbandlik bor.
+[15:58] Shahnoza: Taxminan qachon yetib borasiz?
+[16:00] Otabek Sultonov: Agar tirbandlik bo'lmasa 3pmda.
+[16:55] Shahnoza: Holatingiz qanday?
+[16:57] Otabek Sultonov: Osmon ochiq, muammo yo'q.
+[17:00] Shahnoza: O'zingizni qalay his qilyapsiz?
+[17:02] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[17:54] Shahnoza: Holatingiz qanday?
+[17:56] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[17:59] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:01] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:03] Shahnoza: Taxminan qachon yetib borasiz?
+[18:05] Otabek Sultonov: Ehtimol 10am, balki ertaroq.
+[19:01] Shahnoza: Yo'lda yangilik bormi?
+[19:03] Otabek Sultonov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[19:51] Shahnoza: Yo'lda yangilik bormi?
+[19:53] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[20:32] Shahnoza: Holatingiz qanday?
+[20:34] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:37] Shahnoza: O'zingizni qalay his qilyapsiz?
+[20:39] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:41] Shahnoza: Taxminan qachon yetib borasiz?
+[20:43] Otabek Sultonov: Taxminan 10amda yetib boraman.
+[21:47] Shahnoza: Holatingiz qanday?
+[21:49] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:52] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[21:54] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[22:37] Shahnoza: LD-11083 bilan ishlar qalay?
+[22:39] Otabek Sultonov: Farg'onagacha taxminan 250 km qoldi.
+[22:42] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[22:44] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[23:35] Shahnoza: Yo'lda yangilik bormi?
+[23:37] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[23:39] Shahnoza: Taxminan qachon yetib borasiz?
+[23:41] Otabek Sultonov: Agar tirbandlik bo'lmasa 5pmda.
+[00:16] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:18] Otabek Sultonov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[00:21] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:23] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[01:44] Shahnoza: Holatingiz qanday?
+[01:46] Otabek Sultonov: Ha, uzoq, lekin chidayapman.
+[01:49] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[01:51] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:53] Shahnoza: Taxminan qachon yetib borasiz?
+[01:55] Otabek Sultonov: Agar tirbandlik bo'lmasa 10amda.
+[02:26] Otabek Sultonov: Muammo chiqdi, DYHX tekshiruvi LD-11083da. Yo'l chetiga to'xtadim.
+[02:27] Shahnoza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[02:29] Otabek Sultonov: Ha, men yaxshiman, faqat yordam kerak.
+[02:31] Shahnoza: A376 yo'lida 60-belgida turibman.
+[02:36] Shahnoza: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[04:06] Otabek Sultonov: Ta'mirlandi, yana yo'lga tushdim.
+[04:56] Shahnoza: Hozir qayerdasiz?
+[04:58] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:54] Shahnoza: LD-11083 bilan ishlar qalay?
+[05:56] Otabek Sultonov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[06:17] Shahnoza: LD-11083 bilan ishlar qalay?
+[06:19] Otabek Sultonov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[06:59] Shahnoza: LD-11083 bilan ishlar qalay?
+[07:01] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:53] Shahnoza: LD-11083 bilan ishlar qalay?
+[07:55] Otabek Sultonov: Farg'onagacha taxminan 102 km qoldi.
+[08:25] Shahnoza: Holatingiz qanday?
+[08:27] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:00] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:02] Otabek Sultonov: Farg'onagacha taxminan 395 km qoldi.
+[09:53] Shahnoza: Holatingiz qanday?
+[09:55] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:55] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:57] Otabek Sultonov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[11:46] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:48] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:03] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:05] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:46] Shahnoza: LD-11083 bilan ishlar qalay?
+[12:48] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:09] Shahnoza: Holatingiz qanday?
+[13:11] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:28] Shahnoza: Holatingiz qanday?
+[13:30] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:25] Shahnoza: Hozir qayerdasiz?
+[14:27] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:09] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:11] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:34] Shahnoza: Hozir qayerdasiz?
+[15:36] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:23] Shahnoza: Yo'lda yangilik bormi?
+[16:25] Otabek Sultonov: Farg'onagacha taxminan 71 km qoldi.
+[16:44] Shahnoza: Holatingiz qanday?
+[16:46] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:41] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:43] Otabek Sultonov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[18:22] Shahnoza: Hozir qayerdasiz?
+[18:24] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:35] Otabek Sultonov: LD-11083 yukini Farg'onada hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[19:37] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[19:39] Otabek Sultonov: Ha, hozir rasmga olaman.
+[19:40] Otabek Sultonov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[19:42] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[19:44] Otabek Sultonov: Xo'p bo'ladi.
+[19:46] Shahnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

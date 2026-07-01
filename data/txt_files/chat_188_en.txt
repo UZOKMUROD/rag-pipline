@@ -1,0 +1,128 @@
+Chat Log #188
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Lopez | Truck: #440 (reefer)
+Operator: Rachel
+Load: LD-93324 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-04-26
+--------------------------------------------------
+[10:42] Rachel: Hey Kevin, how's it going?
+[10:43] Kevin Lopez: Hey, yeah I'm here.
+[10:45] Rachel: Got a load for you - LD-93324, reefer, pickup in Detroit, MI, delivery to Cleveland, OH.
+[10:47] Kevin Lopez: Ok, what's the pickup window?
+[10:49] Rachel: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[10:51] Kevin Lopez: What's the rate on this one?
+[10:53] Rachel: $3109 all in, 454 miles.
+[10:55] Kevin Lopez: Sounds good, I'll take it.
+[10:57] Rachel: Great, sending the rate confirmation now.
+[11:00] Kevin Lopez: Got it, signed and sent back.
+[12:19] Rachel: Where are you at right now?
+[12:21] Kevin Lopez: About 464 miles out from Cleveland, OH now.
+[12:24] Rachel: Let me know if you need anything.
+[12:26] Kevin Lopez: Yeah, long one, but manageable.
+[12:54] Rachel: What's your status?
+[12:56] Kevin Lopez: Just topped off the tank.
+[12:58] Rachel: What's your ETA?
+[13:00] Kevin Lopez: Probably 3pm, maybe a bit earlier.
+[13:47] Rachel: Any updates on your progress?
+[13:49] Kevin Lopez: Making good time, no issues so far.
+[13:52] Rachel: Long trip, huh? Get some rest when you can.
+[13:54] Kevin Lopez: No problem, just doing my job.
+[14:21] Rachel: What's your status?
+[14:23] Kevin Lopez: Construction zone slowing everyone down.
+[14:25] Rachel: What's your ETA?
+[14:27] Kevin Lopez: Looking at 10am if traffic stays clear.
+[15:49] Rachel: How's LD-93324 looking?
+[15:51] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[17:07] Rachel: Still on schedule?
+[17:09] Kevin Lopez: No problem, just doing my job.
+[17:59] Rachel: What's your status?
+[18:01] Kevin Lopez: Construction zone slowing everyone down.
+[18:03] Rachel: What's your ETA?
+[18:05] Kevin Lopez: Probably 7pm, maybe a bit earlier.
+[18:38] Rachel: How's LD-93324 looking?
+[18:40] Kevin Lopez: Just crossed the state line, all good.
+[18:43] Rachel: How are you holding up out there?
+[18:45] Kevin Lopez: Will do, thanks for checking in.
+[18:47] Rachel: What's your ETA?
+[18:49] Kevin Lopez: Probably noon, maybe a bit earlier.
+[19:42] Rachel: Still on schedule?
+[19:44] Kevin Lopez: Weather's getting rough up ahead, heads up.
+[19:47] Rachel: Let me know if you need anything.
+[19:49] Kevin Lopez: No problem, just doing my job.
+[21:04] Rachel: Still on schedule?
+[21:06] Kevin Lopez: Roads are clear now, moving well.
+[21:08] Rachel: What's your ETA?
+[21:10] Kevin Lopez: Should be there around 3pm.
+[22:29] Rachel: Any updates on your progress?
+[22:31] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[22:59] Rachel: Any updates on your progress?
+[23:01] Kevin Lopez: Just crossed the state line, all good.
+[23:04] Rachel: How are you holding up out there?
+[23:06] Kevin Lopez: Will do, thanks for checking in.
+[23:25] Rachel: How's LD-93324 looking?
+[23:27] Kevin Lopez: Construction zone slowing everyone down.
+[00:56] Rachel: What's your status?
+[00:58] Kevin Lopez: Roads are clear now, moving well.
+[01:01] Rachel: Let me know if you need anything.
+[01:03] Kevin Lopez: Will do, thanks for checking in.
+[02:03] Rachel: Any updates on your progress?
+[02:05] Kevin Lopez: About 224 miles out from Cleveland, OH now.
+[02:08] Rachel: How are you holding up out there?
+[02:10] Kevin Lopez: Doing alright, just tired.
+[02:12] Rachel: What's your ETA?
+[02:14] Kevin Lopez: Should be there around noon.
+[02:34] Rachel: Where are you at right now?
+[02:36] Kevin Lopez: Making good time, no issues so far.
+[02:39] Rachel: How are you holding up out there?
+[02:41] Kevin Lopez: No problem, just doing my job.
+[03:37] Rachel: Where are you at right now?
+[03:39] Kevin Lopez: Just passed Detroit, MI, everything's fine.
+[03:42] Rachel: Long trip, huh? Get some rest when you can.
+[03:44] Kevin Lopez: Yeah, long one, but manageable.
+[03:46] Rachel: What's your ETA?
+[03:48] Kevin Lopez: Probably 5pm, maybe a bit earlier.
+[04:12] Rachel: How's LD-93324 looking?
+[04:14] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[05:15] Rachel: Any updates on your progress?
+[05:17] Kevin Lopez: Just crossed the state line, all good.
+[05:44] Rachel: Any updates on your progress?
+[05:46] Kevin Lopez: About 279 miles out from Cleveland, OH now.
+[05:49] Rachel: How are you holding up out there?
+[05:51] Kevin Lopez: Yeah, long one, but manageable.
+[05:53] Rachel: What's your ETA?
+[05:55] Kevin Lopez: Probably noon, maybe a bit earlier.
+[06:21] Kevin Lopez: Still sitting at the receiver, been here almost 3 hours already.
+[06:23] Rachel: Let me call them and see what's going on.
+[06:33] Rachel: Ok talked to them, they said 30 more minutes, forklift issue.
+[06:35] Kevin Lopez: Make sure detention pay gets logged for this.
+[06:37] Rachel: Already noted, don't worry, you'll get paid for the wait.
+[07:19] Rachel: What's your status?
+[07:21] Kevin Lopez: Just crossed the state line, all good.
+[08:13] Rachel: Where are you at right now?
+[08:15] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[09:12] Rachel: What's your status?
+[09:14] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[09:49] Rachel: Where are you at right now?
+[09:51] Kevin Lopez: Making good time, no issues so far.
+[10:40] Rachel: Any updates on your progress?
+[10:42] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[10:59] Rachel: How's LD-93324 looking?
+[11:01] Kevin Lopez: Just passed Cleveland, OH, everything's fine.
+[11:34] Rachel: Still on schedule?
+[11:36] Kevin Lopez: Stopped for a quick break, back on the road in a few.
+[11:56] Rachel: How's LD-93324 looking?
+[11:58] Kevin Lopez: Just passed Cleveland, OH, everything's fine.
+[12:32] Rachel: Any updates on your progress?
+[12:34] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[13:05] Rachel: How's LD-93324 looking?
+[13:07] Kevin Lopez: Just passed Cleveland, OH, everything's fine.
+[14:04] Rachel: Any updates on your progress?
+[14:06] Kevin Lopez: Traffic's a bit heavy but I'm still on schedule.
+[14:39] Kevin Lopez: Just delivered LD-93324 at Cleveland, OH, all good, no damages.
+[14:41] Rachel: Do you have the signed BOL?
+[14:43] Kevin Lopez: Yep, taking a picture now.
+[14:44] Kevin Lopez: [Image attached: signed_bol.jpg]
+[14:46] Rachel: Sending you the next load details shortly.
+[14:48] Kevin Lopez: Copy that.
+[14:50] Rachel: Great work, thank you.

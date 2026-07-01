@@ -1,0 +1,127 @@
+Chat Log #438
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Wilson | Truck: #726 (reefer)
+Operator: Rachel
+Load: LD-78029 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-01-21
+--------------------------------------------------
+[13:12] Rachel: Mike, got a minute?
+[13:13] Mike Wilson: Hey, yeah I'm here.
+[13:15] Rachel: Got a load for you - LD-78029, reefer, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[13:17] Mike Wilson: Ok, what's the pickup window?
+[13:19] Rachel: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[13:21] Mike Wilson: What's the rate on this one?
+[13:23] Rachel: $2391 all in, 880 miles.
+[13:25] Mike Wilson: Sounds good, I'll take it.
+[13:27] Rachel: Great, sending the rate confirmation now.
+[13:30] Mike Wilson: Got it, signed and sent back.
+[14:28] Rachel: Still on schedule?
+[14:30] Mike Wilson: About 565 miles out from Salt Lake City, UT now.
+[15:56] Rachel: What's your status?
+[15:58] Mike Wilson: Making good time, no issues so far.
+[16:00] Rachel: What's your ETA?
+[16:02] Mike Wilson: Probably 5pm, maybe a bit earlier.
+[17:12] Rachel: Any updates on your progress?
+[17:14] Mike Wilson: Roads are clear now, moving well.
+[17:16] Rachel: What's your ETA?
+[17:18] Mike Wilson: Probably 7pm, maybe a bit earlier.
+[17:47] Rachel: Where are you at right now?
+[17:49] Mike Wilson: Fuel prices are decent around here.
+[17:52] Rachel: Appreciate you keeping me posted.
+[17:54] Mike Wilson: Yeah, long one, but manageable.
+[18:43] Rachel: Any updates on your progress?
+[18:45] Mike Wilson: Yeah, long one, but manageable.
+[18:47] Rachel: What's your ETA?
+[18:49] Mike Wilson: Looking at 3pm if traffic stays clear.
+[20:05] Rachel: Where are you at right now?
+[20:07] Mike Wilson: Weather's getting rough up ahead, heads up.
+[20:10] Rachel: Appreciate you keeping me posted.
+[20:12] Mike Wilson: No problem, just doing my job.
+[21:13] Rachel: Where are you at right now?
+[21:15] Mike Wilson: Roads are wet, taking it easy.
+[22:08] Rachel: Any updates on your progress?
+[22:10] Mike Wilson: Just crossed the state line, all good.
+[22:12] Rachel: What's your ETA?
+[22:14] Mike Wilson: Probably 3pm, maybe a bit earlier.
+[23:39] Rachel: Where are you at right now?
+[23:41] Mike Wilson: Accident up ahead, traffic's backed up.
+[01:11] Rachel: Any updates on your progress?
+[01:13] Mike Wilson: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[02:41] Rachel: Where are you at right now?
+[02:43] Mike Wilson: Making good time, no issues so far.
+[04:01] Rachel: How's LD-78029 looking?
+[04:03] Mike Wilson: Fuel prices are decent around here.
+[04:06] Rachel: How are you holding up out there?
+[04:08] Mike Wilson: Will do, thanks for checking in.
+[05:01] Rachel: Any updates on your progress?
+[05:03] Mike Wilson: Will do, thanks for checking in.
+[06:32] Rachel: Any updates on your progress?
+[06:34] Mike Wilson: Traffic's a bit heavy but I'm still on schedule.
+[07:59] Rachel: Still on schedule?
+[08:01] Mike Wilson: Making good time, no issues so far.
+[08:04] Rachel: Long trip, huh? Get some rest when you can.
+[08:06] Mike Wilson: No problem, just doing my job.
+[08:33] Rachel: What's your status?
+[08:35] Mike Wilson: Making good time, no issues so far.
+[08:38] Rachel: Let me know if you need anything.
+[08:40] Mike Wilson: Will do, thanks for checking in.
+[08:42] Rachel: What's your ETA?
+[08:44] Mike Wilson: Probably noon, maybe a bit earlier.
+[09:29] Rachel: What's your status?
+[09:31] Mike Wilson: Rain is picking up here, slowing down a bit.
+[10:01] Rachel: Still on schedule?
+[10:03] Mike Wilson: Stopped for a quick break, back on the road in a few.
+[10:32] Rachel: What's your status?
+[10:34] Mike Wilson: Stopped for a quick break, back on the road in a few.
+[11:04] Rachel: What's your status?
+[11:06] Mike Wilson: About 87 miles out from Salt Lake City, UT now.
+[11:50] Rachel: How's LD-78029 looking?
+[11:52] Mike Wilson: Just passed Denver, CO, everything's fine.
+[12:09] Rachel: What's your status?
+[12:11] Mike Wilson: Just crossed the state line, all good.
+[12:36] Rachel: Any updates on your progress?
+[12:38] Mike Wilson: Making good time, no issues so far.
+[12:58] Rachel: Still on schedule?
+[13:00] Mike Wilson: Just passed Denver, CO, everything's fine.
+[13:55] Rachel: Any updates on your progress?
+[13:57] Mike Wilson: Stopped for a quick break, back on the road in a few.
+[14:15] Rachel: How's LD-78029 looking?
+[14:17] Mike Wilson: Making good time, no issues so far.
+[15:04] Rachel: What's your status?
+[15:06] Mike Wilson: Just crossed the state line, all good.
+[15:30] Rachel: Where are you at right now?
+[15:32] Mike Wilson: Just crossed the state line, all good.
+[16:07] Rachel: Any updates on your progress?
+[16:09] Mike Wilson: Just crossed the state line, all good.
+[16:40] Rachel: What's your status?
+[16:42] Mike Wilson: Traffic's a bit heavy but I'm still on schedule.
+[17:41] Rachel: Where are you at right now?
+[17:43] Mike Wilson: About 52 miles out from Salt Lake City, UT now.
+[18:29] Rachel: What's your status?
+[18:31] Mike Wilson: Making good time, no issues so far.
+[19:19] Rachel: What's your status?
+[19:21] Mike Wilson: Just crossed the state line, all good.
+[19:49] Rachel: Still on schedule?
+[19:51] Mike Wilson: Just crossed the state line, all good.
+[20:46] Rachel: Any updates on your progress?
+[20:48] Mike Wilson: Stopped for a quick break, back on the road in a few.
+[21:48] Rachel: How's LD-78029 looking?
+[21:50] Mike Wilson: Making good time, no issues so far.
+[22:07] Rachel: What's your status?
+[22:09] Mike Wilson: Traffic's a bit heavy but I'm still on schedule.
+[22:27] Rachel: Still on schedule?
+[22:29] Mike Wilson: Just passed Salt Lake City, UT, everything's fine.
+[22:50] Rachel: Still on schedule?
+[22:52] Mike Wilson: Making good time, no issues so far.
+[23:40] Rachel: Where are you at right now?
+[23:42] Mike Wilson: Stopped for a quick break, back on the road in a few.
+[00:07] Rachel: Where are you at right now?
+[00:09] Mike Wilson: Just crossed the state line, all good.
+[01:37] Mike Wilson: Just delivered LD-78029 at Salt Lake City, UT, all good, no damages.
+[01:39] Rachel: Do you have the signed BOL?
+[01:41] Mike Wilson: Yep, taking a picture now.
+[01:42] Mike Wilson: [Image attached: signed_bol.jpg]
+[01:44] Rachel: Sending you the next load details shortly.
+[01:46] Mike Wilson: Copy that.
+[01:48] Rachel: Great work, thank you.

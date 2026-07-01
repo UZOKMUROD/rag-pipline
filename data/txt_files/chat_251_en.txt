@@ -1,0 +1,127 @@
+Chat Log #251
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas Clark | Truck: #561 (dry van)
+Operator: Amanda
+Load: LD-50433 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-02-21
+--------------------------------------------------
+[20:53] Amanda: Morning Thomas, you there?
+[20:54] Thomas Clark: Yeah, go ahead.
+[20:56] Amanda: Got a load for you - LD-50433, dry van, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[20:58] Thomas Clark: Ok, what's the pickup window?
+[21:00] Amanda: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[21:02] Thomas Clark: What's the rate on this one?
+[21:04] Amanda: $3938 all in, 728 miles.
+[21:06] Thomas Clark: Sounds good, I'll take it.
+[21:08] Amanda: Great, sending the rate confirmation now.
+[21:11] Thomas Clark: Got it, signed and sent back.
+[21:28] Amanda: Still on schedule?
+[21:30] Thomas Clark: Traffic's a bit heavy but I'm still on schedule.
+[21:56] Amanda: Any updates on your progress?
+[21:58] Thomas Clark: Just passed Columbus, OH, everything's fine.
+[22:00] Amanda: What's your ETA?
+[22:02] Thomas Clark: Probably 3pm, maybe a bit earlier.
+[23:17] Amanda: Any updates on your progress?
+[23:19] Thomas Clark: Construction zone slowing everyone down.
+[23:21] Amanda: What's your ETA?
+[23:23] Thomas Clark: Probably 5pm, maybe a bit earlier.
+[00:41] Amanda: Where are you at right now?
+[00:43] Thomas Clark: Rain is picking up here, slowing down a bit.
+[01:36] Amanda: What's your status?
+[01:38] Thomas Clark: Traffic's a bit heavy but I'm still on schedule.
+[01:40] Amanda: What's your ETA?
+[01:42] Thomas Clark: Looking at 10am if traffic stays clear.
+[02:36] Amanda: Any updates on your progress?
+[02:38] Thomas Clark: Yeah, long one, but manageable.
+[03:26] Amanda: How's LD-50433 looking?
+[03:28] Thomas Clark: Traffic's a bit heavy but I'm still on schedule.
+[04:18] Amanda: How's LD-50433 looking?
+[04:20] Thomas Clark: Will do, thanks for checking in.
+[04:23] Amanda: Appreciate you keeping me posted.
+[04:25] Thomas Clark: Will do, thanks for checking in.
+[04:27] Amanda: What's your ETA?
+[04:29] Thomas Clark: Looking at noon if traffic stays clear.
+[05:07] Amanda: Any updates on your progress?
+[05:09] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[05:12] Amanda: Appreciate you keeping me posted.
+[05:14] Thomas Clark: Yeah, long one, but manageable.
+[06:27] Amanda: Any updates on your progress?
+[06:29] Thomas Clark: Construction zone slowing everyone down.
+[06:32] Amanda: Long trip, huh? Get some rest when you can.
+[06:34] Thomas Clark: Doing alright, just tired.
+[07:18] Amanda: Where are you at right now?
+[07:20] Thomas Clark: Fuel prices are decent around here.
+[07:23] Amanda: Let me know if you need anything.
+[07:25] Thomas Clark: Doing alright, just tired.
+[08:11] Amanda: Still on schedule?
+[08:13] Thomas Clark: Fuel prices are decent around here.
+[08:36] Amanda: Where are you at right now?
+[08:38] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[08:40] Amanda: What's your ETA?
+[08:42] Thomas Clark: Probably noon, maybe a bit earlier.
+[09:32] Amanda: What's your status?
+[09:34] Thomas Clark: About 103 miles out from Pittsburgh, PA now.
+[10:20] Amanda: Where are you at right now?
+[10:22] Thomas Clark: Fuel prices are decent around here.
+[10:24] Amanda: What's your ETA?
+[10:26] Thomas Clark: Looking at 10am if traffic stays clear.
+[10:43] Amanda: What's your status?
+[10:45] Thomas Clark: Accident up ahead, traffic's backed up.
+[10:48] Amanda: Long trip, huh? Get some rest when you can.
+[10:50] Thomas Clark: No problem, just doing my job.
+[11:48] Amanda: What's your status?
+[11:50] Thomas Clark: Hit some traffic near Pittsburgh, PA, adding maybe 20 minutes.
+[12:31] Amanda: Any updates on your progress?
+[12:33] Thomas Clark: Yeah, long one, but manageable.
+[12:36] Amanda: Appreciate you keeping me posted.
+[12:38] Thomas Clark: No problem, just doing my job.
+[13:22] Amanda: How's LD-50433 looking?
+[13:24] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[14:30] Amanda: Any updates on your progress?
+[14:32] Thomas Clark: Accident up ahead, traffic's backed up.
+[14:52] Thomas Clark: I've got a problem, a flat tire on LD-50433. Pulled over on the shoulder.
+[14:53] Amanda: Are you safe? Anyone hurt?
+[14:55] Thomas Clark: Yeah I'm fine, just need roadside assistance.
+[14:57] Amanda: Mile marker 196 on I-35.
+[15:02] Amanda: Truck is on the way, ETA about 1.5 hours.
+[16:30] Thomas Clark: Fixed and rolling again.
+[17:20] Amanda: What's your status?
+[17:22] Thomas Clark: About 561 miles out from Pittsburgh, PA now.
+[18:13] Amanda: Where are you at right now?
+[18:15] Thomas Clark: Just passed Columbus, OH, everything's fine.
+[19:14] Amanda: Where are you at right now?
+[19:16] Thomas Clark: Just crossed the state line, all good.
+[19:52] Amanda: How's LD-50433 looking?
+[19:54] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[20:16] Amanda: Any updates on your progress?
+[20:18] Thomas Clark: Making good time, no issues so far.
+[20:34] Amanda: How's LD-50433 looking?
+[20:36] Thomas Clark: About 105 miles out from Pittsburgh, PA now.
+[21:10] Amanda: Any updates on your progress?
+[21:12] Thomas Clark: About 71 miles out from Pittsburgh, PA now.
+[21:42] Amanda: What's your status?
+[21:44] Thomas Clark: Traffic's a bit heavy but I'm still on schedule.
+[22:36] Amanda: Still on schedule?
+[22:38] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[23:15] Amanda: Any updates on your progress?
+[23:17] Thomas Clark: Traffic's a bit heavy but I'm still on schedule.
+[23:36] Amanda: What's your status?
+[23:38] Thomas Clark: Making good time, no issues so far.
+[00:11] Amanda: Where are you at right now?
+[00:13] Thomas Clark: Making good time, no issues so far.
+[00:45] Amanda: What's your status?
+[00:47] Thomas Clark: About 514 miles out from Pittsburgh, PA now.
+[01:27] Amanda: Any updates on your progress?
+[01:29] Thomas Clark: About 505 miles out from Pittsburgh, PA now.
+[01:54] Amanda: Still on schedule?
+[01:56] Thomas Clark: Stopped for a quick break, back on the road in a few.
+[02:45] Amanda: Any updates on your progress?
+[02:47] Thomas Clark: Just passed Columbus, OH, everything's fine.
+[03:32] Thomas Clark: Just delivered LD-50433 at Pittsburgh, PA, all good, no damages.
+[03:34] Amanda: Do you have the signed BOL?
+[03:36] Thomas Clark: Yep, taking a picture now.
+[03:37] Thomas Clark: [Image attached: signed_bol.jpg]
+[03:39] Amanda: Sending you the next load details shortly.
+[03:41] Thomas Clark: Understood.
+[03:43] Amanda: Appreciate it, talk soon.

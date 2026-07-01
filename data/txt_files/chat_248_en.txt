@@ -1,0 +1,129 @@
+Chat Log #248
+Company: Silk Road Logistics
+Language: English
+Driver: Luis Lopez | Truck: #596 (reefer)
+Operator: Emily
+Load: LD-61044 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-03-23
+--------------------------------------------------
+[17:11] Emily: Luis, got a minute?
+[17:12] Luis Lopez: Yeah, go ahead.
+[17:14] Emily: Got a load for you - LD-61044, reefer, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[17:16] Luis Lopez: Ok, what's the pickup window?
+[17:18] Emily: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[17:20] Luis Lopez: What's the rate on this one?
+[17:22] Emily: $3741 all in, 822 miles.
+[17:24] Luis Lopez: Sounds good, I'll take it.
+[17:26] Emily: Great, sending the rate confirmation now.
+[17:29] Luis Lopez: Got it, signed and sent back.
+[18:21] Emily: Where are you at right now?
+[18:23] Luis Lopez: Hit some traffic near Kansas City, MO, adding maybe 20 minutes.
+[18:49] Emily: Where are you at right now?
+[18:51] Luis Lopez: Fuel prices are decent around here.
+[18:53] Emily: What's your ETA?
+[18:55] Luis Lopez: Should be there around 10am.
+[19:25] Emily: Any updates on your progress?
+[19:27] Luis Lopez: About 300 miles out from St. Louis, MO now.
+[19:30] Emily: How are you holding up out there?
+[19:32] Luis Lopez: Will do, thanks for checking in.
+[20:07] Emily: Still on schedule?
+[20:09] Luis Lopez: Stopped for a quick break, back on the road in a few.
+[20:12] Emily: Appreciate you keeping me posted.
+[20:14] Luis Lopez: Doing alright, just tired.
+[21:27] Emily: Where are you at right now?
+[21:29] Luis Lopez: Doing alright, just tired.
+[21:32] Emily: Let me know if you need anything.
+[21:34] Luis Lopez: Doing alright, just tired.
+[22:31] Emily: Where are you at right now?
+[22:33] Luis Lopez: Just crossed the state line, all good.
+[22:35] Emily: What's your ETA?
+[22:37] Luis Lopez: Should be there around 3pm.
+[22:58] Emily: What's your status?
+[23:00] Luis Lopez: Just topped off the tank.
+[23:02] Emily: What's your ETA?
+[23:04] Luis Lopez: Probably 10am, maybe a bit earlier.
+[23:30] Emily: Any updates on your progress?
+[23:32] Luis Lopez: Traffic's a bit heavy but I'm still on schedule.
+[00:30] Emily: Any updates on your progress?
+[00:32] Luis Lopez: Clear skies here, no problems.
+[00:47] Emily: How's LD-61044 looking?
+[00:49] Luis Lopez: Just topped off the tank.
+[00:52] Emily: How are you holding up out there?
+[00:54] Luis Lopez: Will do, thanks for checking in.
+[02:03] Emily: Any updates on your progress?
+[02:05] Luis Lopez: Hit some traffic near St. Louis, MO, adding maybe 20 minutes.
+[03:24] Emily: What's your status?
+[03:26] Luis Lopez: Accident up ahead, traffic's backed up.
+[03:29] Emily: How are you holding up out there?
+[03:31] Luis Lopez: Yeah, long one, but manageable.
+[04:08] Emily: Still on schedule?
+[04:10] Luis Lopez: Accident up ahead, traffic's backed up.
+[04:13] Emily: How are you holding up out there?
+[04:15] Luis Lopez: Will do, thanks for checking in.
+[04:17] Emily: What's your ETA?
+[04:19] Luis Lopez: Probably noon, maybe a bit earlier.
+[05:30] Emily: Any updates on your progress?
+[05:32] Luis Lopez: Will do, thanks for checking in.
+[05:35] Emily: Appreciate you keeping me posted.
+[05:37] Luis Lopez: Doing alright, just tired.
+[05:39] Emily: What's your ETA?
+[05:41] Luis Lopez: Probably noon, maybe a bit earlier.
+[05:56] Emily: Where are you at right now?
+[05:58] Luis Lopez: Just crossed the state line, all good.
+[07:13] Emily: Still on schedule?
+[07:15] Luis Lopez: Just passed Kansas City, MO, everything's fine.
+[07:46] Emily: Still on schedule?
+[07:48] Luis Lopez: About 202 miles out from St. Louis, MO now.
+[07:51] Emily: Appreciate you keeping me posted.
+[07:53] Luis Lopez: Doing alright, just tired.
+[08:17] Luis Lopez: Coming up on my HOS limit, only got about 1 hour left.
+[08:19] Emily: Understood, get your rest, I'll let the receiver know.
+[09:09] Emily: What's your status?
+[09:11] Luis Lopez: Just passed St. Louis, MO, everything's fine.
+[09:50] Emily: What's your status?
+[09:52] Luis Lopez: Making good time, no issues so far.
+[10:48] Emily: Still on schedule?
+[10:50] Luis Lopez: About 411 miles out from St. Louis, MO now.
+[11:23] Emily: Any updates on your progress?
+[11:25] Luis Lopez: About 388 miles out from St. Louis, MO now.
+[12:18] Emily: What's your status?
+[12:20] Luis Lopez: Stopped for a quick break, back on the road in a few.
+[12:53] Emily: How's LD-61044 looking?
+[12:55] Luis Lopez: Just passed St. Louis, MO, everything's fine.
+[13:29] Emily: How's LD-61044 looking?
+[13:31] Luis Lopez: About 59 miles out from St. Louis, MO now.
+[13:54] Emily: What's your status?
+[13:56] Luis Lopez: Stopped for a quick break, back on the road in a few.
+[14:11] Emily: What's your status?
+[14:13] Luis Lopez: Making good time, no issues so far.
+[15:05] Emily: How's LD-61044 looking?
+[15:07] Luis Lopez: Making good time, no issues so far.
+[15:38] Emily: How's LD-61044 looking?
+[15:40] Luis Lopez: Making good time, no issues so far.
+[16:18] Emily: Still on schedule?
+[16:20] Luis Lopez: Stopped for a quick break, back on the road in a few.
+[16:54] Emily: How's LD-61044 looking?
+[16:56] Luis Lopez: Just crossed the state line, all good.
+[17:36] Emily: Where are you at right now?
+[17:38] Luis Lopez: Just crossed the state line, all good.
+[18:11] Emily: How's LD-61044 looking?
+[18:13] Luis Lopez: Making good time, no issues so far.
+[18:30] Emily: Any updates on your progress?
+[18:32] Luis Lopez: Just passed Kansas City, MO, everything's fine.
+[19:22] Emily: Where are you at right now?
+[19:24] Luis Lopez: Making good time, no issues so far.
+[20:19] Emily: Still on schedule?
+[20:21] Luis Lopez: Traffic's a bit heavy but I'm still on schedule.
+[20:42] Emily: Any updates on your progress?
+[20:44] Luis Lopez: Stopped for a quick break, back on the road in a few.
+[21:21] Emily: Still on schedule?
+[21:23] Luis Lopez: Just crossed the state line, all good.
+[22:08] Emily: How's LD-61044 looking?
+[22:10] Luis Lopez: Traffic's a bit heavy but I'm still on schedule.
+[23:05] Luis Lopez: Just delivered LD-61044 at St. Louis, MO, all good, no damages.
+[23:07] Emily: Do you have the signed BOL?
+[23:09] Luis Lopez: Yep, taking a picture now.
+[23:10] Luis Lopez: [Image attached: signed_bol.jpg]
+[23:12] Emily: Sending you the next load details shortly.
+[23:14] Luis Lopez: Sounds good.
+[23:16] Emily: Appreciate it, talk soon.

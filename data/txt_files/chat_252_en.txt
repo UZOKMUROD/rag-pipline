@@ -1,0 +1,129 @@
+Chat Log #252
+Company: Silk Road Logistics
+Language: English
+Driver: Thomas Jackson | Truck: #130 (reefer)
+Operator: Rachel
+Load: LD-97332 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-01-23
+--------------------------------------------------
+[08:08] Rachel: Morning Thomas, you there?
+[08:09] Thomas Jackson: Yeah, go ahead.
+[08:11] Rachel: Got a load for you - LD-97332, reefer, pickup in Detroit, MI, delivery to Cleveland, OH.
+[08:13] Thomas Jackson: Ok, what's the pickup window?
+[08:15] Rachel: Pickup is 09:00-11:00, delivery appointment is 07:30 the next day.
+[08:17] Thomas Jackson: What's the rate on this one?
+[08:19] Rachel: $3180 all in, 557 miles.
+[08:21] Thomas Jackson: Sounds good, I'll take it.
+[08:23] Rachel: Great, sending the rate confirmation now.
+[08:26] Thomas Jackson: Got it, signed and sent back.
+[09:15] Rachel: Any updates on your progress?
+[09:17] Thomas Jackson: Rain is picking up here, slowing down a bit.
+[09:35] Rachel: Any updates on your progress?
+[09:37] Thomas Jackson: Clear skies here, no problems.
+[09:40] Rachel: Appreciate you keeping me posted.
+[09:42] Thomas Jackson: Will do, thanks for checking in.
+[09:44] Rachel: What's your ETA?
+[09:46] Thomas Jackson: Should be there around 7pm.
+[10:52] Rachel: How's LD-97332 looking?
+[10:54] Thomas Jackson: Doing alright, just tired.
+[11:30] Rachel: Still on schedule?
+[11:32] Thomas Jackson: Just passed Cleveland, OH, everything's fine.
+[12:23] Rachel: Where are you at right now?
+[12:25] Thomas Jackson: Just crossed the state line, all good.
+[13:14] Rachel: Where are you at right now?
+[13:16] Thomas Jackson: Yeah, long one, but manageable.
+[13:19] Rachel: Let me know if you need anything.
+[13:21] Thomas Jackson: Doing alright, just tired.
+[13:23] Rachel: What's your ETA?
+[13:25] Thomas Jackson: Probably 7pm, maybe a bit earlier.
+[13:52] Rachel: Still on schedule?
+[13:54] Thomas Jackson: Rain is picking up here, slowing down a bit.
+[15:06] Rachel: How's LD-97332 looking?
+[15:08] Thomas Jackson: No problem, just doing my job.
+[15:33] Rachel: How's LD-97332 looking?
+[15:35] Thomas Jackson: No problem, just doing my job.
+[15:38] Rachel: How are you holding up out there?
+[15:40] Thomas Jackson: Will do, thanks for checking in.
+[16:05] Rachel: Any updates on your progress?
+[16:07] Thomas Jackson: Just passed Detroit, MI, everything's fine.
+[17:28] Rachel: How's LD-97332 looking?
+[17:30] Thomas Jackson: Will do, thanks for checking in.
+[17:33] Rachel: Long trip, huh? Get some rest when you can.
+[17:35] Thomas Jackson: Yeah, long one, but manageable.
+[18:42] Rachel: Still on schedule?
+[18:44] Thomas Jackson: No problem, just doing my job.
+[18:47] Rachel: Let me know if you need anything.
+[18:49] Thomas Jackson: Doing alright, just tired.
+[18:51] Rachel: What's your ETA?
+[18:53] Thomas Jackson: Looking at noon if traffic stays clear.
+[20:12] Rachel: Still on schedule?
+[20:14] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[20:53] Rachel: Still on schedule?
+[20:55] Thomas Jackson: Just passed Detroit, MI, everything's fine.
+[20:57] Rachel: What's your ETA?
+[20:59] Thomas Jackson: Looking at 10am if traffic stays clear.
+[22:26] Rachel: Where are you at right now?
+[22:28] Thomas Jackson: Yeah, long one, but manageable.
+[23:10] Rachel: Where are you at right now?
+[23:12] Thomas Jackson: Hit some traffic near Cleveland, OH, adding maybe 20 minutes.
+[00:40] Rachel: Still on schedule?
+[00:42] Thomas Jackson: Traffic's a bit heavy but I'm still on schedule.
+[02:12] Rachel: Where are you at right now?
+[02:14] Thomas Jackson: Construction zone slowing everyone down.
+[02:17] Rachel: Appreciate you keeping me posted.
+[02:19] Thomas Jackson: Will do, thanks for checking in.
+[03:04] Rachel: Any updates on your progress?
+[03:06] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[03:29] Rachel: Still on schedule?
+[03:31] Thomas Jackson: Stopping for fuel in a bit.
+[03:34] Rachel: How are you holding up out there?
+[03:36] Thomas Jackson: No problem, just doing my job.
+[03:38] Rachel: What's your ETA?
+[03:40] Thomas Jackson: Should be there around 10am.
+[04:57] Rachel: How's LD-97332 looking?
+[04:59] Thomas Jackson: Rain is picking up here, slowing down a bit.
+[06:22] Rachel: Any updates on your progress?
+[06:24] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[06:48] Thomas Jackson: Coming up on my HOS limit, only got about 45 minutes left.
+[06:50] Rachel: Understood, get your rest, I'll let the receiver know.
+[07:05] Rachel: Any updates on your progress?
+[07:07] Thomas Jackson: Traffic's a bit heavy but I'm still on schedule.
+[07:46] Rachel: Where are you at right now?
+[07:48] Thomas Jackson: Traffic's a bit heavy but I'm still on schedule.
+[08:05] Rachel: What's your status?
+[08:07] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[08:44] Rachel: Any updates on your progress?
+[08:46] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[09:11] Rachel: What's your status?
+[09:13] Thomas Jackson: Making good time, no issues so far.
+[10:02] Rachel: Where are you at right now?
+[10:04] Thomas Jackson: Just crossed the state line, all good.
+[10:41] Rachel: Where are you at right now?
+[10:43] Thomas Jackson: Just crossed the state line, all good.
+[11:43] Rachel: What's your status?
+[11:45] Thomas Jackson: Traffic's a bit heavy but I'm still on schedule.
+[12:22] Rachel: What's your status?
+[12:24] Thomas Jackson: Just crossed the state line, all good.
+[12:58] Rachel: Where are you at right now?
+[13:00] Thomas Jackson: Just crossed the state line, all good.
+[13:50] Rachel: What's your status?
+[13:52] Thomas Jackson: About 229 miles out from Cleveland, OH now.
+[14:14] Rachel: How's LD-97332 looking?
+[14:16] Thomas Jackson: About 380 miles out from Cleveland, OH now.
+[14:34] Rachel: Where are you at right now?
+[14:36] Thomas Jackson: Just passed Cleveland, OH, everything's fine.
+[15:34] Rachel: What's your status?
+[15:36] Thomas Jackson: Stopped for a quick break, back on the road in a few.
+[16:08] Rachel: What's your status?
+[16:10] Thomas Jackson: Just passed Cleveland, OH, everything's fine.
+[16:25] Rachel: Still on schedule?
+[16:27] Thomas Jackson: Making good time, no issues so far.
+[17:24] Rachel: Still on schedule?
+[17:26] Thomas Jackson: Just passed Detroit, MI, everything's fine.
+[18:39] Thomas Jackson: Just delivered LD-97332 at Cleveland, OH, all good, no damages.
+[18:41] Rachel: Do you have the signed BOL?
+[18:43] Thomas Jackson: Yep, taking a picture now.
+[18:44] Thomas Jackson: [Image attached: signed_bol.jpg]
+[18:46] Rachel: Sending you the next load details shortly.
+[18:48] Thomas Jackson: Copy that.
+[18:50] Rachel: Thanks for the update, drive safe.

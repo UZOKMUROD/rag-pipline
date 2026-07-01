@@ -1,0 +1,131 @@
+Chat Log #310
+Company: Silk Road Logistics
+Language: English
+Driver: John Jackson | Truck: #318 (dry van)
+Operator: Rachel
+Load: LD-20521 | Route: Kansas City, MO -> St. Louis, MO
+Date: 2026-06-27
+--------------------------------------------------
+[09:01] Rachel: Hey John, how's it going?
+[09:02] John Jackson: Morning, all good on my end.
+[09:04] Rachel: Got a load for you - LD-20521, dry van, pickup in Kansas City, MO, delivery to St. Louis, MO.
+[09:06] John Jackson: Ok, what's the pickup window?
+[09:08] Rachel: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[09:10] John Jackson: What's the rate on this one?
+[09:12] Rachel: $3435 all in, 982 miles.
+[09:14] John Jackson: Sounds good, I'll take it.
+[09:16] Rachel: Great, sending the rate confirmation now.
+[09:19] John Jackson: Got it, signed and sent back.
+[09:59] Rachel: How's LD-20521 looking?
+[10:01] John Jackson: Doing alright, just tired.
+[10:04] Rachel: Appreciate you keeping me posted.
+[10:06] John Jackson: Will do, thanks for checking in.
+[10:08] Rachel: What's your ETA?
+[10:10] John Jackson: Should be there around 10am.
+[10:43] Rachel: What's your status?
+[10:45] John Jackson: About 314 miles out from St. Louis, MO now.
+[10:48] Rachel: Let me know if you need anything.
+[10:50] John Jackson: No problem, just doing my job.
+[11:12] Rachel: Any updates on your progress?
+[11:14] John Jackson: Just crossed the state line, all good.
+[11:17] Rachel: Appreciate you keeping me posted.
+[11:19] John Jackson: No problem, just doing my job.
+[12:18] Rachel: Still on schedule?
+[12:20] John Jackson: Making good time, no issues so far.
+[12:23] Rachel: Long trip, huh? Get some rest when you can.
+[12:25] John Jackson: Will do, thanks for checking in.
+[13:51] Rachel: What's your status?
+[13:53] John Jackson: Fuel prices are decent around here.
+[13:55] Rachel: What's your ETA?
+[13:57] John Jackson: Probably noon, maybe a bit earlier.
+[14:20] Rachel: Still on schedule?
+[14:22] John Jackson: Roads are clear now, moving well.
+[14:24] Rachel: What's your ETA?
+[14:26] John Jackson: Looking at 5pm if traffic stays clear.
+[14:59] Rachel: Where are you at right now?
+[15:01] John Jackson: No problem, just doing my job.
+[15:30] Rachel: Still on schedule?
+[15:32] John Jackson: Just topped off the tank.
+[15:59] Rachel: Any updates on your progress?
+[16:01] John Jackson: About 214 miles out from St. Louis, MO now.
+[16:48] Rachel: Still on schedule?
+[16:50] John Jackson: Roads are clear now, moving well.
+[18:17] Rachel: Still on schedule?
+[18:19] John Jackson: Clear skies here, no problems.
+[18:21] Rachel: What's your ETA?
+[18:23] John Jackson: Probably 5pm, maybe a bit earlier.
+[18:44] Rachel: How's LD-20521 looking?
+[18:46] John Jackson: Construction zone slowing everyone down.
+[19:14] Rachel: What's your status?
+[19:16] John Jackson: Stopped for a quick break, back on the road in a few.
+[19:19] Rachel: Appreciate you keeping me posted.
+[19:21] John Jackson: Will do, thanks for checking in.
+[20:48] Rachel: What's your status?
+[20:50] John Jackson: Roads are clear now, moving well.
+[20:53] Rachel: Long trip, huh? Get some rest when you can.
+[20:55] John Jackson: Doing alright, just tired.
+[20:57] Rachel: What's your ETA?
+[20:59] John Jackson: Looking at 5pm if traffic stays clear.
+[21:17] Rachel: Any updates on your progress?
+[21:19] John Jackson: Stopped for a quick break, back on the road in a few.
+[21:22] Rachel: Let me know if you need anything.
+[21:24] John Jackson: Yeah, long one, but manageable.
+[21:26] Rachel: What's your ETA?
+[21:28] John Jackson: Looking at 3pm if traffic stays clear.
+[21:53] Rachel: Still on schedule?
+[21:55] John Jackson: Weather's getting rough up ahead, heads up.
+[21:57] Rachel: What's your ETA?
+[21:59] John Jackson: Should be there around 5pm.
+[22:27] Rachel: How's LD-20521 looking?
+[22:29] John Jackson: About 83 miles out from St. Louis, MO now.
+[22:32] Rachel: Long trip, huh? Get some rest when you can.
+[22:34] John Jackson: Yeah, long one, but manageable.
+[22:56] Rachel: Any updates on your progress?
+[22:58] John Jackson: Fuel prices are decent around here.
+[23:35] Rachel: What's your status?
+[23:37] John Jackson: Clear skies here, no problems.
+[23:40] Rachel: Appreciate you keeping me posted.
+[23:42] John Jackson: Will do, thanks for checking in.
+[00:39] Rachel: Where are you at right now?
+[00:41] John Jackson: No problem, just doing my job.
+[01:02] John Jackson: I've got a problem, a blown fuse on the trailer lights on LD-20521. Pulled over on the shoulder.
+[01:03] Rachel: Are you safe? Anyone hurt?
+[01:05] John Jackson: Yeah I'm fine, just need roadside assistance.
+[01:07] Rachel: Mile marker 34 on I-10.
+[01:12] Rachel: Truck is on the way, ETA about 30 min.
+[02:27] John Jackson: Fixed and rolling again.
+[03:00] Rachel: Still on schedule?
+[03:02] John Jackson: Making good time, no issues so far.
+[03:26] Rachel: Any updates on your progress?
+[03:28] John Jackson: Just crossed the state line, all good.
+[04:24] Rachel: Still on schedule?
+[04:26] John Jackson: Making good time, no issues so far.
+[05:07] Rachel: Still on schedule?
+[05:09] John Jackson: Making good time, no issues so far.
+[05:51] Rachel: Any updates on your progress?
+[05:53] John Jackson: Stopped for a quick break, back on the road in a few.
+[06:40] Rachel: Any updates on your progress?
+[06:42] John Jackson: Just crossed the state line, all good.
+[07:37] Rachel: Still on schedule?
+[07:39] John Jackson: About 450 miles out from St. Louis, MO now.
+[08:38] Rachel: What's your status?
+[08:40] John Jackson: Just crossed the state line, all good.
+[09:36] Rachel: How's LD-20521 looking?
+[09:38] John Jackson: Just passed Kansas City, MO, everything's fine.
+[10:26] Rachel: How's LD-20521 looking?
+[10:28] John Jackson: About 464 miles out from St. Louis, MO now.
+[10:50] Rachel: What's your status?
+[10:52] John Jackson: About 518 miles out from St. Louis, MO now.
+[11:18] Rachel: Still on schedule?
+[11:20] John Jackson: Stopped for a quick break, back on the road in a few.
+[11:35] Rachel: Where are you at right now?
+[11:37] John Jackson: Just passed Kansas City, MO, everything's fine.
+[12:06] Rachel: Still on schedule?
+[12:08] John Jackson: Stopped for a quick break, back on the road in a few.
+[12:43] John Jackson: Just delivered LD-20521 at St. Louis, MO, all good, no damages.
+[12:45] Rachel: Do you have the signed BOL?
+[12:47] John Jackson: Yep, taking a picture now.
+[12:48] John Jackson: [Image attached: signed_bol.jpg]
+[12:50] Rachel: Sending you the next load details shortly.
+[12:52] John Jackson: Sounds good.
+[12:54] Rachel: Appreciate it, talk soon.

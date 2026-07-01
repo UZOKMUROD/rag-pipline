@@ -1,0 +1,128 @@
+Chat Log #460
+Company: Silk Road Logistics
+Language: English
+Driver: Daniel Jackson | Truck: #646 (dry van)
+Operator: Rachel
+Load: LD-10911 | Route: Dallas, TX -> Atlanta, GA
+Date: 2026-05-08
+--------------------------------------------------
+[14:39] Rachel: Hey Daniel, how's it going?
+[14:40] Daniel Jackson: Yeah, go ahead.
+[14:42] Rachel: Got a load for you - LD-10911, dry van, pickup in Dallas, TX, delivery to Atlanta, GA.
+[14:44] Daniel Jackson: Ok, what's the pickup window?
+[14:46] Rachel: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[14:48] Daniel Jackson: What's the rate on this one?
+[14:50] Rachel: $1829 all in, 763 miles.
+[14:52] Daniel Jackson: Sounds good, I'll take it.
+[14:54] Rachel: Great, sending the rate confirmation now.
+[14:57] Daniel Jackson: Got it, signed and sent back.
+[16:09] Rachel: Still on schedule?
+[16:11] Daniel Jackson: Just passed Atlanta, GA, everything's fine.
+[16:14] Rachel: Long trip, huh? Get some rest when you can.
+[16:16] Daniel Jackson: Yeah, long one, but manageable.
+[17:13] Rachel: Any updates on your progress?
+[17:15] Daniel Jackson: Roads are wet, taking it easy.
+[18:06] Rachel: Where are you at right now?
+[18:08] Daniel Jackson: Stopping for fuel in a bit.
+[18:29] Rachel: What's your status?
+[18:31] Daniel Jackson: Just passed Atlanta, GA, everything's fine.
+[18:34] Rachel: How are you holding up out there?
+[18:36] Daniel Jackson: Doing alright, just tired.
+[19:52] Rachel: Still on schedule?
+[19:54] Daniel Jackson: Doing alright, just tired.
+[19:57] Rachel: Let me know if you need anything.
+[19:59] Daniel Jackson: Will do, thanks for checking in.
+[20:01] Rachel: What's your ETA?
+[20:03] Daniel Jackson: Looking at 3pm if traffic stays clear.
+[20:50] Rachel: How's LD-10911 looking?
+[20:52] Daniel Jackson: Fuel prices are decent around here.
+[20:55] Rachel: Long trip, huh? Get some rest when you can.
+[20:57] Daniel Jackson: Will do, thanks for checking in.
+[22:07] Rachel: What's your status?
+[22:09] Daniel Jackson: Just topped off the tank.
+[22:34] Rachel: Where are you at right now?
+[22:36] Daniel Jackson: Making good time, no issues so far.
+[22:39] Rachel: Let me know if you need anything.
+[22:41] Daniel Jackson: Will do, thanks for checking in.
+[23:58] Rachel: Still on schedule?
+[00:00] Daniel Jackson: Fuel prices are decent around here.
+[01:20] Rachel: Any updates on your progress?
+[01:22] Daniel Jackson: Rain is picking up here, slowing down a bit.
+[02:23] Rachel: Where are you at right now?
+[02:25] Daniel Jackson: Weather's getting rough up ahead, heads up.
+[02:28] Rachel: Long trip, huh? Get some rest when you can.
+[02:30] Daniel Jackson: Yeah, long one, but manageable.
+[03:15] Rachel: Where are you at right now?
+[03:17] Daniel Jackson: Stopping for fuel in a bit.
+[03:19] Rachel: What's your ETA?
+[03:21] Daniel Jackson: Probably 7pm, maybe a bit earlier.
+[03:38] Rachel: Still on schedule?
+[03:40] Daniel Jackson: Clear skies here, no problems.
+[03:42] Rachel: What's your ETA?
+[03:44] Daniel Jackson: Should be there around 5pm.
+[04:45] Rachel: What's your status?
+[04:47] Daniel Jackson: Clear skies here, no problems.
+[05:59] Rachel: Any updates on your progress?
+[06:01] Daniel Jackson: Stopped for a quick break, back on the road in a few.
+[06:03] Rachel: What's your ETA?
+[06:05] Daniel Jackson: Probably 10am, maybe a bit earlier.
+[06:49] Rachel: Still on schedule?
+[06:51] Daniel Jackson: Just passed Atlanta, GA, everything's fine.
+[07:14] Rachel: How's LD-10911 looking?
+[07:16] Daniel Jackson: Just crossed the state line, all good.
+[07:19] Rachel: Long trip, huh? Get some rest when you can.
+[07:21] Daniel Jackson: Yeah, long one, but manageable.
+[07:23] Rachel: What's your ETA?
+[07:25] Daniel Jackson: Looking at 10am if traffic stays clear.
+[08:10] Rachel: Where are you at right now?
+[08:12] Daniel Jackson: Hit some traffic near Dallas, TX, adding maybe 20 minutes.
+[08:38] Daniel Jackson: Still sitting at the shipper, been here almost 3 hours already.
+[08:40] Rachel: Let me call them and see what's going on.
+[08:50] Rachel: Ok talked to them, they said 30 more minutes, forklift issue.
+[08:52] Daniel Jackson: Make sure detention pay gets logged for this.
+[08:54] Rachel: Already noted, don't worry, you'll get paid for the wait.
+[09:50] Rachel: Where are you at right now?
+[09:52] Daniel Jackson: Just passed Atlanta, GA, everything's fine.
+[10:15] Rachel: Any updates on your progress?
+[10:17] Daniel Jackson: About 78 miles out from Atlanta, GA now.
+[11:17] Rachel: Any updates on your progress?
+[11:19] Daniel Jackson: Traffic's a bit heavy but I'm still on schedule.
+[11:48] Rachel: Where are you at right now?
+[11:50] Daniel Jackson: About 549 miles out from Atlanta, GA now.
+[12:30] Rachel: What's your status?
+[12:32] Daniel Jackson: Stopped for a quick break, back on the road in a few.
+[13:26] Rachel: Any updates on your progress?
+[13:28] Daniel Jackson: Just crossed the state line, all good.
+[13:43] Rachel: Any updates on your progress?
+[13:45] Daniel Jackson: Traffic's a bit heavy but I'm still on schedule.
+[14:42] Rachel: What's your status?
+[14:44] Daniel Jackson: Making good time, no issues so far.
+[15:40] Rachel: Still on schedule?
+[15:42] Daniel Jackson: Just crossed the state line, all good.
+[16:42] Rachel: Any updates on your progress?
+[16:44] Daniel Jackson: Just passed Atlanta, GA, everything's fine.
+[17:38] Rachel: Any updates on your progress?
+[17:40] Daniel Jackson: About 586 miles out from Atlanta, GA now.
+[18:30] Rachel: How's LD-10911 looking?
+[18:32] Daniel Jackson: Stopped for a quick break, back on the road in a few.
+[18:51] Rachel: How's LD-10911 looking?
+[18:53] Daniel Jackson: Making good time, no issues so far.
+[19:34] Rachel: Where are you at right now?
+[19:36] Daniel Jackson: Just passed Dallas, TX, everything's fine.
+[20:27] Rachel: How's LD-10911 looking?
+[20:29] Daniel Jackson: About 428 miles out from Atlanta, GA now.
+[21:15] Rachel: What's your status?
+[21:17] Daniel Jackson: Just passed Dallas, TX, everything's fine.
+[22:10] Rachel: What's your status?
+[22:12] Daniel Jackson: Just crossed the state line, all good.
+[22:54] Rachel: How's LD-10911 looking?
+[22:56] Daniel Jackson: Making good time, no issues so far.
+[23:22] Rachel: What's your status?
+[23:24] Daniel Jackson: Making good time, no issues so far.
+[00:53] Daniel Jackson: Just delivered LD-10911 at Atlanta, GA, all good, no damages.
+[00:55] Rachel: Do you have the signed BOL?
+[00:57] Daniel Jackson: Yep, taking a picture now.
+[00:58] Daniel Jackson: [Image attached: signed_bol.jpg]
+[01:00] Rachel: Sending you the next load details shortly.
+[01:02] Daniel Jackson: Sounds good.
+[01:04] Rachel: Great work, thank you.

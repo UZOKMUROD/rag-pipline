@@ -1,0 +1,124 @@
+Chat Log #469
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Harris | Truck: #871 (reefer)
+Operator: Emily
+Load: LD-95491 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-05-21
+--------------------------------------------------
+[06:47] Emily: Hey Brian, how's it going?
+[06:48] Brian Harris: Morning, all good on my end.
+[06:50] Emily: Got a load for you - LD-95491, reefer, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[06:52] Brian Harris: Ok, what's the pickup window?
+[06:54] Emily: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[06:56] Brian Harris: What's the rate on this one?
+[06:58] Emily: $2918 all in, 481 miles.
+[07:00] Brian Harris: Sounds good, I'll take it.
+[07:02] Emily: Great, sending the rate confirmation now.
+[07:05] Brian Harris: Got it, signed and sent back.
+[07:23] Emily: Any updates on your progress?
+[07:25] Brian Harris: Accident up ahead, traffic's backed up.
+[07:28] Emily: Appreciate you keeping me posted.
+[07:30] Brian Harris: Yeah, long one, but manageable.
+[08:31] Emily: How's LD-95491 looking?
+[08:33] Brian Harris: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[08:36] Emily: Appreciate you keeping me posted.
+[08:38] Brian Harris: No problem, just doing my job.
+[09:44] Emily: Still on schedule?
+[09:46] Brian Harris: Stopping for fuel in a bit.
+[10:57] Emily: How's LD-95491 looking?
+[10:59] Brian Harris: Stopped for a quick break, back on the road in a few.
+[11:32] Emily: Any updates on your progress?
+[11:34] Brian Harris: Hit some traffic near Denver, CO, adding maybe 20 minutes.
+[12:24] Emily: Any updates on your progress?
+[12:26] Brian Harris: Will do, thanks for checking in.
+[13:02] Emily: How's LD-95491 looking?
+[13:04] Brian Harris: About 302 miles out from Salt Lake City, UT now.
+[13:21] Emily: Any updates on your progress?
+[13:23] Brian Harris: Roads are clear now, moving well.
+[14:07] Emily: Still on schedule?
+[14:09] Brian Harris: Hit some traffic near Denver, CO, adding maybe 20 minutes.
+[14:25] Emily: Any updates on your progress?
+[14:27] Brian Harris: Will do, thanks for checking in.
+[14:30] Emily: Long trip, huh? Get some rest when you can.
+[14:32] Brian Harris: Yeah, long one, but manageable.
+[15:11] Emily: Any updates on your progress?
+[15:13] Brian Harris: Just topped off the tank.
+[15:16] Emily: Appreciate you keeping me posted.
+[15:18] Brian Harris: Doing alright, just tired.
+[15:59] Emily: What's your status?
+[16:01] Brian Harris: Will do, thanks for checking in.
+[16:04] Emily: Let me know if you need anything.
+[16:06] Brian Harris: Doing alright, just tired.
+[16:37] Emily: Any updates on your progress?
+[16:39] Brian Harris: Stopped for a quick break, back on the road in a few.
+[16:42] Emily: Let me know if you need anything.
+[16:44] Brian Harris: Will do, thanks for checking in.
+[17:16] Emily: What's your status?
+[17:18] Brian Harris: Making good time, no issues so far.
+[17:34] Emily: Still on schedule?
+[17:36] Brian Harris: Just topped off the tank.
+[18:48] Emily: Any updates on your progress?
+[18:50] Brian Harris: Will do, thanks for checking in.
+[18:53] Emily: Let me know if you need anything.
+[18:55] Brian Harris: No problem, just doing my job.
+[19:11] Emily: Where are you at right now?
+[19:13] Brian Harris: Clear skies here, no problems.
+[19:15] Emily: What's your ETA?
+[19:17] Brian Harris: Probably 3pm, maybe a bit earlier.
+[20:25] Emily: Any updates on your progress?
+[20:27] Brian Harris: Will do, thanks for checking in.
+[20:59] Emily: What's your status?
+[21:01] Brian Harris: Fuel prices are decent around here.
+[21:04] Emily: Long trip, huh? Get some rest when you can.
+[21:06] Brian Harris: Doing alright, just tired.
+[21:46] Brian Harris: Still sitting at the shipper, been here almost 3 hours already.
+[21:48] Emily: Let me call them and see what's going on.
+[21:58] Emily: Ok talked to them, they said 30 more minutes, forklift issue.
+[22:00] Brian Harris: Make sure detention pay gets logged for this.
+[22:02] Emily: Already noted, don't worry, you'll get paid for the wait.
+[22:30] Emily: Still on schedule?
+[22:32] Brian Harris: Making good time, no issues so far.
+[22:49] Emily: Any updates on your progress?
+[22:51] Brian Harris: Traffic's a bit heavy but I'm still on schedule.
+[23:22] Emily: Where are you at right now?
+[23:24] Brian Harris: Just crossed the state line, all good.
+[23:43] Emily: What's your status?
+[23:45] Brian Harris: Just crossed the state line, all good.
+[00:22] Emily: Still on schedule?
+[00:24] Brian Harris: Stopped for a quick break, back on the road in a few.
+[00:44] Emily: Where are you at right now?
+[00:46] Brian Harris: Just crossed the state line, all good.
+[01:16] Emily: Still on schedule?
+[01:18] Brian Harris: Stopped for a quick break, back on the road in a few.
+[02:16] Emily: How's LD-95491 looking?
+[02:18] Brian Harris: Traffic's a bit heavy but I'm still on schedule.
+[02:41] Emily: What's your status?
+[02:43] Brian Harris: Stopped for a quick break, back on the road in a few.
+[03:08] Emily: How's LD-95491 looking?
+[03:10] Brian Harris: About 398 miles out from Salt Lake City, UT now.
+[04:09] Emily: How's LD-95491 looking?
+[04:11] Brian Harris: Stopped for a quick break, back on the road in a few.
+[04:40] Emily: Where are you at right now?
+[04:42] Brian Harris: Traffic's a bit heavy but I'm still on schedule.
+[04:59] Emily: Still on schedule?
+[05:01] Brian Harris: Just crossed the state line, all good.
+[05:53] Emily: Still on schedule?
+[05:55] Brian Harris: Just passed Salt Lake City, UT, everything's fine.
+[06:45] Emily: What's your status?
+[06:47] Brian Harris: About 320 miles out from Salt Lake City, UT now.
+[07:33] Emily: How's LD-95491 looking?
+[07:35] Brian Harris: About 27 miles out from Salt Lake City, UT now.
+[08:32] Emily: Any updates on your progress?
+[08:34] Brian Harris: Just passed Denver, CO, everything's fine.
+[09:28] Emily: How's LD-95491 looking?
+[09:30] Brian Harris: Making good time, no issues so far.
+[10:01] Emily: How's LD-95491 looking?
+[10:03] Brian Harris: Making good time, no issues so far.
+[10:54] Brian Harris: Just delivered LD-95491 at Salt Lake City, UT, all good, no damages.
+[10:56] Emily: Do you have the signed BOL?
+[10:58] Brian Harris: Yep, taking a picture now.
+[10:59] Brian Harris: [Image attached: signed_bol.jpg]
+[11:01] Emily: Sending you the next load details shortly.
+[11:03] Brian Harris: Will do.
+[11:05] Emily: Thanks for the update, drive safe.

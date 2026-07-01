@@ -1,0 +1,153 @@
+Chat Log #142
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Otabek Sultonov | Truck: #863 (platforma)
+Operator: Feruza
+Load: LD-79298 | Route: Nukus -> Urganch
+Date: 2026-06-20
+--------------------------------------------------
+[20:00] Feruza: Otabek, bir daqiqa bormi?
+[20:01] Otabek Sultonov: Ha, aytavering.
+[20:03] Feruza: Siz uchun yuk bor - LD-79298, platforma, Nukusdan yuklanadi, Urganchga tushiriladi.
+[20:05] Otabek Sultonov: Tushunarli, yuklash vaqti qachon?
+[20:07] Feruza: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[20:09] Otabek Sultonov: Bu reys uchun narx qancha?
+[20:11] Feruza: 2739 ming so'm, 704 km.
+[20:13] Otabek Sultonov: Yaxshi, bu reysni olaman.
+[20:15] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[20:18] Otabek Sultonov: Oldim, imzolab qaytarib yubordim.
+[21:39] Feruza: Holatingiz qanday?
+[21:41] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:57] Feruza: Holatingiz qanday?
+[22:59] Otabek Sultonov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[00:01] Feruza: LD-79298 bilan ishlar qalay?
+[00:03] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:05] Feruza: Taxminan qachon yetib borasiz?
+[00:07] Otabek Sultonov: Agar tirbandlik bo'lmasa 10amda.
+[01:28] Feruza: Yo'lda yangilik bormi?
+[01:30] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:24] Feruza: Yo'lda yangilik bormi?
+[02:26] Otabek Sultonov: Yo'llar bo'sh, yaxshi ketyapman.
+[03:35] Feruza: Hozir qayerdasiz?
+[03:37] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[04:49] Feruza: LD-79298 bilan ishlar qalay?
+[04:51] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[04:54] Feruza: O'zingizni qalay his qilyapsiz?
+[04:56] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[05:15] Feruza: Hozir qayerdasiz?
+[05:17] Otabek Sultonov: Urganchgacha taxminan 342 km qoldi.
+[05:19] Feruza: Taxminan qachon yetib borasiz?
+[05:21] Otabek Sultonov: Agar tirbandlik bo'lmasa 5pmda.
+[06:09] Feruza: Hozir qayerdasiz?
+[06:11] Otabek Sultonov: Urganchgacha taxminan 435 km qoldi.
+[06:13] Feruza: Taxminan qachon yetib borasiz?
+[06:15] Otabek Sultonov: Ehtimol 7pm, balki ertaroq.
+[07:38] Feruza: Hozir qayerdasiz?
+[07:40] Otabek Sultonov: Urganchgacha taxminan 153 km qoldi.
+[08:12] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:14] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:17] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[08:19] Otabek Sultonov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:33] Feruza: Holatingiz qanday?
+[09:35] Otabek Sultonov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[09:38] Feruza: Xabar berib turganingiz uchun rahmat.
+[09:40] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[10:56] Feruza: Hozir qayerdasiz?
+[10:58] Otabek Sultonov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[11:01] Feruza: Biror narsa kerak bo'lsa ayting.
+[11:03] Otabek Sultonov: Hammasi joyida, ishimni qilyapman.
+[11:05] Feruza: Taxminan qachon yetib borasiz?
+[11:07] Otabek Sultonov: Taxminan 5pmda yetib boraman.
+[12:15] Feruza: Hozir qayerdasiz?
+[12:17] Otabek Sultonov: Yaxshi, faqat biroz charchadim.
+[12:19] Feruza: Taxminan qachon yetib borasiz?
+[12:21] Otabek Sultonov: Taxminan 7pmda yetib boraman.
+[13:11] Feruza: Holatingiz qanday?
+[13:13] Otabek Sultonov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[13:27] Otabek Sultonov: Muammo chiqdi, tirkama chiroqlarining saqlagichi kuydi LD-79298da. Yo'l chetiga to'xtadim.
+[13:28] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[13:30] Otabek Sultonov: Ha, men yaxshiman, faqat yordam kerak.
+[13:32] Feruza: M39 yo'lida 186-belgida turibman.
+[13:37] Feruza: Yordam mashinasi yo'lda, taxminan 45 mindan keyin yetib keladi.
+[14:56] Otabek Sultonov: Ta'mirlandi, yana yo'lga tushdim.
+[15:30] Feruza: Yo'lda yangilik bormi?
+[15:32] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:51] Feruza: LD-79298 bilan ishlar qalay?
+[15:53] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:16] Feruza: LD-79298 bilan ishlar qalay?
+[16:18] Otabek Sultonov: Urganchgacha taxminan 187 km qoldi.
+[17:09] Feruza: Yo'lda yangilik bormi?
+[17:11] Otabek Sultonov: Urganchgacha taxminan 122 km qoldi.
+[17:45] Feruza: Holatingiz qanday?
+[17:47] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:09] Feruza: LD-79298 bilan ishlar qalay?
+[18:11] Otabek Sultonov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[18:36] Feruza: Hozir qayerdasiz?
+[18:38] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:36] Feruza: Hozir qayerdasiz?
+[19:38] Otabek Sultonov: Urganchgacha taxminan 235 km qoldi.
+[20:25] Feruza: Yo'lda yangilik bormi?
+[20:27] Otabek Sultonov: Urganchgacha taxminan 315 km qoldi.
+[21:24] Feruza: Holatingiz qanday?
+[21:26] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:47] Feruza: Hozir qayerdasiz?
+[21:49] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:36] Feruza: Hozir qayerdasiz?
+[22:38] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:07] Feruza: Yo'lda yangilik bormi?
+[23:09] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:07] Feruza: Holatingiz qanday?
+[00:09] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:54] Feruza: Hozir qayerdasiz?
+[00:56] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:49] Feruza: Yo'lda yangilik bormi?
+[01:51] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:48] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:28] Feruza: Hozir qayerdasiz?
+[03:30] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:48] Feruza: Holatingiz qanday?
+[03:50] Otabek Sultonov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[04:49] Feruza: LD-79298 bilan ishlar qalay?
+[04:51] Otabek Sultonov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[05:15] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:17] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:06] Feruza: Holatingiz qanday?
+[06:08] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:52] Feruza: Holatingiz qanday?
+[06:54] Otabek Sultonov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[07:15] Feruza: Yo'lda yangilik bormi?
+[07:17] Otabek Sultonov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:58] Feruza: LD-79298 bilan ishlar qalay?
+[08:00] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:42] Feruza: Yo'lda yangilik bormi?
+[08:44] Otabek Sultonov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:37] Feruza: Holatingiz qanday?
+[09:39] Otabek Sultonov: Urganchgacha taxminan 82 km qoldi.
+[10:07] Feruza: Yo'lda yangilik bormi?
+[10:09] Otabek Sultonov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[10:43] Feruza: LD-79298 bilan ishlar qalay?
+[10:45] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:40] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:42] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:26] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:28] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:51] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:53] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:27] Feruza: Yo'lda yangilik bormi?
+[13:29] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:00] Feruza: Holatingiz qanday?
+[14:02] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:55] Feruza: Holatingiz qanday?
+[14:57] Otabek Sultonov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:33] Feruza: LD-79298 bilan ishlar qalay?
+[15:35] Otabek Sultonov: Urganchgacha taxminan 339 km qoldi.
+[16:31] Feruza: Yo'lda yangilik bormi?
+[16:33] Otabek Sultonov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:44] Otabek Sultonov: LD-79298 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[17:46] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[17:48] Otabek Sultonov: Ha, hozir rasmga olaman.
+[17:49] Otabek Sultonov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[17:51] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[17:53] Otabek Sultonov: Tushunarli.
+[17:55] Feruza: Rahmat, aloqada bo'lamiz.

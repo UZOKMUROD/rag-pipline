@@ -1,0 +1,131 @@
+Chat Log #211
+Company: Silk Road Logistics
+Language: English
+Driver: James Young | Truck: #462 (step deck)
+Operator: Emily
+Load: LD-76161 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-03-08
+--------------------------------------------------
+[08:04] Emily: Morning James, you there?
+[08:05] James Young: Yeah, go ahead.
+[08:07] Emily: Got a load for you - LD-76161, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[08:09] James Young: Ok, what's the pickup window?
+[08:11] Emily: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[08:13] James Young: What's the rate on this one?
+[08:15] Emily: $3788 all in, 515 miles.
+[08:17] James Young: Sounds good, I'll take it.
+[08:19] Emily: Great, sending the rate confirmation now.
+[08:22] James Young: Got it, signed and sent back.
+[09:04] Emily: Where are you at right now?
+[09:06] James Young: Roads are wet, taking it easy.
+[10:17] Emily: Where are you at right now?
+[10:19] James Young: Traffic's a bit heavy but I'm still on schedule.
+[10:22] Emily: Long trip, huh? Get some rest when you can.
+[10:24] James Young: Yeah, long one, but manageable.
+[10:26] Emily: What's your ETA?
+[10:28] James Young: Should be there around noon.
+[11:13] Emily: How's LD-76161 looking?
+[11:15] James Young: Just crossed the state line, all good.
+[11:18] Emily: Long trip, huh? Get some rest when you can.
+[11:20] James Young: Will do, thanks for checking in.
+[12:02] Emily: What's your status?
+[12:04] James Young: Making good time, no issues so far.
+[12:07] Emily: How are you holding up out there?
+[12:09] James Young: Doing alright, just tired.
+[12:25] Emily: Still on schedule?
+[12:27] James Young: Just passed Birmingham, AL, everything's fine.
+[12:53] Emily: How's LD-76161 looking?
+[12:55] James Young: Will do, thanks for checking in.
+[12:57] Emily: What's your ETA?
+[12:59] James Young: Should be there around 5pm.
+[14:28] Emily: Still on schedule?
+[14:30] James Young: Roads are clear now, moving well.
+[15:58] Emily: How's LD-76161 looking?
+[16:00] James Young: Yeah, long one, but manageable.
+[16:03] Emily: Let me know if you need anything.
+[16:05] James Young: No problem, just doing my job.
+[17:18] Emily: Still on schedule?
+[17:20] James Young: Roads are wet, taking it easy.
+[17:22] Emily: What's your ETA?
+[17:24] James Young: Should be there around 7pm.
+[18:30] Emily: How's LD-76161 looking?
+[18:32] James Young: Construction zone slowing everyone down.
+[19:57] Emily: What's your status?
+[19:59] James Young: Weather's getting rough up ahead, heads up.
+[20:02] Emily: Let me know if you need anything.
+[20:04] James Young: Yeah, long one, but manageable.
+[20:33] Emily: How's LD-76161 looking?
+[20:35] James Young: Rain is picking up here, slowing down a bit.
+[21:39] Emily: Where are you at right now?
+[21:41] James Young: Fuel prices are decent around here.
+[21:43] Emily: What's your ETA?
+[21:45] James Young: Should be there around 3pm.
+[22:52] Emily: How's LD-76161 looking?
+[22:54] James Young: Making good time, no issues so far.
+[00:02] Emily: Any updates on your progress?
+[00:04] James Young: Traffic's a bit heavy but I'm still on schedule.
+[00:07] Emily: How are you holding up out there?
+[00:09] James Young: Yeah, long one, but manageable.
+[01:24] Emily: What's your status?
+[01:26] James Young: Making good time, no issues so far.
+[01:29] Emily: Let me know if you need anything.
+[01:31] James Young: Will do, thanks for checking in.
+[02:18] Emily: How's LD-76161 looking?
+[02:20] James Young: Roads are clear now, moving well.
+[02:23] Emily: Appreciate you keeping me posted.
+[02:25] James Young: No problem, just doing my job.
+[03:14] Emily: Still on schedule?
+[03:16] James Young: Just passed Birmingham, AL, everything's fine.
+[03:19] Emily: Long trip, huh? Get some rest when you can.
+[03:21] James Young: Yeah, long one, but manageable.
+[04:11] Emily: How's LD-76161 looking?
+[04:13] James Young: Stopped for a quick break, back on the road in a few.
+[04:33] Emily: Any updates on your progress?
+[04:35] James Young: Weather's getting rough up ahead, heads up.
+[04:38] Emily: Long trip, huh? Get some rest when you can.
+[04:40] James Young: Will do, thanks for checking in.
+[05:58] Emily: Any updates on your progress?
+[06:00] James Young: Just passed Birmingham, AL, everything's fine.
+[06:03] Emily: Long trip, huh? Get some rest when you can.
+[06:05] James Young: Doing alright, just tired.
+[06:18] James Young: Coming up on my HOS limit, only got about 1 hour left.
+[06:20] Emily: Understood, get your rest, I'll let the receiver know.
+[07:05] Emily: Any updates on your progress?
+[07:07] James Young: Just crossed the state line, all good.
+[08:00] Emily: Any updates on your progress?
+[08:02] James Young: Stopped for a quick break, back on the road in a few.
+[08:39] Emily: What's your status?
+[08:41] James Young: Stopped for a quick break, back on the road in a few.
+[09:20] Emily: What's your status?
+[09:22] James Young: Making good time, no issues so far.
+[10:11] Emily: How's LD-76161 looking?
+[10:13] James Young: Just passed Nashville, TN, everything's fine.
+[11:10] Emily: Where are you at right now?
+[11:12] James Young: Just passed Birmingham, AL, everything's fine.
+[11:39] Emily: How's LD-76161 looking?
+[11:41] James Young: Making good time, no issues so far.
+[12:29] Emily: How's LD-76161 looking?
+[12:31] James Young: Just crossed the state line, all good.
+[13:07] Emily: How's LD-76161 looking?
+[13:09] James Young: Just crossed the state line, all good.
+[13:48] Emily: How's LD-76161 looking?
+[13:50] James Young: Traffic's a bit heavy but I'm still on schedule.
+[14:27] Emily: How's LD-76161 looking?
+[14:29] James Young: Traffic's a bit heavy but I'm still on schedule.
+[15:26] Emily: How's LD-76161 looking?
+[15:28] James Young: Making good time, no issues so far.
+[15:43] Emily: Any updates on your progress?
+[15:45] James Young: Making good time, no issues so far.
+[16:45] Emily: Where are you at right now?
+[16:47] James Young: Just passed Nashville, TN, everything's fine.
+[17:44] Emily: What's your status?
+[17:46] James Young: About 491 miles out from Birmingham, AL now.
+[18:08] Emily: Where are you at right now?
+[18:10] James Young: Traffic's a bit heavy but I'm still on schedule.
+[19:02] James Young: Just delivered LD-76161 at Birmingham, AL, all good, no damages.
+[19:04] Emily: Do you have the signed BOL?
+[19:06] James Young: Yep, taking a picture now.
+[19:07] James Young: [Image attached: signed_bol.jpg]
+[19:09] Emily: Sending you the next load details shortly.
+[19:11] James Young: Understood.
+[19:13] Emily: Thanks for the update, drive safe.

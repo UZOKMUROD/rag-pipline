@@ -1,0 +1,151 @@
+Chat Log #120
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #645 (tentli furgon)
+Operator: Feruza
+Load: LD-55045 | Route: Namangan -> Toshkent
+Date: 2026-05-07
+--------------------------------------------------
+[11:45] Feruza: Salom, Farrukh, ishlar qalay?
+[11:46] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[11:48] Feruza: Siz uchun yuk bor - LD-55045, tentli furgon, Namangandan yuklanadi, Toshkentga tushiriladi.
+[11:50] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[11:52] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[11:54] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[11:56] Feruza: 3533 ming so'm, 701 km.
+[11:58] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[12:00] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:03] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[12:41] Feruza: Yo'lda yangilik bormi?
+[12:43] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[12:46] Feruza: O'zingizni qalay his qilyapsiz?
+[12:48] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[13:50] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:52] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[14:58] Feruza: Hozir qayerdasiz?
+[15:00] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[15:03] Feruza: Biror narsa kerak bo'lsa ayting.
+[15:05] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[16:19] Feruza: Holatingiz qanday?
+[16:21] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[16:23] Feruza: Taxminan qachon yetib borasiz?
+[16:25] Farrukh Tashkentov: Taxminan 10amda yetib boraman.
+[17:53] Feruza: Hozir qayerdasiz?
+[17:55] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:58] Feruza: Biror narsa kerak bo'lsa ayting.
+[18:00] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:28] Feruza: LD-55045 bilan ishlar qalay?
+[19:30] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:33] Feruza: Xabar berib turganingiz uchun rahmat.
+[19:35] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[19:56] Feruza: Hozir qayerdasiz?
+[19:58] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:53] Feruza: LD-55045 bilan ishlar qalay?
+[20:55] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:57] Feruza: Taxminan qachon yetib borasiz?
+[20:59] Farrukh Tashkentov: Taxminan noonda yetib boraman.
+[21:47] Feruza: LD-55045 bilan ishlar qalay?
+[21:49] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:52] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:54] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[22:20] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:22] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[22:24] Feruza: Taxminan qachon yetib borasiz?
+[22:26] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[23:56] Feruza: Holatingiz qanday?
+[23:58] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[00:00] Feruza: Taxminan qachon yetib borasiz?
+[00:02] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[00:57] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:59] Farrukh Tashkentov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[01:02] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[01:04] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[02:03] Feruza: LD-55045 bilan ishlar qalay?
+[02:05] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:20] Feruza: Hozir qayerdasiz?
+[03:22] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[03:51] Farrukh Tashkentov: Muammo chiqdi, avtomobil yo'lida avariya bo'lgan LD-55045da. Yo'l chetiga to'xtadim.
+[03:52] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[03:54] Farrukh Tashkentov: Ha, men yaxshiman, faqat yordam kerak.
+[03:56] Feruza: A373 yo'lida 66-belgida turibman.
+[04:01] Feruza: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[05:23] Farrukh Tashkentov: Ta'mirlandi, yana yo'lga tushdim.
+[05:46] Feruza: Holatingiz qanday?
+[05:48] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[06:37] Feruza: Yo'lda yangilik bormi?
+[06:39] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:35] Feruza: Yo'lda yangilik bormi?
+[07:37] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[07:56] Feruza: LD-55045 bilan ishlar qalay?
+[07:58] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:26] Feruza: Yo'lda yangilik bormi?
+[08:28] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[09:13] Feruza: LD-55045 bilan ishlar qalay?
+[09:15] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:44] Feruza: Yo'lda yangilik bormi?
+[09:46] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:19] Feruza: Holatingiz qanday?
+[10:21] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:46] Feruza: Holatingiz qanday?
+[10:48] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:05] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:07] Farrukh Tashkentov: Toshkentgacha taxminan 300 km qoldi.
+[11:54] Feruza: Yo'lda yangilik bormi?
+[11:56] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:50] Feruza: Yo'lda yangilik bormi?
+[12:52] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:29] Feruza: Hozir qayerdasiz?
+[13:31] Farrukh Tashkentov: Toshkentgacha taxminan 186 km qoldi.
+[14:22] Feruza: LD-55045 bilan ishlar qalay?
+[14:24] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:57] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:59] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:21] Feruza: LD-55045 bilan ishlar qalay?
+[15:23] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:45] Feruza: Holatingiz qanday?
+[15:47] Farrukh Tashkentov: Toshkentgacha taxminan 570 km qoldi.
+[16:30] Feruza: Yo'lda yangilik bormi?
+[16:32] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:02] Feruza: Hozir qayerdasiz?
+[17:04] Farrukh Tashkentov: Toshkentgacha taxminan 33 km qoldi.
+[17:36] Feruza: LD-55045 bilan ishlar qalay?
+[17:38] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:16] Feruza: Holatingiz qanday?
+[18:18] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:48] Feruza: Yo'lda yangilik bormi?
+[18:50] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:15] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:17] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:43] Feruza: Holatingiz qanday?
+[19:45] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:23] Feruza: Hozir qayerdasiz?
+[20:25] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:48] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:44] Feruza: Holatingiz qanday?
+[21:46] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:27] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:29] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:12] Feruza: Hozir qayerdasiz?
+[23:14] Farrukh Tashkentov: Toshkentgacha taxminan 214 km qoldi.
+[23:53] Feruza: Hozir qayerdasiz?
+[23:55] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:34] Feruza: LD-55045 bilan ishlar qalay?
+[00:36] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:34] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:36] Farrukh Tashkentov: Toshkentgacha taxminan 417 km qoldi.
+[02:29] Feruza: Holatingiz qanday?
+[02:31] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:00] Feruza: Yo'lda yangilik bormi?
+[03:02] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[04:01] Feruza: Yo'lda yangilik bormi?
+[04:03] Farrukh Tashkentov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[04:55] Feruza: LD-55045 bilan ishlar qalay?
+[04:57] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:26] Farrukh Tashkentov: LD-55045 yukini Toshkentda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:28] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[06:30] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[06:31] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:33] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:35] Farrukh Tashkentov: Tushunarli.
+[06:37] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

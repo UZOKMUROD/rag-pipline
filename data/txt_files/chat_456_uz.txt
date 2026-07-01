@@ -1,0 +1,154 @@
+Chat Log #456
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #120 (tentli furgon)
+Operator: Feruza
+Load: LD-31916 | Route: Buxoro -> Navoiy
+Date: 2026-01-24
+--------------------------------------------------
+[08:00] Feruza: Bakhtiyor, bir daqiqa bormi?
+[08:01] Bakhtiyor Karimov: Ha, aytavering.
+[08:03] Feruza: Siz uchun yuk bor - LD-31916, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[08:05] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[08:07] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[08:09] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[08:11] Feruza: 2582 ming so'm, 868 km.
+[08:13] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[08:15] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:18] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[08:57] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:59] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[09:02] Feruza: Biror narsa kerak bo'lsa ayting.
+[09:04] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[10:18] Feruza: Holatingiz qanday?
+[10:20] Bakhtiyor Karimov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[10:23] Feruza: Xabar berib turganingiz uchun rahmat.
+[10:25] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[11:10] Feruza: Hozir qayerdasiz?
+[11:12] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[11:14] Feruza: Taxminan qachon yetib borasiz?
+[11:16] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[11:44] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:46] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:48] Feruza: Taxminan qachon yetib borasiz?
+[11:50] Bakhtiyor Karimov: Ehtimol 10am, balki ertaroq.
+[12:50] Feruza: Holatingiz qanday?
+[12:52] Bakhtiyor Karimov: Navoiygacha taxminan 535 km qoldi.
+[13:16] Feruza: LD-31916 bilan ishlar qalay?
+[13:18] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:17] Feruza: Yo'lda yangilik bormi?
+[14:19] Bakhtiyor Karimov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[14:22] Feruza: O'zingizni qalay his qilyapsiz?
+[14:24] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:26] Feruza: Taxminan qachon yetib borasiz?
+[14:28] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[15:34] Feruza: Holatingiz qanday?
+[15:36] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[15:57] Feruza: Yo'lda yangilik bormi?
+[15:59] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[16:01] Feruza: Taxminan qachon yetib borasiz?
+[16:03] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 10amda.
+[16:21] Feruza: Holatingiz qanday?
+[16:23] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[16:43] Feruza: Holatingiz qanday?
+[16:45] Bakhtiyor Karimov: Navoiygacha taxminan 213 km qoldi.
+[16:47] Feruza: Taxminan qachon yetib borasiz?
+[16:49] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[17:13] Feruza: Holatingiz qanday?
+[17:15] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[18:43] Feruza: Holatingiz qanday?
+[18:45] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[19:47] Feruza: Holatingiz qanday?
+[19:49] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:52] Feruza: O'zingizni qalay his qilyapsiz?
+[19:54] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[19:56] Feruza: Taxminan qachon yetib borasiz?
+[19:58] Bakhtiyor Karimov: Taxminan 3pmda yetib boraman.
+[20:13] Feruza: LD-31916 bilan ishlar qalay?
+[20:15] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[20:48] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:50] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:14] Feruza: Hozir qayerdasiz?
+[21:16] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:13] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:15] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:17] Feruza: Taxminan qachon yetib borasiz?
+[22:19] Bakhtiyor Karimov: Ehtimol 5pm, balki ertaroq.
+[22:53] Bakhtiyor Karimov: Hali ham qabul qiluvchida turibman, deyarli 3 soat bo'ldi.
+[22:55] Feruza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[23:05] Feruza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[23:07] Bakhtiyor Karimov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[23:09] Feruza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[00:05] Feruza: Yo'lda yangilik bormi?
+[00:07] Bakhtiyor Karimov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[00:33] Feruza: Holatingiz qanday?
+[00:35] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:09] Feruza: LD-31916 bilan ishlar qalay?
+[01:11] Bakhtiyor Karimov: Navoiygacha taxminan 349 km qoldi.
+[01:41] Feruza: Holatingiz qanday?
+[01:43] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:09] Feruza: LD-31916 bilan ishlar qalay?
+[02:11] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:45] Feruza: LD-31916 bilan ishlar qalay?
+[02:47] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:19] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:21] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[04:21] Feruza: Hozir qayerdasiz?
+[04:23] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:57] Feruza: Yo'lda yangilik bormi?
+[04:59] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[05:16] Feruza: Holatingiz qanday?
+[05:18] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:51] Feruza: LD-31916 bilan ishlar qalay?
+[05:53] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:23] Feruza: LD-31916 bilan ishlar qalay?
+[06:25] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[06:41] Feruza: Hozir qayerdasiz?
+[06:43] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:14] Feruza: Yo'lda yangilik bormi?
+[07:16] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:43] Feruza: Hozir qayerdasiz?
+[07:45] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:10] Feruza: Holatingiz qanday?
+[08:12] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:05] Feruza: Hozir qayerdasiz?
+[09:07] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[09:22] Feruza: Hozir qayerdasiz?
+[09:24] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:50] Feruza: Holatingiz qanday?
+[09:52] Bakhtiyor Karimov: Navoiygacha taxminan 155 km qoldi.
+[10:44] Feruza: LD-31916 bilan ishlar qalay?
+[10:46] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:01] Feruza: Yo'lda yangilik bormi?
+[11:03] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:56] Feruza: Yo'lda yangilik bormi?
+[11:58] Bakhtiyor Karimov: Navoiygacha taxminan 225 km qoldi.
+[12:17] Feruza: LD-31916 bilan ishlar qalay?
+[12:19] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:06] Feruza: Hozir qayerdasiz?
+[13:08] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[14:06] Feruza: Hozir qayerdasiz?
+[14:08] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:29] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:31] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:55] Feruza: Holatingiz qanday?
+[14:57] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:56] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:58] Bakhtiyor Karimov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[16:52] Feruza: Yo'lda yangilik bormi?
+[16:54] Bakhtiyor Karimov: Navoiygacha taxminan 598 km qoldi.
+[17:24] Feruza: Hozir qayerdasiz?
+[17:26] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:52] Feruza: Holatingiz qanday?
+[17:54] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:54] Feruza: Holatingiz qanday?
+[18:56] Bakhtiyor Karimov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[19:32] Feruza: Hozir qayerdasiz?
+[19:34] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:44] Bakhtiyor Karimov: LD-31916 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[20:46] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[20:48] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[20:49] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[20:51] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[20:53] Bakhtiyor Karimov: Yaxshi.
+[20:55] Feruza: Ajoyib ish, rahmat.

@@ -1,0 +1,144 @@
+Chat Log #135
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #610 (past ramali tirkama)
+Operator: Dilnoza
+Load: LD-27374 | Route: Toshkent -> Namangan
+Date: 2026-03-01
+--------------------------------------------------
+[17:35] Dilnoza: Salom, Shavkat, ishlar qalay?
+[17:36] Shavkat Ergashev: Ha, aytavering.
+[17:38] Dilnoza: Siz uchun yuk bor - LD-27374, past ramali tirkama, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[17:40] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[17:42] Dilnoza: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[17:44] Shavkat Ergashev: Bu reys uchun narx qancha?
+[17:46] Dilnoza: 2202 ming so'm, 732 km.
+[17:48] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[17:50] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:53] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[19:04] Dilnoza: LD-27374 bilan ishlar qalay?
+[19:06] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[20:14] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:16] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[21:17] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:19] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:22] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:24] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[22:13] Dilnoza: LD-27374 bilan ishlar qalay?
+[22:15] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:17] Dilnoza: Taxminan qachon yetib borasiz?
+[22:19] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[22:55] Dilnoza: LD-27374 bilan ishlar qalay?
+[22:57] Shavkat Ergashev: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[23:39] Dilnoza: Yo'lda yangilik bormi?
+[23:41] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:46] Dilnoza: Yo'lda yangilik bormi?
+[00:48] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[00:50] Dilnoza: Taxminan qachon yetib borasiz?
+[00:52] Shavkat Ergashev: Agar tirbandlik bo'lmasa 10amda.
+[02:14] Dilnoza: Yo'lda yangilik bormi?
+[02:16] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:19] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[02:21] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:41] Dilnoza: Holatingiz qanday?
+[03:43] Shavkat Ergashev: Namangangacha taxminan 100 km qoldi.
+[04:48] Dilnoza: Holatingiz qanday?
+[04:50] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[04:52] Dilnoza: Taxminan qachon yetib borasiz?
+[04:54] Shavkat Ergashev: Agar tirbandlik bo'lmasa 5pmda.
+[06:16] Dilnoza: LD-27374 bilan ishlar qalay?
+[06:18] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[06:21] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[06:23] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[07:47] Dilnoza: Hozir qayerdasiz?
+[07:49] Shavkat Ergashev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[08:29] Dilnoza: Yo'lda yangilik bormi?
+[08:31] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[08:33] Dilnoza: Taxminan qachon yetib borasiz?
+[08:35] Shavkat Ergashev: Agar tirbandlik bo'lmasa 3pmda.
+[09:50] Dilnoza: Hozir qayerdasiz?
+[09:52] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:55] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[09:57] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:36] Shavkat Ergashev: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[10:38] Dilnoza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[10:48] Dilnoza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[10:50] Shavkat Ergashev: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[10:52] Dilnoza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[11:40] Dilnoza: Hozir qayerdasiz?
+[11:42] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:01] Dilnoza: Yo'lda yangilik bormi?
+[12:03] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:48] Dilnoza: Hozir qayerdasiz?
+[12:50] Shavkat Ergashev: Namangangacha taxminan 117 km qoldi.
+[13:22] Dilnoza: Yo'lda yangilik bormi?
+[13:24] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:22] Dilnoza: Yo'lda yangilik bormi?
+[14:24] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[14:50] Dilnoza: Holatingiz qanday?
+[14:52] Shavkat Ergashev: Namangangacha taxminan 493 km qoldi.
+[15:29] Dilnoza: LD-27374 bilan ishlar qalay?
+[15:31] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:56] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:58] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:30] Dilnoza: Yo'lda yangilik bormi?
+[16:32] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:30] Dilnoza: Holatingiz qanday?
+[17:32] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:29] Dilnoza: Holatingiz qanday?
+[18:31] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:29] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:31] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[20:13] Dilnoza: Hozir qayerdasiz?
+[20:15] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:54] Dilnoza: Hozir qayerdasiz?
+[20:56] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:50] Dilnoza: LD-27374 bilan ishlar qalay?
+[21:52] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[22:40] Dilnoza: LD-27374 bilan ishlar qalay?
+[22:42] Shavkat Ergashev: Namangangacha taxminan 47 km qoldi.
+[23:24] Dilnoza: Holatingiz qanday?
+[23:26] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:54] Dilnoza: Yo'lda yangilik bormi?
+[23:56] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:24] Dilnoza: Holatingiz qanday?
+[00:26] Shavkat Ergashev: Namangangacha taxminan 489 km qoldi.
+[01:26] Dilnoza: Yo'lda yangilik bormi?
+[01:28] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:48] Dilnoza: LD-27374 bilan ishlar qalay?
+[01:50] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:28] Dilnoza: LD-27374 bilan ishlar qalay?
+[02:30] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:52] Dilnoza: Hozir qayerdasiz?
+[02:54] Shavkat Ergashev: Namangangacha taxminan 589 km qoldi.
+[03:31] Dilnoza: LD-27374 bilan ishlar qalay?
+[03:33] Shavkat Ergashev: Namangangacha taxminan 396 km qoldi.
+[04:03] Dilnoza: Yo'lda yangilik bormi?
+[04:05] Shavkat Ergashev: Namangangacha taxminan 446 km qoldi.
+[04:31] Dilnoza: Hozir qayerdasiz?
+[04:33] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:30] Dilnoza: LD-27374 bilan ishlar qalay?
+[05:32] Shavkat Ergashev: Namangangacha taxminan 212 km qoldi.
+[06:18] Dilnoza: Hozir qayerdasiz?
+[06:20] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[07:09] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:11] Shavkat Ergashev: Namangangacha taxminan 568 km qoldi.
+[07:45] Dilnoza: LD-27374 bilan ishlar qalay?
+[07:47] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:23] Dilnoza: Yo'lda yangilik bormi?
+[08:25] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:16] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:18] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[10:03] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:05] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:45] Dilnoza: Hozir qayerdasiz?
+[10:47] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:05] Dilnoza: Hozir qayerdasiz?
+[11:07] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:08] Shavkat Ergashev: LD-27374 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[12:10] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[12:12] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[12:13] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[12:15] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[12:17] Shavkat Ergashev: Yaxshi.
+[12:19] Dilnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

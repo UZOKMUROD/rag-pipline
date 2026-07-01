@@ -1,0 +1,153 @@
+Chat Log #180
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #873 (past ramali tirkama)
+Operator: Nodira
+Load: LD-55597 | Route: Jizzax -> Guliston
+Date: 2026-03-27
+--------------------------------------------------
+[09:45] Nodira: Salom, Farrukh, ishlar qalay?
+[09:46] Farrukh Tashkentov: Ha, aloqadaman.
+[09:48] Nodira: Siz uchun yuk bor - LD-55597, past ramali tirkama, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[09:50] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[09:52] Nodira: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[09:54] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[09:56] Nodira: 2779 ming so'm, 887 km.
+[09:58] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[10:00] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:03] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[10:25] Nodira: Holatingiz qanday?
+[10:27] Farrukh Tashkentov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[10:29] Nodira: Taxminan qachon yetib borasiz?
+[10:31] Farrukh Tashkentov: Ehtimol 10am, balki ertaroq.
+[10:59] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[11:01] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[12:16] Nodira: LD-55597 bilan ishlar qalay?
+[12:18] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[12:21] Nodira: Biror narsa kerak bo'lsa ayting.
+[12:23] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[12:43] Nodira: Hozir qayerdasiz?
+[12:45] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[12:48] Nodira: Xabar berib turganingiz uchun rahmat.
+[12:50] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[14:10] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:12] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[14:38] Nodira: Hozir qayerdasiz?
+[14:40] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[14:43] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:45] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[14:47] Nodira: Taxminan qachon yetib borasiz?
+[14:49] Farrukh Tashkentov: Taxminan noonda yetib boraman.
+[15:29] Nodira: Holatingiz qanday?
+[15:31] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:33] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:35] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[16:51] Nodira: Hozir qayerdasiz?
+[16:53] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:37] Nodira: Holatingiz qanday?
+[17:39] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:09] Nodira: Yo'lda yangilik bormi?
+[18:11] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[18:14] Nodira: Biror narsa kerak bo'lsa ayting.
+[18:16] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[18:18] Nodira: Taxminan qachon yetib borasiz?
+[18:20] Farrukh Tashkentov: Taxminan noonda yetib boraman.
+[19:43] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:45] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:47] Nodira: Taxminan qachon yetib borasiz?
+[19:49] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 10amda.
+[20:58] Nodira: Yo'lda yangilik bormi?
+[21:00] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:44] Nodira: LD-55597 bilan ishlar qalay?
+[21:46] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[21:49] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:51] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:46] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:48] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:50] Nodira: Taxminan qachon yetib borasiz?
+[22:52] Farrukh Tashkentov: Taxminan 3pmda yetib boraman.
+[23:47] Nodira: Holatingiz qanday?
+[23:49] Farrukh Tashkentov: Gulistongacha taxminan 354 km qoldi.
+[00:05] Nodira: Yo'lda yangilik bormi?
+[00:07] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:42] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:44] Farrukh Tashkentov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[01:09] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:11] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:10] Nodira: Hozir qayerdasiz?
+[02:12] Farrukh Tashkentov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[02:50] Nodira: Hozir qayerdasiz?
+[02:52] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:33] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:35] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:12] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[04:14] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:58] Nodira: Yo'lda yangilik bormi?
+[05:00] Farrukh Tashkentov: Gulistongacha taxminan 50 km qoldi.
+[05:24] Nodira: LD-55597 bilan ishlar qalay?
+[05:26] Farrukh Tashkentov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[06:02] Nodira: LD-55597 bilan ishlar qalay?
+[06:04] Farrukh Tashkentov: Gulistongacha taxminan 302 km qoldi.
+[06:41] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[06:43] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:24] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[07:26] Farrukh Tashkentov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[08:11] Nodira: Hozir qayerdasiz?
+[08:13] Farrukh Tashkentov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[08:32] Nodira: LD-55597 bilan ishlar qalay?
+[08:34] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:56] Nodira: LD-55597 bilan ishlar qalay?
+[08:58] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:33] Nodira: Yo'lda yangilik bormi?
+[09:35] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:56] Nodira: Yo'lda yangilik bormi?
+[09:58] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:18] Nodira: Yo'lda yangilik bormi?
+[10:20] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:10] Nodira: Yo'lda yangilik bormi?
+[11:12] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:53] Nodira: Yo'lda yangilik bormi?
+[11:55] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:35] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[12:37] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:32] Nodira: Hozir qayerdasiz?
+[13:34] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:19] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[14:21] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:38] Nodira: Yo'lda yangilik bormi?
+[14:40] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:10] Nodira: Hozir qayerdasiz?
+[15:12] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:37] Nodira: Holatingiz qanday?
+[15:39] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:24] Nodira: LD-55597 bilan ishlar qalay?
+[16:26] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:20] Nodira: Holatingiz qanday?
+[17:22] Farrukh Tashkentov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[18:18] Nodira: LD-55597 bilan ishlar qalay?
+[18:20] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:17] Nodira: Holatingiz qanday?
+[19:19] Farrukh Tashkentov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[19:57] Nodira: Hozir qayerdasiz?
+[19:59] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:49] Nodira: Yo'lda yangilik bormi?
+[20:51] Farrukh Tashkentov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[21:27] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:29] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:14] Nodira: Yo'lda yangilik bormi?
+[22:16] Farrukh Tashkentov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[23:03] Nodira: LD-55597 bilan ishlar qalay?
+[23:05] Farrukh Tashkentov: Gulistongacha taxminan 309 km qoldi.
+[23:55] Nodira: LD-55597 bilan ishlar qalay?
+[23:57] Farrukh Tashkentov: Gulistongacha taxminan 597 km qoldi.
+[00:49] Nodira: LD-55597 bilan ishlar qalay?
+[00:51] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:13] Nodira: Hozir qayerdasiz?
+[01:15] Farrukh Tashkentov: Gulistongacha taxminan 544 km qoldi.
+[02:28] Farrukh Tashkentov: LD-55597 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[02:30] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[02:32] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[02:33] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:35] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:37] Farrukh Tashkentov: Xo'p bo'ladi.
+[02:39] Nodira: Rahmat, aloqada bo'lamiz.

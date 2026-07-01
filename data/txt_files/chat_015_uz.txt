@@ -1,0 +1,148 @@
+Chat Log #015
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #516 (refrijerator)
+Operator: Feruza
+Load: LD-14163 | Route: Jizzax -> Guliston
+Date: 2026-03-14
+--------------------------------------------------
+[05:36] Feruza: Xayrli tong, Sardor, aloqadamisiz?
+[05:37] Sardor Rakhimov: Ha, aloqadaman.
+[05:39] Feruza: Siz uchun yuk bor - LD-14163, refrijerator, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[05:41] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[05:43] Feruza: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[05:45] Sardor Rakhimov: Bu reys uchun narx qancha?
+[05:47] Feruza: 2434 ming so'm, 972 km.
+[05:49] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[05:51] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[05:54] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[07:07] Feruza: Holatingiz qanday?
+[07:09] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[07:12] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[07:14] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[08:22] Feruza: Yo'lda yangilik bormi?
+[08:24] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[08:46] Feruza: Yo'lda yangilik bormi?
+[08:48] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:15] Feruza: Yo'lda yangilik bormi?
+[10:17] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:44] Feruza: LD-14163 bilan ishlar qalay?
+[10:46] Sardor Rakhimov: Jizzax yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[10:48] Feruza: Taxminan qachon yetib borasiz?
+[10:50] Sardor Rakhimov: Taxminan 5pmda yetib boraman.
+[11:58] Feruza: LD-14163 bilan ishlar qalay?
+[12:00] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[13:22] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:24] Sardor Rakhimov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[14:03] Feruza: Holatingiz qanday?
+[14:05] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:08] Feruza: Biror narsa kerak bo'lsa ayting.
+[14:10] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[15:32] Feruza: Hozir qayerdasiz?
+[15:34] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[15:36] Feruza: Taxminan qachon yetib borasiz?
+[15:38] Sardor Rakhimov: Ehtimol 7pm, balki ertaroq.
+[16:20] Feruza: Hozir qayerdasiz?
+[16:22] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:00] Feruza: Holatingiz qanday?
+[17:02] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[17:04] Feruza: Taxminan qachon yetib borasiz?
+[17:06] Sardor Rakhimov: Taxminan 10amda yetib boraman.
+[18:13] Feruza: Holatingiz qanday?
+[18:15] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[18:18] Feruza: Biror narsa kerak bo'lsa ayting.
+[18:20] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[19:21] Feruza: Yo'lda yangilik bormi?
+[19:23] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[19:25] Feruza: Taxminan qachon yetib borasiz?
+[19:27] Sardor Rakhimov: Ehtimol 5pm, balki ertaroq.
+[20:33] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:35] Sardor Rakhimov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[22:03] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:05] Sardor Rakhimov: Yo'llar bo'sh, yaxshi ketyapman.
+[22:08] Feruza: Xabar berib turganingiz uchun rahmat.
+[22:10] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[22:45] Feruza: Holatingiz qanday?
+[22:47] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[23:27] Feruza: Hozir qayerdasiz?
+[23:29] Sardor Rakhimov: Hozirgina yoqilg'i quydim.
+[23:31] Feruza: Taxminan qachon yetib borasiz?
+[23:33] Sardor Rakhimov: Taxminan 10amda yetib boraman.
+[00:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:48] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:24] Sardor Rakhimov: Hali ham jo'natuvchida turibman, deyarli 2 soat bo'ldi.
+[01:26] Feruza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[01:36] Feruza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[01:38] Sardor Rakhimov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[01:40] Feruza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[02:06] Feruza: LD-14163 bilan ishlar qalay?
+[02:08] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:34] Feruza: Yo'lda yangilik bormi?
+[02:36] Sardor Rakhimov: Gulistongacha taxminan 262 km qoldi.
+[02:52] Feruza: LD-14163 bilan ishlar qalay?
+[02:54] Sardor Rakhimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[03:21] Feruza: Yo'lda yangilik bormi?
+[03:23] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:11] Feruza: Hozir qayerdasiz?
+[04:13] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:58] Feruza: Hozir qayerdasiz?
+[05:00] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:31] Feruza: Yo'lda yangilik bormi?
+[05:33] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:27] Feruza: LD-14163 bilan ishlar qalay?
+[06:29] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:05] Feruza: Hozir qayerdasiz?
+[07:07] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:34] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:36] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:35] Feruza: Holatingiz qanday?
+[08:37] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:06] Feruza: Hozir qayerdasiz?
+[09:08] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[09:27] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:29] Sardor Rakhimov: Gulistongacha taxminan 483 km qoldi.
+[10:13] Feruza: Yo'lda yangilik bormi?
+[10:15] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:06] Feruza: Holatingiz qanday?
+[11:08] Sardor Rakhimov: Gulistongacha taxminan 217 km qoldi.
+[12:00] Feruza: Yo'lda yangilik bormi?
+[12:02] Sardor Rakhimov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[12:33] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:35] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:51] Feruza: Yo'lda yangilik bormi?
+[12:53] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:40] Feruza: Hozir qayerdasiz?
+[13:42] Sardor Rakhimov: Gulistongacha taxminan 216 km qoldi.
+[14:08] Feruza: Yo'lda yangilik bormi?
+[14:10] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:35] Feruza: LD-14163 bilan ishlar qalay?
+[14:37] Sardor Rakhimov: Gulistongacha taxminan 367 km qoldi.
+[15:37] Feruza: Hozir qayerdasiz?
+[15:39] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:13] Feruza: LD-14163 bilan ishlar qalay?
+[16:15] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:48] Feruza: LD-14163 bilan ishlar qalay?
+[16:50] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:16] Feruza: Yo'lda yangilik bormi?
+[17:18] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:53] Feruza: LD-14163 bilan ishlar qalay?
+[17:55] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:43] Feruza: Hozir qayerdasiz?
+[18:45] Sardor Rakhimov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[19:39] Feruza: Holatingiz qanday?
+[19:41] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:12] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:14] Sardor Rakhimov: Gulistongacha taxminan 345 km qoldi.
+[20:59] Feruza: Holatingiz qanday?
+[21:01] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:44] Feruza: Hozir qayerdasiz?
+[21:46] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:30] Feruza: LD-14163 bilan ishlar qalay?
+[22:32] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:04] Sardor Rakhimov: LD-14163 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:06] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[23:08] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[23:09] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:11] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[23:13] Sardor Rakhimov: Xo'p bo'ladi.
+[23:15] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

@@ -1,0 +1,131 @@
+Chat Log #286
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Lewis | Truck: #321 (flatbed)
+Operator: Rachel
+Load: LD-18750 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-02-23
+--------------------------------------------------
+[15:48] Rachel: Hey Mike, how's it going?
+[15:49] Mike Lewis: Morning, all good on my end.
+[15:51] Rachel: Got a load for you - LD-18750, flatbed, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[15:53] Mike Lewis: Ok, what's the pickup window?
+[15:55] Rachel: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[15:57] Mike Lewis: What's the rate on this one?
+[15:59] Rachel: $2898 all in, 472 miles.
+[16:01] Mike Lewis: Sounds good, I'll take it.
+[16:03] Rachel: Great, sending the rate confirmation now.
+[16:06] Mike Lewis: Got it, signed and sent back.
+[16:25] Rachel: Still on schedule?
+[16:27] Mike Lewis: Rain is picking up here, slowing down a bit.
+[17:09] Rachel: Still on schedule?
+[17:11] Mike Lewis: Will do, thanks for checking in.
+[17:28] Rachel: Any updates on your progress?
+[17:30] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[17:32] Rachel: What's your ETA?
+[17:34] Mike Lewis: Should be there around 5pm.
+[18:04] Rachel: How's LD-18750 looking?
+[18:06] Mike Lewis: Stopping for fuel in a bit.
+[19:22] Rachel: What's your status?
+[19:24] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[20:43] Rachel: What's your status?
+[20:45] Mike Lewis: About 498 miles out from Pittsburgh, PA now.
+[20:48] Rachel: How are you holding up out there?
+[20:50] Mike Lewis: Yeah, long one, but manageable.
+[20:52] Rachel: What's your ETA?
+[20:54] Mike Lewis: Probably 10am, maybe a bit earlier.
+[21:25] Rachel: What's your status?
+[21:27] Mike Lewis: About 57 miles out from Pittsburgh, PA now.
+[21:30] Rachel: Let me know if you need anything.
+[21:32] Mike Lewis: Yeah, long one, but manageable.
+[22:42] Rachel: Any updates on your progress?
+[22:44] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[23:02] Rachel: What's your status?
+[23:04] Mike Lewis: No problem, just doing my job.
+[23:07] Rachel: How are you holding up out there?
+[23:09] Mike Lewis: Yeah, long one, but manageable.
+[00:33] Rachel: Still on schedule?
+[00:35] Mike Lewis: Doing alright, just tired.
+[00:37] Rachel: What's your ETA?
+[00:39] Mike Lewis: Probably 3pm, maybe a bit earlier.
+[00:58] Rachel: Any updates on your progress?
+[01:00] Mike Lewis: Doing alright, just tired.
+[01:03] Rachel: Appreciate you keeping me posted.
+[01:05] Mike Lewis: Doing alright, just tired.
+[01:47] Rachel: Where are you at right now?
+[01:49] Mike Lewis: Stopped for a quick break, back on the road in a few.
+[03:12] Rachel: Where are you at right now?
+[03:14] Mike Lewis: Rain is picking up here, slowing down a bit.
+[03:17] Rachel: Let me know if you need anything.
+[03:19] Mike Lewis: Will do, thanks for checking in.
+[04:20] Rachel: How's LD-18750 looking?
+[04:22] Mike Lewis: Fuel prices are decent around here.
+[05:14] Rachel: How's LD-18750 looking?
+[05:16] Mike Lewis: About 539 miles out from Pittsburgh, PA now.
+[06:14] Rachel: Still on schedule?
+[06:16] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[07:08] Rachel: What's your status?
+[07:10] Mike Lewis: Just passed Columbus, OH, everything's fine.
+[07:42] Rachel: Any updates on your progress?
+[07:44] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[08:33] Rachel: Any updates on your progress?
+[08:35] Mike Lewis: About 414 miles out from Pittsburgh, PA now.
+[09:18] Rachel: What's your status?
+[09:20] Mike Lewis: About 309 miles out from Pittsburgh, PA now.
+[10:15] Rachel: Any updates on your progress?
+[10:17] Mike Lewis: Stopped for a quick break, back on the road in a few.
+[11:09] Rachel: How's LD-18750 looking?
+[11:11] Mike Lewis: Just crossed the state line, all good.
+[11:39] Rachel: Still on schedule?
+[11:41] Mike Lewis: Just passed Pittsburgh, PA, everything's fine.
+[12:41] Rachel: Still on schedule?
+[12:43] Mike Lewis: Making good time, no issues so far.
+[13:00] Rachel: Still on schedule?
+[13:02] Mike Lewis: Making good time, no issues so far.
+[13:33] Rachel: What's your status?
+[13:35] Mike Lewis: Making good time, no issues so far.
+[13:55] Rachel: What's your status?
+[13:57] Mike Lewis: Just crossed the state line, all good.
+[14:35] Rachel: Where are you at right now?
+[14:37] Mike Lewis: Just crossed the state line, all good.
+[15:02] Rachel: How's LD-18750 looking?
+[15:04] Mike Lewis: Making good time, no issues so far.
+[15:40] Rachel: Where are you at right now?
+[15:42] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[16:41] Rachel: Still on schedule?
+[16:43] Mike Lewis: Just crossed the state line, all good.
+[17:27] Rachel: Still on schedule?
+[17:29] Mike Lewis: Making good time, no issues so far.
+[18:04] Rachel: Still on schedule?
+[18:06] Mike Lewis: Stopped for a quick break, back on the road in a few.
+[18:22] Rachel: Still on schedule?
+[18:24] Mike Lewis: Just passed Pittsburgh, PA, everything's fine.
+[19:16] Rachel: Where are you at right now?
+[19:18] Mike Lewis: Just passed Columbus, OH, everything's fine.
+[20:00] Rachel: Where are you at right now?
+[20:02] Mike Lewis: Just passed Columbus, OH, everything's fine.
+[20:57] Rachel: Still on schedule?
+[20:59] Mike Lewis: Just crossed the state line, all good.
+[21:45] Rachel: Any updates on your progress?
+[21:47] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[22:25] Rachel: Still on schedule?
+[22:27] Mike Lewis: Making good time, no issues so far.
+[22:44] Rachel: What's your status?
+[22:46] Mike Lewis: Just crossed the state line, all good.
+[23:43] Rachel: Any updates on your progress?
+[23:45] Mike Lewis: Just passed Columbus, OH, everything's fine.
+[00:19] Rachel: Any updates on your progress?
+[00:21] Mike Lewis: Just crossed the state line, all good.
+[00:36] Rachel: Any updates on your progress?
+[00:38] Mike Lewis: About 333 miles out from Pittsburgh, PA now.
+[01:38] Rachel: Still on schedule?
+[01:40] Mike Lewis: Stopped for a quick break, back on the road in a few.
+[02:30] Rachel: Any updates on your progress?
+[02:32] Mike Lewis: Traffic's a bit heavy but I'm still on schedule.
+[04:02] Mike Lewis: Just delivered LD-18750 at Pittsburgh, PA, all good, no damages.
+[04:04] Rachel: Do you have the signed BOL?
+[04:06] Mike Lewis: Yep, taking a picture now.
+[04:07] Mike Lewis: [Image attached: signed_bol.jpg]
+[04:09] Rachel: Sending you the next load details shortly.
+[04:11] Mike Lewis: Understood.
+[04:13] Rachel: Great work, thank you.

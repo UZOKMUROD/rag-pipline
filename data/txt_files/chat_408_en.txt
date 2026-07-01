@@ -1,0 +1,126 @@
+Chat Log #408
+Company: Silk Road Logistics
+Language: English
+Driver: Steve Harris | Truck: #397 (dry van)
+Operator: Jessica
+Load: LD-32395 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-06-23
+--------------------------------------------------
+[06:17] Jessica: Morning Steve, you there?
+[06:18] Steve Harris: Hey, yeah I'm here.
+[06:20] Jessica: Got a load for you - LD-32395, dry van, pickup in Chicago, IL, delivery to Memphis, TN.
+[06:22] Steve Harris: Ok, what's the pickup window?
+[06:24] Jessica: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[06:26] Steve Harris: What's the rate on this one?
+[06:28] Jessica: $2530 all in, 623 miles.
+[06:30] Steve Harris: Sounds good, I'll take it.
+[06:32] Jessica: Great, sending the rate confirmation now.
+[06:35] Steve Harris: Got it, signed and sent back.
+[06:50] Jessica: Where are you at right now?
+[06:52] Steve Harris: Clear skies here, no problems.
+[06:54] Jessica: What's your ETA?
+[06:56] Steve Harris: Should be there around 3pm.
+[08:02] Jessica: Any updates on your progress?
+[08:04] Steve Harris: Stopping for fuel in a bit.
+[09:11] Jessica: Where are you at right now?
+[09:13] Steve Harris: Clear skies here, no problems.
+[09:15] Jessica: What's your ETA?
+[09:17] Steve Harris: Should be there around 5pm.
+[10:01] Jessica: What's your status?
+[10:03] Steve Harris: Stopped for a quick break, back on the road in a few.
+[11:03] Jessica: Still on schedule?
+[11:05] Steve Harris: Will do, thanks for checking in.
+[11:08] Jessica: Long trip, huh? Get some rest when you can.
+[11:10] Steve Harris: Will do, thanks for checking in.
+[12:25] Jessica: Any updates on your progress?
+[12:27] Steve Harris: Stopping for fuel in a bit.
+[12:29] Jessica: What's your ETA?
+[12:31] Steve Harris: Should be there around noon.
+[13:37] Jessica: Any updates on your progress?
+[13:39] Steve Harris: Just passed Chicago, IL, everything's fine.
+[13:42] Jessica: How are you holding up out there?
+[13:44] Steve Harris: Doing alright, just tired.
+[14:48] Jessica: Any updates on your progress?
+[14:50] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[14:52] Jessica: What's your ETA?
+[14:54] Steve Harris: Should be there around noon.
+[16:20] Jessica: Where are you at right now?
+[16:22] Steve Harris: Construction zone slowing everyone down.
+[16:25] Jessica: Long trip, huh? Get some rest when you can.
+[16:27] Steve Harris: Yeah, long one, but manageable.
+[17:46] Jessica: How's LD-32395 looking?
+[17:48] Steve Harris: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[17:50] Jessica: What's your ETA?
+[17:52] Steve Harris: Should be there around 7pm.
+[19:21] Jessica: How's LD-32395 looking?
+[19:23] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[19:25] Jessica: What's your ETA?
+[19:27] Steve Harris: Looking at 5pm if traffic stays clear.
+[19:49] Jessica: Where are you at right now?
+[19:51] Steve Harris: Just topped off the tank.
+[21:09] Jessica: Still on schedule?
+[21:11] Steve Harris: About 111 miles out from Memphis, TN now.
+[22:34] Jessica: Any updates on your progress?
+[22:36] Steve Harris: About 506 miles out from Memphis, TN now.
+[22:51] Jessica: Any updates on your progress?
+[22:53] Steve Harris: Making good time, no issues so far.
+[00:06] Jessica: Where are you at right now?
+[00:08] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[00:11] Jessica: Long trip, huh? Get some rest when you can.
+[00:13] Steve Harris: No problem, just doing my job.
+[00:55] Jessica: How's LD-32395 looking?
+[00:57] Steve Harris: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[01:40] Jessica: Where are you at right now?
+[01:42] Steve Harris: Just crossed the state line, all good.
+[03:11] Jessica: How's LD-32395 looking?
+[03:13] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[03:16] Jessica: How are you holding up out there?
+[03:18] Steve Harris: Yeah, long one, but manageable.
+[03:20] Jessica: What's your ETA?
+[03:22] Steve Harris: Probably 5pm, maybe a bit earlier.
+[04:20] Jessica: How's LD-32395 looking?
+[04:22] Steve Harris: About 276 miles out from Memphis, TN now.
+[04:56] Steve Harris: Still sitting at the receiver, been here almost 4 hours already.
+[04:58] Jessica: Let me call them and see what's going on.
+[05:08] Jessica: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:10] Steve Harris: Make sure detention pay gets logged for this.
+[05:12] Jessica: Already noted, don't worry, you'll get paid for the wait.
+[05:52] Jessica: What's your status?
+[05:54] Steve Harris: About 167 miles out from Memphis, TN now.
+[06:50] Jessica: Where are you at right now?
+[06:52] Steve Harris: Making good time, no issues so far.
+[07:42] Jessica: Where are you at right now?
+[07:44] Steve Harris: Stopped for a quick break, back on the road in a few.
+[08:26] Jessica: Any updates on your progress?
+[08:28] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[09:13] Jessica: Still on schedule?
+[09:15] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[09:34] Jessica: What's your status?
+[09:36] Steve Harris: Just crossed the state line, all good.
+[10:12] Jessica: Still on schedule?
+[10:14] Steve Harris: Just passed Memphis, TN, everything's fine.
+[11:06] Jessica: How's LD-32395 looking?
+[11:08] Steve Harris: Making good time, no issues so far.
+[11:57] Jessica: Still on schedule?
+[11:59] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[12:42] Jessica: Any updates on your progress?
+[12:44] Steve Harris: About 24 miles out from Memphis, TN now.
+[13:09] Jessica: What's your status?
+[13:11] Steve Harris: Making good time, no issues so far.
+[13:44] Jessica: What's your status?
+[13:46] Steve Harris: Making good time, no issues so far.
+[14:02] Jessica: Still on schedule?
+[14:04] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[14:42] Jessica: Where are you at right now?
+[14:44] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[15:22] Jessica: Still on schedule?
+[15:24] Steve Harris: Traffic's a bit heavy but I'm still on schedule.
+[16:09] Jessica: How's LD-32395 looking?
+[16:11] Steve Harris: Just passed Memphis, TN, everything's fine.
+[17:41] Steve Harris: Just delivered LD-32395 at Memphis, TN, all good, no damages.
+[17:43] Jessica: Do you have the signed BOL?
+[17:45] Steve Harris: Yep, taking a picture now.
+[17:46] Steve Harris: [Image attached: signed_bol.jpg]
+[17:48] Jessica: Sending you the next load details shortly.
+[17:50] Steve Harris: Copy that.
+[17:52] Jessica: Thanks for the update, drive safe.

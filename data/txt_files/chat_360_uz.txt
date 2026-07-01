@@ -1,0 +1,145 @@
+Chat Log #360
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #351 (refrijerator)
+Operator: Shahnoza
+Load: LD-79364 | Route: Toshkent -> Namangan
+Date: 2026-04-21
+--------------------------------------------------
+[07:43] Shahnoza: Bakhtiyor, bir daqiqa bormi?
+[07:44] Bakhtiyor Karimov: Xayrli tong, menda hammasi yaxshi.
+[07:46] Shahnoza: Siz uchun yuk bor - LD-79364, refrijerator, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[07:48] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[07:50] Shahnoza: Yuklash 06:00-08:00, tushirish esa ertaga 07:30 bo'ladi.
+[07:52] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[07:54] Shahnoza: 3598 ming so'm, 476 km.
+[07:56] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[07:58] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:01] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[08:52] Shahnoza: Yo'lda yangilik bormi?
+[08:54] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:56] Shahnoza: Taxminan qachon yetib borasiz?
+[08:58] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 10amda.
+[09:14] Shahnoza: LD-79364 bilan ishlar qalay?
+[09:16] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[09:18] Shahnoza: Taxminan qachon yetib borasiz?
+[09:20] Bakhtiyor Karimov: Ehtimol noon, balki ertaroq.
+[10:48] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:50] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:31] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:33] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[11:36] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[11:38] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[12:38] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:40] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:17] Shahnoza: LD-79364 bilan ishlar qalay?
+[13:19] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:22] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[13:24] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[13:42] Shahnoza: Hozir qayerdasiz?
+[13:44] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[13:47] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:49] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[15:14] Shahnoza: Yo'lda yangilik bormi?
+[15:16] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[16:05] Shahnoza: Hozir qayerdasiz?
+[16:07] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:10] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[16:12] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[16:45] Shahnoza: Hozir qayerdasiz?
+[16:47] Bakhtiyor Karimov: Namangangacha taxminan 82 km qoldi.
+[17:59] Shahnoza: LD-79364 bilan ishlar qalay?
+[18:01] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[18:04] Shahnoza: O'zingizni qalay his qilyapsiz?
+[18:06] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:10] Shahnoza: Hozir qayerdasiz?
+[19:12] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:25] Shahnoza: Hozir qayerdasiz?
+[20:27] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:36] Shahnoza: LD-79364 bilan ishlar qalay?
+[21:38] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:40] Shahnoza: Taxminan qachon yetib borasiz?
+[21:42] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[22:51] Shahnoza: Holatingiz qanday?
+[22:53] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:19] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:21] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:43] Shahnoza: LD-79364 bilan ishlar qalay?
+[01:45] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[02:16] Shahnoza: Hozir qayerdasiz?
+[02:18] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:39] Bakhtiyor Karimov: Muammo chiqdi, g'ildirak yorilib qoldi LD-79364da. Yo'l chetiga to'xtadim.
+[02:40] Shahnoza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[02:42] Bakhtiyor Karimov: Ha, men yaxshiman, faqat yordam kerak.
+[02:44] Shahnoza: A376 yo'lida 232-belgida turibman.
+[02:49] Shahnoza: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[03:55] Bakhtiyor Karimov: Ta'mirlandi, yana yo'lga tushdim.
+[04:28] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:30] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:11] Shahnoza: LD-79364 bilan ishlar qalay?
+[05:13] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[05:45] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:47] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:12] Shahnoza: Yo'lda yangilik bormi?
+[06:14] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:31] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:33] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:26] Shahnoza: Hozir qayerdasiz?
+[07:28] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:06] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:08] Bakhtiyor Karimov: Namangangacha taxminan 361 km qoldi.
+[08:29] Shahnoza: Yo'lda yangilik bormi?
+[08:31] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:58] Shahnoza: Holatingiz qanday?
+[09:00] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:33] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:35] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:52] Shahnoza: Hozir qayerdasiz?
+[09:54] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:47] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:49] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:45] Shahnoza: Holatingiz qanday?
+[11:47] Bakhtiyor Karimov: Namangangacha taxminan 570 km qoldi.
+[12:04] Shahnoza: Yo'lda yangilik bormi?
+[12:06] Bakhtiyor Karimov: Namangangacha taxminan 387 km qoldi.
+[12:49] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:51] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:19] Shahnoza: LD-79364 bilan ishlar qalay?
+[13:21] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[13:51] Shahnoza: Hozir qayerdasiz?
+[13:53] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:25] Shahnoza: Hozir qayerdasiz?
+[14:27] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[15:01] Shahnoza: Hozir qayerdasiz?
+[15:03] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:55] Shahnoza: Yo'lda yangilik bormi?
+[15:57] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:57] Shahnoza: Holatingiz qanday?
+[16:59] Bakhtiyor Karimov: Namangangacha taxminan 499 km qoldi.
+[17:41] Shahnoza: LD-79364 bilan ishlar qalay?
+[17:43] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[18:25] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:27] Bakhtiyor Karimov: Namangangacha taxminan 225 km qoldi.
+[19:01] Shahnoza: LD-79364 bilan ishlar qalay?
+[19:03] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:40] Shahnoza: Hozir qayerdasiz?
+[19:42] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:11] Shahnoza: LD-79364 bilan ishlar qalay?
+[20:13] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:13] Shahnoza: Hozir qayerdasiz?
+[21:15] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:38] Shahnoza: LD-79364 bilan ishlar qalay?
+[21:40] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:33] Shahnoza: Hozir qayerdasiz?
+[22:35] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:21] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:23] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[00:04] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:06] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:48] Bakhtiyor Karimov: LD-79364 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:50] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[00:52] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[00:53] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:55] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:57] Bakhtiyor Karimov: Xo'p bo'ladi.
+[00:59] Shahnoza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

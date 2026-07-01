@@ -1,0 +1,148 @@
+Chat Log #123
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #508 (platforma)
+Operator: Zarina
+Load: LD-78490 | Route: Jizzax -> Guliston
+Date: 2026-05-15
+--------------------------------------------------
+[10:18] Zarina: Shavkat, bir daqiqa bormi?
+[10:19] Shavkat Ergashev: Xayrli tong, menda hammasi yaxshi.
+[10:21] Zarina: Siz uchun yuk bor - LD-78490, platforma, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[10:23] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[10:25] Zarina: Yuklash 08:00-10:00, tushirish esa ertaga 09:00 bo'ladi.
+[10:27] Shavkat Ergashev: Bu reys uchun narx qancha?
+[10:29] Zarina: 4198 ming so'm, 519 km.
+[10:31] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[10:33] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:36] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[11:20] Zarina: Yo'lda yangilik bormi?
+[11:22] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:25] Zarina: Xabar berib turganingiz uchun rahmat.
+[11:27] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[12:54] Zarina: Hozir qayerdasiz?
+[12:56] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[12:59] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:01] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[13:03] Zarina: Taxminan qachon yetib borasiz?
+[13:05] Shavkat Ergashev: Ehtimol 5pm, balki ertaroq.
+[13:35] Zarina: Yo'lda yangilik bormi?
+[13:37] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[14:13] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[14:15] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:18] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:20] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:22] Zarina: Taxminan qachon yetib borasiz?
+[14:24] Shavkat Ergashev: Ehtimol 7pm, balki ertaroq.
+[15:08] Zarina: Yo'lda yangilik bormi?
+[15:10] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[15:13] Zarina: O'zingizni qalay his qilyapsiz?
+[15:15] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[15:17] Zarina: Taxminan qachon yetib borasiz?
+[15:19] Shavkat Ergashev: Taxminan noonda yetib boraman.
+[16:07] Zarina: Yo'lda yangilik bormi?
+[16:09] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[16:12] Zarina: Xabar berib turganingiz uchun rahmat.
+[16:14] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:01] Zarina: Yo'lda yangilik bormi?
+[17:03] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:05] Zarina: Taxminan qachon yetib borasiz?
+[17:07] Shavkat Ergashev: Taxminan 10amda yetib boraman.
+[17:50] Zarina: Hozir qayerdasiz?
+[17:52] Shavkat Ergashev: Gulistongacha taxminan 68 km qoldi.
+[17:55] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[17:57] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[19:25] Zarina: LD-78490 bilan ishlar qalay?
+[19:27] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[20:50] Zarina: Yo'lda yangilik bormi?
+[20:52] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:20] Zarina: Holatingiz qanday?
+[22:22] Shavkat Ergashev: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[22:25] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[22:27] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[23:32] Zarina: LD-78490 bilan ishlar qalay?
+[23:34] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[00:47] Zarina: Holatingiz qanday?
+[00:49] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[01:44] Zarina: Holatingiz qanday?
+[01:46] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:01] Zarina: Holatingiz qanday?
+[03:03] Shavkat Ergashev: Gulistongacha taxminan 89 km qoldi.
+[03:06] Zarina: O'zingizni qalay his qilyapsiz?
+[03:08] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:34] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:36] Shavkat Ergashev: Jizzax yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[03:39] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:41] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[04:17] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[04:19] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[05:39] Zarina: LD-78490 bilan ishlar qalay?
+[05:41] Shavkat Ergashev: Jizzax yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[05:44] Zarina: Biror narsa kerak bo'lsa ayting.
+[05:46] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[06:58] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[07:00] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:18] Shavkat Ergashev: Hali ham qabul qiluvchida turibman, deyarli 4 soat bo'ldi.
+[07:20] Zarina: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[07:30] Zarina: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[07:32] Shavkat Ergashev: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[07:34] Zarina: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[08:20] Zarina: Yo'lda yangilik bormi?
+[08:22] Shavkat Ergashev: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[09:12] Zarina: Hozir qayerdasiz?
+[09:14] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:32] Zarina: Holatingiz qanday?
+[09:34] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:12] Zarina: LD-78490 bilan ishlar qalay?
+[10:14] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:40] Zarina: Yo'lda yangilik bormi?
+[10:42] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:33] Zarina: LD-78490 bilan ishlar qalay?
+[11:35] Shavkat Ergashev: Gulistongacha taxminan 283 km qoldi.
+[12:10] Zarina: Hozir qayerdasiz?
+[12:12] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:57] Zarina: Yo'lda yangilik bormi?
+[12:59] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:40] Zarina: Hozir qayerdasiz?
+[13:42] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:35] Zarina: Hozir qayerdasiz?
+[14:37] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:28] Zarina: Hozir qayerdasiz?
+[15:30] Shavkat Ergashev: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[16:09] Zarina: LD-78490 bilan ishlar qalay?
+[16:11] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:55] Zarina: Hozir qayerdasiz?
+[16:57] Shavkat Ergashev: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[17:44] Zarina: Yo'lda yangilik bormi?
+[17:46] Shavkat Ergashev: Gulistongacha taxminan 391 km qoldi.
+[18:02] Zarina: Holatingiz qanday?
+[18:04] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:58] Zarina: Yo'lda yangilik bormi?
+[19:00] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:24] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[19:26] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:01] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[20:03] Shavkat Ergashev: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[20:22] Zarina: Yo'lda yangilik bormi?
+[20:24] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:14] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[21:16] Shavkat Ergashev: Gulistongacha taxminan 324 km qoldi.
+[21:35] Zarina: LD-78490 bilan ishlar qalay?
+[21:37] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:26] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:28] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:48] Zarina: Yo'lda yangilik bormi?
+[22:50] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:46] Zarina: Holatingiz qanday?
+[23:48] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:05] Zarina: Hozir qayerdasiz?
+[00:07] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:46] Zarina: Holatingiz qanday?
+[00:48] Shavkat Ergashev: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[01:57] Shavkat Ergashev: LD-78490 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[01:59] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[02:01] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[02:02] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:04] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:06] Shavkat Ergashev: Xo'p bo'ladi.
+[02:08] Zarina: Ajoyib ish, rahmat.

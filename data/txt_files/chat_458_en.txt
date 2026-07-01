@@ -1,0 +1,130 @@
+Chat Log #458
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Wilson | Truck: #423 (step deck)
+Operator: Rachel
+Load: LD-67448 | Route: Portland, OR -> Seattle, WA
+Date: 2026-06-03
+--------------------------------------------------
+[06:50] Rachel: Hey Brian, how's it going?
+[06:51] Brian Wilson: Yeah, go ahead.
+[06:53] Rachel: Got a load for you - LD-67448, step deck, pickup in Portland, OR, delivery to Seattle, WA.
+[06:55] Brian Wilson: Ok, what's the pickup window?
+[06:57] Rachel: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[06:59] Brian Wilson: What's the rate on this one?
+[07:01] Rachel: $4096 all in, 470 miles.
+[07:03] Brian Wilson: Sounds good, I'll take it.
+[07:05] Rachel: Great, sending the rate confirmation now.
+[07:08] Brian Wilson: Got it, signed and sent back.
+[08:03] Rachel: Any updates on your progress?
+[08:05] Brian Wilson: Fuel prices are decent around here.
+[09:14] Rachel: Where are you at right now?
+[09:16] Brian Wilson: Just passed Portland, OR, everything's fine.
+[09:19] Rachel: Let me know if you need anything.
+[09:21] Brian Wilson: Doing alright, just tired.
+[09:51] Rachel: How's LD-67448 looking?
+[09:53] Brian Wilson: Stopping for fuel in a bit.
+[09:56] Rachel: Long trip, huh? Get some rest when you can.
+[09:58] Brian Wilson: Doing alright, just tired.
+[10:00] Rachel: What's your ETA?
+[10:02] Brian Wilson: Looking at noon if traffic stays clear.
+[10:39] Rachel: Where are you at right now?
+[10:41] Brian Wilson: No problem, just doing my job.
+[11:31] Rachel: How's LD-67448 looking?
+[11:33] Brian Wilson: Just crossed the state line, all good.
+[12:02] Rachel: What's your status?
+[12:04] Brian Wilson: Construction zone slowing everyone down.
+[12:07] Rachel: Let me know if you need anything.
+[12:09] Brian Wilson: Doing alright, just tired.
+[12:11] Rachel: What's your ETA?
+[12:13] Brian Wilson: Looking at noon if traffic stays clear.
+[12:49] Rachel: Any updates on your progress?
+[12:51] Brian Wilson: Roads are clear now, moving well.
+[12:54] Rachel: Long trip, huh? Get some rest when you can.
+[12:56] Brian Wilson: Doing alright, just tired.
+[14:17] Rachel: Any updates on your progress?
+[14:19] Brian Wilson: Rain is picking up here, slowing down a bit.
+[15:16] Rachel: Where are you at right now?
+[15:18] Brian Wilson: Will do, thanks for checking in.
+[15:20] Rachel: What's your ETA?
+[15:22] Brian Wilson: Should be there around 3pm.
+[15:40] Rachel: Where are you at right now?
+[15:42] Brian Wilson: Clear skies here, no problems.
+[16:33] Rachel: How's LD-67448 looking?
+[16:35] Brian Wilson: Roads are clear now, moving well.
+[16:58] Rachel: Any updates on your progress?
+[17:00] Brian Wilson: Doing alright, just tired.
+[17:26] Rachel: How's LD-67448 looking?
+[17:28] Brian Wilson: Making good time, no issues so far.
+[17:31] Rachel: Let me know if you need anything.
+[17:33] Brian Wilson: Will do, thanks for checking in.
+[18:31] Rachel: What's your status?
+[18:33] Brian Wilson: No problem, just doing my job.
+[18:36] Rachel: Appreciate you keeping me posted.
+[18:38] Brian Wilson: No problem, just doing my job.
+[19:09] Rachel: Any updates on your progress?
+[19:11] Brian Wilson: Roads are clear now, moving well.
+[20:14] Rachel: Still on schedule?
+[20:16] Brian Wilson: No problem, just doing my job.
+[20:18] Rachel: What's your ETA?
+[20:20] Brian Wilson: Looking at 5pm if traffic stays clear.
+[21:09] Rachel: Where are you at right now?
+[21:11] Brian Wilson: Will do, thanks for checking in.
+[21:14] Rachel: How are you holding up out there?
+[21:16] Brian Wilson: No problem, just doing my job.
+[22:07] Rachel: How's LD-67448 looking?
+[22:09] Brian Wilson: About 542 miles out from Seattle, WA now.
+[22:12] Rachel: Let me know if you need anything.
+[22:14] Brian Wilson: Yeah, long one, but manageable.
+[22:16] Rachel: What's your ETA?
+[22:18] Brian Wilson: Looking at 10am if traffic stays clear.
+[23:39] Rachel: Any updates on your progress?
+[23:41] Brian Wilson: Roads are wet, taking it easy.
+[01:00] Rachel: Any updates on your progress?
+[01:02] Brian Wilson: Accident up ahead, traffic's backed up.
+[02:32] Rachel: Still on schedule?
+[02:34] Brian Wilson: Stopping for fuel in a bit.
+[03:12] Rachel: What's your status?
+[03:14] Brian Wilson: Roads are clear now, moving well.
+[03:16] Rachel: What's your ETA?
+[03:18] Brian Wilson: Looking at 5pm if traffic stays clear.
+[03:29] Brian Wilson: Still sitting at the shipper, been here almost 3 hours already.
+[03:31] Rachel: Let me call them and see what's going on.
+[03:41] Rachel: Ok talked to them, they said 30 more minutes, forklift issue.
+[03:43] Brian Wilson: Make sure detention pay gets logged for this.
+[03:45] Rachel: Already noted, don't worry, you'll get paid for the wait.
+[04:29] Rachel: What's your status?
+[04:31] Brian Wilson: Traffic's a bit heavy but I'm still on schedule.
+[05:23] Rachel: Where are you at right now?
+[05:25] Brian Wilson: Making good time, no issues so far.
+[06:05] Rachel: Any updates on your progress?
+[06:07] Brian Wilson: Making good time, no issues so far.
+[06:50] Rachel: How's LD-67448 looking?
+[06:52] Brian Wilson: Traffic's a bit heavy but I'm still on schedule.
+[07:30] Rachel: Still on schedule?
+[07:32] Brian Wilson: Just crossed the state line, all good.
+[08:16] Rachel: Still on schedule?
+[08:18] Brian Wilson: Making good time, no issues so far.
+[08:40] Rachel: Still on schedule?
+[08:42] Brian Wilson: Just passed Seattle, WA, everything's fine.
+[09:38] Rachel: Any updates on your progress?
+[09:40] Brian Wilson: Just passed Seattle, WA, everything's fine.
+[10:27] Rachel: How's LD-67448 looking?
+[10:29] Brian Wilson: Stopped for a quick break, back on the road in a few.
+[11:12] Rachel: Any updates on your progress?
+[11:14] Brian Wilson: Just passed Seattle, WA, everything's fine.
+[11:59] Rachel: What's your status?
+[12:01] Brian Wilson: Stopped for a quick break, back on the road in a few.
+[12:45] Rachel: Any updates on your progress?
+[12:47] Brian Wilson: Just crossed the state line, all good.
+[13:16] Rachel: Where are you at right now?
+[13:18] Brian Wilson: About 276 miles out from Seattle, WA now.
+[13:39] Rachel: Still on schedule?
+[13:41] Brian Wilson: About 313 miles out from Seattle, WA now.
+[14:30] Brian Wilson: Just delivered LD-67448 at Seattle, WA, all good, no damages.
+[14:32] Rachel: Do you have the signed BOL?
+[14:34] Brian Wilson: Yep, taking a picture now.
+[14:35] Brian Wilson: [Image attached: signed_bol.jpg]
+[14:37] Rachel: Sending you the next load details shortly.
+[14:39] Brian Wilson: Sounds good.
+[14:41] Rachel: Thanks for the update, drive safe.

@@ -1,0 +1,155 @@
+Chat Log #258
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #125 (refrijerator)
+Operator: Malika
+Load: LD-55996 | Route: Toshkent -> Namangan
+Date: 2026-06-19
+--------------------------------------------------
+[12:12] Malika: Salom, Bakhtiyor, ishlar qalay?
+[12:13] Bakhtiyor Karimov: Ha, aloqadaman.
+[12:15] Malika: Siz uchun yuk bor - LD-55996, refrijerator, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[12:17] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[12:19] Malika: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[12:21] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[12:23] Malika: 2770 ming so'm, 576 km.
+[12:25] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[12:27] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[12:30] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[13:14] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[13:16] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[13:40] Malika: Holatingiz qanday?
+[13:42] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[13:45] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:47] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[13:49] Malika: Taxminan qachon yetib borasiz?
+[13:51] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[14:16] Malika: LD-55996 bilan ishlar qalay?
+[14:18] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[14:21] Malika: O'zingizni qalay his qilyapsiz?
+[14:23] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:47] Malika: Hozir qayerdasiz?
+[14:49] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[14:52] Malika: Biror narsa kerak bo'lsa ayting.
+[14:54] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:03] Malika: Holatingiz qanday?
+[16:05] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[16:08] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[16:10] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[16:28] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[16:30] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[16:32] Malika: Taxminan qachon yetib borasiz?
+[16:34] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[18:03] Malika: Yo'lda yangilik bormi?
+[18:05] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[18:08] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:10] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[18:45] Malika: Holatingiz qanday?
+[18:47] Bakhtiyor Karimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[18:50] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:52] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[19:47] Malika: Hozir qayerdasiz?
+[19:49] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:51] Malika: Taxminan qachon yetib borasiz?
+[19:53] Bakhtiyor Karimov: Taxminan 5pmda yetib boraman.
+[20:17] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:19] Bakhtiyor Karimov: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:38] Malika: Yo'lda yangilik bormi?
+[20:40] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[21:13] Malika: Yo'lda yangilik bormi?
+[21:15] Bakhtiyor Karimov: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[21:17] Malika: Taxminan qachon yetib borasiz?
+[21:19] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[22:40] Malika: LD-55996 bilan ishlar qalay?
+[22:42] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[22:58] Malika: Hozir qayerdasiz?
+[23:00] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[23:44] Malika: Holatingiz qanday?
+[23:46] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:52] Malika: Yo'lda yangilik bormi?
+[00:54] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[00:56] Malika: Taxminan qachon yetib borasiz?
+[00:58] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[02:17] Malika: Hozir qayerdasiz?
+[02:19] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:22] Malika: O'zingizni qalay his qilyapsiz?
+[02:24] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[02:26] Malika: Taxminan qachon yetib borasiz?
+[02:28] Bakhtiyor Karimov: Ehtimol 7pm, balki ertaroq.
+[03:22] Malika: Hozir qayerdasiz?
+[03:24] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:51] Malika: Yo'lda yangilik bormi?
+[03:53] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:56] Malika: O'zingizni qalay his qilyapsiz?
+[03:58] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[04:00] Malika: Taxminan qachon yetib borasiz?
+[04:02] Bakhtiyor Karimov: Taxminan noonda yetib boraman.
+[04:23] Bakhtiyor Karimov: Muammo chiqdi, g'ildirak yorilib qoldi LD-55996da. Yo'l chetiga to'xtadim.
+[04:24] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[04:26] Bakhtiyor Karimov: Ha, men yaxshiman, faqat yordam kerak.
+[04:28] Malika: A376 yo'lida 215-belgida turibman.
+[04:33] Malika: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[05:28] Bakhtiyor Karimov: Ta'mirlandi, yana yo'lga tushdim.
+[06:15] Malika: Hozir qayerdasiz?
+[06:17] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:58] Malika: Holatingiz qanday?
+[07:00] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:15] Malika: Hozir qayerdasiz?
+[07:17] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[07:42] Malika: Holatingiz qanday?
+[07:44] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:05] Malika: Yo'lda yangilik bormi?
+[08:07] Bakhtiyor Karimov: Namangangacha taxminan 593 km qoldi.
+[08:38] Malika: LD-55996 bilan ishlar qalay?
+[08:40] Bakhtiyor Karimov: Namangangacha taxminan 26 km qoldi.
+[08:57] Malika: Yo'lda yangilik bormi?
+[08:59] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:21] Malika: Yo'lda yangilik bormi?
+[09:23] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[10:06] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:06] Malika: Hozir qayerdasiz?
+[11:08] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:24] Malika: Holatingiz qanday?
+[11:26] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:18] Malika: Hozir qayerdasiz?
+[12:20] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:03] Malika: Hozir qayerdasiz?
+[13:05] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:22] Malika: Holatingiz qanday?
+[13:24] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:50] Malika: LD-55996 bilan ishlar qalay?
+[13:52] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:29] Malika: Yo'lda yangilik bormi?
+[14:31] Bakhtiyor Karimov: Namangangacha taxminan 38 km qoldi.
+[15:22] Malika: Holatingiz qanday?
+[15:24] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:55] Malika: Yo'lda yangilik bormi?
+[15:57] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[16:54] Malika: Holatingiz qanday?
+[16:56] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[17:35] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:37] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:07] Malika: Holatingiz qanday?
+[18:09] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:58] Malika: LD-55996 bilan ishlar qalay?
+[19:00] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:56] Malika: LD-55996 bilan ishlar qalay?
+[19:58] Bakhtiyor Karimov: Namangangacha taxminan 31 km qoldi.
+[20:21] Malika: Holatingiz qanday?
+[20:23] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:56] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:58] Bakhtiyor Karimov: Namangangacha taxminan 132 km qoldi.
+[21:35] Malika: Yo'lda yangilik bormi?
+[21:37] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:31] Malika: Hozir qayerdasiz?
+[22:33] Bakhtiyor Karimov: Namangangacha taxminan 158 km qoldi.
+[23:17] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[23:19] Bakhtiyor Karimov: Namangangacha taxminan 188 km qoldi.
+[00:27] Bakhtiyor Karimov: LD-55996 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:29] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[00:31] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[00:32] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:34] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:36] Bakhtiyor Karimov: Tushundim.
+[00:38] Malika: Rahmat, aloqada bo'lamiz.

@@ -1,0 +1,133 @@
+Chat Log #429
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Anderson | Truck: #523 (reefer)
+Operator: Brittany
+Load: LD-49710 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-04-22
+--------------------------------------------------
+[16:41] Brittany: Morning Brian, you there?
+[16:42] Brian Anderson: Hey, yeah I'm here.
+[16:44] Brittany: Got a load for you - LD-49710, reefer, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[16:46] Brian Anderson: Ok, what's the pickup window?
+[16:48] Brittany: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[16:50] Brian Anderson: What's the rate on this one?
+[16:52] Brittany: $3102 all in, 702 miles.
+[16:54] Brian Anderson: Sounds good, I'll take it.
+[16:56] Brittany: Great, sending the rate confirmation now.
+[16:59] Brian Anderson: Got it, signed and sent back.
+[17:41] Brittany: Any updates on your progress?
+[17:43] Brian Anderson: Doing alright, just tired.
+[17:46] Brittany: How are you holding up out there?
+[17:48] Brian Anderson: Doing alright, just tired.
+[17:50] Brittany: What's your ETA?
+[17:52] Brian Anderson: Should be there around 3pm.
+[18:14] Brittany: Any updates on your progress?
+[18:16] Brian Anderson: Traffic's a bit heavy but I'm still on schedule.
+[18:19] Brittany: Long trip, huh? Get some rest when you can.
+[18:21] Brian Anderson: Doing alright, just tired.
+[18:45] Brittany: Where are you at right now?
+[18:47] Brian Anderson: Just crossed the state line, all good.
+[18:50] Brittany: Appreciate you keeping me posted.
+[18:52] Brian Anderson: Yeah, long one, but manageable.
+[19:43] Brittany: Still on schedule?
+[19:45] Brian Anderson: Yeah, long one, but manageable.
+[19:47] Brittany: What's your ETA?
+[19:49] Brian Anderson: Looking at 3pm if traffic stays clear.
+[20:20] Brittany: What's your status?
+[20:22] Brian Anderson: Hit some traffic near Las Vegas, NV, adding maybe 20 minutes.
+[20:25] Brittany: How are you holding up out there?
+[20:27] Brian Anderson: Will do, thanks for checking in.
+[20:29] Brittany: What's your ETA?
+[20:31] Brian Anderson: Looking at noon if traffic stays clear.
+[21:33] Brittany: What's your status?
+[21:35] Brian Anderson: Rain is picking up here, slowing down a bit.
+[22:44] Brittany: Any updates on your progress?
+[22:46] Brian Anderson: Doing alright, just tired.
+[23:53] Brittany: What's your status?
+[23:55] Brian Anderson: Accident up ahead, traffic's backed up.
+[00:59] Brittany: What's your status?
+[01:01] Brian Anderson: Weather's getting rough up ahead, heads up.
+[01:04] Brittany: How are you holding up out there?
+[01:06] Brian Anderson: Will do, thanks for checking in.
+[01:54] Brittany: Any updates on your progress?
+[01:56] Brian Anderson: Construction zone slowing everyone down.
+[03:10] Brittany: What's your status?
+[03:12] Brian Anderson: Just passed Las Vegas, NV, everything's fine.
+[03:15] Brittany: How are you holding up out there?
+[03:17] Brian Anderson: Doing alright, just tired.
+[04:17] Brittany: How's LD-49710 looking?
+[04:19] Brian Anderson: Making good time, no issues so far.
+[04:22] Brittany: Let me know if you need anything.
+[04:24] Brian Anderson: Doing alright, just tired.
+[05:50] Brittany: How's LD-49710 looking?
+[05:52] Brian Anderson: Accident up ahead, traffic's backed up.
+[05:55] Brittany: Let me know if you need anything.
+[05:57] Brian Anderson: Doing alright, just tired.
+[05:59] Brittany: What's your ETA?
+[06:01] Brian Anderson: Probably 10am, maybe a bit earlier.
+[07:01] Brittany: What's your status?
+[07:03] Brian Anderson: About 276 miles out from Las Vegas, NV now.
+[07:05] Brittany: What's your ETA?
+[07:07] Brian Anderson: Should be there around 3pm.
+[07:53] Brittany: Where are you at right now?
+[07:55] Brian Anderson: Just crossed the state line, all good.
+[08:11] Brittany: What's your status?
+[08:13] Brian Anderson: Stopping for fuel in a bit.
+[08:15] Brittany: What's your ETA?
+[08:17] Brian Anderson: Looking at 7pm if traffic stays clear.
+[09:29] Brittany: Where are you at right now?
+[09:31] Brian Anderson: Just crossed the state line, all good.
+[09:34] Brittany: Let me know if you need anything.
+[09:36] Brian Anderson: Yeah, long one, but manageable.
+[09:38] Brittany: What's your ETA?
+[09:40] Brian Anderson: Should be there around 5pm.
+[11:08] Brittany: How's LD-49710 looking?
+[11:10] Brian Anderson: Just topped off the tank.
+[11:59] Brittany: How's LD-49710 looking?
+[12:01] Brian Anderson: Accident up ahead, traffic's backed up.
+[13:02] Brittany: Still on schedule?
+[13:04] Brian Anderson: Making good time, no issues so far.
+[13:07] Brittany: Long trip, huh? Get some rest when you can.
+[13:09] Brian Anderson: No problem, just doing my job.
+[13:52] Brittany: Still on schedule?
+[13:54] Brian Anderson: Making good time, no issues so far.
+[13:56] Brittany: What's your ETA?
+[13:58] Brian Anderson: Looking at noon if traffic stays clear.
+[14:29] Brittany: How's LD-49710 looking?
+[14:31] Brian Anderson: Making good time, no issues so far.
+[15:23] Brittany: Still on schedule?
+[15:25] Brian Anderson: Traffic's a bit heavy but I'm still on schedule.
+[16:12] Brittany: Any updates on your progress?
+[16:14] Brian Anderson: Making good time, no issues so far.
+[17:02] Brittany: How's LD-49710 looking?
+[17:04] Brian Anderson: Stopped for a quick break, back on the road in a few.
+[17:19] Brittany: Still on schedule?
+[17:21] Brian Anderson: Stopped for a quick break, back on the road in a few.
+[18:00] Brittany: Still on schedule?
+[18:02] Brian Anderson: Making good time, no issues so far.
+[18:48] Brittany: What's your status?
+[18:50] Brian Anderson: Just passed Fresno, CA, everything's fine.
+[19:12] Brittany: Where are you at right now?
+[19:14] Brian Anderson: Making good time, no issues so far.
+[20:13] Brittany: Where are you at right now?
+[20:15] Brian Anderson: Just crossed the state line, all good.
+[20:45] Brittany: Where are you at right now?
+[20:47] Brian Anderson: Just crossed the state line, all good.
+[21:17] Brittany: Still on schedule?
+[21:19] Brian Anderson: Just passed Las Vegas, NV, everything's fine.
+[21:44] Brittany: How's LD-49710 looking?
+[21:46] Brian Anderson: Just crossed the state line, all good.
+[22:21] Brittany: Still on schedule?
+[22:23] Brian Anderson: Just crossed the state line, all good.
+[22:58] Brittany: Where are you at right now?
+[23:00] Brian Anderson: Traffic's a bit heavy but I'm still on schedule.
+[23:25] Brittany: Still on schedule?
+[23:27] Brian Anderson: Just passed Fresno, CA, everything's fine.
+[00:25] Brian Anderson: Just delivered LD-49710 at Las Vegas, NV, all good, no damages.
+[00:27] Brittany: Do you have the signed BOL?
+[00:29] Brian Anderson: Yep, taking a picture now.
+[00:30] Brian Anderson: [Image attached: signed_bol.jpg]
+[00:32] Brittany: Sending you the next load details shortly.
+[00:34] Brian Anderson: Will do.
+[00:36] Brittany: Great work, thank you.

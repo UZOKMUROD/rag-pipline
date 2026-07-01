@@ -1,0 +1,130 @@
+Chat Log #021
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Martinez | Truck: #830 (dry van)
+Operator: Kayla
+Load: LD-32806 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-03-22
+--------------------------------------------------
+[08:11] Kayla: Morning Kevin, you there?
+[08:12] Kevin Martinez: Yeah, go ahead.
+[08:14] Kayla: Got a load for you - LD-32806, dry van, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[08:16] Kevin Martinez: Ok, what's the pickup window?
+[08:18] Kayla: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[08:20] Kevin Martinez: What's the rate on this one?
+[08:22] Kayla: $2582 all in, 751 miles.
+[08:24] Kevin Martinez: Sounds good, I'll take it.
+[08:26] Kayla: Great, sending the rate confirmation now.
+[08:29] Kevin Martinez: Got it, signed and sent back.
+[09:38] Kayla: Any updates on your progress?
+[09:40] Kevin Martinez: Accident up ahead, traffic's backed up.
+[10:45] Kayla: Any updates on your progress?
+[10:47] Kevin Martinez: Construction zone slowing everyone down.
+[11:12] Kayla: Any updates on your progress?
+[11:14] Kevin Martinez: Weather's getting rough up ahead, heads up.
+[12:15] Kayla: Where are you at right now?
+[12:17] Kevin Martinez: No problem, just doing my job.
+[13:19] Kayla: Any updates on your progress?
+[13:21] Kevin Martinez: Fuel prices are decent around here.
+[13:24] Kayla: How are you holding up out there?
+[13:26] Kevin Martinez: Yeah, long one, but manageable.
+[14:48] Kayla: Any updates on your progress?
+[14:50] Kevin Martinez: Hit some traffic near Indianapolis, IN, adding maybe 20 minutes.
+[14:53] Kayla: Long trip, huh? Get some rest when you can.
+[14:55] Kevin Martinez: Will do, thanks for checking in.
+[15:46] Kayla: Where are you at right now?
+[15:48] Kevin Martinez: Just passed Indianapolis, IN, everything's fine.
+[15:51] Kayla: Appreciate you keeping me posted.
+[15:53] Kevin Martinez: Doing alright, just tired.
+[16:56] Kayla: How's LD-32806 looking?
+[16:58] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[17:01] Kayla: How are you holding up out there?
+[17:03] Kevin Martinez: No problem, just doing my job.
+[18:32] Kayla: Still on schedule?
+[18:34] Kevin Martinez: About 79 miles out from Louisville, KY now.
+[18:37] Kayla: How are you holding up out there?
+[18:39] Kevin Martinez: Doing alright, just tired.
+[20:09] Kayla: How's LD-32806 looking?
+[20:11] Kevin Martinez: Clear skies here, no problems.
+[20:45] Kayla: Still on schedule?
+[20:47] Kevin Martinez: Accident up ahead, traffic's backed up.
+[20:50] Kayla: How are you holding up out there?
+[20:52] Kevin Martinez: Will do, thanks for checking in.
+[21:31] Kayla: Where are you at right now?
+[21:33] Kevin Martinez: Roads are wet, taking it easy.
+[21:36] Kayla: Let me know if you need anything.
+[21:38] Kevin Martinez: Doing alright, just tired.
+[21:40] Kayla: What's your ETA?
+[21:42] Kevin Martinez: Looking at noon if traffic stays clear.
+[22:32] Kayla: What's your status?
+[22:34] Kevin Martinez: Just topped off the tank.
+[00:01] Kayla: Where are you at right now?
+[00:03] Kevin Martinez: Yeah, long one, but manageable.
+[00:05] Kayla: What's your ETA?
+[00:07] Kevin Martinez: Probably 5pm, maybe a bit earlier.
+[00:48] Kayla: Any updates on your progress?
+[00:50] Kevin Martinez: About 361 miles out from Louisville, KY now.
+[01:10] Kayla: Any updates on your progress?
+[01:12] Kevin Martinez: Stopping for fuel in a bit.
+[01:15] Kayla: How are you holding up out there?
+[01:17] Kevin Martinez: Doing alright, just tired.
+[01:34] Kayla: What's your status?
+[01:36] Kevin Martinez: Fuel prices are decent around here.
+[02:08] Kayla: How's LD-32806 looking?
+[02:10] Kevin Martinez: Rain is picking up here, slowing down a bit.
+[02:13] Kayla: Appreciate you keeping me posted.
+[02:15] Kevin Martinez: No problem, just doing my job.
+[03:34] Kayla: How's LD-32806 looking?
+[03:36] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[03:39] Kayla: How are you holding up out there?
+[03:41] Kevin Martinez: Doing alright, just tired.
+[03:43] Kayla: What's your ETA?
+[03:45] Kevin Martinez: Should be there around 7pm.
+[05:02] Kayla: What's your status?
+[05:04] Kevin Martinez: Doing alright, just tired.
+[05:22] Kevin Martinez: Still sitting at the receiver, been here almost 4 hours already.
+[05:24] Kayla: Let me call them and see what's going on.
+[05:34] Kayla: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:36] Kevin Martinez: Make sure detention pay gets logged for this.
+[05:38] Kayla: Already noted, don't worry, you'll get paid for the wait.
+[06:19] Kayla: Still on schedule?
+[06:21] Kevin Martinez: Just passed Louisville, KY, everything's fine.
+[07:09] Kayla: What's your status?
+[07:11] Kevin Martinez: Just passed Louisville, KY, everything's fine.
+[07:51] Kayla: How's LD-32806 looking?
+[07:53] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[08:46] Kayla: How's LD-32806 looking?
+[08:48] Kevin Martinez: Just passed Louisville, KY, everything's fine.
+[09:05] Kayla: Still on schedule?
+[09:07] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[09:52] Kayla: Any updates on your progress?
+[09:54] Kevin Martinez: Making good time, no issues so far.
+[10:15] Kayla: Where are you at right now?
+[10:17] Kevin Martinez: Just crossed the state line, all good.
+[10:51] Kayla: Still on schedule?
+[10:53] Kevin Martinez: About 599 miles out from Louisville, KY now.
+[11:50] Kayla: How's LD-32806 looking?
+[11:52] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[12:47] Kayla: Still on schedule?
+[12:49] Kevin Martinez: About 331 miles out from Louisville, KY now.
+[13:44] Kayla: Still on schedule?
+[13:46] Kevin Martinez: Just passed Louisville, KY, everything's fine.
+[14:10] Kayla: Where are you at right now?
+[14:12] Kevin Martinez: Just crossed the state line, all good.
+[14:28] Kayla: Any updates on your progress?
+[14:30] Kevin Martinez: Making good time, no issues so far.
+[14:59] Kayla: Still on schedule?
+[15:01] Kevin Martinez: Stopped for a quick break, back on the road in a few.
+[15:22] Kayla: Any updates on your progress?
+[15:24] Kevin Martinez: Traffic's a bit heavy but I'm still on schedule.
+[15:48] Kayla: What's your status?
+[15:50] Kevin Martinez: About 399 miles out from Louisville, KY now.
+[16:06] Kayla: Still on schedule?
+[16:08] Kevin Martinez: Making good time, no issues so far.
+[17:37] Kevin Martinez: Just delivered LD-32806 at Louisville, KY, all good, no damages.
+[17:39] Kayla: Do you have the signed BOL?
+[17:41] Kevin Martinez: Yep, taking a picture now.
+[17:42] Kevin Martinez: [Image attached: signed_bol.jpg]
+[17:44] Kayla: Sending you the next load details shortly.
+[17:46] Kevin Martinez: Copy that.
+[17:48] Kayla: Thanks for the update, drive safe.

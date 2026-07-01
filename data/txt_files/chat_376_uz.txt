@@ -1,0 +1,151 @@
+Chat Log #376
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #804 (past ramali tirkama)
+Operator: Nodira
+Load: LD-95154 | Route: Nukus -> Urganch
+Date: 2026-06-23
+--------------------------------------------------
+[12:48] Nodira: Xayrli tong, Shavkat, aloqadamisiz?
+[12:49] Shavkat Ergashev: Ha, aytavering.
+[12:51] Nodira: Siz uchun yuk bor - LD-95154, past ramali tirkama, Nukusdan yuklanadi, Urganchga tushiriladi.
+[12:53] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[12:55] Nodira: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[12:57] Shavkat Ergashev: Bu reys uchun narx qancha?
+[12:59] Nodira: 2638 ming so'm, 433 km.
+[13:01] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[13:03] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:06] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[14:17] Nodira: LD-95154 bilan ishlar qalay?
+[14:19] Shavkat Ergashev: Urganchgacha taxminan 301 km qoldi.
+[14:21] Nodira: Taxminan qachon yetib borasiz?
+[14:23] Shavkat Ergashev: Taxminan 3pmda yetib boraman.
+[15:06] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[15:08] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[15:11] Nodira: Xabar berib turganingiz uchun rahmat.
+[15:13] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[15:52] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[15:54] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:23] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:25] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[17:49] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:51] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[18:20] Nodira: Holatingiz qanday?
+[18:22] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[19:25] Nodira: Hozir qayerdasiz?
+[19:27] Shavkat Ergashev: Urganchgacha taxminan 53 km qoldi.
+[20:44] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[20:46] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:56] Nodira: Yo'lda yangilik bormi?
+[21:58] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[22:25] Nodira: Hozir qayerdasiz?
+[22:27] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[22:48] Nodira: LD-95154 bilan ishlar qalay?
+[22:50] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:21] Nodira: Hozir qayerdasiz?
+[23:23] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:25] Nodira: Taxminan qachon yetib borasiz?
+[23:27] Shavkat Ergashev: Taxminan 7pmda yetib boraman.
+[23:46] Nodira: Hozir qayerdasiz?
+[23:48] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[23:51] Nodira: O'zingizni qalay his qilyapsiz?
+[23:53] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[00:55] Nodira: LD-95154 bilan ishlar qalay?
+[00:57] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:59] Nodira: Taxminan qachon yetib borasiz?
+[01:01] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[02:19] Nodira: Holatingiz qanday?
+[02:21] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:24] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[02:26] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[03:00] Shavkat Ergashev: Muammo chiqdi, dvigatel chirog'i yonib qoldi LD-95154da. Yo'l chetiga to'xtadim.
+[03:01] Nodira: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[03:03] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[03:05] Nodira: A376 yo'lida 177-belgida turibman.
+[03:10] Nodira: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[04:21] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[04:55] Nodira: Holatingiz qanday?
+[04:57] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:38] Nodira: Yo'lda yangilik bormi?
+[05:40] Shavkat Ergashev: Urganchgacha taxminan 171 km qoldi.
+[06:28] Nodira: Yo'lda yangilik bormi?
+[06:30] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:17] Nodira: Yo'lda yangilik bormi?
+[07:19] Shavkat Ergashev: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[07:44] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[07:46] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[08:44] Nodira: Hozir qayerdasiz?
+[08:46] Shavkat Ergashev: Urganchgacha taxminan 513 km qoldi.
+[09:43] Nodira: Holatingiz qanday?
+[09:45] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:10] Nodira: Yo'lda yangilik bormi?
+[10:12] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:03] Nodira: Yo'lda yangilik bormi?
+[11:05] Shavkat Ergashev: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[11:24] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[11:26] Shavkat Ergashev: Urganchgacha taxminan 444 km qoldi.
+[11:53] Nodira: Yo'lda yangilik bormi?
+[11:55] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:27] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[12:29] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:19] Nodira: Hozir qayerdasiz?
+[13:21] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:06] Nodira: Yo'lda yangilik bormi?
+[14:08] Shavkat Ergashev: Urganchgacha taxminan 496 km qoldi.
+[15:01] Nodira: Holatingiz qanday?
+[15:03] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[15:38] Nodira: LD-95154 bilan ishlar qalay?
+[15:40] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:02] Nodira: Holatingiz qanday?
+[16:04] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:54] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:56] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:53] Nodira: Hozir qayerdasiz?
+[17:55] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:26] Nodira: Yo'lda yangilik bormi?
+[18:28] Shavkat Ergashev: Urganchgacha taxminan 290 km qoldi.
+[19:21] Nodira: Holatingiz qanday?
+[19:23] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:57] Nodira: Holatingiz qanday?
+[19:59] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:59] Nodira: Holatingiz qanday?
+[21:01] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:19] Nodira: Holatingiz qanday?
+[21:21] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[22:19] Nodira: Hozir qayerdasiz?
+[22:21] Shavkat Ergashev: Urganchgacha taxminan 485 km qoldi.
+[22:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:39] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:21] Nodira: Yo'lda yangilik bormi?
+[23:23] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:19] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:21] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:04] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:06] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:43] Nodira: Yo'lda yangilik bormi?
+[01:45] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:36] Nodira: LD-95154 bilan ishlar qalay?
+[02:38] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:37] Nodira: Holatingiz qanday?
+[03:39] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[04:21] Nodira: Hozir qayerdasiz?
+[04:23] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:42] Nodira: LD-95154 bilan ishlar qalay?
+[04:44] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:20] Nodira: LD-95154 bilan ishlar qalay?
+[05:22] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:38] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:40] Shavkat Ergashev: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[06:06] Nodira: LD-95154 bilan ishlar qalay?
+[06:08] Shavkat Ergashev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[06:58] Nodira: Hozir qayerdasiz?
+[07:00] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:34] Nodira: Hozir qayerdasiz?
+[07:36] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:30] Shavkat Ergashev: LD-95154 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[08:32] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[08:34] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[08:35] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[08:37] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[08:39] Shavkat Ergashev: Yaxshi.
+[08:41] Nodira: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

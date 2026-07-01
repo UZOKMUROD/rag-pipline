@@ -1,0 +1,125 @@
+Chat Log #288
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Garcia | Truck: #194 (flatbed)
+Operator: Amanda
+Load: LD-17721 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-06-13
+--------------------------------------------------
+[09:17] Amanda: Hey Kevin, how's it going?
+[09:18] Kevin Garcia: Morning, all good on my end.
+[09:20] Amanda: Got a load for you - LD-17721, flatbed, pickup in Nashville, TN, delivery to Birmingham, AL.
+[09:22] Kevin Garcia: Ok, what's the pickup window?
+[09:24] Amanda: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[09:26] Kevin Garcia: What's the rate on this one?
+[09:28] Amanda: $4113 all in, 969 miles.
+[09:30] Kevin Garcia: Sounds good, I'll take it.
+[09:32] Amanda: Great, sending the rate confirmation now.
+[09:35] Kevin Garcia: Got it, signed and sent back.
+[10:18] Amanda: Where are you at right now?
+[10:20] Kevin Garcia: Hit some traffic near Birmingham, AL, adding maybe 20 minutes.
+[10:22] Amanda: What's your ETA?
+[10:24] Kevin Garcia: Should be there around noon.
+[11:32] Amanda: How's LD-17721 looking?
+[11:34] Kevin Garcia: Just crossed the state line, all good.
+[12:42] Amanda: How's LD-17721 looking?
+[12:44] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[12:46] Amanda: What's your ETA?
+[12:48] Kevin Garcia: Should be there around 5pm.
+[13:59] Amanda: What's your status?
+[14:01] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[15:17] Amanda: Where are you at right now?
+[15:19] Kevin Garcia: Just passed Nashville, TN, everything's fine.
+[15:21] Amanda: What's your ETA?
+[15:23] Kevin Garcia: Should be there around 3pm.
+[16:17] Amanda: Still on schedule?
+[16:19] Kevin Garcia: Stopping for fuel in a bit.
+[16:22] Amanda: How are you holding up out there?
+[16:24] Kevin Garcia: Doing alright, just tired.
+[17:08] Amanda: Where are you at right now?
+[17:10] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[17:13] Amanda: Appreciate you keeping me posted.
+[17:15] Kevin Garcia: Will do, thanks for checking in.
+[17:55] Amanda: Any updates on your progress?
+[17:57] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[18:00] Amanda: Appreciate you keeping me posted.
+[18:02] Kevin Garcia: No problem, just doing my job.
+[18:26] Amanda: Any updates on your progress?
+[18:28] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[18:30] Amanda: What's your ETA?
+[18:32] Kevin Garcia: Should be there around noon.
+[19:06] Amanda: Still on schedule?
+[19:08] Kevin Garcia: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[19:30] Amanda: Still on schedule?
+[19:32] Kevin Garcia: Roads are wet, taking it easy.
+[20:41] Amanda: How's LD-17721 looking?
+[20:43] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[20:45] Amanda: What's your ETA?
+[20:47] Kevin Garcia: Probably 10am, maybe a bit earlier.
+[21:17] Amanda: Any updates on your progress?
+[21:19] Kevin Garcia: Will do, thanks for checking in.
+[22:21] Amanda: Where are you at right now?
+[22:23] Kevin Garcia: Fuel prices are decent around here.
+[22:25] Amanda: What's your ETA?
+[22:27] Kevin Garcia: Looking at 5pm if traffic stays clear.
+[22:45] Kevin Garcia: Coming up on my HOS limit, only got about 45 minutes left.
+[22:47] Amanda: Understood, get your rest, I'll let the receiver know.
+[23:06] Amanda: Where are you at right now?
+[23:08] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[23:29] Amanda: Any updates on your progress?
+[23:31] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[00:03] Amanda: How's LD-17721 looking?
+[00:05] Kevin Garcia: About 256 miles out from Birmingham, AL now.
+[00:21] Amanda: Still on schedule?
+[00:23] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[00:44] Amanda: Any updates on your progress?
+[00:46] Kevin Garcia: About 557 miles out from Birmingham, AL now.
+[01:30] Amanda: What's your status?
+[01:32] Kevin Garcia: About 120 miles out from Birmingham, AL now.
+[02:00] Amanda: Any updates on your progress?
+[02:02] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[02:20] Amanda: Where are you at right now?
+[02:22] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[03:17] Amanda: Any updates on your progress?
+[03:19] Kevin Garcia: About 334 miles out from Birmingham, AL now.
+[03:55] Amanda: Where are you at right now?
+[03:57] Kevin Garcia: Making good time, no issues so far.
+[04:45] Amanda: Still on schedule?
+[04:47] Kevin Garcia: Making good time, no issues so far.
+[05:43] Amanda: Still on schedule?
+[05:45] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[06:26] Amanda: Any updates on your progress?
+[06:28] Kevin Garcia: Just crossed the state line, all good.
+[07:28] Amanda: What's your status?
+[07:30] Kevin Garcia: Just passed Birmingham, AL, everything's fine.
+[08:06] Amanda: What's your status?
+[08:08] Kevin Garcia: Just crossed the state line, all good.
+[08:29] Amanda: Still on schedule?
+[08:31] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[08:54] Amanda: Still on schedule?
+[08:56] Kevin Garcia: Making good time, no issues so far.
+[09:40] Amanda: What's your status?
+[09:42] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[10:34] Amanda: Any updates on your progress?
+[10:36] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[11:17] Amanda: Any updates on your progress?
+[11:19] Kevin Garcia: Just passed Nashville, TN, everything's fine.
+[11:39] Amanda: What's your status?
+[11:41] Kevin Garcia: Stopped for a quick break, back on the road in a few.
+[12:12] Amanda: Still on schedule?
+[12:14] Kevin Garcia: Just crossed the state line, all good.
+[12:33] Amanda: Where are you at right now?
+[12:35] Kevin Garcia: About 225 miles out from Birmingham, AL now.
+[12:54] Amanda: How's LD-17721 looking?
+[12:56] Kevin Garcia: About 321 miles out from Birmingham, AL now.
+[13:39] Amanda: Still on schedule?
+[13:41] Kevin Garcia: Making good time, no issues so far.
+[14:03] Amanda: Any updates on your progress?
+[14:05] Kevin Garcia: Traffic's a bit heavy but I'm still on schedule.
+[14:48] Kevin Garcia: Just delivered LD-17721 at Birmingham, AL, all good, no damages.
+[14:50] Amanda: Do you have the signed BOL?
+[14:52] Kevin Garcia: Yep, taking a picture now.
+[14:53] Kevin Garcia: [Image attached: signed_bol.jpg]
+[14:55] Amanda: Sending you the next load details shortly.
+[14:57] Kevin Garcia: Will do.
+[14:59] Amanda: Appreciate it, talk soon.

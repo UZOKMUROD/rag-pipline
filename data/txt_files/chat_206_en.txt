@@ -1,0 +1,129 @@
+Chat Log #206
+Company: Silk Road Logistics
+Language: English
+Driver: Brian Taylor | Truck: #250 (flatbed)
+Operator: Rachel
+Load: LD-76337 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-04-20
+--------------------------------------------------
+[05:12] Rachel: Hey Brian, how's it going?
+[05:13] Brian Taylor: Yeah, go ahead.
+[05:15] Rachel: Got a load for you - LD-76337, flatbed, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[05:17] Brian Taylor: Ok, what's the pickup window?
+[05:19] Rachel: Pickup is 13:00-15:00, delivery appointment is 09:00 the next day.
+[05:21] Brian Taylor: What's the rate on this one?
+[05:23] Rachel: $4007 all in, 843 miles.
+[05:25] Brian Taylor: Sounds good, I'll take it.
+[05:27] Rachel: Great, sending the rate confirmation now.
+[05:30] Brian Taylor: Got it, signed and sent back.
+[06:02] Rachel: How's LD-76337 looking?
+[06:04] Brian Taylor: Clear skies here, no problems.
+[06:20] Rachel: Any updates on your progress?
+[06:22] Brian Taylor: About 599 miles out from Tampa, FL now.
+[07:25] Rachel: Where are you at right now?
+[07:27] Brian Taylor: Accident up ahead, traffic's backed up.
+[07:30] Rachel: Let me know if you need anything.
+[07:32] Brian Taylor: No problem, just doing my job.
+[08:44] Rachel: Still on schedule?
+[08:46] Brian Taylor: Roads are clear now, moving well.
+[08:48] Rachel: What's your ETA?
+[08:50] Brian Taylor: Should be there around 7pm.
+[09:23] Rachel: What's your status?
+[09:25] Brian Taylor: Roads are wet, taking it easy.
+[10:32] Rachel: How's LD-76337 looking?
+[10:34] Brian Taylor: Fuel prices are decent around here.
+[10:37] Rachel: Long trip, huh? Get some rest when you can.
+[10:39] Brian Taylor: Yeah, long one, but manageable.
+[10:41] Rachel: What's your ETA?
+[10:43] Brian Taylor: Probably noon, maybe a bit earlier.
+[11:08] Rachel: Any updates on your progress?
+[11:10] Brian Taylor: Construction zone slowing everyone down.
+[12:01] Rachel: Any updates on your progress?
+[12:03] Brian Taylor: Accident up ahead, traffic's backed up.
+[12:48] Rachel: Any updates on your progress?
+[12:50] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[12:53] Rachel: Let me know if you need anything.
+[12:55] Brian Taylor: Yeah, long one, but manageable.
+[14:03] Rachel: Any updates on your progress?
+[14:05] Brian Taylor: Fuel prices are decent around here.
+[14:08] Rachel: How are you holding up out there?
+[14:10] Brian Taylor: Will do, thanks for checking in.
+[15:05] Rachel: What's your status?
+[15:07] Brian Taylor: Fuel prices are decent around here.
+[15:09] Rachel: What's your ETA?
+[15:11] Brian Taylor: Should be there around 7pm.
+[16:07] Rachel: Still on schedule?
+[16:09] Brian Taylor: Accident up ahead, traffic's backed up.
+[16:12] Rachel: Let me know if you need anything.
+[16:14] Brian Taylor: No problem, just doing my job.
+[16:55] Rachel: How's LD-76337 looking?
+[16:57] Brian Taylor: Roads are wet, taking it easy.
+[17:00] Rachel: Long trip, huh? Get some rest when you can.
+[17:02] Brian Taylor: No problem, just doing my job.
+[17:50] Rachel: Any updates on your progress?
+[17:52] Brian Taylor: About 360 miles out from Tampa, FL now.
+[18:13] Rachel: Still on schedule?
+[18:15] Brian Taylor: Making good time, no issues so far.
+[18:30] Rachel: What's your status?
+[18:32] Brian Taylor: Stopping for fuel in a bit.
+[19:39] Rachel: Any updates on your progress?
+[19:41] Brian Taylor: Accident up ahead, traffic's backed up.
+[19:44] Rachel: Appreciate you keeping me posted.
+[19:46] Brian Taylor: Doing alright, just tired.
+[20:42] Rachel: Any updates on your progress?
+[20:44] Brian Taylor: Just topped off the tank.
+[20:47] Rachel: How are you holding up out there?
+[20:49] Brian Taylor: Doing alright, just tired.
+[21:12] Brian Taylor: Coming up on my HOS limit, only got about 1 hour left.
+[21:14] Rachel: Understood, get your rest, I'll let the receiver know.
+[21:45] Rachel: Where are you at right now?
+[21:47] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:31] Rachel: Still on schedule?
+[22:33] Brian Taylor: Just passed Tampa, FL, everything's fine.
+[22:51] Rachel: Still on schedule?
+[22:53] Brian Taylor: Just passed Tampa, FL, everything's fine.
+[23:13] Rachel: Still on schedule?
+[23:15] Brian Taylor: Making good time, no issues so far.
+[23:58] Rachel: Any updates on your progress?
+[00:00] Brian Taylor: About 495 miles out from Tampa, FL now.
+[00:43] Rachel: How's LD-76337 looking?
+[00:45] Brian Taylor: About 104 miles out from Tampa, FL now.
+[01:03] Rachel: Any updates on your progress?
+[01:05] Brian Taylor: About 572 miles out from Tampa, FL now.
+[01:52] Rachel: What's your status?
+[01:54] Brian Taylor: Just passed Jacksonville, FL, everything's fine.
+[02:40] Rachel: What's your status?
+[02:42] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[03:36] Rachel: How's LD-76337 looking?
+[03:38] Brian Taylor: Just crossed the state line, all good.
+[04:09] Rachel: Where are you at right now?
+[04:11] Brian Taylor: Making good time, no issues so far.
+[04:57] Rachel: How's LD-76337 looking?
+[04:59] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[05:37] Rachel: Where are you at right now?
+[05:39] Brian Taylor: Just passed Tampa, FL, everything's fine.
+[06:36] Rachel: What's your status?
+[06:38] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[07:21] Rachel: Any updates on your progress?
+[07:23] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[07:58] Rachel: What's your status?
+[08:00] Brian Taylor: Making good time, no issues so far.
+[08:46] Rachel: Any updates on your progress?
+[08:48] Brian Taylor: About 544 miles out from Tampa, FL now.
+[09:28] Rachel: What's your status?
+[09:30] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[09:48] Rachel: Where are you at right now?
+[09:50] Brian Taylor: About 311 miles out from Tampa, FL now.
+[10:37] Rachel: Where are you at right now?
+[10:39] Brian Taylor: Traffic's a bit heavy but I'm still on schedule.
+[11:01] Rachel: How's LD-76337 looking?
+[11:03] Brian Taylor: Stopped for a quick break, back on the road in a few.
+[11:42] Rachel: What's your status?
+[11:44] Brian Taylor: Making good time, no issues so far.
+[12:37] Brian Taylor: Just delivered LD-76337 at Tampa, FL, all good, no damages.
+[12:39] Rachel: Do you have the signed BOL?
+[12:41] Brian Taylor: Yep, taking a picture now.
+[12:42] Brian Taylor: [Image attached: signed_bol.jpg]
+[12:44] Rachel: Sending you the next load details shortly.
+[12:46] Brian Taylor: Understood.
+[12:48] Rachel: Thanks for the update, drive safe.

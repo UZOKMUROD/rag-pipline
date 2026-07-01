@@ -1,0 +1,129 @@
+Chat Log #003
+Company: Silk Road Logistics
+Language: English
+Driver: David Johnson | Truck: #722 (step deck)
+Operator: Brittany
+Load: LD-16995 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-01-23
+--------------------------------------------------
+[10:40] Brittany: Hey David, how's it going?
+[10:41] David Johnson: Yeah, go ahead.
+[10:43] Brittany: Got a load for you - LD-16995, step deck, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[10:45] David Johnson: Ok, what's the pickup window?
+[10:47] Brittany: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[10:49] David Johnson: What's the rate on this one?
+[10:51] Brittany: $3737 all in, 537 miles.
+[10:53] David Johnson: Sounds good, I'll take it.
+[10:55] Brittany: Great, sending the rate confirmation now.
+[10:58] David Johnson: Got it, signed and sent back.
+[11:18] Brittany: What's your status?
+[11:20] David Johnson: Yeah, long one, but manageable.
+[11:23] Brittany: How are you holding up out there?
+[11:25] David Johnson: Yeah, long one, but manageable.
+[11:27] Brittany: What's your ETA?
+[11:29] David Johnson: Probably 5pm, maybe a bit earlier.
+[11:49] Brittany: Still on schedule?
+[11:51] David Johnson: Fuel prices are decent around here.
+[11:54] Brittany: Let me know if you need anything.
+[11:56] David Johnson: Doing alright, just tired.
+[13:09] Brittany: Still on schedule?
+[13:11] David Johnson: Just topped off the tank.
+[13:57] Brittany: What's your status?
+[13:59] David Johnson: Accident up ahead, traffic's backed up.
+[14:01] Brittany: What's your ETA?
+[14:03] David Johnson: Should be there around 10am.
+[15:20] Brittany: What's your status?
+[15:22] David Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:45] Brittany: Any updates on your progress?
+[15:47] David Johnson: Accident up ahead, traffic's backed up.
+[16:07] Brittany: How's LD-16995 looking?
+[16:09] David Johnson: Weather's getting rough up ahead, heads up.
+[17:29] Brittany: How's LD-16995 looking?
+[17:31] David Johnson: Traffic's a bit heavy but I'm still on schedule.
+[17:34] Brittany: How are you holding up out there?
+[17:36] David Johnson: Doing alright, just tired.
+[17:38] Brittany: What's your ETA?
+[17:40] David Johnson: Looking at noon if traffic stays clear.
+[18:16] Brittany: Any updates on your progress?
+[18:18] David Johnson: Making good time, no issues so far.
+[18:21] Brittany: Let me know if you need anything.
+[18:23] David Johnson: No problem, just doing my job.
+[18:25] Brittany: What's your ETA?
+[18:27] David Johnson: Probably 7pm, maybe a bit earlier.
+[19:08] Brittany: Still on schedule?
+[19:10] David Johnson: Making good time, no issues so far.
+[19:13] Brittany: Long trip, huh? Get some rest when you can.
+[19:15] David Johnson: No problem, just doing my job.
+[19:17] Brittany: What's your ETA?
+[19:19] David Johnson: Looking at noon if traffic stays clear.
+[20:22] Brittany: Any updates on your progress?
+[20:24] David Johnson: Just topped off the tank.
+[20:27] Brittany: How are you holding up out there?
+[20:29] David Johnson: Will do, thanks for checking in.
+[21:41] Brittany: Still on schedule?
+[21:43] David Johnson: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[22:48] Brittany: Where are you at right now?
+[22:50] David Johnson: Stopped for a quick break, back on the road in a few.
+[22:53] Brittany: How are you holding up out there?
+[22:55] David Johnson: No problem, just doing my job.
+[22:57] Brittany: What's your ETA?
+[22:59] David Johnson: Probably 3pm, maybe a bit earlier.
+[23:51] Brittany: Still on schedule?
+[23:53] David Johnson: Stopped for a quick break, back on the road in a few.
+[00:36] Brittany: Any updates on your progress?
+[00:38] David Johnson: Traffic's a bit heavy but I'm still on schedule.
+[00:41] Brittany: How are you holding up out there?
+[00:43] David Johnson: Yeah, long one, but manageable.
+[01:03] Brittany: How's LD-16995 looking?
+[01:05] David Johnson: Making good time, no issues so far.
+[02:12] Brittany: Still on schedule?
+[02:14] David Johnson: Making good time, no issues so far.
+[02:17] Brittany: How are you holding up out there?
+[02:19] David Johnson: Yeah, long one, but manageable.
+[02:40] Brittany: How's LD-16995 looking?
+[02:42] David Johnson: Just crossed the state line, all good.
+[03:22] Brittany: Where are you at right now?
+[03:24] David Johnson: Just passed Denver, CO, everything's fine.
+[04:01] Brittany: Still on schedule?
+[04:03] David Johnson: Just crossed the state line, all good.
+[04:49] Brittany: Any updates on your progress?
+[04:51] David Johnson: About 65 miles out from Salt Lake City, UT now.
+[05:09] Brittany: Still on schedule?
+[05:11] David Johnson: Just passed Salt Lake City, UT, everything's fine.
+[05:41] Brittany: Any updates on your progress?
+[05:43] David Johnson: Just passed Denver, CO, everything's fine.
+[06:37] Brittany: Still on schedule?
+[06:39] David Johnson: Just crossed the state line, all good.
+[07:20] Brittany: Any updates on your progress?
+[07:22] David Johnson: Stopped for a quick break, back on the road in a few.
+[08:09] Brittany: Where are you at right now?
+[08:11] David Johnson: Just passed Salt Lake City, UT, everything's fine.
+[08:56] Brittany: Still on schedule?
+[08:58] David Johnson: Just passed Salt Lake City, UT, everything's fine.
+[09:42] Brittany: How's LD-16995 looking?
+[09:44] David Johnson: Just crossed the state line, all good.
+[10:13] Brittany: How's LD-16995 looking?
+[10:15] David Johnson: Making good time, no issues so far.
+[10:37] Brittany: Where are you at right now?
+[10:39] David Johnson: Just crossed the state line, all good.
+[11:11] Brittany: Still on schedule?
+[11:13] David Johnson: Just crossed the state line, all good.
+[11:44] Brittany: Where are you at right now?
+[11:46] David Johnson: Just crossed the state line, all good.
+[12:33] Brittany: How's LD-16995 looking?
+[12:35] David Johnson: About 261 miles out from Salt Lake City, UT now.
+[13:02] Brittany: Any updates on your progress?
+[13:04] David Johnson: Just crossed the state line, all good.
+[13:43] Brittany: Where are you at right now?
+[13:45] David Johnson: Stopped for a quick break, back on the road in a few.
+[14:40] Brittany: Still on schedule?
+[14:42] David Johnson: Traffic's a bit heavy but I'm still on schedule.
+[15:41] Brittany: How's LD-16995 looking?
+[15:43] David Johnson: Just passed Salt Lake City, UT, everything's fine.
+[16:49] David Johnson: Just delivered LD-16995 at Salt Lake City, UT, all good, no damages.
+[16:51] Brittany: Do you have the signed BOL?
+[16:53] David Johnson: Yep, taking a picture now.
+[16:54] David Johnson: [Image attached: signed_bol.jpg]
+[16:56] Brittany: Sending you the next load details shortly.
+[16:58] David Johnson: Sounds good.
+[17:00] Brittany: Thanks for the update, drive safe.

@@ -1,0 +1,127 @@
+Chat Log #318
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Williams | Truck: #897 (step deck)
+Operator: Nicole
+Load: LD-62474 | Route: Jacksonville, FL -> Tampa, FL
+Date: 2026-02-04
+--------------------------------------------------
+[17:44] Nicole: Morning Carlos, you there?
+[17:45] Carlos Williams: Yeah, go ahead.
+[17:47] Nicole: Got a load for you - LD-62474, step deck, pickup in Jacksonville, FL, delivery to Tampa, FL.
+[17:49] Carlos Williams: Ok, what's the pickup window?
+[17:51] Nicole: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[17:53] Carlos Williams: What's the rate on this one?
+[17:55] Nicole: $2284 all in, 631 miles.
+[17:57] Carlos Williams: Sounds good, I'll take it.
+[17:59] Nicole: Great, sending the rate confirmation now.
+[18:02] Carlos Williams: Got it, signed and sent back.
+[19:03] Nicole: Still on schedule?
+[19:05] Carlos Williams: Rain is picking up here, slowing down a bit.
+[19:08] Nicole: Let me know if you need anything.
+[19:10] Carlos Williams: Will do, thanks for checking in.
+[19:26] Nicole: How's LD-62474 looking?
+[19:28] Carlos Williams: Hit some traffic near Tampa, FL, adding maybe 20 minutes.
+[20:04] Nicole: How's LD-62474 looking?
+[20:06] Carlos Williams: Construction zone slowing everyone down.
+[20:09] Nicole: Long trip, huh? Get some rest when you can.
+[20:11] Carlos Williams: Will do, thanks for checking in.
+[20:46] Nicole: Any updates on your progress?
+[20:48] Carlos Williams: Construction zone slowing everyone down.
+[20:50] Nicole: What's your ETA?
+[20:52] Carlos Williams: Looking at noon if traffic stays clear.
+[21:20] Nicole: Any updates on your progress?
+[21:22] Carlos Williams: About 160 miles out from Tampa, FL now.
+[22:08] Nicole: Still on schedule?
+[22:10] Carlos Williams: Will do, thanks for checking in.
+[23:27] Nicole: Where are you at right now?
+[23:29] Carlos Williams: Doing alright, just tired.
+[23:47] Nicole: How's LD-62474 looking?
+[23:49] Carlos Williams: Weather's getting rough up ahead, heads up.
+[00:38] Nicole: Any updates on your progress?
+[00:40] Carlos Williams: Making good time, no issues so far.
+[00:42] Nicole: What's your ETA?
+[00:44] Carlos Williams: Looking at 3pm if traffic stays clear.
+[01:43] Nicole: Any updates on your progress?
+[01:45] Carlos Williams: Roads are clear now, moving well.
+[01:48] Nicole: Appreciate you keeping me posted.
+[01:50] Carlos Williams: No problem, just doing my job.
+[02:56] Nicole: Any updates on your progress?
+[02:58] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[03:01] Nicole: Let me know if you need anything.
+[03:03] Carlos Williams: Doing alright, just tired.
+[03:40] Nicole: Any updates on your progress?
+[03:42] Carlos Williams: Just passed Jacksonville, FL, everything's fine.
+[03:45] Nicole: Let me know if you need anything.
+[03:47] Carlos Williams: No problem, just doing my job.
+[04:32] Nicole: How's LD-62474 looking?
+[04:34] Carlos Williams: Weather's getting rough up ahead, heads up.
+[04:36] Nicole: What's your ETA?
+[04:38] Carlos Williams: Looking at 5pm if traffic stays clear.
+[05:25] Nicole: Still on schedule?
+[05:27] Carlos Williams: Making good time, no issues so far.
+[06:46] Nicole: How's LD-62474 looking?
+[06:48] Carlos Williams: Making good time, no issues so far.
+[06:51] Nicole: How are you holding up out there?
+[06:53] Carlos Williams: Doing alright, just tired.
+[06:55] Nicole: What's your ETA?
+[06:57] Carlos Williams: Probably 10am, maybe a bit earlier.
+[07:12] Nicole: Still on schedule?
+[07:14] Carlos Williams: Doing alright, just tired.
+[07:16] Nicole: What's your ETA?
+[07:18] Carlos Williams: Looking at 3pm if traffic stays clear.
+[07:47] Carlos Williams: I've got a problem, road construction slowing things down on LD-62474. Pulled over on the shoulder.
+[07:48] Nicole: Are you safe? Anyone hurt?
+[07:50] Carlos Williams: Yeah I'm fine, just need roadside assistance.
+[07:52] Nicole: Mile marker 261 on I-40.
+[07:57] Nicole: Truck is on the way, ETA about 1 hour.
+[09:12] Carlos Williams: Fixed and rolling again.
+[09:42] Nicole: Where are you at right now?
+[09:44] Carlos Williams: Just crossed the state line, all good.
+[10:42] Nicole: Where are you at right now?
+[10:44] Carlos Williams: Making good time, no issues so far.
+[11:23] Nicole: Still on schedule?
+[11:25] Carlos Williams: About 293 miles out from Tampa, FL now.
+[12:16] Nicole: What's your status?
+[12:18] Carlos Williams: About 233 miles out from Tampa, FL now.
+[13:12] Nicole: Where are you at right now?
+[13:14] Carlos Williams: Making good time, no issues so far.
+[13:48] Nicole: How's LD-62474 looking?
+[13:50] Carlos Williams: About 121 miles out from Tampa, FL now.
+[14:33] Nicole: Where are you at right now?
+[14:35] Carlos Williams: About 140 miles out from Tampa, FL now.
+[15:20] Nicole: How's LD-62474 looking?
+[15:22] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[15:59] Nicole: Where are you at right now?
+[16:01] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[16:37] Nicole: Any updates on your progress?
+[16:39] Carlos Williams: Just passed Jacksonville, FL, everything's fine.
+[17:10] Nicole: What's your status?
+[17:12] Carlos Williams: About 592 miles out from Tampa, FL now.
+[17:56] Nicole: How's LD-62474 looking?
+[17:58] Carlos Williams: Just crossed the state line, all good.
+[18:45] Nicole: Still on schedule?
+[18:47] Carlos Williams: Making good time, no issues so far.
+[19:16] Nicole: What's your status?
+[19:18] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[19:46] Nicole: How's LD-62474 looking?
+[19:48] Carlos Williams: Just passed Jacksonville, FL, everything's fine.
+[20:12] Nicole: What's your status?
+[20:14] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[21:05] Nicole: Where are you at right now?
+[21:07] Carlos Williams: Stopped for a quick break, back on the road in a few.
+[21:55] Nicole: Any updates on your progress?
+[21:57] Carlos Williams: Making good time, no issues so far.
+[22:21] Nicole: Any updates on your progress?
+[22:23] Carlos Williams: About 195 miles out from Tampa, FL now.
+[23:07] Nicole: Any updates on your progress?
+[23:09] Carlos Williams: Traffic's a bit heavy but I'm still on schedule.
+[23:27] Nicole: Still on schedule?
+[23:29] Carlos Williams: Just crossed the state line, all good.
+[00:40] Carlos Williams: Just delivered LD-62474 at Tampa, FL, all good, no damages.
+[00:42] Nicole: Do you have the signed BOL?
+[00:44] Carlos Williams: Yep, taking a picture now.
+[00:45] Carlos Williams: [Image attached: signed_bol.jpg]
+[00:47] Nicole: Sending you the next load details shortly.
+[00:49] Carlos Williams: Sounds good.
+[00:51] Nicole: Thanks for the update, drive safe.

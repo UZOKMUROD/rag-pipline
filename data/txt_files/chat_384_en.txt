@@ -1,0 +1,127 @@
+Chat Log #384
+Company: Silk Road Logistics
+Language: English
+Driver: John Young | Truck: #504 (step deck)
+Operator: Emily
+Load: LD-64728 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-01-07
+--------------------------------------------------
+[15:04] Emily: John, got a minute?
+[15:05] John Young: Yeah, go ahead.
+[15:07] Emily: Got a load for you - LD-64728, step deck, pickup in Charlotte, NC, delivery to Richmond, VA.
+[15:09] John Young: Ok, what's the pickup window?
+[15:11] Emily: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[15:13] John Young: What's the rate on this one?
+[15:15] Emily: $2154 all in, 417 miles.
+[15:17] John Young: Sounds good, I'll take it.
+[15:19] Emily: Great, sending the rate confirmation now.
+[15:22] John Young: Got it, signed and sent back.
+[16:22] Emily: What's your status?
+[16:24] John Young: Rain is picking up here, slowing down a bit.
+[17:38] Emily: Any updates on your progress?
+[17:40] John Young: Clear skies here, no problems.
+[18:46] Emily: Still on schedule?
+[18:48] John Young: Making good time, no issues so far.
+[18:51] Emily: Long trip, huh? Get some rest when you can.
+[18:53] John Young: Yeah, long one, but manageable.
+[19:19] Emily: Any updates on your progress?
+[19:21] John Young: Stopping for fuel in a bit.
+[19:24] Emily: Appreciate you keeping me posted.
+[19:26] John Young: Will do, thanks for checking in.
+[20:13] Emily: What's your status?
+[20:15] John Young: Construction zone slowing everyone down.
+[21:45] Emily: Any updates on your progress?
+[21:47] John Young: Fuel prices are decent around here.
+[22:53] Emily: How's LD-64728 looking?
+[22:55] John Young: Doing alright, just tired.
+[00:25] Emily: Where are you at right now?
+[00:27] John Young: Just passed Charlotte, NC, everything's fine.
+[00:30] Emily: Long trip, huh? Get some rest when you can.
+[00:32] John Young: Yeah, long one, but manageable.
+[01:16] Emily: Still on schedule?
+[01:18] John Young: Stopping for fuel in a bit.
+[01:21] Emily: Long trip, huh? Get some rest when you can.
+[01:23] John Young: Will do, thanks for checking in.
+[02:07] Emily: Still on schedule?
+[02:09] John Young: Stopping for fuel in a bit.
+[02:12] Emily: How are you holding up out there?
+[02:14] John Young: Will do, thanks for checking in.
+[03:18] Emily: Where are you at right now?
+[03:20] John Young: Making good time, no issues so far.
+[03:23] Emily: Long trip, huh? Get some rest when you can.
+[03:25] John Young: Will do, thanks for checking in.
+[04:36] Emily: Still on schedule?
+[04:38] John Young: Traffic's a bit heavy but I'm still on schedule.
+[04:40] Emily: What's your ETA?
+[04:42] John Young: Looking at 7pm if traffic stays clear.
+[05:28] Emily: Still on schedule?
+[05:30] John Young: Just crossed the state line, all good.
+[05:32] Emily: What's your ETA?
+[05:34] John Young: Probably 10am, maybe a bit earlier.
+[07:02] Emily: Still on schedule?
+[07:04] John Young: Stopped for a quick break, back on the road in a few.
+[07:07] Emily: How are you holding up out there?
+[07:09] John Young: No problem, just doing my job.
+[08:35] Emily: Where are you at right now?
+[08:37] John Young: Will do, thanks for checking in.
+[08:39] Emily: What's your ETA?
+[08:41] John Young: Looking at 10am if traffic stays clear.
+[09:01] Emily: What's your status?
+[09:03] John Young: Roads are clear now, moving well.
+[09:06] Emily: How are you holding up out there?
+[09:08] John Young: Doing alright, just tired.
+[10:04] Emily: How's LD-64728 looking?
+[10:06] John Young: No problem, just doing my job.
+[10:09] Emily: Appreciate you keeping me posted.
+[10:11] John Young: Doing alright, just tired.
+[10:49] John Young: I've got a problem, bad weather - heavy snow on LD-64728. Pulled over on the shoulder.
+[10:50] Emily: Are you safe? Anyone hurt?
+[10:52] John Young: Yeah I'm fine, just need roadside assistance.
+[10:54] Emily: Mile marker 290 on I-80.
+[10:59] Emily: Truck is on the way, ETA about 1 hour.
+[12:12] John Young: Fixed and rolling again.
+[12:45] Emily: How's LD-64728 looking?
+[12:47] John Young: Just passed Richmond, VA, everything's fine.
+[13:03] Emily: Still on schedule?
+[13:05] John Young: Traffic's a bit heavy but I'm still on schedule.
+[13:48] Emily: How's LD-64728 looking?
+[13:50] John Young: Stopped for a quick break, back on the road in a few.
+[14:37] Emily: Where are you at right now?
+[14:39] John Young: Making good time, no issues so far.
+[15:32] Emily: Any updates on your progress?
+[15:34] John Young: Just passed Richmond, VA, everything's fine.
+[16:00] Emily: Any updates on your progress?
+[16:02] John Young: Just passed Richmond, VA, everything's fine.
+[16:20] Emily: Where are you at right now?
+[16:22] John Young: Making good time, no issues so far.
+[17:13] Emily: Any updates on your progress?
+[17:15] John Young: Traffic's a bit heavy but I'm still on schedule.
+[17:51] Emily: Still on schedule?
+[17:53] John Young: Making good time, no issues so far.
+[18:40] Emily: What's your status?
+[18:42] John Young: About 412 miles out from Richmond, VA now.
+[19:35] Emily: Where are you at right now?
+[19:37] John Young: Just crossed the state line, all good.
+[20:30] Emily: Where are you at right now?
+[20:32] John Young: Traffic's a bit heavy but I'm still on schedule.
+[21:06] Emily: Where are you at right now?
+[21:08] John Young: Traffic's a bit heavy but I'm still on schedule.
+[22:07] Emily: Any updates on your progress?
+[22:09] John Young: Stopped for a quick break, back on the road in a few.
+[22:29] Emily: How's LD-64728 looking?
+[22:31] John Young: Making good time, no issues so far.
+[23:05] Emily: Where are you at right now?
+[23:07] John Young: About 339 miles out from Richmond, VA now.
+[00:00] Emily: Any updates on your progress?
+[00:02] John Young: Just crossed the state line, all good.
+[00:47] Emily: Still on schedule?
+[00:49] John Young: Just passed Richmond, VA, everything's fine.
+[01:49] Emily: What's your status?
+[01:51] John Young: Stopped for a quick break, back on the road in a few.
+[02:32] John Young: Just delivered LD-64728 at Richmond, VA, all good, no damages.
+[02:34] Emily: Do you have the signed BOL?
+[02:36] John Young: Yep, taking a picture now.
+[02:37] John Young: [Image attached: signed_bol.jpg]
+[02:39] Emily: Sending you the next load details shortly.
+[02:41] John Young: Copy that.
+[02:43] Emily: Thanks for the update, drive safe.

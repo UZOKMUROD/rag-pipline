@@ -1,0 +1,123 @@
+Chat Log #433
+Company: Silk Road Logistics
+Language: English
+Driver: Marcus Brown | Truck: #953 (reefer)
+Operator: Kayla
+Load: LD-83305 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-03-17
+--------------------------------------------------
+[17:36] Kayla: Hey Marcus, how's it going?
+[17:37] Marcus Brown: Hey, yeah I'm here.
+[17:39] Kayla: Got a load for you - LD-83305, reefer, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[17:41] Marcus Brown: Ok, what's the pickup window?
+[17:43] Kayla: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[17:45] Marcus Brown: What's the rate on this one?
+[17:47] Kayla: $3645 all in, 436 miles.
+[17:49] Marcus Brown: Sounds good, I'll take it.
+[17:51] Kayla: Great, sending the rate confirmation now.
+[17:54] Marcus Brown: Got it, signed and sent back.
+[19:14] Kayla: Where are you at right now?
+[19:16] Marcus Brown: Traffic's a bit heavy but I'm still on schedule.
+[19:19] Kayla: Appreciate you keeping me posted.
+[19:21] Marcus Brown: Doing alright, just tired.
+[20:19] Kayla: What's your status?
+[20:21] Marcus Brown: Roads are clear now, moving well.
+[21:50] Kayla: Any updates on your progress?
+[21:52] Marcus Brown: Stopping for fuel in a bit.
+[22:23] Kayla: Where are you at right now?
+[22:25] Marcus Brown: Hit some traffic near Denver, CO, adding maybe 20 minutes.
+[22:28] Kayla: Let me know if you need anything.
+[22:30] Marcus Brown: No problem, just doing my job.
+[22:32] Kayla: What's your ETA?
+[22:34] Marcus Brown: Probably 10am, maybe a bit earlier.
+[22:50] Kayla: Still on schedule?
+[22:52] Marcus Brown: Just crossed the state line, all good.
+[00:22] Kayla: Where are you at right now?
+[00:24] Marcus Brown: Making good time, no issues so far.
+[00:27] Kayla: Appreciate you keeping me posted.
+[00:29] Marcus Brown: No problem, just doing my job.
+[01:18] Kayla: Any updates on your progress?
+[01:20] Marcus Brown: Stopping for fuel in a bit.
+[02:14] Kayla: Where are you at right now?
+[02:16] Marcus Brown: Traffic's a bit heavy but I'm still on schedule.
+[02:44] Kayla: How's LD-83305 looking?
+[02:46] Marcus Brown: Rain is picking up here, slowing down a bit.
+[03:19] Kayla: Where are you at right now?
+[03:21] Marcus Brown: Stopping for fuel in a bit.
+[04:40] Kayla: Any updates on your progress?
+[04:42] Marcus Brown: No problem, just doing my job.
+[06:00] Kayla: Still on schedule?
+[06:02] Marcus Brown: Fuel prices are decent around here.
+[06:05] Kayla: How are you holding up out there?
+[06:07] Marcus Brown: Will do, thanks for checking in.
+[07:27] Kayla: Where are you at right now?
+[07:29] Marcus Brown: Fuel prices are decent around here.
+[08:46] Kayla: Any updates on your progress?
+[08:48] Marcus Brown: No problem, just doing my job.
+[08:51] Kayla: Long trip, huh? Get some rest when you can.
+[08:53] Marcus Brown: Yeah, long one, but manageable.
+[10:05] Kayla: How's LD-83305 looking?
+[10:07] Marcus Brown: Accident up ahead, traffic's backed up.
+[10:10] Kayla: How are you holding up out there?
+[10:12] Marcus Brown: Yeah, long one, but manageable.
+[11:09] Kayla: Where are you at right now?
+[11:11] Marcus Brown: Construction zone slowing everyone down.
+[12:16] Kayla: Any updates on your progress?
+[12:18] Marcus Brown: Yeah, long one, but manageable.
+[12:21] Kayla: How are you holding up out there?
+[12:23] Marcus Brown: Will do, thanks for checking in.
+[12:47] Marcus Brown: I've got a problem, an accident blocking the highway on LD-83305. Pulled over on the shoulder.
+[12:48] Kayla: Are you safe? Anyone hurt?
+[12:50] Marcus Brown: Yeah I'm fine, just need roadside assistance.
+[12:52] Kayla: Mile marker 91 on I-40.
+[12:57] Kayla: Truck is on the way, ETA about 45 min.
+[13:45] Marcus Brown: Fixed and rolling again.
+[14:07] Kayla: Any updates on your progress?
+[14:09] Marcus Brown: Stopped for a quick break, back on the road in a few.
+[14:52] Kayla: How's LD-83305 looking?
+[14:54] Marcus Brown: Stopped for a quick break, back on the road in a few.
+[15:13] Kayla: What's your status?
+[15:15] Marcus Brown: Making good time, no issues so far.
+[16:11] Kayla: Still on schedule?
+[16:13] Marcus Brown: About 192 miles out from Salt Lake City, UT now.
+[16:37] Kayla: Still on schedule?
+[16:39] Marcus Brown: Just crossed the state line, all good.
+[17:30] Kayla: How's LD-83305 looking?
+[17:32] Marcus Brown: Stopped for a quick break, back on the road in a few.
+[18:05] Kayla: How's LD-83305 looking?
+[18:07] Marcus Brown: Traffic's a bit heavy but I'm still on schedule.
+[18:37] Kayla: Where are you at right now?
+[18:39] Marcus Brown: Making good time, no issues so far.
+[19:32] Kayla: Where are you at right now?
+[19:34] Marcus Brown: Just passed Salt Lake City, UT, everything's fine.
+[20:20] Kayla: Any updates on your progress?
+[20:22] Marcus Brown: Making good time, no issues so far.
+[20:41] Kayla: Any updates on your progress?
+[20:43] Marcus Brown: Stopped for a quick break, back on the road in a few.
+[21:28] Kayla: Still on schedule?
+[21:30] Marcus Brown: Just passed Salt Lake City, UT, everything's fine.
+[22:05] Kayla: Any updates on your progress?
+[22:07] Marcus Brown: Traffic's a bit heavy but I'm still on schedule.
+[22:46] Kayla: Any updates on your progress?
+[22:48] Marcus Brown: Just passed Salt Lake City, UT, everything's fine.
+[23:43] Kayla: Where are you at right now?
+[23:45] Marcus Brown: Just crossed the state line, all good.
+[00:09] Kayla: What's your status?
+[00:11] Marcus Brown: Just crossed the state line, all good.
+[00:40] Kayla: Any updates on your progress?
+[00:42] Marcus Brown: Stopped for a quick break, back on the road in a few.
+[01:24] Kayla: Where are you at right now?
+[01:26] Marcus Brown: Making good time, no issues so far.
+[01:44] Kayla: What's your status?
+[01:46] Marcus Brown: Just crossed the state line, all good.
+[02:26] Kayla: Any updates on your progress?
+[02:28] Marcus Brown: Traffic's a bit heavy but I'm still on schedule.
+[02:54] Kayla: What's your status?
+[02:56] Marcus Brown: Just crossed the state line, all good.
+[04:08] Marcus Brown: Just delivered LD-83305 at Salt Lake City, UT, all good, no damages.
+[04:10] Kayla: Do you have the signed BOL?
+[04:12] Marcus Brown: Yep, taking a picture now.
+[04:13] Marcus Brown: [Image attached: signed_bol.jpg]
+[04:15] Kayla: Sending you the next load details shortly.
+[04:17] Marcus Brown: Will do.
+[04:19] Kayla: Great work, thank you.

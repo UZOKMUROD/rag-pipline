@@ -1,0 +1,153 @@
+Chat Log #051
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #472 (refrijerator)
+Operator: Shahnoza
+Load: LD-83872 | Route: Toshkent -> Samarqand
+Date: 2026-01-09
+--------------------------------------------------
+[18:31] Shahnoza: Salom, Ravshan, ishlar qalay?
+[18:32] Ravshan Xolmatov: Ha, aloqadaman.
+[18:34] Shahnoza: Siz uchun yuk bor - LD-83872, refrijerator, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[18:36] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[18:38] Shahnoza: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[18:40] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[18:42] Shahnoza: 3234 ming so'm, 821 km.
+[18:44] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[18:46] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[18:49] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[20:10] Shahnoza: Hozir qayerdasiz?
+[20:12] Ravshan Xolmatov: Osmon ochiq, muammo yo'q.
+[20:39] Shahnoza: Hozir qayerdasiz?
+[20:41] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[20:44] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[20:46] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:32] Shahnoza: LD-83872 bilan ishlar qalay?
+[21:34] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:36] Shahnoza: Taxminan qachon yetib borasiz?
+[21:38] Ravshan Xolmatov: Agar tirbandlik bo'lmasa noonda.
+[22:38] Shahnoza: Yo'lda yangilik bormi?
+[22:40] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:42] Shahnoza: Taxminan qachon yetib borasiz?
+[22:44] Ravshan Xolmatov: Taxminan 10amda yetib boraman.
+[23:27] Shahnoza: Yo'lda yangilik bormi?
+[23:29] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:32] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:34] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[23:36] Shahnoza: Taxminan qachon yetib borasiz?
+[23:38] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 7pmda.
+[00:53] Shahnoza: LD-83872 bilan ishlar qalay?
+[00:55] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[00:58] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[01:00] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[01:15] Shahnoza: LD-83872 bilan ishlar qalay?
+[01:17] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[01:19] Shahnoza: Taxminan qachon yetib borasiz?
+[01:21] Ravshan Xolmatov: Ehtimol 3pm, balki ertaroq.
+[02:04] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:06] Ravshan Xolmatov: Bu yerda yoqilg'i narxlari yomon emas.
+[03:01] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:03] Ravshan Xolmatov: Bu yerda yoqilg'i narxlari yomon emas.
+[03:51] Shahnoza: LD-83872 bilan ishlar qalay?
+[03:53] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[03:56] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[03:58] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[04:00] Shahnoza: Taxminan qachon yetib borasiz?
+[04:02] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 7pmda.
+[05:02] Shahnoza: Holatingiz qanday?
+[05:04] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:07] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[05:09] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[05:11] Shahnoza: Taxminan qachon yetib borasiz?
+[05:13] Ravshan Xolmatov: Ehtimol 10am, balki ertaroq.
+[06:19] Shahnoza: LD-83872 bilan ishlar qalay?
+[06:21] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:23] Shahnoza: Taxminan qachon yetib borasiz?
+[06:25] Ravshan Xolmatov: Agar tirbandlik bo'lmasa noonda.
+[06:50] Shahnoza: Yo'lda yangilik bormi?
+[06:52] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:55] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[06:57] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[06:59] Shahnoza: Taxminan qachon yetib borasiz?
+[07:01] Ravshan Xolmatov: Taxminan noonda yetib boraman.
+[07:20] Shahnoza: Hozir qayerdasiz?
+[07:22] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:39] Shahnoza: LD-83872 bilan ishlar qalay?
+[08:41] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:43] Shahnoza: Taxminan qachon yetib borasiz?
+[08:45] Ravshan Xolmatov: Agar tirbandlik bo'lmasa 7pmda.
+[09:55] Shahnoza: Hozir qayerdasiz?
+[09:57] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[10:35] Shahnoza: Holatingiz qanday?
+[10:37] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:39] Shahnoza: Taxminan qachon yetib borasiz?
+[10:41] Ravshan Xolmatov: Taxminan 10amda yetib boraman.
+[11:19] Shahnoza: Yo'lda yangilik bormi?
+[11:21] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[11:24] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[11:26] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:57] Shahnoza: Holatingiz qanday?
+[11:59] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[12:02] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:04] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[12:50] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:52] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:55] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:57] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[13:38] Shahnoza: Holatingiz qanday?
+[13:40] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:16] Ravshan Xolmatov: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[14:18] Shahnoza: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[14:45] Shahnoza: Holatingiz qanday?
+[14:47] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:08] Shahnoza: Yo'lda yangilik bormi?
+[15:10] Ravshan Xolmatov: Samarqandgacha taxminan 49 km qoldi.
+[15:29] Shahnoza: Holatingiz qanday?
+[15:31] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:02] Shahnoza: Yo'lda yangilik bormi?
+[16:04] Ravshan Xolmatov: Samarqandgacha taxminan 528 km qoldi.
+[16:51] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:53] Ravshan Xolmatov: Samarqandgacha taxminan 431 km qoldi.
+[17:08] Shahnoza: Hozir qayerdasiz?
+[17:10] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:47] Shahnoza: Hozir qayerdasiz?
+[17:49] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:12] Shahnoza: Hozir qayerdasiz?
+[18:14] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:37] Shahnoza: LD-83872 bilan ishlar qalay?
+[18:39] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:57] Shahnoza: Yo'lda yangilik bormi?
+[18:59] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:15] Shahnoza: Holatingiz qanday?
+[19:17] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:52] Shahnoza: Hozir qayerdasiz?
+[19:54] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:30] Shahnoza: Holatingiz qanday?
+[20:32] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:18] Shahnoza: LD-83872 bilan ishlar qalay?
+[21:20] Ravshan Xolmatov: Samarqandgacha taxminan 533 km qoldi.
+[22:01] Shahnoza: Hozir qayerdasiz?
+[22:03] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:29] Shahnoza: Yo'lda yangilik bormi?
+[22:31] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:49] Shahnoza: Hozir qayerdasiz?
+[22:51] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:35] Shahnoza: Hozir qayerdasiz?
+[23:37] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[00:13] Shahnoza: Hozir qayerdasiz?
+[00:15] Ravshan Xolmatov: Samarqandgacha taxminan 363 km qoldi.
+[00:45] Shahnoza: Hozir qayerdasiz?
+[00:47] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:07] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:09] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:29] Shahnoza: Yo'lda yangilik bormi?
+[01:31] Ravshan Xolmatov: Samarqandgacha taxminan 182 km qoldi.
+[02:12] Shahnoza: Hozir qayerdasiz?
+[02:14] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:59] Ravshan Xolmatov: LD-83872 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:01] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[03:03] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[03:04] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:06] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:08] Ravshan Xolmatov: Xo'p bo'ladi.
+[03:10] Shahnoza: Ajoyib ish, rahmat.

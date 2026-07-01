@@ -1,0 +1,151 @@
+Chat Log #030
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #111 (platforma)
+Operator: Gulnora
+Load: LD-31105 | Route: Samarqand -> Buxoro
+Date: 2026-06-28
+--------------------------------------------------
+[16:58] Gulnora: Farrukh, bir daqiqa bormi?
+[16:59] Farrukh Tashkentov: Ha, aloqadaman.
+[17:01] Gulnora: Siz uchun yuk bor - LD-31105, platforma, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[17:03] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[17:05] Gulnora: Yuklash 13:00-15:00, tushirish esa ertaga 14:00 bo'ladi.
+[17:07] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[17:09] Gulnora: 2101 ming so'm, 385 km.
+[17:11] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[17:13] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:16] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[17:51] Gulnora: Yo'lda yangilik bormi?
+[17:53] Farrukh Tashkentov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:55] Gulnora: Taxminan qachon yetib borasiz?
+[17:57] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 3pmda.
+[19:16] Gulnora: Holatingiz qanday?
+[19:18] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[19:42] Gulnora: Yo'lda yangilik bormi?
+[19:44] Farrukh Tashkentov: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:20] Gulnora: Yo'lda yangilik bormi?
+[20:22] Farrukh Tashkentov: Buxorogacha taxminan 362 km qoldi.
+[21:24] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[21:26] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:29] Gulnora: Biror narsa kerak bo'lsa ayting.
+[21:31] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:16] Gulnora: Holatingiz qanday?
+[22:18] Farrukh Tashkentov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[22:21] Gulnora: Biror narsa kerak bo'lsa ayting.
+[22:23] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[22:25] Gulnora: Taxminan qachon yetib borasiz?
+[22:27] Farrukh Tashkentov: Ehtimol noon, balki ertaroq.
+[22:52] Gulnora: Hozir qayerdasiz?
+[22:54] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:56] Gulnora: Taxminan qachon yetib borasiz?
+[22:58] Farrukh Tashkentov: Ehtimol noon, balki ertaroq.
+[00:15] Gulnora: Yo'lda yangilik bormi?
+[00:17] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:19] Gulnora: Taxminan qachon yetib borasiz?
+[00:21] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[01:46] Gulnora: LD-31105 bilan ishlar qalay?
+[01:48] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[03:03] Gulnora: Hozir qayerdasiz?
+[03:05] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[03:08] Gulnora: Xabar berib turganingiz uchun rahmat.
+[03:10] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[03:39] Gulnora: Holatingiz qanday?
+[03:41] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[04:00] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[04:02] Farrukh Tashkentov: Osmon ochiq, muammo yo'q.
+[04:05] Gulnora: Biror narsa kerak bo'lsa ayting.
+[04:07] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[05:13] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[05:15] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[05:17] Gulnora: Taxminan qachon yetib borasiz?
+[05:19] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[05:43] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[05:45] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[05:47] Gulnora: Taxminan qachon yetib borasiz?
+[05:49] Farrukh Tashkentov: Agar tirbandlik bo'lmasa noonda.
+[06:17] Gulnora: Hozir qayerdasiz?
+[06:19] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:52] Gulnora: Hozir qayerdasiz?
+[06:54] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:28] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[07:30] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:17] Gulnora: Holatingiz qanday?
+[08:19] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:56] Gulnora: LD-31105 bilan ishlar qalay?
+[08:58] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[09:29] Gulnora: Holatingiz qanday?
+[09:31] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[10:21] Gulnora: Yo'lda yangilik bormi?
+[10:23] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:42] Gulnora: LD-31105 bilan ishlar qalay?
+[10:44] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[11:13] Gulnora: Yo'lda yangilik bormi?
+[11:15] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:41] Gulnora: Yo'lda yangilik bormi?
+[11:43] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[12:03] Gulnora: LD-31105 bilan ishlar qalay?
+[12:05] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:48] Gulnora: Yo'lda yangilik bormi?
+[12:50] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:25] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:27] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:06] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[14:08] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:42] Gulnora: Holatingiz qanday?
+[14:44] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:42] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[15:44] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:37] Gulnora: Hozir qayerdasiz?
+[16:39] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:00] Gulnora: Holatingiz qanday?
+[17:02] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:46] Gulnora: Yo'lda yangilik bormi?
+[17:48] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:21] Gulnora: Hozir qayerdasiz?
+[18:23] Farrukh Tashkentov: Buxorogacha taxminan 572 km qoldi.
+[18:39] Gulnora: Yo'lda yangilik bormi?
+[18:41] Farrukh Tashkentov: Buxorogacha taxminan 36 km qoldi.
+[19:30] Gulnora: Hozir qayerdasiz?
+[19:32] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:51] Gulnora: Yo'lda yangilik bormi?
+[19:53] Farrukh Tashkentov: Buxorogacha taxminan 279 km qoldi.
+[20:38] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:40] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:27] Gulnora: Hozir qayerdasiz?
+[21:29] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[22:28] Gulnora: LD-31105 bilan ishlar qalay?
+[22:30] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:00] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:02] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:22] Gulnora: Holatingiz qanday?
+[23:24] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[23:53] Gulnora: Yo'lda yangilik bormi?
+[23:55] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:37] Gulnora: Yo'lda yangilik bormi?
+[00:39] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:08] Gulnora: Holatingiz qanday?
+[01:10] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:05] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[02:07] Farrukh Tashkentov: Buxorogacha taxminan 364 km qoldi.
+[03:01] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[03:03] Farrukh Tashkentov: Buxorogacha taxminan 584 km qoldi.
+[03:52] Gulnora: Hozir qayerdasiz?
+[03:54] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:22] Gulnora: Holatingiz qanday?
+[04:24] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[05:21] Gulnora: Yo'lda yangilik bormi?
+[05:23] Farrukh Tashkentov: Buxorogacha taxminan 491 km qoldi.
+[06:10] Gulnora: Holatingiz qanday?
+[06:12] Farrukh Tashkentov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[07:10] Gulnora: Holatingiz qanday?
+[07:12] Farrukh Tashkentov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[07:47] Gulnora: Hozir qayerdasiz?
+[07:49] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:37] Farrukh Tashkentov: LD-31105 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[08:39] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[08:41] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[08:42] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[08:44] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[08:46] Farrukh Tashkentov: Tushundim.
+[08:48] Gulnora: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

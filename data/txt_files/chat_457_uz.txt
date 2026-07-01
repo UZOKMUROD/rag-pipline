@@ -1,0 +1,153 @@
+Chat Log #457
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #958 (platforma)
+Operator: Shahnoza
+Load: LD-52239 | Route: Toshkent -> Namangan
+Date: 2026-06-23
+--------------------------------------------------
+[06:49] Shahnoza: Bobur, bir daqiqa bormi?
+[06:50] Bobur Mirzayev: Ha, aloqadaman.
+[06:52] Shahnoza: Siz uchun yuk bor - LD-52239, platforma, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[06:54] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[06:56] Shahnoza: Yuklash 08:00-10:00, tushirish esa ertaga 09:00 bo'ladi.
+[06:58] Bobur Mirzayev: Bu reys uchun narx qancha?
+[07:00] Shahnoza: 3346 ming so'm, 1098 km.
+[07:02] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[07:04] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[07:07] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[08:18] Shahnoza: Yo'lda yangilik bormi?
+[08:20] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:23] Shahnoza: O'zingizni qalay his qilyapsiz?
+[08:25] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[08:27] Shahnoza: Taxminan qachon yetib borasiz?
+[08:29] Bobur Mirzayev: Agar tirbandlik bo'lmasa noonda.
+[09:54] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:56] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[10:59] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:01] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:03] Shahnoza: Taxminan qachon yetib borasiz?
+[11:05] Bobur Mirzayev: Ehtimol 5pm, balki ertaroq.
+[11:31] Shahnoza: Yo'lda yangilik bormi?
+[11:33] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[12:36] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:38] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:29] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:31] Bobur Mirzayev: Namangangacha taxminan 282 km qoldi.
+[14:34] Shahnoza: Yo'lda yangilik bormi?
+[14:36] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:39] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[14:41] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[15:00] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:02] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[15:05] Shahnoza: O'zingizni qalay his qilyapsiz?
+[15:07] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[16:16] Shahnoza: Yo'lda yangilik bormi?
+[16:18] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[16:20] Shahnoza: Taxminan qachon yetib borasiz?
+[16:22] Bobur Mirzayev: Agar tirbandlik bo'lmasa 5pmda.
+[16:59] Shahnoza: LD-52239 bilan ishlar qalay?
+[17:01] Bobur Mirzayev: Namangangacha taxminan 220 km qoldi.
+[17:04] Shahnoza: O'zingizni qalay his qilyapsiz?
+[17:06] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[18:06] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:08] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[18:11] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[18:13] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[19:08] Shahnoza: Holatingiz qanday?
+[19:10] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[19:13] Shahnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:15] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[19:32] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:34] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:57] Shahnoza: LD-52239 bilan ishlar qalay?
+[20:59] Bobur Mirzayev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[21:58] Shahnoza: LD-52239 bilan ishlar qalay?
+[22:00] Bobur Mirzayev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[22:02] Shahnoza: Taxminan qachon yetib borasiz?
+[22:04] Bobur Mirzayev: Taxminan 3pmda yetib boraman.
+[22:21] Shahnoza: Hozir qayerdasiz?
+[22:23] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[23:16] Shahnoza: Yo'lda yangilik bormi?
+[23:18] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:39] Shahnoza: Holatingiz qanday?
+[23:41] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[23:44] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[23:46] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[01:03] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:05] Bobur Mirzayev: Namangangacha taxminan 539 km qoldi.
+[01:08] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[01:10] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[02:36] Shahnoza: Holatingiz qanday?
+[02:38] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[03:16] Shahnoza: Hozir qayerdasiz?
+[03:18] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:41] Shahnoza: Hozir qayerdasiz?
+[03:43] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:15] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:17] Bobur Mirzayev: Namangangacha taxminan 144 km qoldi.
+[04:35] Shahnoza: Holatingiz qanday?
+[04:37] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:21] Shahnoza: Yo'lda yangilik bormi?
+[05:23] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:59] Shahnoza: Holatingiz qanday?
+[06:01] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:43] Shahnoza: LD-52239 bilan ishlar qalay?
+[06:45] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:17] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:19] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:38] Shahnoza: Holatingiz qanday?
+[07:40] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:20] Shahnoza: Yo'lda yangilik bormi?
+[08:22] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:41] Shahnoza: Hozir qayerdasiz?
+[08:43] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[09:19] Shahnoza: Hozir qayerdasiz?
+[09:21] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:12] Shahnoza: Yo'lda yangilik bormi?
+[10:14] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[11:09] Shahnoza: Holatingiz qanday?
+[11:11] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:04] Shahnoza: Hozir qayerdasiz?
+[12:06] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:06] Shahnoza: Yo'lda yangilik bormi?
+[13:08] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:34] Shahnoza: Hozir qayerdasiz?
+[13:36] Bobur Mirzayev: Namangangacha taxminan 146 km qoldi.
+[14:02] Shahnoza: LD-52239 bilan ishlar qalay?
+[14:04] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:58] Shahnoza: Hozir qayerdasiz?
+[15:00] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:20] Shahnoza: Hozir qayerdasiz?
+[15:22] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[16:05] Shahnoza: Holatingiz qanday?
+[16:07] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[16:34] Shahnoza: Yo'lda yangilik bormi?
+[16:36] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:13] Shahnoza: Holatingiz qanday?
+[17:15] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[17:56] Shahnoza: Holatingiz qanday?
+[17:58] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:29] Shahnoza: Yo'lda yangilik bormi?
+[18:31] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:04] Shahnoza: Hozir qayerdasiz?
+[19:06] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:57] Shahnoza: Holatingiz qanday?
+[19:59] Bobur Mirzayev: Namangangacha taxminan 214 km qoldi.
+[20:27] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:29] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:54] Shahnoza: Holatingiz qanday?
+[20:56] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[21:17] Shahnoza: LD-52239 bilan ishlar qalay?
+[21:19] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:43] Shahnoza: Yo'lda yangilik bormi?
+[21:45] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:33] Shahnoza: Hozir qayerdasiz?
+[22:35] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:38] Bobur Mirzayev: LD-52239 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:40] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[23:42] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[23:43] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:45] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[23:47] Bobur Mirzayev: Tushundim.
+[23:49] Shahnoza: Rahmat, aloqada bo'lamiz.

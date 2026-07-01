@@ -1,0 +1,153 @@
+Chat Log #422
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #820 (tentli furgon)
+Operator: Shahnoza
+Load: LD-35072 | Route: Qarshi -> Termiz
+Date: 2026-05-26
+--------------------------------------------------
+[10:14] Shahnoza: Xayrli tong, Bakhtiyor, aloqadamisiz?
+[10:15] Bakhtiyor Karimov: Ha, aloqadaman.
+[10:17] Shahnoza: Siz uchun yuk bor - LD-35072, tentli furgon, Qarshidan yuklanadi, Termizga tushiriladi.
+[10:19] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[10:21] Shahnoza: Yuklash 13:00-15:00, tushirish esa ertaga 16:00 bo'ladi.
+[10:23] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[10:25] Shahnoza: 2269 ming so'm, 684 km.
+[10:27] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[10:29] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:32] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[12:00] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:02] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[12:32] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:34] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:36] Shahnoza: Taxminan qachon yetib borasiz?
+[12:38] Bakhtiyor Karimov: Ehtimol 7pm, balki ertaroq.
+[13:10] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:12] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:14] Shahnoza: Taxminan qachon yetib borasiz?
+[13:16] Bakhtiyor Karimov: Taxminan 5pmda yetib boraman.
+[14:00] Shahnoza: Yo'lda yangilik bormi?
+[14:02] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[14:05] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[14:07] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[15:23] Shahnoza: Yo'lda yangilik bormi?
+[15:25] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[15:28] Shahnoza: O'zingizni qalay his qilyapsiz?
+[15:30] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[16:44] Shahnoza: Yo'lda yangilik bormi?
+[16:46] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[17:44] Shahnoza: Hozir qayerdasiz?
+[17:46] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:49] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[17:51] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[19:16] Shahnoza: Hozir qayerdasiz?
+[19:18] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[19:20] Shahnoza: Taxminan qachon yetib borasiz?
+[19:22] Bakhtiyor Karimov: Ehtimol 3pm, balki ertaroq.
+[19:55] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:57] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[20:00] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[20:02] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:02] Shahnoza: Holatingiz qanday?
+[21:04] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[21:58] Shahnoza: Holatingiz qanday?
+[22:00] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:31] Shahnoza: Yo'lda yangilik bormi?
+[22:33] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[23:21] Shahnoza: LD-35072 bilan ishlar qalay?
+[23:23] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:26] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[23:28] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[00:26] Shahnoza: Yo'lda yangilik bormi?
+[00:28] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[01:41] Shahnoza: Hozir qayerdasiz?
+[01:43] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[02:34] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:36] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[03:21] Shahnoza: Holatingiz qanday?
+[03:23] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[03:26] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[03:28] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[04:03] Bakhtiyor Karimov: Muammo chiqdi, kuchli qor yog'moqda LD-35072da. Yo'l chetiga to'xtadim.
+[04:04] Shahnoza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[04:06] Bakhtiyor Karimov: Ha, men yaxshiman, faqat yordam kerak.
+[04:08] Shahnoza: M34 yo'lida 213-belgida turibman.
+[04:13] Shahnoza: Yordam mashinasi yo'lda, taxminan 1 hourdan keyin yetib keladi.
+[04:54] Bakhtiyor Karimov: Ta'mirlandi, yana yo'lga tushdim.
+[05:44] Shahnoza: Hozir qayerdasiz?
+[05:46] Bakhtiyor Karimov: Termizgacha taxminan 85 km qoldi.
+[06:42] Shahnoza: Yo'lda yangilik bormi?
+[06:44] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:25] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:27] Bakhtiyor Karimov: Termizgacha taxminan 480 km qoldi.
+[07:51] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:53] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:19] Shahnoza: Yo'lda yangilik bormi?
+[08:21] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:03] Shahnoza: Hozir qayerdasiz?
+[09:05] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[09:58] Shahnoza: LD-35072 bilan ishlar qalay?
+[10:00] Bakhtiyor Karimov: Termizgacha taxminan 336 km qoldi.
+[10:35] Shahnoza: Holatingiz qanday?
+[10:37] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:03] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:05] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:35] Shahnoza: Hozir qayerdasiz?
+[11:37] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:21] Shahnoza: Hozir qayerdasiz?
+[12:23] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:17] Shahnoza: Holatingiz qanday?
+[13:19] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:59] Shahnoza: Hozir qayerdasiz?
+[14:01] Bakhtiyor Karimov: Termizgacha taxminan 116 km qoldi.
+[14:59] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:01] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[15:56] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:58] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[16:22] Shahnoza: Holatingiz qanday?
+[16:24] Bakhtiyor Karimov: Termizgacha taxminan 227 km qoldi.
+[16:54] Shahnoza: Yo'lda yangilik bormi?
+[16:56] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:42] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:44] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:25] Shahnoza: Holatingiz qanday?
+[18:27] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:23] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:25] Bakhtiyor Karimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[20:18] Shahnoza: LD-35072 bilan ishlar qalay?
+[20:20] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:44] Shahnoza: Hozir qayerdasiz?
+[20:46] Bakhtiyor Karimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[21:01] Shahnoza: Yo'lda yangilik bormi?
+[21:03] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[21:35] Shahnoza: LD-35072 bilan ishlar qalay?
+[21:37] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:24] Shahnoza: Yo'lda yangilik bormi?
+[22:26] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[23:03] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:05] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:28] Shahnoza: Holatingiz qanday?
+[23:30] Bakhtiyor Karimov: Termizgacha taxminan 197 km qoldi.
+[23:57] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:59] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:59] Shahnoza: Yo'lda yangilik bormi?
+[01:01] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:31] Shahnoza: LD-35072 bilan ishlar qalay?
+[01:33] Bakhtiyor Karimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[01:57] Shahnoza: Holatingiz qanday?
+[01:59] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:50] Shahnoza: Yo'lda yangilik bormi?
+[02:52] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:20] Shahnoza: Yo'lda yangilik bormi?
+[03:22] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:55] Shahnoza: Hozir qayerdasiz?
+[03:57] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:44] Shahnoza: Holatingiz qanday?
+[04:46] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:30] Bakhtiyor Karimov: LD-35072 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:32] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[05:34] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[05:35] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:37] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:39] Bakhtiyor Karimov: Tushunarli.
+[05:41] Shahnoza: Rahmat, aloqada bo'lamiz.

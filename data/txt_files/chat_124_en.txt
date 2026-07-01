@@ -1,0 +1,127 @@
+Chat Log #124
+Company: Silk Road Logistics
+Language: English
+Driver: Victor Taylor | Truck: #527 (flatbed)
+Operator: Kayla
+Load: LD-17509 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-04-21
+--------------------------------------------------
+[10:22] Kayla: Hey Victor, how's it going?
+[10:23] Victor Taylor: Yeah, go ahead.
+[10:25] Kayla: Got a load for you - LD-17509, flatbed, pickup in Chicago, IL, delivery to Memphis, TN.
+[10:27] Victor Taylor: Ok, what's the pickup window?
+[10:29] Kayla: Pickup is 09:00-11:00, delivery appointment is 07:30 the next day.
+[10:31] Victor Taylor: What's the rate on this one?
+[10:33] Kayla: $4083 all in, 702 miles.
+[10:35] Victor Taylor: Sounds good, I'll take it.
+[10:37] Kayla: Great, sending the rate confirmation now.
+[10:40] Victor Taylor: Got it, signed and sent back.
+[11:22] Kayla: Still on schedule?
+[11:24] Victor Taylor: About 480 miles out from Memphis, TN now.
+[11:26] Kayla: What's your ETA?
+[11:28] Victor Taylor: Looking at 3pm if traffic stays clear.
+[12:31] Kayla: What's your status?
+[12:33] Victor Taylor: Yeah, long one, but manageable.
+[12:36] Kayla: How are you holding up out there?
+[12:38] Victor Taylor: No problem, just doing my job.
+[12:40] Kayla: What's your ETA?
+[12:42] Victor Taylor: Probably 10am, maybe a bit earlier.
+[13:55] Kayla: How's LD-17509 looking?
+[13:57] Victor Taylor: Stopping for fuel in a bit.
+[14:00] Kayla: How are you holding up out there?
+[14:02] Victor Taylor: Will do, thanks for checking in.
+[14:04] Kayla: What's your ETA?
+[14:06] Victor Taylor: Looking at noon if traffic stays clear.
+[14:59] Kayla: What's your status?
+[15:01] Victor Taylor: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[16:06] Kayla: Where are you at right now?
+[16:08] Victor Taylor: Just passed Chicago, IL, everything's fine.
+[16:10] Kayla: What's your ETA?
+[16:12] Victor Taylor: Looking at 10am if traffic stays clear.
+[17:01] Kayla: Any updates on your progress?
+[17:03] Victor Taylor: Traffic's a bit heavy but I'm still on schedule.
+[18:14] Kayla: Any updates on your progress?
+[18:16] Victor Taylor: Doing alright, just tired.
+[18:18] Kayla: What's your ETA?
+[18:20] Victor Taylor: Looking at 3pm if traffic stays clear.
+[18:58] Kayla: Where are you at right now?
+[19:00] Victor Taylor: Just passed Chicago, IL, everything's fine.
+[19:03] Kayla: How are you holding up out there?
+[19:05] Victor Taylor: Will do, thanks for checking in.
+[19:31] Kayla: Any updates on your progress?
+[19:33] Victor Taylor: Stopping for fuel in a bit.
+[19:36] Kayla: Let me know if you need anything.
+[19:38] Victor Taylor: Will do, thanks for checking in.
+[20:09] Kayla: Where are you at right now?
+[20:11] Victor Taylor: Rain is picking up here, slowing down a bit.
+[20:43] Kayla: Where are you at right now?
+[20:45] Victor Taylor: Weather's getting rough up ahead, heads up.
+[20:48] Kayla: How are you holding up out there?
+[20:50] Victor Taylor: Will do, thanks for checking in.
+[21:24] Kayla: Any updates on your progress?
+[21:26] Victor Taylor: Just crossed the state line, all good.
+[21:29] Kayla: Let me know if you need anything.
+[21:31] Victor Taylor: Will do, thanks for checking in.
+[21:53] Kayla: Any updates on your progress?
+[21:55] Victor Taylor: Roads are wet, taking it easy.
+[22:19] Kayla: How's LD-17509 looking?
+[22:21] Victor Taylor: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[22:24] Kayla: Let me know if you need anything.
+[22:26] Victor Taylor: Doing alright, just tired.
+[23:29] Kayla: What's your status?
+[23:31] Victor Taylor: Just topped off the tank.
+[23:34] Kayla: Let me know if you need anything.
+[23:36] Victor Taylor: Doing alright, just tired.
+[00:22] Kayla: Any updates on your progress?
+[00:24] Victor Taylor: Yeah, long one, but manageable.
+[01:09] Kayla: Where are you at right now?
+[01:11] Victor Taylor: Stopped for a quick break, back on the road in a few.
+[01:23] Victor Taylor: Coming up on my HOS limit, only got about 45 minutes left.
+[01:25] Kayla: Understood, get your rest, I'll let the receiver know.
+[01:47] Kayla: How's LD-17509 looking?
+[01:49] Victor Taylor: Just crossed the state line, all good.
+[02:09] Kayla: Where are you at right now?
+[02:11] Victor Taylor: Just crossed the state line, all good.
+[02:57] Kayla: Still on schedule?
+[02:59] Victor Taylor: About 373 miles out from Memphis, TN now.
+[03:27] Kayla: Any updates on your progress?
+[03:29] Victor Taylor: Just crossed the state line, all good.
+[04:25] Kayla: Still on schedule?
+[04:27] Victor Taylor: Making good time, no issues so far.
+[05:27] Kayla: Where are you at right now?
+[05:29] Victor Taylor: Just crossed the state line, all good.
+[05:44] Kayla: Any updates on your progress?
+[05:46] Victor Taylor: Traffic's a bit heavy but I'm still on schedule.
+[06:37] Kayla: Any updates on your progress?
+[06:39] Victor Taylor: Making good time, no issues so far.
+[07:11] Kayla: Where are you at right now?
+[07:13] Victor Taylor: Just crossed the state line, all good.
+[07:50] Kayla: Where are you at right now?
+[07:52] Victor Taylor: Stopped for a quick break, back on the road in a few.
+[08:08] Kayla: Any updates on your progress?
+[08:10] Victor Taylor: Just crossed the state line, all good.
+[08:47] Kayla: Still on schedule?
+[08:49] Victor Taylor: Just crossed the state line, all good.
+[09:13] Kayla: Any updates on your progress?
+[09:15] Victor Taylor: Just passed Memphis, TN, everything's fine.
+[10:03] Kayla: What's your status?
+[10:05] Victor Taylor: Just crossed the state line, all good.
+[10:43] Kayla: What's your status?
+[10:45] Victor Taylor: About 366 miles out from Memphis, TN now.
+[11:38] Kayla: How's LD-17509 looking?
+[11:40] Victor Taylor: About 234 miles out from Memphis, TN now.
+[12:28] Kayla: How's LD-17509 looking?
+[12:30] Victor Taylor: About 223 miles out from Memphis, TN now.
+[13:21] Kayla: How's LD-17509 looking?
+[13:23] Victor Taylor: Making good time, no issues so far.
+[14:05] Kayla: What's your status?
+[14:07] Victor Taylor: Making good time, no issues so far.
+[14:59] Kayla: Any updates on your progress?
+[15:01] Victor Taylor: Traffic's a bit heavy but I'm still on schedule.
+[15:50] Victor Taylor: Just delivered LD-17509 at Memphis, TN, all good, no damages.
+[15:52] Kayla: Do you have the signed BOL?
+[15:54] Victor Taylor: Yep, taking a picture now.
+[15:55] Victor Taylor: [Image attached: signed_bol.jpg]
+[15:57] Kayla: Sending you the next load details shortly.
+[15:59] Victor Taylor: Understood.
+[16:01] Kayla: Appreciate it, talk soon.

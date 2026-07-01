@@ -1,0 +1,149 @@
+Chat Log #100
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #655 (past ramali tirkama)
+Operator: Gulnora
+Load: LD-53292 | Route: Samarqand -> Buxoro
+Date: 2026-03-02
+--------------------------------------------------
+[11:34] Gulnora: Salom, Bobur, ishlar qalay?
+[11:35] Bobur Mirzayev: Xayrli tong, menda hammasi yaxshi.
+[11:37] Gulnora: Siz uchun yuk bor - LD-53292, past ramali tirkama, Samarqanddan yuklanadi, Buxoroga tushiriladi.
+[11:39] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[11:41] Gulnora: Yuklash 09:00-11:00, tushirish esa ertaga 07:30 bo'ladi.
+[11:43] Bobur Mirzayev: Bu reys uchun narx qancha?
+[11:45] Gulnora: 4075 ming so'm, 719 km.
+[11:47] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[11:49] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:52] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[12:16] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[12:18] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[12:21] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:23] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:29] Gulnora: Holatingiz qanday?
+[13:31] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:34] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:36] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[14:28] Gulnora: Hozir qayerdasiz?
+[14:30] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[15:28] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[15:30] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:32] Gulnora: Taxminan qachon yetib borasiz?
+[15:34] Bobur Mirzayev: Taxminan 7pmda yetib boraman.
+[16:01] Gulnora: Yo'lda yangilik bormi?
+[16:03] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[16:06] Gulnora: O'zingizni qalay his qilyapsiz?
+[16:08] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[16:10] Gulnora: Taxminan qachon yetib borasiz?
+[16:12] Bobur Mirzayev: Ehtimol 10am, balki ertaroq.
+[16:28] Gulnora: Holatingiz qanday?
+[16:30] Bobur Mirzayev: Buxoro yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[16:32] Gulnora: Taxminan qachon yetib borasiz?
+[16:34] Bobur Mirzayev: Taxminan 5pmda yetib boraman.
+[17:53] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[17:55] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:24] Gulnora: LD-53292 bilan ishlar qalay?
+[19:26] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:42] Gulnora: LD-53292 bilan ishlar qalay?
+[19:44] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[20:35] Gulnora: LD-53292 bilan ishlar qalay?
+[20:37] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:29] Gulnora: Hozir qayerdasiz?
+[21:31] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:34] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:36] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[22:17] Gulnora: Hozir qayerdasiz?
+[22:19] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[22:22] Gulnora: Biror narsa kerak bo'lsa ayting.
+[22:24] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[23:38] Gulnora: Holatingiz qanday?
+[23:40] Bobur Mirzayev: Buxorogacha taxminan 276 km qoldi.
+[23:55] Gulnora: LD-53292 bilan ishlar qalay?
+[23:57] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[23:59] Gulnora: Taxminan qachon yetib borasiz?
+[00:01] Bobur Mirzayev: Taxminan 7pmda yetib boraman.
+[00:39] Gulnora: Holatingiz qanday?
+[00:41] Bobur Mirzayev: Buxorogacha taxminan 129 km qoldi.
+[00:43] Gulnora: Taxminan qachon yetib borasiz?
+[00:45] Bobur Mirzayev: Agar tirbandlik bo'lmasa noonda.
+[01:51] Gulnora: LD-53292 bilan ishlar qalay?
+[01:53] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[01:56] Gulnora: Xabar berib turganingiz uchun rahmat.
+[01:58] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[03:07] Gulnora: Yo'lda yangilik bormi?
+[03:09] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[03:12] Gulnora: Biror narsa kerak bo'lsa ayting.
+[03:14] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[03:59] Gulnora: LD-53292 bilan ishlar qalay?
+[04:01] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:04] Gulnora: Biror narsa kerak bo'lsa ayting.
+[04:06] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[04:08] Gulnora: Taxminan qachon yetib borasiz?
+[04:10] Bobur Mirzayev: Taxminan 10amda yetib boraman.
+[04:48] Gulnora: Yo'lda yangilik bormi?
+[04:50] Bobur Mirzayev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[05:44] Gulnora: Holatingiz qanday?
+[05:46] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[06:44] Gulnora: LD-53292 bilan ishlar qalay?
+[06:46] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[06:48] Gulnora: Taxminan qachon yetib borasiz?
+[06:50] Bobur Mirzayev: Ehtimol 7pm, balki ertaroq.
+[07:22] Bobur Mirzayev: Muammo chiqdi, dvigatel chirog'i yonib qoldi LD-53292da. Yo'l chetiga to'xtadim.
+[07:23] Gulnora: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[07:25] Bobur Mirzayev: Ha, men yaxshiman, faqat yordam kerak.
+[07:27] Gulnora: A376 yo'lida 177-belgida turibman.
+[07:32] Gulnora: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[08:43] Bobur Mirzayev: Ta'mirlandi, yana yo'lga tushdim.
+[09:42] Gulnora: Holatingiz qanday?
+[09:44] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:09] Gulnora: Holatingiz qanday?
+[10:11] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[10:59] Gulnora: LD-53292 bilan ishlar qalay?
+[11:01] Bobur Mirzayev: Buxorogacha taxminan 41 km qoldi.
+[11:59] Gulnora: LD-53292 bilan ishlar qalay?
+[12:01] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:21] Gulnora: Yo'lda yangilik bormi?
+[12:23] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:59] Gulnora: Holatingiz qanday?
+[13:01] Bobur Mirzayev: Buxorogacha taxminan 76 km qoldi.
+[13:26] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:28] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:03] Gulnora: LD-53292 bilan ishlar qalay?
+[14:05] Bobur Mirzayev: Buxorogacha taxminan 263 km qoldi.
+[14:51] Gulnora: Yo'lda yangilik bormi?
+[14:53] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:18] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[15:20] Bobur Mirzayev: Buxorogacha taxminan 53 km qoldi.
+[16:18] Gulnora: LD-53292 bilan ishlar qalay?
+[16:20] Bobur Mirzayev: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[17:15] Gulnora: Yo'lda yangilik bormi?
+[17:17] Bobur Mirzayev: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[18:10] Gulnora: LD-53292 bilan ishlar qalay?
+[18:12] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:54] Gulnora: Holatingiz qanday?
+[18:56] Bobur Mirzayev: Buxorogacha taxminan 307 km qoldi.
+[19:48] Gulnora: LD-53292 bilan ishlar qalay?
+[19:50] Bobur Mirzayev: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[20:42] Gulnora: Holatingiz qanday?
+[20:44] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:00] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[21:02] Bobur Mirzayev: Buxorogacha taxminan 24 km qoldi.
+[21:27] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[21:29] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:23] Gulnora: Holatingiz qanday?
+[22:25] Bobur Mirzayev: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[22:53] Gulnora: LD-53292 bilan ishlar qalay?
+[22:55] Bobur Mirzayev: Buxorogacha taxminan 251 km qoldi.
+[23:10] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:12] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:02] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[00:04] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:29] Gulnora: Holatingiz qanday?
+[00:31] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:33] Bobur Mirzayev: LD-53292 yukini Buxoroda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[01:35] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[01:37] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[01:38] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[01:40] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[01:42] Bobur Mirzayev: Tushunarli.
+[01:44] Gulnora: Ajoyib ish, rahmat.

@@ -1,0 +1,129 @@
+Chat Log #259
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Martinez | Truck: #357 (flatbed)
+Operator: Ashley
+Load: LD-11807 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-01-14
+--------------------------------------------------
+[15:10] Ashley: Hey Robert, how's it going?
+[15:11] Robert Martinez: Yeah, go ahead.
+[15:13] Ashley: Got a load for you - LD-11807, flatbed, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[15:15] Robert Martinez: Ok, what's the pickup window?
+[15:17] Ashley: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[15:19] Robert Martinez: What's the rate on this one?
+[15:21] Ashley: $3316 all in, 802 miles.
+[15:23] Robert Martinez: Sounds good, I'll take it.
+[15:25] Ashley: Great, sending the rate confirmation now.
+[15:28] Robert Martinez: Got it, signed and sent back.
+[16:33] Ashley: Any updates on your progress?
+[16:35] Robert Martinez: Rain is picking up here, slowing down a bit.
+[17:49] Ashley: Still on schedule?
+[17:51] Robert Martinez: Making good time, no issues so far.
+[17:54] Ashley: Long trip, huh? Get some rest when you can.
+[17:56] Robert Martinez: Yeah, long one, but manageable.
+[19:18] Ashley: Where are you at right now?
+[19:20] Robert Martinez: About 379 miles out from Las Vegas, NV now.
+[19:23] Ashley: Let me know if you need anything.
+[19:25] Robert Martinez: Yeah, long one, but manageable.
+[20:09] Ashley: Where are you at right now?
+[20:11] Robert Martinez: Just passed Las Vegas, NV, everything's fine.
+[20:13] Ashley: What's your ETA?
+[20:15] Robert Martinez: Looking at 5pm if traffic stays clear.
+[20:49] Ashley: Where are you at right now?
+[20:51] Robert Martinez: Stopping for fuel in a bit.
+[21:53] Ashley: What's your status?
+[21:55] Robert Martinez: Traffic's a bit heavy but I'm still on schedule.
+[21:58] Ashley: How are you holding up out there?
+[22:00] Robert Martinez: Will do, thanks for checking in.
+[22:02] Ashley: What's your ETA?
+[22:04] Robert Martinez: Probably 10am, maybe a bit earlier.
+[23:15] Ashley: Still on schedule?
+[23:17] Robert Martinez: Fuel prices are decent around here.
+[23:20] Ashley: Long trip, huh? Get some rest when you can.
+[23:22] Robert Martinez: Yeah, long one, but manageable.
+[23:24] Ashley: What's your ETA?
+[23:26] Robert Martinez: Looking at 5pm if traffic stays clear.
+[00:56] Ashley: Any updates on your progress?
+[00:58] Robert Martinez: Construction zone slowing everyone down.
+[01:21] Ashley: Where are you at right now?
+[01:23] Robert Martinez: Hit some traffic near Fresno, CA, adding maybe 20 minutes.
+[02:13] Ashley: Where are you at right now?
+[02:15] Robert Martinez: Yeah, long one, but manageable.
+[02:18] Ashley: Appreciate you keeping me posted.
+[02:20] Robert Martinez: Yeah, long one, but manageable.
+[02:22] Ashley: What's your ETA?
+[02:24] Robert Martinez: Should be there around 10am.
+[02:48] Ashley: What's your status?
+[02:50] Robert Martinez: Stopped for a quick break, back on the road in a few.
+[02:53] Ashley: Long trip, huh? Get some rest when you can.
+[02:55] Robert Martinez: Will do, thanks for checking in.
+[02:57] Ashley: What's your ETA?
+[02:59] Robert Martinez: Should be there around 3pm.
+[04:14] Ashley: How's LD-11807 looking?
+[04:16] Robert Martinez: Making good time, no issues so far.
+[04:19] Ashley: Long trip, huh? Get some rest when you can.
+[04:21] Robert Martinez: Will do, thanks for checking in.
+[04:46] Ashley: Still on schedule?
+[04:48] Robert Martinez: Traffic's a bit heavy but I'm still on schedule.
+[04:51] Ashley: Long trip, huh? Get some rest when you can.
+[04:53] Robert Martinez: Yeah, long one, but manageable.
+[04:55] Ashley: What's your ETA?
+[04:57] Robert Martinez: Looking at 5pm if traffic stays clear.
+[05:52] Ashley: How's LD-11807 looking?
+[05:54] Robert Martinez: Fuel prices are decent around here.
+[05:56] Ashley: What's your ETA?
+[05:58] Robert Martinez: Looking at 5pm if traffic stays clear.
+[06:24] Ashley: What's your status?
+[06:26] Robert Martinez: Just topped off the tank.
+[06:44] Ashley: Still on schedule?
+[06:46] Robert Martinez: Stopped for a quick break, back on the road in a few.
+[07:55] Ashley: Still on schedule?
+[07:57] Robert Martinez: Clear skies here, no problems.
+[08:53] Ashley: Still on schedule?
+[08:55] Robert Martinez: Stopping for fuel in a bit.
+[09:52] Ashley: What's your status?
+[09:54] Robert Martinez: Making good time, no issues so far.
+[09:57] Ashley: Appreciate you keeping me posted.
+[09:59] Robert Martinez: Yeah, long one, but manageable.
+[10:01] Ashley: What's your ETA?
+[10:03] Robert Martinez: Should be there around noon.
+[10:41] Ashley: How's LD-11807 looking?
+[10:43] Robert Martinez: Just topped off the tank.
+[11:07] Ashley: Still on schedule?
+[11:09] Robert Martinez: Fuel prices are decent around here.
+[11:12] Ashley: Let me know if you need anything.
+[11:14] Robert Martinez: Yeah, long one, but manageable.
+[11:43] Ashley: Any updates on your progress?
+[11:45] Robert Martinez: Traffic's a bit heavy but I'm still on schedule.
+[12:07] Ashley: Where are you at right now?
+[12:09] Robert Martinez: Stopped for a quick break, back on the road in a few.
+[12:43] Ashley: Still on schedule?
+[12:45] Robert Martinez: Traffic's a bit heavy but I'm still on schedule.
+[13:13] Ashley: Where are you at right now?
+[13:15] Robert Martinez: About 100 miles out from Las Vegas, NV now.
+[14:15] Ashley: Where are you at right now?
+[14:17] Robert Martinez: Making good time, no issues so far.
+[14:51] Ashley: Still on schedule?
+[14:53] Robert Martinez: Making good time, no issues so far.
+[15:36] Ashley: How's LD-11807 looking?
+[15:38] Robert Martinez: About 227 miles out from Las Vegas, NV now.
+[16:17] Ashley: How's LD-11807 looking?
+[16:19] Robert Martinez: About 572 miles out from Las Vegas, NV now.
+[17:03] Ashley: Any updates on your progress?
+[17:05] Robert Martinez: Making good time, no issues so far.
+[17:55] Ashley: What's your status?
+[17:57] Robert Martinez: About 26 miles out from Las Vegas, NV now.
+[18:48] Ashley: How's LD-11807 looking?
+[18:50] Robert Martinez: Making good time, no issues so far.
+[19:31] Ashley: Any updates on your progress?
+[19:33] Robert Martinez: Just crossed the state line, all good.
+[19:54] Ashley: Still on schedule?
+[19:56] Robert Martinez: Traffic's a bit heavy but I'm still on schedule.
+[20:29] Robert Martinez: Just delivered LD-11807 at Las Vegas, NV, all good, no damages.
+[20:31] Ashley: Do you have the signed BOL?
+[20:33] Robert Martinez: Yep, taking a picture now.
+[20:34] Robert Martinez: [Image attached: signed_bol.jpg]
+[20:36] Ashley: Sending you the next load details shortly.
+[20:38] Robert Martinez: Will do.
+[20:40] Ashley: Great work, thank you.

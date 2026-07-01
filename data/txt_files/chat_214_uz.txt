@@ -1,0 +1,149 @@
+Chat Log #214
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #522 (tentli furgon)
+Operator: Zarina
+Load: LD-24681 | Route: Toshkent -> Namangan
+Date: 2026-06-10
+--------------------------------------------------
+[16:59] Zarina: Xayrli tong, Bakhtiyor, aloqadamisiz?
+[17:00] Bakhtiyor Karimov: Ha, aloqadaman.
+[17:02] Zarina: Siz uchun yuk bor - LD-24681, tentli furgon, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[17:04] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[17:06] Zarina: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[17:08] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[17:10] Zarina: 2123 ming so'm, 994 km.
+[17:12] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[17:14] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[17:17] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[18:43] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[18:45] Bakhtiyor Karimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[18:47] Zarina: Taxminan qachon yetib borasiz?
+[18:49] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 5pmda.
+[19:08] Zarina: Hozir qayerdasiz?
+[19:10] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:13] Zarina: Xabar berib turganingiz uchun rahmat.
+[19:15] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[20:33] Zarina: LD-24681 bilan ishlar qalay?
+[20:35] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:12] Zarina: Hozir qayerdasiz?
+[21:14] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:43] Zarina: Yo'lda yangilik bormi?
+[22:45] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[22:48] Zarina: O'zingizni qalay his qilyapsiz?
+[22:50] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[22:52] Zarina: Taxminan qachon yetib borasiz?
+[22:54] Bakhtiyor Karimov: Taxminan 3pmda yetib boraman.
+[23:10] Zarina: Yo'lda yangilik bormi?
+[23:12] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[00:30] Zarina: LD-24681 bilan ishlar qalay?
+[00:32] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[01:24] Zarina: LD-24681 bilan ishlar qalay?
+[01:26] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[01:53] Zarina: LD-24681 bilan ishlar qalay?
+[01:55] Bakhtiyor Karimov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[01:58] Zarina: Xabar berib turganingiz uchun rahmat.
+[02:00] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:15] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:17] Bakhtiyor Karimov: Osmon ochiq, muammo yo'q.
+[03:40] Zarina: Hozir qayerdasiz?
+[03:42] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:45] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:47] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[04:16] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[04:18] Bakhtiyor Karimov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[04:21] Zarina: O'zingizni qalay his qilyapsiz?
+[04:23] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[04:25] Zarina: Taxminan qachon yetib borasiz?
+[04:27] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 7pmda.
+[05:07] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[05:09] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[06:19] Zarina: LD-24681 bilan ishlar qalay?
+[06:21] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[06:24] Zarina: Biror narsa kerak bo'lsa ayting.
+[06:26] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[06:49] Zarina: LD-24681 bilan ishlar qalay?
+[06:51] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[07:55] Zarina: Hozir qayerdasiz?
+[07:57] Bakhtiyor Karimov: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[08:19] Zarina: LD-24681 bilan ishlar qalay?
+[08:21] Bakhtiyor Karimov: Namangangacha taxminan 266 km qoldi.
+[08:23] Zarina: Taxminan qachon yetib borasiz?
+[08:25] Bakhtiyor Karimov: Taxminan 10amda yetib boraman.
+[09:04] Zarina: Hozir qayerdasiz?
+[09:06] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:12] Zarina: Hozir qayerdasiz?
+[10:14] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[10:17] Zarina: Xabar berib turganingiz uchun rahmat.
+[10:19] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:47] Zarina: LD-24681 bilan ishlar qalay?
+[11:49] Bakhtiyor Karimov: Yo'llar bo'sh, yaxshi ketyapman.
+[13:14] Zarina: Holatingiz qanday?
+[13:16] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[13:19] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:21] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[13:33] Bakhtiyor Karimov: Haydash vaqtim limitiga yaqinlashyapman, atigi 1 hour qoldi.
+[13:35] Zarina: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[14:29] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[14:31] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:00] Zarina: Holatingiz qanday?
+[15:02] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[15:50] Zarina: LD-24681 bilan ishlar qalay?
+[15:52] Bakhtiyor Karimov: Namangangacha taxminan 266 km qoldi.
+[16:18] Zarina: Yo'lda yangilik bormi?
+[16:20] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:03] Zarina: Yo'lda yangilik bormi?
+[17:05] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:31] Zarina: Holatingiz qanday?
+[17:33] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:12] Zarina: Holatingiz qanday?
+[18:14] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:00] Zarina: Yo'lda yangilik bormi?
+[19:02] Bakhtiyor Karimov: Namangangacha taxminan 267 km qoldi.
+[19:24] Zarina: LD-24681 bilan ishlar qalay?
+[19:26] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:24] Zarina: Holatingiz qanday?
+[20:26] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:18] Zarina: Holatingiz qanday?
+[21:20] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[22:19] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[22:21] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:42] Zarina: Holatingiz qanday?
+[22:44] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[23:25] Zarina: LD-24681 bilan ishlar qalay?
+[23:27] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:53] Zarina: LD-24681 bilan ishlar qalay?
+[23:55] Bakhtiyor Karimov: Namangangacha taxminan 39 km qoldi.
+[00:29] Zarina: Holatingiz qanday?
+[00:31] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:03] Zarina: Holatingiz qanday?
+[01:05] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:52] Zarina: Yo'lda yangilik bormi?
+[01:54] Bakhtiyor Karimov: Namangangacha taxminan 532 km qoldi.
+[02:45] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:47] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:10] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:12] Bakhtiyor Karimov: Hozirgina Namangandan o'tdim, hammasi joyida.
+[03:50] Zarina: Hozir qayerdasiz?
+[03:52] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[04:51] Zarina: Holatingiz qanday?
+[04:53] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:25] Zarina: LD-24681 bilan ishlar qalay?
+[05:27] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:07] Zarina: Hozir qayerdasiz?
+[06:09] Bakhtiyor Karimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[06:46] Zarina: Hozir qayerdasiz?
+[06:48] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:33] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[07:35] Bakhtiyor Karimov: Namangangacha taxminan 290 km qoldi.
+[08:07] Zarina: Hozir qayerdasiz?
+[08:09] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:00] Zarina: Yo'lda yangilik bormi?
+[09:02] Bakhtiyor Karimov: Namangangacha taxminan 167 km qoldi.
+[10:21] Bakhtiyor Karimov: LD-24681 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[10:23] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[10:25] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[10:26] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[10:28] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[10:30] Bakhtiyor Karimov: Xo'p bo'ladi.
+[10:32] Zarina: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

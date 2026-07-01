@@ -1,0 +1,155 @@
+Chat Log #487
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #964 (tentli furgon)
+Operator: Zarina
+Load: LD-25174 | Route: Nukus -> Urganch
+Date: 2026-02-19
+--------------------------------------------------
+[14:27] Zarina: Ravshan, bir daqiqa bormi?
+[14:28] Ravshan Xolmatov: Ha, aloqadaman.
+[14:30] Zarina: Siz uchun yuk bor - LD-25174, tentli furgon, Nukusdan yuklanadi, Urganchga tushiriladi.
+[14:32] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[14:34] Zarina: Yuklash 09:00-11:00, tushirish esa ertaga 14:00 bo'ladi.
+[14:36] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[14:38] Zarina: 2922 ming so'm, 979 km.
+[14:40] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[14:42] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[14:45] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[15:40] Zarina: Hozir qayerdasiz?
+[15:42] Ravshan Xolmatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[15:45] Zarina: Biror narsa kerak bo'lsa ayting.
+[15:47] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:50] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[16:52] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[16:55] Zarina: Xabar berib turganingiz uchun rahmat.
+[16:57] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[18:03] Zarina: LD-25174 bilan ishlar qalay?
+[18:05] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[18:08] Zarina: O'zingizni qalay his qilyapsiz?
+[18:10] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[19:01] Zarina: LD-25174 bilan ishlar qalay?
+[19:03] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:51] Zarina: LD-25174 bilan ishlar qalay?
+[19:53] Ravshan Xolmatov: Yo'llar bo'sh, yaxshi ketyapman.
+[20:33] Zarina: Holatingiz qanday?
+[20:35] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:05] Zarina: Hozir qayerdasiz?
+[22:07] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:09] Zarina: Taxminan qachon yetib borasiz?
+[22:11] Ravshan Xolmatov: Ehtimol 7pm, balki ertaroq.
+[23:12] Zarina: LD-25174 bilan ishlar qalay?
+[23:14] Ravshan Xolmatov: Urganchgacha taxminan 171 km qoldi.
+[23:17] Zarina: Xabar berib turganingiz uchun rahmat.
+[23:19] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[00:10] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[00:12] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[01:32] Zarina: Hozir qayerdasiz?
+[01:34] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[01:37] Zarina: Biror narsa kerak bo'lsa ayting.
+[01:39] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:35] Zarina: Yo'lda yangilik bormi?
+[02:37] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[02:56] Zarina: Holatingiz qanday?
+[02:58] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[03:01] Zarina: Xabar berib turganingiz uchun rahmat.
+[03:03] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:55] Zarina: Yo'lda yangilik bormi?
+[03:57] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[04:46] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[04:48] Ravshan Xolmatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[06:04] Zarina: Hozir qayerdasiz?
+[06:06] Ravshan Xolmatov: Yo'llar bo'sh, yaxshi ketyapman.
+[07:31] Zarina: LD-25174 bilan ishlar qalay?
+[07:33] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:36] Zarina: Biror narsa kerak bo'lsa ayting.
+[07:38] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[09:01] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[09:03] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:06] Zarina: O'zingizni qalay his qilyapsiz?
+[09:08] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[10:35] Zarina: Yo'lda yangilik bormi?
+[10:37] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[10:52] Zarina: Hozir qayerdasiz?
+[10:54] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:42] Zarina: LD-25174 bilan ishlar qalay?
+[11:44] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:27] Zarina: LD-25174 bilan ishlar qalay?
+[12:29] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:44] Zarina: Hozir qayerdasiz?
+[12:46] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[13:20] Zarina: Hozir qayerdasiz?
+[13:22] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:18] Zarina: Holatingiz qanday?
+[14:20] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:13] Zarina: Holatingiz qanday?
+[15:15] Ravshan Xolmatov: Urganchgacha taxminan 40 km qoldi.
+[15:39] Zarina: LD-25174 bilan ishlar qalay?
+[15:41] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:26] Zarina: Hozir qayerdasiz?
+[16:28] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:17] Zarina: Yo'lda yangilik bormi?
+[17:19] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:38] Zarina: LD-25174 bilan ishlar qalay?
+[17:40] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:04] Zarina: Yo'lda yangilik bormi?
+[18:06] Ravshan Xolmatov: Urganchgacha taxminan 105 km qoldi.
+[18:29] Zarina: LD-25174 bilan ishlar qalay?
+[18:31] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:49] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[18:51] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:26] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[19:28] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:18] Zarina: Hozir qayerdasiz?
+[20:20] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:11] Zarina: Yo'lda yangilik bormi?
+[21:13] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:44] Zarina: Holatingiz qanday?
+[21:46] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:38] Zarina: Yo'lda yangilik bormi?
+[22:40] Ravshan Xolmatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[23:31] Zarina: LD-25174 bilan ishlar qalay?
+[23:33] Ravshan Xolmatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[00:15] Zarina: Hozir qayerdasiz?
+[00:17] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:12] Zarina: Hozir qayerdasiz?
+[01:14] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:34] Zarina: Holatingiz qanday?
+[01:36] Ravshan Xolmatov: Urganchgacha taxminan 362 km qoldi.
+[02:31] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:33] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:31] Zarina: Yo'lda yangilik bormi?
+[03:33] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:51] Zarina: Yo'lda yangilik bormi?
+[03:53] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:26] Zarina: Yo'lda yangilik bormi?
+[04:28] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:25] Zarina: Yo'lda yangilik bormi?
+[05:27] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:48] Zarina: LD-25174 bilan ishlar qalay?
+[05:50] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:32] Zarina: Holatingiz qanday?
+[06:34] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[07:15] Zarina: Holatingiz qanday?
+[07:17] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[08:10] Zarina: Holatingiz qanday?
+[08:12] Ravshan Xolmatov: Urganchgacha taxminan 361 km qoldi.
+[08:43] Zarina: Yo'lda yangilik bormi?
+[08:45] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:27] Zarina: Holatingiz qanday?
+[09:29] Ravshan Xolmatov: Urganchgacha taxminan 205 km qoldi.
+[10:12] Zarina: Hozir qayerdasiz?
+[10:14] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:49] Zarina: Hozir qayerdasiz?
+[10:51] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:44] Zarina: LD-25174 bilan ishlar qalay?
+[11:46] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:04] Zarina: Yo'lda yangilik bormi?
+[12:06] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:44] Ravshan Xolmatov: LD-25174 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[12:46] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[12:48] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[12:49] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[12:51] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[12:53] Ravshan Xolmatov: Yaxshi.
+[12:55] Zarina: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

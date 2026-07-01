@@ -1,0 +1,148 @@
+Chat Log #299
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Farrukh Tashkentov | Truck: #831 (platforma)
+Operator: Zarina
+Load: LD-38609 | Route: Farg'ona -> Andijon
+Date: 2026-06-06
+--------------------------------------------------
+[11:37] Zarina: Salom, Farrukh, ishlar qalay?
+[11:38] Farrukh Tashkentov: Xayrli tong, menda hammasi yaxshi.
+[11:40] Zarina: Siz uchun yuk bor - LD-38609, platforma, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[11:42] Farrukh Tashkentov: Tushunarli, yuklash vaqti qachon?
+[11:44] Zarina: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[11:46] Farrukh Tashkentov: Bu reys uchun narx qancha?
+[11:48] Zarina: 2345 ming so'm, 496 km.
+[11:50] Farrukh Tashkentov: Yaxshi, bu reysni olaman.
+[11:52] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:55] Farrukh Tashkentov: Oldim, imzolab qaytarib yubordim.
+[12:11] Zarina: Yo'lda yangilik bormi?
+[12:13] Farrukh Tashkentov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:48] Zarina: Hozir qayerdasiz?
+[12:50] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:53] Zarina: O'zingizni qalay his qilyapsiz?
+[12:55] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[12:57] Zarina: Taxminan qachon yetib borasiz?
+[12:59] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 7pmda.
+[14:29] Zarina: Hozir qayerdasiz?
+[14:31] Farrukh Tashkentov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[14:34] Zarina: Xabar berib turganingiz uchun rahmat.
+[14:36] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:38] Zarina: Taxminan qachon yetib borasiz?
+[14:40] Farrukh Tashkentov: Agar tirbandlik bo'lmasa 7pmda.
+[15:20] Zarina: Yo'lda yangilik bormi?
+[15:22] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[16:40] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[16:42] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[16:45] Zarina: O'zingizni qalay his qilyapsiz?
+[16:47] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[17:42] Zarina: Hozir qayerdasiz?
+[17:44] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[18:11] Zarina: Hozir qayerdasiz?
+[18:13] Farrukh Tashkentov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[18:16] Zarina: O'zingizni qalay his qilyapsiz?
+[18:18] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[19:23] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[19:25] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[19:54] Zarina: Holatingiz qanday?
+[19:56] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[20:29] Zarina: Yo'lda yangilik bormi?
+[20:31] Farrukh Tashkentov: Oldinda avariya bo'lgan, tirbandlik bor.
+[20:34] Zarina: Biror narsa kerak bo'lsa ayting.
+[20:36] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[21:55] Zarina: Holatingiz qanday?
+[21:57] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[22:41] Zarina: Holatingiz qanday?
+[22:43] Farrukh Tashkentov: Yo'llar bo'sh, yaxshi ketyapman.
+[22:46] Zarina: Biror narsa kerak bo'lsa ayting.
+[22:48] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:05] Zarina: LD-38609 bilan ishlar qalay?
+[23:07] Farrukh Tashkentov: Hozirgina yoqilg'i quydim.
+[23:10] Zarina: Xabar berib turganingiz uchun rahmat.
+[23:12] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:02] Zarina: Yo'lda yangilik bormi?
+[00:04] Farrukh Tashkentov: Bu yerda yoqilg'i narxlari yomon emas.
+[00:07] Zarina: Xabar berib turganingiz uchun rahmat.
+[00:09] Farrukh Tashkentov: Yaxshi, faqat biroz charchadim.
+[00:43] Zarina: Hozir qayerdasiz?
+[00:45] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:48] Zarina: Biror narsa kerak bo'lsa ayting.
+[00:50] Farrukh Tashkentov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:42] Zarina: Hozir qayerdasiz?
+[01:44] Farrukh Tashkentov: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[01:47] Zarina: Xabar berib turganingiz uchun rahmat.
+[01:49] Farrukh Tashkentov: Hammasi joyida, ishimni qilyapman.
+[03:06] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[03:08] Farrukh Tashkentov: Ha, uzoq, lekin chidayapman.
+[03:41] Farrukh Tashkentov: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[03:43] Zarina: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[03:53] Zarina: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[03:55] Farrukh Tashkentov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[03:57] Zarina: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[04:19] Zarina: Hozir qayerdasiz?
+[04:21] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:17] Zarina: Yo'lda yangilik bormi?
+[05:19] Farrukh Tashkentov: Andijongacha taxminan 553 km qoldi.
+[05:50] Zarina: Hozir qayerdasiz?
+[05:52] Farrukh Tashkentov: Andijongacha taxminan 75 km qoldi.
+[06:09] Zarina: Hozir qayerdasiz?
+[06:11] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:54] Zarina: LD-38609 bilan ishlar qalay?
+[06:56] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:45] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[07:47] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:33] Zarina: Yo'lda yangilik bormi?
+[08:35] Farrukh Tashkentov: Andijongacha taxminan 95 km qoldi.
+[09:14] Zarina: LD-38609 bilan ishlar qalay?
+[09:16] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:57] Zarina: Hozir qayerdasiz?
+[09:59] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:34] Zarina: Hozir qayerdasiz?
+[10:36] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:01] Zarina: Hozir qayerdasiz?
+[11:03] Farrukh Tashkentov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[11:51] Zarina: Holatingiz qanday?
+[11:53] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:25] Zarina: Yo'lda yangilik bormi?
+[12:27] Farrukh Tashkentov: Andijongacha taxminan 336 km qoldi.
+[12:55] Zarina: Holatingiz qanday?
+[12:57] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:55] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[13:57] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:56] Zarina: LD-38609 bilan ishlar qalay?
+[14:58] Farrukh Tashkentov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[15:49] Zarina: Yo'lda yangilik bormi?
+[15:51] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:33] Zarina: LD-38609 bilan ishlar qalay?
+[16:35] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:00] Zarina: Hozir qayerdasiz?
+[17:02] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:59] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[18:01] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:50] Zarina: LD-38609 bilan ishlar qalay?
+[18:52] Farrukh Tashkentov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[19:17] Zarina: LD-38609 bilan ishlar qalay?
+[19:19] Farrukh Tashkentov: Andijongacha taxminan 441 km qoldi.
+[19:44] Zarina: Holatingiz qanday?
+[19:46] Farrukh Tashkentov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:10] Zarina: LD-38609 bilan ishlar qalay?
+[20:12] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:58] Zarina: LD-38609 bilan ishlar qalay?
+[21:00] Farrukh Tashkentov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[21:47] Zarina: Yo'lda yangilik bormi?
+[21:49] Farrukh Tashkentov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:13] Zarina: Yo'lda yangilik bormi?
+[22:15] Farrukh Tashkentov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:12] Zarina: LD-38609 bilan ishlar qalay?
+[23:14] Farrukh Tashkentov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[23:33] Zarina: Yo'lda yangilik bormi?
+[23:35] Farrukh Tashkentov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:09] Zarina: Holatingiz qanday?
+[00:11] Farrukh Tashkentov: Andijongacha taxminan 492 km qoldi.
+[01:40] Farrukh Tashkentov: LD-38609 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[01:42] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[01:44] Farrukh Tashkentov: Ha, hozir rasmga olaman.
+[01:45] Farrukh Tashkentov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[01:47] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[01:49] Farrukh Tashkentov: Tushunarli.
+[01:51] Zarina: Rahmat, aloqada bo'lamiz.

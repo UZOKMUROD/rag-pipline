@@ -1,0 +1,149 @@
+Chat Log #317
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #437 (tentli furgon)
+Operator: Nodira
+Load: LD-54484 | Route: Toshkent -> Namangan
+Date: 2026-03-21
+--------------------------------------------------
+[18:14] Nodira: Shavkat, bir daqiqa bormi?
+[18:15] Shavkat Ergashev: Ha, aytavering.
+[18:17] Nodira: Siz uchun yuk bor - LD-54484, tentli furgon, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[18:19] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[18:21] Nodira: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[18:23] Shavkat Ergashev: Bu reys uchun narx qancha?
+[18:25] Nodira: 2591 ming so'm, 812 km.
+[18:27] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[18:29] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[18:32] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[19:14] Nodira: Yo'lda yangilik bormi?
+[19:16] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[19:18] Nodira: Taxminan qachon yetib borasiz?
+[19:20] Shavkat Ergashev: Ehtimol 5pm, balki ertaroq.
+[20:44] Nodira: Yo'lda yangilik bormi?
+[20:46] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:49] Nodira: Biror narsa kerak bo'lsa ayting.
+[20:51] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[22:15] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:17] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[23:13] Nodira: Yo'lda yangilik bormi?
+[23:15] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:18] Nodira: Xabar berib turganingiz uchun rahmat.
+[23:20] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[23:44] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[23:46] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[23:48] Nodira: Taxminan qachon yetib borasiz?
+[23:50] Shavkat Ergashev: Taxminan 5pmda yetib boraman.
+[00:05] Nodira: LD-54484 bilan ishlar qalay?
+[00:07] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:10] Nodira: Xabar berib turganingiz uchun rahmat.
+[00:12] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[00:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:39] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[01:42] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:44] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[02:03] Nodira: Yo'lda yangilik bormi?
+[02:05] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[02:28] Nodira: Hozir qayerdasiz?
+[02:30] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[02:33] Nodira: Biror narsa kerak bo'lsa ayting.
+[02:35] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[02:37] Nodira: Taxminan qachon yetib borasiz?
+[02:39] Shavkat Ergashev: Ehtimol 5pm, balki ertaroq.
+[04:08] Nodira: Holatingiz qanday?
+[04:10] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[04:13] Nodira: Biror narsa kerak bo'lsa ayting.
+[04:15] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[05:00] Nodira: Hozir qayerdasiz?
+[05:02] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[05:04] Nodira: Taxminan qachon yetib borasiz?
+[05:06] Shavkat Ergashev: Ehtimol 7pm, balki ertaroq.
+[06:13] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[06:15] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[07:28] Nodira: LD-54484 bilan ishlar qalay?
+[07:30] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:43] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:45] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:48] Nodira: Biror narsa kerak bo'lsa ayting.
+[08:50] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[08:52] Nodira: Taxminan qachon yetib borasiz?
+[08:54] Shavkat Ergashev: Taxminan noonda yetib boraman.
+[09:27] Nodira: Holatingiz qanday?
+[09:29] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[10:34] Nodira: LD-54484 bilan ishlar qalay?
+[10:36] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:50] Nodira: Holatingiz qanday?
+[11:52] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:04] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:06] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[13:09] Nodira: Biror narsa kerak bo'lsa ayting.
+[13:11] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:31] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:33] Shavkat Ergashev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[13:36] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[13:38] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[14:28] Nodira: Yo'lda yangilik bormi?
+[14:30] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:49] Shavkat Ergashev: Muammo chiqdi, yo'l ta'miri sekinlashtiryapti LD-54484da. Yo'l chetiga to'xtadim.
+[14:50] Nodira: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[14:52] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[14:54] Nodira: A376 yo'lida 221-belgida turibman.
+[14:59] Nodira: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[15:59] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[16:40] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:42] Shavkat Ergashev: Namangangacha taxminan 354 km qoldi.
+[17:37] Nodira: Yo'lda yangilik bormi?
+[17:39] Shavkat Ergashev: Namangangacha taxminan 96 km qoldi.
+[18:12] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:14] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:46] Nodira: LD-54484 bilan ishlar qalay?
+[18:48] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:17] Nodira: LD-54484 bilan ishlar qalay?
+[19:19] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[19:53] Nodira: Holatingiz qanday?
+[19:55] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:37] Nodira: Yo'lda yangilik bormi?
+[20:39] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:09] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:11] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:01] Nodira: Yo'lda yangilik bormi?
+[22:03] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:32] Nodira: LD-54484 bilan ishlar qalay?
+[22:34] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:58] Nodira: Hozir qayerdasiz?
+[23:00] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[23:46] Nodira: Yo'lda yangilik bormi?
+[23:48] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:42] Nodira: Hozir qayerdasiz?
+[00:44] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:15] Nodira: Yo'lda yangilik bormi?
+[01:17] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:45] Nodira: LD-54484 bilan ishlar qalay?
+[01:47] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:28] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[02:30] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:09] Nodira: LD-54484 bilan ishlar qalay?
+[03:11] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:46] Nodira: Holatingiz qanday?
+[03:48] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:42] Nodira: Holatingiz qanday?
+[04:44] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:39] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:56] Nodira: Hozir qayerdasiz?
+[05:58] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:30] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[06:32] Shavkat Ergashev: Namangangacha taxminan 233 km qoldi.
+[06:56] Nodira: Yo'lda yangilik bormi?
+[06:58] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:26] Nodira: LD-54484 bilan ishlar qalay?
+[07:28] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[08:06] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[08:08] Shavkat Ergashev: Namangangacha taxminan 47 km qoldi.
+[09:22] Shavkat Ergashev: LD-54484 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[09:24] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[09:26] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[09:27] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[09:29] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[09:31] Shavkat Ergashev: Yaxshi.
+[09:33] Nodira: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

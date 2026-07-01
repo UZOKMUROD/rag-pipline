@@ -1,0 +1,127 @@
+Chat Log #201
+Company: Silk Road Logistics
+Language: English
+Driver: David Jackson | Truck: #823 (flatbed)
+Operator: Rachel
+Load: LD-17450 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-05-12
+--------------------------------------------------
+[18:29] Rachel: Morning David, you there?
+[18:30] David Jackson: Yeah, go ahead.
+[18:32] Rachel: Got a load for you - LD-17450, flatbed, pickup in Chicago, IL, delivery to Memphis, TN.
+[18:34] David Jackson: Ok, what's the pickup window?
+[18:36] Rachel: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[18:38] David Jackson: What's the rate on this one?
+[18:40] Rachel: $3719 all in, 975 miles.
+[18:42] David Jackson: Sounds good, I'll take it.
+[18:44] Rachel: Great, sending the rate confirmation now.
+[18:47] David Jackson: Got it, signed and sent back.
+[19:28] Rachel: Still on schedule?
+[19:30] David Jackson: Stopping for fuel in a bit.
+[19:55] Rachel: Where are you at right now?
+[19:57] David Jackson: Stopped for a quick break, back on the road in a few.
+[20:00] Rachel: Long trip, huh? Get some rest when you can.
+[20:02] David Jackson: Yeah, long one, but manageable.
+[20:33] Rachel: Still on schedule?
+[20:35] David Jackson: Doing alright, just tired.
+[20:38] Rachel: Let me know if you need anything.
+[20:40] David Jackson: Yeah, long one, but manageable.
+[21:14] Rachel: Any updates on your progress?
+[21:16] David Jackson: Roads are clear now, moving well.
+[22:03] Rachel: How's LD-17450 looking?
+[22:05] David Jackson: Clear skies here, no problems.
+[22:21] Rachel: How's LD-17450 looking?
+[22:23] David Jackson: Roads are wet, taking it easy.
+[23:00] Rachel: Still on schedule?
+[23:02] David Jackson: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[23:04] Rachel: What's your ETA?
+[23:06] David Jackson: Should be there around 10am.
+[23:59] Rachel: How's LD-17450 looking?
+[00:01] David Jackson: Stopped for a quick break, back on the road in a few.
+[00:04] Rachel: Long trip, huh? Get some rest when you can.
+[00:06] David Jackson: Will do, thanks for checking in.
+[01:13] Rachel: How's LD-17450 looking?
+[01:15] David Jackson: Stopping for fuel in a bit.
+[01:18] Rachel: Let me know if you need anything.
+[01:20] David Jackson: No problem, just doing my job.
+[01:45] Rachel: What's your status?
+[01:47] David Jackson: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[02:58] Rachel: How's LD-17450 looking?
+[03:00] David Jackson: No problem, just doing my job.
+[03:03] Rachel: Long trip, huh? Get some rest when you can.
+[03:05] David Jackson: Will do, thanks for checking in.
+[03:27] Rachel: Where are you at right now?
+[03:29] David Jackson: Just crossed the state line, all good.
+[03:32] Rachel: Long trip, huh? Get some rest when you can.
+[03:34] David Jackson: Yeah, long one, but manageable.
+[03:59] Rachel: Still on schedule?
+[04:01] David Jackson: Just crossed the state line, all good.
+[04:51] Rachel: Still on schedule?
+[04:53] David Jackson: Just topped off the tank.
+[05:53] Rachel: Any updates on your progress?
+[05:55] David Jackson: Just passed Chicago, IL, everything's fine.
+[05:57] Rachel: What's your ETA?
+[05:59] David Jackson: Probably 7pm, maybe a bit earlier.
+[06:32] Rachel: How's LD-17450 looking?
+[06:34] David Jackson: Traffic's a bit heavy but I'm still on schedule.
+[06:37] Rachel: Long trip, huh? Get some rest when you can.
+[06:39] David Jackson: No problem, just doing my job.
+[07:12] Rachel: Still on schedule?
+[07:14] David Jackson: About 80 miles out from Memphis, TN now.
+[07:42] Rachel: What's your status?
+[07:44] David Jackson: Clear skies here, no problems.
+[07:47] Rachel: Let me know if you need anything.
+[07:49] David Jackson: No problem, just doing my job.
+[09:04] Rachel: What's your status?
+[09:06] David Jackson: Stopping for fuel in a bit.
+[09:59] Rachel: How's LD-17450 looking?
+[10:01] David Jackson: Just passed Chicago, IL, everything's fine.
+[11:08] Rachel: How's LD-17450 looking?
+[11:10] David Jackson: Making good time, no issues so far.
+[11:13] Rachel: Long trip, huh? Get some rest when you can.
+[11:15] David Jackson: Will do, thanks for checking in.
+[11:50] Rachel: Any updates on your progress?
+[11:52] David Jackson: Weather's getting rough up ahead, heads up.
+[11:55] Rachel: Long trip, huh? Get some rest when you can.
+[11:57] David Jackson: Doing alright, just tired.
+[12:19] David Jackson: I've got a problem, the check engine light coming on on LD-17450. Pulled over on the shoulder.
+[12:20] Rachel: Are you safe? Anyone hurt?
+[12:22] David Jackson: Yeah I'm fine, just need roadside assistance.
+[12:24] Rachel: Mile marker 105 on I-10.
+[12:29] Rachel: Truck is on the way, ETA about 30 min.
+[13:54] David Jackson: Fixed and rolling again.
+[14:40] Rachel: How's LD-17450 looking?
+[14:42] David Jackson: About 543 miles out from Memphis, TN now.
+[15:32] Rachel: Still on schedule?
+[15:34] David Jackson: Just crossed the state line, all good.
+[16:04] Rachel: Where are you at right now?
+[16:06] David Jackson: Stopped for a quick break, back on the road in a few.
+[16:51] Rachel: How's LD-17450 looking?
+[16:53] David Jackson: Stopped for a quick break, back on the road in a few.
+[17:33] Rachel: Any updates on your progress?
+[17:35] David Jackson: Traffic's a bit heavy but I'm still on schedule.
+[18:26] Rachel: Where are you at right now?
+[18:28] David Jackson: Traffic's a bit heavy but I'm still on schedule.
+[19:20] Rachel: How's LD-17450 looking?
+[19:22] David Jackson: Just crossed the state line, all good.
+[19:43] Rachel: What's your status?
+[19:45] David Jackson: About 221 miles out from Memphis, TN now.
+[20:07] Rachel: Where are you at right now?
+[20:09] David Jackson: Traffic's a bit heavy but I'm still on schedule.
+[20:39] Rachel: How's LD-17450 looking?
+[20:41] David Jackson: Just crossed the state line, all good.
+[21:38] Rachel: What's your status?
+[21:40] David Jackson: Just crossed the state line, all good.
+[22:08] Rachel: Any updates on your progress?
+[22:10] David Jackson: About 44 miles out from Memphis, TN now.
+[22:41] Rachel: Any updates on your progress?
+[22:43] David Jackson: Traffic's a bit heavy but I'm still on schedule.
+[23:05] Rachel: Still on schedule?
+[23:07] David Jackson: Just passed Memphis, TN, everything's fine.
+[00:28] David Jackson: Just delivered LD-17450 at Memphis, TN, all good, no damages.
+[00:30] Rachel: Do you have the signed BOL?
+[00:32] David Jackson: Yep, taking a picture now.
+[00:33] David Jackson: [Image attached: signed_bol.jpg]
+[00:35] Rachel: Sending you the next load details shortly.
+[00:37] David Jackson: Sounds good.
+[00:39] Rachel: Great work, thank you.

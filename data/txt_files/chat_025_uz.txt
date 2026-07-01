@@ -1,0 +1,146 @@
+Chat Log #025
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ulugbek Nazarov | Truck: #809 (tentli furgon)
+Operator: Nodira
+Load: LD-45840 | Route: Buxoro -> Navoiy
+Date: 2026-03-12
+--------------------------------------------------
+[15:41] Nodira: Salom, Ulugbek, ishlar qalay?
+[15:42] Ulugbek Nazarov: Xayrli tong, menda hammasi yaxshi.
+[15:44] Nodira: Siz uchun yuk bor - LD-45840, tentli furgon, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[15:46] Ulugbek Nazarov: Tushunarli, yuklash vaqti qachon?
+[15:48] Nodira: Yuklash 09:00-11:00, tushirish esa ertaga 09:00 bo'ladi.
+[15:50] Ulugbek Nazarov: Bu reys uchun narx qancha?
+[15:52] Nodira: 3191 ming so'm, 661 km.
+[15:54] Ulugbek Nazarov: Yaxshi, bu reysni olaman.
+[15:56] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[15:59] Ulugbek Nazarov: Oldim, imzolab qaytarib yubordim.
+[17:19] Nodira: LD-45840 bilan ishlar qalay?
+[17:21] Ulugbek Nazarov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:24] Nodira: Xabar berib turganingiz uchun rahmat.
+[17:26] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:52] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:54] Ulugbek Nazarov: Oldinda avariya bo'lgan, tirbandlik bor.
+[19:48] Nodira: LD-45840 bilan ishlar qalay?
+[19:50] Ulugbek Nazarov: Osmon ochiq, muammo yo'q.
+[19:53] Nodira: Biror narsa kerak bo'lsa ayting.
+[19:55] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[21:21] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:23] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[21:38] Nodira: Yo'lda yangilik bormi?
+[21:40] Ulugbek Nazarov: Navoiygacha taxminan 176 km qoldi.
+[21:43] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:45] Ulugbek Nazarov: Ha, uzoq, lekin chidayapman.
+[23:13] Nodira: Holatingiz qanday?
+[23:15] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:18] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:20] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:37] Nodira: LD-45840 bilan ishlar qalay?
+[00:39] Ulugbek Nazarov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[00:42] Nodira: Biror narsa kerak bo'lsa ayting.
+[00:44] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[02:01] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[02:03] Ulugbek Nazarov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[02:06] Nodira: Xabar berib turganingiz uchun rahmat.
+[02:08] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[02:26] Nodira: Holatingiz qanday?
+[02:28] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[03:16] Nodira: Holatingiz qanday?
+[03:18] Ulugbek Nazarov: Osmon ochiq, muammo yo'q.
+[04:44] Nodira: Holatingiz qanday?
+[04:46] Ulugbek Nazarov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[05:28] Nodira: Holatingiz qanday?
+[05:30] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:11] Nodira: Yo'lda yangilik bormi?
+[06:13] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[06:16] Nodira: O'zingizni qalay his qilyapsiz?
+[06:18] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[07:11] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[07:13] Ulugbek Nazarov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:04] Nodira: Holatingiz qanday?
+[08:06] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:09] Nodira: O'zingizni qalay his qilyapsiz?
+[08:11] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[08:55] Nodira: Hozir qayerdasiz?
+[08:57] Ulugbek Nazarov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[09:00] Nodira: Biror narsa kerak bo'lsa ayting.
+[09:02] Ulugbek Nazarov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:31] Nodira: Hozir qayerdasiz?
+[09:33] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:36] Nodira: O'zingizni qalay his qilyapsiz?
+[09:38] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[10:33] Nodira: Yo'lda yangilik bormi?
+[10:35] Ulugbek Nazarov: Yaxshi, faqat biroz charchadim.
+[10:38] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[10:40] Ulugbek Nazarov: Hammasi joyida, ishimni qilyapman.
+[11:37] Nodira: Hozir qayerdasiz?
+[11:39] Ulugbek Nazarov: Navoiy yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[12:18] Ulugbek Nazarov: Hali ham omborda turibman, deyarli 4 soat bo'ldi.
+[12:20] Nodira: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[12:30] Nodira: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[12:32] Ulugbek Nazarov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[12:34] Nodira: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[13:34] Nodira: Holatingiz qanday?
+[13:36] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:13] Nodira: Holatingiz qanday?
+[14:15] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[14:31] Nodira: Hozir qayerdasiz?
+[14:33] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[15:23] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[15:25] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:18] Nodira: Hozir qayerdasiz?
+[16:20] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[16:41] Nodira: Yo'lda yangilik bormi?
+[16:43] Ulugbek Nazarov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[17:13] Nodira: Yo'lda yangilik bormi?
+[17:15] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[17:51] Nodira: Holatingiz qanday?
+[17:53] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:47] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[18:49] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:05] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:07] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:50] Nodira: Hozir qayerdasiz?
+[19:52] Ulugbek Nazarov: Navoiygacha taxminan 441 km qoldi.
+[20:44] Nodira: Hozir qayerdasiz?
+[20:46] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:44] Nodira: LD-45840 bilan ishlar qalay?
+[21:46] Ulugbek Nazarov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:17] Nodira: Holatingiz qanday?
+[22:19] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:35] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[22:37] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:55] Nodira: Holatingiz qanday?
+[22:57] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:49] Nodira: LD-45840 bilan ishlar qalay?
+[23:51] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:46] Nodira: Yo'lda yangilik bormi?
+[00:48] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[01:09] Nodira: Holatingiz qanday?
+[01:11] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:53] Nodira: Hozir qayerdasiz?
+[01:55] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:40] Nodira: Yo'lda yangilik bormi?
+[02:42] Ulugbek Nazarov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:08] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:10] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[04:00] Nodira: Holatingiz qanday?
+[04:02] Ulugbek Nazarov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[04:59] Nodira: Hozir qayerdasiz?
+[05:01] Ulugbek Nazarov: Navoiygacha taxminan 442 km qoldi.
+[05:46] Nodira: Holatingiz qanday?
+[05:48] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:34] Nodira: Yo'lda yangilik bormi?
+[06:36] Ulugbek Nazarov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:57] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[06:59] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:37] Nodira: Yo'lda yangilik bormi?
+[07:39] Ulugbek Nazarov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:37] Ulugbek Nazarov: LD-45840 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[08:39] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[08:41] Ulugbek Nazarov: Ha, hozir rasmga olaman.
+[08:42] Ulugbek Nazarov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[08:44] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[08:46] Ulugbek Nazarov: Tushundim.
+[08:48] Nodira: Ajoyib ish, rahmat.

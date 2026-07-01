@@ -1,0 +1,129 @@
+Chat Log #138
+Company: Silk Road Logistics
+Language: English
+Driver: Andre Anderson | Truck: #104 (dry van)
+Operator: Emily
+Load: LD-12714 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-06-24
+--------------------------------------------------
+[15:34] Emily: Hey Andre, how's it going?
+[15:35] Andre Anderson: Hey, yeah I'm here.
+[15:37] Emily: Got a load for you - LD-12714, dry van, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[15:39] Andre Anderson: Ok, what's the pickup window?
+[15:41] Emily: Pickup is 08:00-10:00, delivery appointment is 07:30 the next day.
+[15:43] Andre Anderson: What's the rate on this one?
+[15:45] Emily: $1847 all in, 803 miles.
+[15:47] Andre Anderson: Sounds good, I'll take it.
+[15:49] Emily: Great, sending the rate confirmation now.
+[15:52] Andre Anderson: Got it, signed and sent back.
+[17:02] Emily: Still on schedule?
+[17:04] Andre Anderson: Stopping for fuel in a bit.
+[17:47] Emily: Any updates on your progress?
+[17:49] Andre Anderson: Construction zone slowing everyone down.
+[17:52] Emily: Long trip, huh? Get some rest when you can.
+[17:54] Andre Anderson: Yeah, long one, but manageable.
+[18:22] Emily: Where are you at right now?
+[18:24] Andre Anderson: No problem, just doing my job.
+[18:27] Emily: Let me know if you need anything.
+[18:29] Andre Anderson: Will do, thanks for checking in.
+[18:55] Emily: How's LD-12714 looking?
+[18:57] Andre Anderson: Rain is picking up here, slowing down a bit.
+[19:34] Emily: How's LD-12714 looking?
+[19:36] Andre Anderson: Just crossed the state line, all good.
+[19:39] Emily: Appreciate you keeping me posted.
+[19:41] Andre Anderson: Doing alright, just tired.
+[20:43] Emily: How's LD-12714 looking?
+[20:45] Andre Anderson: Accident up ahead, traffic's backed up.
+[21:10] Emily: Still on schedule?
+[21:12] Andre Anderson: Fuel prices are decent around here.
+[21:15] Emily: Long trip, huh? Get some rest when you can.
+[21:17] Andre Anderson: Will do, thanks for checking in.
+[21:39] Emily: What's your status?
+[21:41] Andre Anderson: Stopped for a quick break, back on the road in a few.
+[23:10] Emily: How's LD-12714 looking?
+[23:12] Andre Anderson: Fuel prices are decent around here.
+[23:30] Emily: How's LD-12714 looking?
+[23:32] Andre Anderson: Just crossed the state line, all good.
+[23:34] Emily: What's your ETA?
+[23:36] Andre Anderson: Should be there around noon.
+[23:56] Emily: Still on schedule?
+[23:58] Andre Anderson: Roads are clear now, moving well.
+[01:17] Emily: Where are you at right now?
+[01:19] Andre Anderson: Construction zone slowing everyone down.
+[01:47] Emily: How's LD-12714 looking?
+[01:49] Andre Anderson: No problem, just doing my job.
+[03:07] Emily: Still on schedule?
+[03:09] Andre Anderson: Traffic's a bit heavy but I'm still on schedule.
+[03:12] Emily: Long trip, huh? Get some rest when you can.
+[03:14] Andre Anderson: Yeah, long one, but manageable.
+[04:11] Emily: Any updates on your progress?
+[04:13] Andre Anderson: Stopping for fuel in a bit.
+[04:15] Emily: What's your ETA?
+[04:17] Andre Anderson: Should be there around noon.
+[05:24] Emily: How's LD-12714 looking?
+[05:26] Andre Anderson: Hit some traffic near Pittsburgh, PA, adding maybe 20 minutes.
+[06:22] Emily: Where are you at right now?
+[06:24] Andre Anderson: Stopped for a quick break, back on the road in a few.
+[06:48] Andre Anderson: I've got a problem, road construction slowing things down on LD-12714. Pulled over on the shoulder.
+[06:49] Emily: Are you safe? Anyone hurt?
+[06:51] Andre Anderson: Yeah I'm fine, just need roadside assistance.
+[06:53] Emily: Mile marker 269 on I-35.
+[06:58] Emily: Truck is on the way, ETA about 1.5 hours.
+[08:02] Andre Anderson: Fixed and rolling again.
+[08:59] Emily: How's LD-12714 looking?
+[09:01] Andre Anderson: Just passed Pittsburgh, PA, everything's fine.
+[09:46] Emily: What's your status?
+[09:48] Andre Anderson: Making good time, no issues so far.
+[10:47] Emily: Where are you at right now?
+[10:49] Andre Anderson: Stopped for a quick break, back on the road in a few.
+[11:13] Emily: What's your status?
+[11:15] Andre Anderson: Making good time, no issues so far.
+[11:38] Emily: What's your status?
+[11:40] Andre Anderson: Traffic's a bit heavy but I'm still on schedule.
+[11:55] Emily: Any updates on your progress?
+[11:57] Andre Anderson: Making good time, no issues so far.
+[12:25] Emily: Still on schedule?
+[12:27] Andre Anderson: Just crossed the state line, all good.
+[13:04] Emily: Where are you at right now?
+[13:06] Andre Anderson: Just crossed the state line, all good.
+[13:22] Emily: Where are you at right now?
+[13:24] Andre Anderson: Just crossed the state line, all good.
+[13:51] Emily: Any updates on your progress?
+[13:53] Andre Anderson: Traffic's a bit heavy but I'm still on schedule.
+[14:28] Emily: How's LD-12714 looking?
+[14:30] Andre Anderson: Just passed Columbus, OH, everything's fine.
+[14:50] Emily: Still on schedule?
+[14:52] Andre Anderson: Just crossed the state line, all good.
+[15:19] Emily: Where are you at right now?
+[15:21] Andre Anderson: Traffic's a bit heavy but I'm still on schedule.
+[16:13] Emily: Any updates on your progress?
+[16:15] Andre Anderson: Traffic's a bit heavy but I'm still on schedule.
+[16:50] Emily: Still on schedule?
+[16:52] Andre Anderson: Making good time, no issues so far.
+[17:35] Emily: What's your status?
+[17:37] Andre Anderson: Just passed Pittsburgh, PA, everything's fine.
+[17:53] Emily: How's LD-12714 looking?
+[17:55] Andre Anderson: Stopped for a quick break, back on the road in a few.
+[18:21] Emily: Any updates on your progress?
+[18:23] Andre Anderson: Making good time, no issues so far.
+[19:22] Emily: Still on schedule?
+[19:24] Andre Anderson: Making good time, no issues so far.
+[20:10] Emily: Where are you at right now?
+[20:12] Andre Anderson: Stopped for a quick break, back on the road in a few.
+[21:07] Emily: Still on schedule?
+[21:09] Andre Anderson: Making good time, no issues so far.
+[21:25] Emily: Still on schedule?
+[21:27] Andre Anderson: About 332 miles out from Pittsburgh, PA now.
+[22:01] Emily: Still on schedule?
+[22:03] Andre Anderson: Just crossed the state line, all good.
+[22:36] Emily: Still on schedule?
+[22:38] Andre Anderson: About 405 miles out from Pittsburgh, PA now.
+[22:56] Emily: Where are you at right now?
+[22:58] Andre Anderson: Making good time, no issues so far.
+[23:41] Andre Anderson: Just delivered LD-12714 at Pittsburgh, PA, all good, no damages.
+[23:43] Emily: Do you have the signed BOL?
+[23:45] Andre Anderson: Yep, taking a picture now.
+[23:46] Andre Anderson: [Image attached: signed_bol.jpg]
+[23:48] Emily: Sending you the next load details shortly.
+[23:50] Andre Anderson: Will do.
+[23:52] Emily: Great work, thank you.

@@ -1,0 +1,131 @@
+Chat Log #221
+Company: Silk Road Logistics
+Language: English
+Driver: Anthony Lopez | Truck: #930 (dry van)
+Operator: Rachel
+Load: LD-33339 | Route: Columbus, OH -> Pittsburgh, PA
+Date: 2026-01-05
+--------------------------------------------------
+[13:13] Rachel: Hey Anthony, how's it going?
+[13:14] Anthony Lopez: Yeah, go ahead.
+[13:16] Rachel: Got a load for you - LD-33339, dry van, pickup in Columbus, OH, delivery to Pittsburgh, PA.
+[13:18] Anthony Lopez: Ok, what's the pickup window?
+[13:20] Rachel: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[13:22] Anthony Lopez: What's the rate on this one?
+[13:24] Rachel: $1825 all in, 577 miles.
+[13:26] Anthony Lopez: Sounds good, I'll take it.
+[13:28] Rachel: Great, sending the rate confirmation now.
+[13:31] Anthony Lopez: Got it, signed and sent back.
+[14:26] Rachel: How's LD-33339 looking?
+[14:28] Anthony Lopez: Accident up ahead, traffic's backed up.
+[15:17] Rachel: Any updates on your progress?
+[15:19] Anthony Lopez: Stopping for fuel in a bit.
+[16:03] Rachel: Where are you at right now?
+[16:05] Anthony Lopez: Hit some traffic near Columbus, OH, adding maybe 20 minutes.
+[16:08] Rachel: Long trip, huh? Get some rest when you can.
+[16:10] Anthony Lopez: Will do, thanks for checking in.
+[17:07] Rachel: Still on schedule?
+[17:09] Anthony Lopez: Stopping for fuel in a bit.
+[17:11] Rachel: What's your ETA?
+[17:13] Anthony Lopez: Probably 5pm, maybe a bit earlier.
+[18:39] Rachel: Any updates on your progress?
+[18:41] Anthony Lopez: Will do, thanks for checking in.
+[18:43] Rachel: What's your ETA?
+[18:45] Anthony Lopez: Looking at 3pm if traffic stays clear.
+[20:11] Rachel: How's LD-33339 looking?
+[20:13] Anthony Lopez: Stopping for fuel in a bit.
+[21:24] Rachel: Still on schedule?
+[21:26] Anthony Lopez: Fuel prices are decent around here.
+[22:04] Rachel: What's your status?
+[22:06] Anthony Lopez: Clear skies here, no problems.
+[22:09] Rachel: Let me know if you need anything.
+[22:11] Anthony Lopez: No problem, just doing my job.
+[23:28] Rachel: How's LD-33339 looking?
+[23:30] Anthony Lopez: About 261 miles out from Pittsburgh, PA now.
+[00:24] Rachel: Any updates on your progress?
+[00:26] Anthony Lopez: Just passed Pittsburgh, PA, everything's fine.
+[00:28] Rachel: What's your ETA?
+[00:30] Anthony Lopez: Should be there around 10am.
+[01:20] Rachel: Any updates on your progress?
+[01:22] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[01:25] Rachel: How are you holding up out there?
+[01:27] Anthony Lopez: Yeah, long one, but manageable.
+[01:29] Rachel: What's your ETA?
+[01:31] Anthony Lopez: Should be there around 5pm.
+[01:55] Rachel: How's LD-33339 looking?
+[01:57] Anthony Lopez: Rain is picking up here, slowing down a bit.
+[01:59] Rachel: What's your ETA?
+[02:01] Anthony Lopez: Looking at noon if traffic stays clear.
+[03:20] Rachel: Where are you at right now?
+[03:22] Anthony Lopez: About 87 miles out from Pittsburgh, PA now.
+[03:49] Rachel: Any updates on your progress?
+[03:51] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[03:54] Rachel: Let me know if you need anything.
+[03:56] Anthony Lopez: No problem, just doing my job.
+[04:52] Rachel: Where are you at right now?
+[04:54] Anthony Lopez: Clear skies here, no problems.
+[05:21] Rachel: Any updates on your progress?
+[05:23] Anthony Lopez: Will do, thanks for checking in.
+[05:25] Rachel: What's your ETA?
+[05:27] Anthony Lopez: Looking at 5pm if traffic stays clear.
+[06:48] Rachel: How's LD-33339 looking?
+[06:50] Anthony Lopez: Roads are wet, taking it easy.
+[06:52] Rachel: What's your ETA?
+[06:54] Anthony Lopez: Should be there around 3pm.
+[07:40] Rachel: Still on schedule?
+[07:42] Anthony Lopez: Weather's getting rough up ahead, heads up.
+[08:08] Anthony Lopez: I've got a problem, a flat tire on LD-33339. Pulled over on the shoulder.
+[08:09] Rachel: Are you safe? Anyone hurt?
+[08:11] Anthony Lopez: Yeah I'm fine, just need roadside assistance.
+[08:13] Rachel: Mile marker 222 on I-70.
+[08:18] Rachel: Truck is on the way, ETA about 1 hour.
+[09:31] Anthony Lopez: Fixed and rolling again.
+[10:07] Rachel: Where are you at right now?
+[10:09] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[10:34] Rachel: How's LD-33339 looking?
+[10:36] Anthony Lopez: Just passed Pittsburgh, PA, everything's fine.
+[11:11] Rachel: What's your status?
+[11:13] Anthony Lopez: Just crossed the state line, all good.
+[11:53] Rachel: What's your status?
+[11:55] Anthony Lopez: About 490 miles out from Pittsburgh, PA now.
+[12:39] Rachel: How's LD-33339 looking?
+[12:41] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[13:35] Rachel: What's your status?
+[13:37] Anthony Lopez: About 205 miles out from Pittsburgh, PA now.
+[14:13] Rachel: Still on schedule?
+[14:15] Anthony Lopez: Just passed Pittsburgh, PA, everything's fine.
+[14:33] Rachel: Still on schedule?
+[14:35] Anthony Lopez: Just crossed the state line, all good.
+[15:33] Rachel: What's your status?
+[15:35] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[16:17] Rachel: What's your status?
+[16:19] Anthony Lopez: Just passed Pittsburgh, PA, everything's fine.
+[16:45] Rachel: Where are you at right now?
+[16:47] Anthony Lopez: Just crossed the state line, all good.
+[17:15] Rachel: What's your status?
+[17:17] Anthony Lopez: Making good time, no issues so far.
+[18:15] Rachel: What's your status?
+[18:17] Anthony Lopez: Just crossed the state line, all good.
+[19:02] Rachel: Any updates on your progress?
+[19:04] Anthony Lopez: Making good time, no issues so far.
+[19:50] Rachel: Any updates on your progress?
+[19:52] Anthony Lopez: Traffic's a bit heavy but I'm still on schedule.
+[20:21] Rachel: What's your status?
+[20:23] Anthony Lopez: Just passed Columbus, OH, everything's fine.
+[21:01] Rachel: How's LD-33339 looking?
+[21:03] Anthony Lopez: Just passed Pittsburgh, PA, everything's fine.
+[21:19] Rachel: Still on schedule?
+[21:21] Anthony Lopez: Stopped for a quick break, back on the road in a few.
+[22:08] Rachel: Still on schedule?
+[22:10] Anthony Lopez: Making good time, no issues so far.
+[22:55] Rachel: Still on schedule?
+[22:57] Anthony Lopez: Just passed Columbus, OH, everything's fine.
+[23:28] Rachel: Still on schedule?
+[23:30] Anthony Lopez: Just passed Columbus, OH, everything's fine.
+[00:43] Anthony Lopez: Just delivered LD-33339 at Pittsburgh, PA, all good, no damages.
+[00:45] Rachel: Do you have the signed BOL?
+[00:47] Anthony Lopez: Yep, taking a picture now.
+[00:48] Anthony Lopez: [Image attached: signed_bol.jpg]
+[00:50] Rachel: Sending you the next load details shortly.
+[00:52] Anthony Lopez: Copy that.
+[00:54] Rachel: Appreciate it, talk soon.

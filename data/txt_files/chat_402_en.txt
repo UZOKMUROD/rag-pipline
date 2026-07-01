@@ -1,0 +1,131 @@
+Chat Log #402
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Taylor | Truck: #270 (flatbed)
+Operator: Rachel
+Load: LD-37081 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-05-16
+--------------------------------------------------
+[07:07] Rachel: Hey Andrew, how's it going?
+[07:08] Andrew Taylor: Morning, all good on my end.
+[07:10] Rachel: Got a load for you - LD-37081, flatbed, pickup in Detroit, MI, delivery to Cleveland, OH.
+[07:12] Andrew Taylor: Ok, what's the pickup window?
+[07:14] Rachel: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[07:16] Andrew Taylor: What's the rate on this one?
+[07:18] Rachel: $3524 all in, 850 miles.
+[07:20] Andrew Taylor: Sounds good, I'll take it.
+[07:22] Rachel: Great, sending the rate confirmation now.
+[07:25] Andrew Taylor: Got it, signed and sent back.
+[08:34] Rachel: Where are you at right now?
+[08:36] Andrew Taylor: Stopping for fuel in a bit.
+[08:39] Rachel: Let me know if you need anything.
+[08:41] Andrew Taylor: No problem, just doing my job.
+[10:08] Rachel: What's your status?
+[10:10] Andrew Taylor: Fuel prices are decent around here.
+[10:13] Rachel: Let me know if you need anything.
+[10:15] Andrew Taylor: No problem, just doing my job.
+[11:32] Rachel: Still on schedule?
+[11:34] Andrew Taylor: Just crossed the state line, all good.
+[11:37] Rachel: Appreciate you keeping me posted.
+[11:39] Andrew Taylor: No problem, just doing my job.
+[12:47] Rachel: Still on schedule?
+[12:49] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[13:15] Rachel: Where are you at right now?
+[13:17] Andrew Taylor: Roads are clear now, moving well.
+[14:43] Rachel: How's LD-37081 looking?
+[14:45] Andrew Taylor: Roads are clear now, moving well.
+[16:02] Rachel: What's your status?
+[16:04] Andrew Taylor: Fuel prices are decent around here.
+[16:06] Rachel: What's your ETA?
+[16:08] Andrew Taylor: Should be there around 3pm.
+[16:43] Rachel: How's LD-37081 looking?
+[16:45] Andrew Taylor: Just passed Detroit, MI, everything's fine.
+[16:48] Rachel: Let me know if you need anything.
+[16:50] Andrew Taylor: No problem, just doing my job.
+[16:52] Rachel: What's your ETA?
+[16:54] Andrew Taylor: Probably noon, maybe a bit earlier.
+[17:51] Rachel: Still on schedule?
+[17:53] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[17:56] Rachel: Let me know if you need anything.
+[17:58] Andrew Taylor: Will do, thanks for checking in.
+[18:00] Rachel: What's your ETA?
+[18:02] Andrew Taylor: Probably 10am, maybe a bit earlier.
+[18:49] Rachel: Any updates on your progress?
+[18:51] Andrew Taylor: Yeah, long one, but manageable.
+[20:08] Rachel: Still on schedule?
+[20:10] Andrew Taylor: Accident up ahead, traffic's backed up.
+[20:13] Rachel: How are you holding up out there?
+[20:15] Andrew Taylor: Doing alright, just tired.
+[20:36] Rachel: What's your status?
+[20:38] Andrew Taylor: About 263 miles out from Cleveland, OH now.
+[20:41] Rachel: Let me know if you need anything.
+[20:43] Andrew Taylor: Will do, thanks for checking in.
+[22:00] Rachel: What's your status?
+[22:02] Andrew Taylor: Roads are clear now, moving well.
+[22:05] Rachel: How are you holding up out there?
+[22:07] Andrew Taylor: No problem, just doing my job.
+[22:38] Rachel: How's LD-37081 looking?
+[22:40] Andrew Taylor: Roads are wet, taking it easy.
+[23:13] Rachel: Where are you at right now?
+[23:15] Andrew Taylor: Fuel prices are decent around here.
+[23:18] Rachel: Appreciate you keeping me posted.
+[23:20] Andrew Taylor: Doing alright, just tired.
+[00:04] Rachel: Still on schedule?
+[00:06] Andrew Taylor: Stopping for fuel in a bit.
+[00:09] Rachel: Let me know if you need anything.
+[00:11] Andrew Taylor: Yeah, long one, but manageable.
+[00:56] Rachel: Any updates on your progress?
+[00:58] Andrew Taylor: Will do, thanks for checking in.
+[01:01] Rachel: Long trip, huh? Get some rest when you can.
+[01:03] Andrew Taylor: No problem, just doing my job.
+[02:18] Rachel: Any updates on your progress?
+[02:20] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[02:45] Andrew Taylor: I've got a problem, an accident blocking the highway on LD-37081. Pulled over on the shoulder.
+[02:46] Rachel: Are you safe? Anyone hurt?
+[02:48] Andrew Taylor: Yeah I'm fine, just need roadside assistance.
+[02:50] Rachel: Mile marker 34 on I-70.
+[02:55] Rachel: Truck is on the way, ETA about 1.5 hours.
+[04:25] Andrew Taylor: Fixed and rolling again.
+[05:17] Rachel: Any updates on your progress?
+[05:19] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[06:13] Rachel: Still on schedule?
+[06:15] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[06:56] Rachel: How's LD-37081 looking?
+[06:58] Andrew Taylor: Making good time, no issues so far.
+[07:19] Rachel: How's LD-37081 looking?
+[07:21] Andrew Taylor: About 51 miles out from Cleveland, OH now.
+[07:39] Rachel: What's your status?
+[07:41] Andrew Taylor: About 87 miles out from Cleveland, OH now.
+[08:02] Rachel: How's LD-37081 looking?
+[08:04] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[08:41] Rachel: How's LD-37081 looking?
+[08:43] Andrew Taylor: Making good time, no issues so far.
+[09:32] Rachel: Any updates on your progress?
+[09:34] Andrew Taylor: Making good time, no issues so far.
+[09:54] Rachel: What's your status?
+[09:56] Andrew Taylor: About 121 miles out from Cleveland, OH now.
+[10:29] Rachel: Where are you at right now?
+[10:31] Andrew Taylor: Just crossed the state line, all good.
+[11:17] Rachel: What's your status?
+[11:19] Andrew Taylor: About 529 miles out from Cleveland, OH now.
+[12:06] Rachel: Still on schedule?
+[12:08] Andrew Taylor: Just crossed the state line, all good.
+[13:07] Rachel: Still on schedule?
+[13:09] Andrew Taylor: Making good time, no issues so far.
+[13:51] Rachel: How's LD-37081 looking?
+[13:53] Andrew Taylor: About 49 miles out from Cleveland, OH now.
+[14:24] Rachel: Where are you at right now?
+[14:26] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[15:07] Rachel: Still on schedule?
+[15:09] Andrew Taylor: Just passed Detroit, MI, everything's fine.
+[15:34] Rachel: Any updates on your progress?
+[15:36] Andrew Taylor: Making good time, no issues so far.
+[16:02] Rachel: Any updates on your progress?
+[16:04] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[16:50] Andrew Taylor: Just delivered LD-37081 at Cleveland, OH, all good, no damages.
+[16:52] Rachel: Do you have the signed BOL?
+[16:54] Andrew Taylor: Yep, taking a picture now.
+[16:55] Andrew Taylor: [Image attached: signed_bol.jpg]
+[16:57] Rachel: Sending you the next load details shortly.
+[16:59] Andrew Taylor: Understood.
+[17:01] Rachel: Appreciate it, talk soon.

@@ -1,0 +1,127 @@
+Chat Log #439
+Company: Silk Road Logistics
+Language: English
+Driver: Eric Davis | Truck: #286 (flatbed)
+Operator: Jessica
+Load: LD-38274 | Route: Charlotte, NC -> Richmond, VA
+Date: 2026-06-13
+--------------------------------------------------
+[14:00] Jessica: Morning Eric, you there?
+[14:01] Eric Davis: Yeah, go ahead.
+[14:03] Jessica: Got a load for you - LD-38274, flatbed, pickup in Charlotte, NC, delivery to Richmond, VA.
+[14:05] Eric Davis: Ok, what's the pickup window?
+[14:07] Jessica: Pickup is 06:00-08:00, delivery appointment is 09:00 the next day.
+[14:09] Eric Davis: What's the rate on this one?
+[14:11] Jessica: $2028 all in, 618 miles.
+[14:13] Eric Davis: Sounds good, I'll take it.
+[14:15] Jessica: Great, sending the rate confirmation now.
+[14:18] Eric Davis: Got it, signed and sent back.
+[14:47] Jessica: Where are you at right now?
+[14:49] Eric Davis: Rain is picking up here, slowing down a bit.
+[16:09] Jessica: Still on schedule?
+[16:11] Eric Davis: Clear skies here, no problems.
+[16:14] Jessica: Appreciate you keeping me posted.
+[16:16] Eric Davis: No problem, just doing my job.
+[16:49] Jessica: How's LD-38274 looking?
+[16:51] Eric Davis: Fuel prices are decent around here.
+[16:54] Jessica: How are you holding up out there?
+[16:56] Eric Davis: Yeah, long one, but manageable.
+[17:25] Jessica: Any updates on your progress?
+[17:27] Eric Davis: Roads are clear now, moving well.
+[17:30] Jessica: How are you holding up out there?
+[17:32] Eric Davis: Yeah, long one, but manageable.
+[17:52] Jessica: Any updates on your progress?
+[17:54] Eric Davis: Making good time, no issues so far.
+[17:57] Jessica: Let me know if you need anything.
+[17:59] Eric Davis: Doing alright, just tired.
+[18:24] Jessica: What's your status?
+[18:26] Eric Davis: Just topped off the tank.
+[18:29] Jessica: Long trip, huh? Get some rest when you can.
+[18:31] Eric Davis: Will do, thanks for checking in.
+[18:46] Jessica: Any updates on your progress?
+[18:48] Eric Davis: Stopped for a quick break, back on the road in a few.
+[20:17] Jessica: How's LD-38274 looking?
+[20:19] Eric Davis: Accident up ahead, traffic's backed up.
+[20:22] Jessica: Long trip, huh? Get some rest when you can.
+[20:24] Eric Davis: No problem, just doing my job.
+[20:52] Jessica: Still on schedule?
+[20:54] Eric Davis: Making good time, no issues so far.
+[20:56] Jessica: What's your ETA?
+[20:58] Eric Davis: Probably 7pm, maybe a bit earlier.
+[22:16] Jessica: Still on schedule?
+[22:18] Eric Davis: Making good time, no issues so far.
+[23:01] Jessica: Where are you at right now?
+[23:03] Eric Davis: Making good time, no issues so far.
+[23:06] Jessica: How are you holding up out there?
+[23:08] Eric Davis: No problem, just doing my job.
+[00:09] Jessica: How's LD-38274 looking?
+[00:11] Eric Davis: Roads are wet, taking it easy.
+[00:14] Jessica: Long trip, huh? Get some rest when you can.
+[00:16] Eric Davis: No problem, just doing my job.
+[00:53] Jessica: Any updates on your progress?
+[00:55] Eric Davis: Accident up ahead, traffic's backed up.
+[01:44] Jessica: What's your status?
+[01:46] Eric Davis: Just passed Richmond, VA, everything's fine.
+[01:49] Jessica: How are you holding up out there?
+[01:51] Eric Davis: Doing alright, just tired.
+[01:53] Jessica: What's your ETA?
+[01:55] Eric Davis: Looking at noon if traffic stays clear.
+[02:38] Jessica: Any updates on your progress?
+[02:40] Eric Davis: Hit some traffic near Charlotte, NC, adding maybe 20 minutes.
+[02:43] Jessica: How are you holding up out there?
+[02:45] Eric Davis: Will do, thanks for checking in.
+[02:47] Jessica: What's your ETA?
+[02:49] Eric Davis: Probably 5pm, maybe a bit earlier.
+[03:38] Jessica: What's your status?
+[03:40] Eric Davis: Will do, thanks for checking in.
+[03:43] Jessica: Appreciate you keeping me posted.
+[03:45] Eric Davis: No problem, just doing my job.
+[03:57] Eric Davis: I've got a problem, the ELD acting up on LD-38274. Pulled over on the shoulder.
+[03:58] Jessica: Are you safe? Anyone hurt?
+[04:00] Eric Davis: Yeah I'm fine, just need roadside assistance.
+[04:02] Jessica: Mile marker 144 on I-35.
+[04:07] Jessica: Truck is on the way, ETA about 1.5 hours.
+[05:06] Eric Davis: Fixed and rolling again.
+[05:37] Jessica: How's LD-38274 looking?
+[05:39] Eric Davis: Making good time, no issues so far.
+[06:02] Jessica: Any updates on your progress?
+[06:04] Eric Davis: About 258 miles out from Richmond, VA now.
+[07:02] Jessica: How's LD-38274 looking?
+[07:04] Eric Davis: Just passed Charlotte, NC, everything's fine.
+[07:55] Jessica: What's your status?
+[07:57] Eric Davis: Just passed Richmond, VA, everything's fine.
+[08:13] Jessica: How's LD-38274 looking?
+[08:15] Eric Davis: Stopped for a quick break, back on the road in a few.
+[08:50] Jessica: How's LD-38274 looking?
+[08:52] Eric Davis: Just crossed the state line, all good.
+[09:50] Jessica: Any updates on your progress?
+[09:52] Eric Davis: Stopped for a quick break, back on the road in a few.
+[10:16] Jessica: Any updates on your progress?
+[10:18] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[11:00] Jessica: How's LD-38274 looking?
+[11:02] Eric Davis: Just crossed the state line, all good.
+[11:47] Jessica: What's your status?
+[11:49] Eric Davis: Just crossed the state line, all good.
+[12:17] Jessica: Any updates on your progress?
+[12:19] Eric Davis: About 326 miles out from Richmond, VA now.
+[12:49] Jessica: Still on schedule?
+[12:51] Eric Davis: Stopped for a quick break, back on the road in a few.
+[13:46] Jessica: How's LD-38274 looking?
+[13:48] Eric Davis: Stopped for a quick break, back on the road in a few.
+[14:22] Jessica: Any updates on your progress?
+[14:24] Eric Davis: Just crossed the state line, all good.
+[15:19] Jessica: Any updates on your progress?
+[15:21] Eric Davis: Stopped for a quick break, back on the road in a few.
+[16:13] Jessica: How's LD-38274 looking?
+[16:15] Eric Davis: Making good time, no issues so far.
+[16:39] Jessica: Any updates on your progress?
+[16:41] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[17:30] Jessica: Any updates on your progress?
+[17:32] Eric Davis: Traffic's a bit heavy but I'm still on schedule.
+[19:00] Eric Davis: Just delivered LD-38274 at Richmond, VA, all good, no damages.
+[19:02] Jessica: Do you have the signed BOL?
+[19:04] Eric Davis: Yep, taking a picture now.
+[19:05] Eric Davis: [Image attached: signed_bol.jpg]
+[19:07] Jessica: Sending you the next load details shortly.
+[19:09] Eric Davis: Copy that.
+[19:11] Jessica: Thanks for the update, drive safe.

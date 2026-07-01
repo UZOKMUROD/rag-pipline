@@ -1,0 +1,129 @@
+Chat Log #019
+Company: Silk Road Logistics
+Language: English
+Driver: David Anderson | Truck: #395 (step deck)
+Operator: Kayla
+Load: LD-67573 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-02-11
+--------------------------------------------------
+[09:41] Kayla: Hey David, how's it going?
+[09:42] David Anderson: Yeah, go ahead.
+[09:44] Kayla: Got a load for you - LD-67573, step deck, pickup in Detroit, MI, delivery to Cleveland, OH.
+[09:46] David Anderson: Ok, what's the pickup window?
+[09:48] Kayla: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[09:50] David Anderson: What's the rate on this one?
+[09:52] Kayla: $2950 all in, 412 miles.
+[09:54] David Anderson: Sounds good, I'll take it.
+[09:56] Kayla: Great, sending the rate confirmation now.
+[09:59] David Anderson: Got it, signed and sent back.
+[10:56] Kayla: How's LD-67573 looking?
+[10:58] David Anderson: Doing alright, just tired.
+[11:00] Kayla: What's your ETA?
+[11:02] David Anderson: Looking at 10am if traffic stays clear.
+[11:32] Kayla: How's LD-67573 looking?
+[11:34] David Anderson: No problem, just doing my job.
+[12:21] Kayla: How's LD-67573 looking?
+[12:23] David Anderson: Construction zone slowing everyone down.
+[12:52] Kayla: Where are you at right now?
+[12:54] David Anderson: Stopped for a quick break, back on the road in a few.
+[12:57] Kayla: Long trip, huh? Get some rest when you can.
+[12:59] David Anderson: Will do, thanks for checking in.
+[13:01] Kayla: What's your ETA?
+[13:03] David Anderson: Probably 5pm, maybe a bit earlier.
+[13:47] Kayla: What's your status?
+[13:49] David Anderson: Roads are wet, taking it easy.
+[13:52] Kayla: Let me know if you need anything.
+[13:54] David Anderson: Doing alright, just tired.
+[14:24] Kayla: Any updates on your progress?
+[14:26] David Anderson: Traffic's a bit heavy but I'm still on schedule.
+[14:29] Kayla: Long trip, huh? Get some rest when you can.
+[14:31] David Anderson: Doing alright, just tired.
+[15:37] Kayla: Any updates on your progress?
+[15:39] David Anderson: Clear skies here, no problems.
+[15:42] Kayla: Long trip, huh? Get some rest when you can.
+[15:44] David Anderson: No problem, just doing my job.
+[17:05] Kayla: Still on schedule?
+[17:07] David Anderson: Just topped off the tank.
+[18:21] Kayla: How's LD-67573 looking?
+[18:23] David Anderson: About 199 miles out from Cleveland, OH now.
+[19:48] Kayla: What's your status?
+[19:50] David Anderson: Making good time, no issues so far.
+[20:44] Kayla: What's your status?
+[20:46] David Anderson: Doing alright, just tired.
+[20:49] Kayla: How are you holding up out there?
+[20:51] David Anderson: Yeah, long one, but manageable.
+[22:01] Kayla: What's your status?
+[22:03] David Anderson: Accident up ahead, traffic's backed up.
+[22:39] Kayla: How's LD-67573 looking?
+[22:41] David Anderson: Roads are clear now, moving well.
+[22:44] Kayla: Long trip, huh? Get some rest when you can.
+[22:46] David Anderson: Yeah, long one, but manageable.
+[23:46] Kayla: Where are you at right now?
+[23:48] David Anderson: Roads are wet, taking it easy.
+[23:51] Kayla: How are you holding up out there?
+[23:53] David Anderson: Will do, thanks for checking in.
+[00:54] Kayla: Still on schedule?
+[00:56] David Anderson: Rain is picking up here, slowing down a bit.
+[00:59] Kayla: How are you holding up out there?
+[01:01] David Anderson: Will do, thanks for checking in.
+[01:03] Kayla: What's your ETA?
+[01:05] David Anderson: Should be there around noon.
+[01:48] Kayla: What's your status?
+[01:50] David Anderson: About 564 miles out from Cleveland, OH now.
+[02:34] Kayla: Any updates on your progress?
+[02:36] David Anderson: Just topped off the tank.
+[02:39] Kayla: Let me know if you need anything.
+[02:41] David Anderson: Doing alright, just tired.
+[02:43] Kayla: What's your ETA?
+[02:45] David Anderson: Should be there around noon.
+[03:43] Kayla: How's LD-67573 looking?
+[03:45] David Anderson: Traffic's a bit heavy but I'm still on schedule.
+[04:34] Kayla: Any updates on your progress?
+[04:36] David Anderson: Just passed Detroit, MI, everything's fine.
+[05:07] Kayla: Still on schedule?
+[05:09] David Anderson: About 541 miles out from Cleveland, OH now.
+[05:44] Kayla: Where are you at right now?
+[05:46] David Anderson: Stopped for a quick break, back on the road in a few.
+[06:40] Kayla: How's LD-67573 looking?
+[06:42] David Anderson: About 336 miles out from Cleveland, OH now.
+[07:16] Kayla: Any updates on your progress?
+[07:18] David Anderson: Stopped for a quick break, back on the road in a few.
+[07:53] Kayla: Still on schedule?
+[07:55] David Anderson: About 525 miles out from Cleveland, OH now.
+[08:38] Kayla: Still on schedule?
+[08:40] David Anderson: About 129 miles out from Cleveland, OH now.
+[09:00] Kayla: Still on schedule?
+[09:02] David Anderson: Stopped for a quick break, back on the road in a few.
+[09:26] Kayla: Where are you at right now?
+[09:28] David Anderson: Just passed Detroit, MI, everything's fine.
+[09:44] Kayla: How's LD-67573 looking?
+[09:46] David Anderson: Stopped for a quick break, back on the road in a few.
+[10:06] Kayla: What's your status?
+[10:08] David Anderson: Stopped for a quick break, back on the road in a few.
+[10:35] Kayla: Where are you at right now?
+[10:37] David Anderson: Just crossed the state line, all good.
+[11:00] Kayla: Where are you at right now?
+[11:02] David Anderson: Making good time, no issues so far.
+[11:18] Kayla: Still on schedule?
+[11:20] David Anderson: Just crossed the state line, all good.
+[11:45] Kayla: Where are you at right now?
+[11:47] David Anderson: Just crossed the state line, all good.
+[12:07] Kayla: Any updates on your progress?
+[12:09] David Anderson: Traffic's a bit heavy but I'm still on schedule.
+[12:24] Kayla: How's LD-67573 looking?
+[12:26] David Anderson: Just crossed the state line, all good.
+[13:00] Kayla: How's LD-67573 looking?
+[13:02] David Anderson: Just crossed the state line, all good.
+[13:41] Kayla: Still on schedule?
+[13:43] David Anderson: Traffic's a bit heavy but I'm still on schedule.
+[14:10] Kayla: Any updates on your progress?
+[14:12] David Anderson: Making good time, no issues so far.
+[14:42] Kayla: Any updates on your progress?
+[14:44] David Anderson: Just crossed the state line, all good.
+[15:16] David Anderson: Just delivered LD-67573 at Cleveland, OH, all good, no damages.
+[15:18] Kayla: Do you have the signed BOL?
+[15:20] David Anderson: Yep, taking a picture now.
+[15:21] David Anderson: [Image attached: signed_bol.jpg]
+[15:23] Kayla: Sending you the next load details shortly.
+[15:25] David Anderson: Will do.
+[15:27] Kayla: Thanks for the update, drive safe.

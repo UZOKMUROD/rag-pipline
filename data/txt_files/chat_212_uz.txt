@@ -1,0 +1,151 @@
+Chat Log #212
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #330 (past ramali tirkama)
+Operator: Dilnoza
+Load: LD-75697 | Route: Toshkent -> Samarqand
+Date: 2026-04-08
+--------------------------------------------------
+[11:26] Dilnoza: Salom, Sardor, ishlar qalay?
+[11:27] Sardor Rakhimov: Xayrli tong, menda hammasi yaxshi.
+[11:29] Dilnoza: Siz uchun yuk bor - LD-75697, past ramali tirkama, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[11:31] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[11:33] Dilnoza: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[11:35] Sardor Rakhimov: Bu reys uchun narx qancha?
+[11:37] Dilnoza: 2107 ming so'm, 1084 km.
+[11:39] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[11:41] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:44] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[12:10] Dilnoza: Yo'lda yangilik bormi?
+[12:12] Sardor Rakhimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:45] Dilnoza: Yo'lda yangilik bormi?
+[12:47] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:50] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[12:52] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[14:09] Dilnoza: Holatingiz qanday?
+[14:11] Sardor Rakhimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[14:14] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[14:16] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[15:31] Dilnoza: Hozir qayerdasiz?
+[15:33] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:53] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:55] Sardor Rakhimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[16:40] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:42] Sardor Rakhimov: Bu yerda yoqilg'i narxlari yomon emas.
+[16:44] Dilnoza: Taxminan qachon yetib borasiz?
+[16:46] Sardor Rakhimov: Taxminan 10amda yetib boraman.
+[18:03] Dilnoza: Yo'lda yangilik bormi?
+[18:05] Sardor Rakhimov: Hozirgina yoqilg'i quydim.
+[18:08] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[18:10] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:23] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:25] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:28] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:30] Sardor Rakhimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:36] Dilnoza: Hozir qayerdasiz?
+[20:38] Sardor Rakhimov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[20:41] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[20:43] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[20:45] Dilnoza: Taxminan qachon yetib borasiz?
+[20:47] Sardor Rakhimov: Taxminan 10amda yetib boraman.
+[21:37] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:39] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:22] Dilnoza: Holatingiz qanday?
+[22:24] Sardor Rakhimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[22:44] Dilnoza: Hozir qayerdasiz?
+[22:46] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:49] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[22:51] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[23:07] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:09] Sardor Rakhimov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[23:11] Dilnoza: Taxminan qachon yetib borasiz?
+[23:13] Sardor Rakhimov: Taxminan 10amda yetib boraman.
+[00:31] Dilnoza: LD-75697 bilan ishlar qalay?
+[00:33] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[00:36] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[00:38] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[01:18] Dilnoza: Hozir qayerdasiz?
+[01:20] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:23] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[01:25] Sardor Rakhimov: Yaxshi, faqat biroz charchadim.
+[02:17] Dilnoza: LD-75697 bilan ishlar qalay?
+[02:19] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[03:35] Dilnoza: Hozir qayerdasiz?
+[03:37] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[03:40] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[03:42] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[03:44] Dilnoza: Taxminan qachon yetib borasiz?
+[03:46] Sardor Rakhimov: Ehtimol 10am, balki ertaroq.
+[04:17] Dilnoza: LD-75697 bilan ishlar qalay?
+[04:19] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:06] Dilnoza: LD-75697 bilan ishlar qalay?
+[05:08] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:40] Dilnoza: LD-75697 bilan ishlar qalay?
+[05:42] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:08] Dilnoza: Holatingiz qanday?
+[06:10] Sardor Rakhimov: Samarqandgacha taxminan 445 km qoldi.
+[06:38] Dilnoza: Holatingiz qanday?
+[06:40] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:33] Dilnoza: Yo'lda yangilik bormi?
+[07:35] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:25] Dilnoza: Hozir qayerdasiz?
+[08:27] Sardor Rakhimov: Samarqandgacha taxminan 303 km qoldi.
+[09:00] Dilnoza: Hozir qayerdasiz?
+[09:02] Sardor Rakhimov: Samarqandgacha taxminan 568 km qoldi.
+[09:52] Dilnoza: Holatingiz qanday?
+[09:54] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:16] Dilnoza: Yo'lda yangilik bormi?
+[10:18] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:35] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:37] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:32] Dilnoza: Holatingiz qanday?
+[11:34] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:32] Dilnoza: Hozir qayerdasiz?
+[12:34] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:17] Dilnoza: Yo'lda yangilik bormi?
+[13:19] Sardor Rakhimov: Samarqandgacha taxminan 230 km qoldi.
+[13:54] Dilnoza: Yo'lda yangilik bormi?
+[13:56] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:51] Dilnoza: LD-75697 bilan ishlar qalay?
+[14:53] Sardor Rakhimov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[15:50] Dilnoza: Hozir qayerdasiz?
+[15:52] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:45] Dilnoza: Yo'lda yangilik bormi?
+[16:47] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:33] Dilnoza: Hozir qayerdasiz?
+[17:35] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:26] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:28] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:53] Dilnoza: Yo'lda yangilik bormi?
+[18:55] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:41] Dilnoza: Hozir qayerdasiz?
+[19:43] Sardor Rakhimov: Samarqandgacha taxminan 301 km qoldi.
+[20:38] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:40] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:00] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:02] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:42] Dilnoza: Holatingiz qanday?
+[21:44] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:01] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:03] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:27] Dilnoza: Holatingiz qanday?
+[22:29] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:54] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:56] Sardor Rakhimov: Samarqandgacha taxminan 342 km qoldi.
+[23:36] Dilnoza: LD-75697 bilan ishlar qalay?
+[23:38] Sardor Rakhimov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[00:11] Dilnoza: LD-75697 bilan ishlar qalay?
+[00:13] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:32] Dilnoza: Yo'lda yangilik bormi?
+[00:34] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:09] Dilnoza: LD-75697 bilan ishlar qalay?
+[01:11] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:06] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:08] Sardor Rakhimov: Samarqandgacha taxminan 289 km qoldi.
+[03:32] Sardor Rakhimov: LD-75697 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[03:34] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[03:36] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[03:37] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:39] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:41] Sardor Rakhimov: Tushunarli.
+[03:43] Dilnoza: Ajoyib ish, rahmat.

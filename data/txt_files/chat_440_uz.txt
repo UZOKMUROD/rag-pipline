@@ -1,0 +1,151 @@
+Chat Log #440
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #338 (refrijerator)
+Operator: Malika
+Load: LD-94361 | Route: Nukus -> Urganch
+Date: 2026-02-07
+--------------------------------------------------
+[13:57] Malika: Bobur, bir daqiqa bormi?
+[13:58] Bobur Mirzayev: Ha, aloqadaman.
+[14:00] Malika: Siz uchun yuk bor - LD-94361, refrijerator, Nukusdan yuklanadi, Urganchga tushiriladi.
+[14:02] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[14:04] Malika: Yuklash 06:00-08:00, tushirish esa ertaga 07:30 bo'ladi.
+[14:06] Bobur Mirzayev: Bu reys uchun narx qancha?
+[14:08] Malika: 2883 ming so'm, 859 km.
+[14:10] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[14:12] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[14:15] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[15:09] Malika: Yo'lda yangilik bormi?
+[15:11] Bobur Mirzayev: Urganchgacha taxminan 77 km qoldi.
+[16:12] Malika: Holatingiz qanday?
+[16:14] Bobur Mirzayev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[16:17] Malika: Biror narsa kerak bo'lsa ayting.
+[16:19] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[17:41] Malika: Hozir qayerdasiz?
+[17:43] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:46] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[17:48] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[18:41] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:43] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[19:17] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:19] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:12] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[20:14] Bobur Mirzayev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[20:17] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:19] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[21:32] Malika: Yo'lda yangilik bormi?
+[21:34] Bobur Mirzayev: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[23:03] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[23:05] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:08] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:10] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[00:19] Malika: LD-94361 bilan ishlar qalay?
+[00:21] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[00:24] Malika: Biror narsa kerak bo'lsa ayting.
+[00:26] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[01:51] Malika: Holatingiz qanday?
+[01:53] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[02:36] Malika: Yo'lda yangilik bormi?
+[02:38] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:41] Malika: Biror narsa kerak bo'lsa ayting.
+[02:43] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[03:30] Malika: Yo'lda yangilik bormi?
+[03:32] Bobur Mirzayev: Urganchgacha taxminan 27 km qoldi.
+[04:38] Malika: Yo'lda yangilik bormi?
+[04:40] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[04:43] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[04:45] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[04:47] Malika: Taxminan qachon yetib borasiz?
+[04:49] Bobur Mirzayev: Taxminan 10amda yetib boraman.
+[06:10] Malika: Yo'lda yangilik bormi?
+[06:12] Bobur Mirzayev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[06:15] Malika: Biror narsa kerak bo'lsa ayting.
+[06:17] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[07:00] Malika: LD-94361 bilan ishlar qalay?
+[07:02] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[07:05] Malika: Biror narsa kerak bo'lsa ayting.
+[07:07] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:09] Malika: Taxminan qachon yetib borasiz?
+[07:11] Bobur Mirzayev: Taxminan noonda yetib boraman.
+[08:05] Malika: Hozir qayerdasiz?
+[08:07] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[09:11] Malika: Yo'lda yangilik bormi?
+[09:13] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[10:16] Malika: Yo'lda yangilik bormi?
+[10:18] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[11:43] Malika: Holatingiz qanday?
+[11:45] Bobur Mirzayev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[12:53] Malika: Hozir qayerdasiz?
+[12:55] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[12:57] Malika: Taxminan qachon yetib borasiz?
+[12:59] Bobur Mirzayev: Ehtimol 3pm, balki ertaroq.
+[13:30] Bobur Mirzayev: Muammo chiqdi, avtomobil yo'lida avariya bo'lgan LD-94361da. Yo'l chetiga to'xtadim.
+[13:31] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[13:33] Bobur Mirzayev: Ha, men yaxshiman, faqat yordam kerak.
+[13:35] Malika: A380 yo'lida 219-belgida turibman.
+[13:40] Malika: Yordam mashinasi yo'lda, taxminan 1.5 hoursdan keyin yetib keladi.
+[14:55] Bobur Mirzayev: Ta'mirlandi, yana yo'lga tushdim.
+[15:52] Malika: LD-94361 bilan ishlar qalay?
+[15:54] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:45] Malika: LD-94361 bilan ishlar qalay?
+[16:47] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:35] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:37] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:33] Malika: Holatingiz qanday?
+[18:35] Bobur Mirzayev: Urganchgacha taxminan 286 km qoldi.
+[18:53] Malika: LD-94361 bilan ishlar qalay?
+[18:55] Bobur Mirzayev: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[19:38] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[19:40] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:31] Malika: Holatingiz qanday?
+[20:33] Bobur Mirzayev: Urganchgacha taxminan 373 km qoldi.
+[21:01] Malika: Hozir qayerdasiz?
+[21:03] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:29] Malika: LD-94361 bilan ishlar qalay?
+[21:31] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:25] Malika: Holatingiz qanday?
+[22:27] Bobur Mirzayev: Urganchgacha taxminan 594 km qoldi.
+[22:45] Malika: Hozir qayerdasiz?
+[22:47] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:07] Malika: LD-94361 bilan ishlar qalay?
+[23:09] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:40] Malika: Holatingiz qanday?
+[23:42] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:42] Malika: Yo'lda yangilik bormi?
+[00:44] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:25] Malika: Yo'lda yangilik bormi?
+[01:27] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:45] Malika: Holatingiz qanday?
+[01:47] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:03] Malika: Holatingiz qanday?
+[02:05] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:42] Malika: Holatingiz qanday?
+[02:44] Bobur Mirzayev: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[03:25] Malika: Hozir qayerdasiz?
+[03:27] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:10] Malika: Yo'lda yangilik bormi?
+[04:12] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[04:33] Malika: Hozir qayerdasiz?
+[04:35] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[04:52] Malika: Yo'lda yangilik bormi?
+[04:54] Bobur Mirzayev: Urganchgacha taxminan 568 km qoldi.
+[05:16] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:18] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:44] Malika: Holatingiz qanday?
+[05:46] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:20] Malika: Yo'lda yangilik bormi?
+[06:22] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:20] Malika: Hozir qayerdasiz?
+[07:22] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:56] Malika: LD-94361 bilan ishlar qalay?
+[07:58] Bobur Mirzayev: Urganchgacha taxminan 91 km qoldi.
+[08:19] Malika: Holatingiz qanday?
+[08:21] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:58] Bobur Mirzayev: LD-94361 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[09:00] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[09:02] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[09:03] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[09:05] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[09:07] Bobur Mirzayev: Tushunarli.
+[09:09] Malika: Ajoyib ish, rahmat.

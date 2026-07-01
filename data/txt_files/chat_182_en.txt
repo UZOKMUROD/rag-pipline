@@ -1,0 +1,133 @@
+Chat Log #182
+Company: Silk Road Logistics
+Language: English
+Driver: Victor Johnson | Truck: #995 (dry van)
+Operator: Ashley
+Load: LD-67448 | Route: Dallas, TX -> Atlanta, GA
+Date: 2026-03-17
+--------------------------------------------------
+[19:03] Ashley: Hey Victor, how's it going?
+[19:04] Victor Johnson: Yeah, go ahead.
+[19:06] Ashley: Got a load for you - LD-67448, dry van, pickup in Dallas, TX, delivery to Atlanta, GA.
+[19:08] Victor Johnson: Ok, what's the pickup window?
+[19:10] Ashley: Pickup is 06:00-08:00, delivery appointment is 16:00 the next day.
+[19:12] Victor Johnson: What's the rate on this one?
+[19:14] Ashley: $1911 all in, 804 miles.
+[19:16] Victor Johnson: Sounds good, I'll take it.
+[19:18] Ashley: Great, sending the rate confirmation now.
+[19:21] Victor Johnson: Got it, signed and sent back.
+[19:50] Ashley: Where are you at right now?
+[19:52] Victor Johnson: About 275 miles out from Atlanta, GA now.
+[19:55] Ashley: Long trip, huh? Get some rest when you can.
+[19:57] Victor Johnson: Doing alright, just tired.
+[21:13] Ashley: Still on schedule?
+[21:15] Victor Johnson: Just topped off the tank.
+[21:17] Ashley: What's your ETA?
+[21:19] Victor Johnson: Probably 7pm, maybe a bit earlier.
+[21:55] Ashley: Where are you at right now?
+[21:57] Victor Johnson: Stopping for fuel in a bit.
+[22:00] Ashley: Let me know if you need anything.
+[22:02] Victor Johnson: Will do, thanks for checking in.
+[22:04] Ashley: What's your ETA?
+[22:06] Victor Johnson: Probably 7pm, maybe a bit earlier.
+[23:18] Ashley: Still on schedule?
+[23:20] Victor Johnson: No problem, just doing my job.
+[23:50] Ashley: What's your status?
+[23:52] Victor Johnson: Will do, thanks for checking in.
+[23:55] Ashley: Let me know if you need anything.
+[23:57] Victor Johnson: Will do, thanks for checking in.
+[01:08] Ashley: How's LD-67448 looking?
+[01:10] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[01:29] Ashley: How's LD-67448 looking?
+[01:31] Victor Johnson: Roads are clear now, moving well.
+[01:33] Ashley: What's your ETA?
+[01:35] Victor Johnson: Looking at 5pm if traffic stays clear.
+[02:52] Ashley: Any updates on your progress?
+[02:54] Victor Johnson: Making good time, no issues so far.
+[02:57] Ashley: Let me know if you need anything.
+[02:59] Victor Johnson: Doing alright, just tired.
+[03:01] Ashley: What's your ETA?
+[03:03] Victor Johnson: Probably 10am, maybe a bit earlier.
+[04:20] Ashley: Any updates on your progress?
+[04:22] Victor Johnson: Just crossed the state line, all good.
+[04:25] Ashley: Let me know if you need anything.
+[04:27] Victor Johnson: Doing alright, just tired.
+[05:40] Ashley: Where are you at right now?
+[05:42] Victor Johnson: Making good time, no issues so far.
+[05:45] Ashley: Let me know if you need anything.
+[05:47] Victor Johnson: Yeah, long one, but manageable.
+[06:53] Ashley: Any updates on your progress?
+[06:55] Victor Johnson: No problem, just doing my job.
+[06:58] Ashley: Appreciate you keeping me posted.
+[07:00] Victor Johnson: Yeah, long one, but manageable.
+[07:02] Ashley: What's your ETA?
+[07:04] Victor Johnson: Probably 5pm, maybe a bit earlier.
+[08:04] Ashley: Any updates on your progress?
+[08:06] Victor Johnson: Just crossed the state line, all good.
+[08:08] Ashley: What's your ETA?
+[08:10] Victor Johnson: Should be there around 7pm.
+[08:57] Ashley: Still on schedule?
+[08:59] Victor Johnson: Yeah, long one, but manageable.
+[09:02] Ashley: Long trip, huh? Get some rest when you can.
+[09:04] Victor Johnson: No problem, just doing my job.
+[09:55] Ashley: What's your status?
+[09:57] Victor Johnson: Just passed Atlanta, GA, everything's fine.
+[09:59] Ashley: What's your ETA?
+[10:01] Victor Johnson: Looking at noon if traffic stays clear.
+[10:44] Ashley: Where are you at right now?
+[10:46] Victor Johnson: Just crossed the state line, all good.
+[10:49] Ashley: Long trip, huh? Get some rest when you can.
+[10:51] Victor Johnson: No problem, just doing my job.
+[10:53] Ashley: What's your ETA?
+[10:55] Victor Johnson: Looking at 3pm if traffic stays clear.
+[11:58] Ashley: What's your status?
+[12:00] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[12:03] Ashley: Let me know if you need anything.
+[12:05] Victor Johnson: Yeah, long one, but manageable.
+[12:07] Ashley: What's your ETA?
+[12:09] Victor Johnson: Should be there around 3pm.
+[12:34] Ashley: Where are you at right now?
+[12:36] Victor Johnson: About 553 miles out from Atlanta, GA now.
+[12:59] Ashley: How's LD-67448 looking?
+[13:01] Victor Johnson: Just passed Dallas, TX, everything's fine.
+[13:04] Ashley: Appreciate you keeping me posted.
+[13:06] Victor Johnson: Will do, thanks for checking in.
+[13:56] Ashley: Still on schedule?
+[13:58] Victor Johnson: Roads are wet, taking it easy.
+[14:24] Ashley: Still on schedule?
+[14:26] Victor Johnson: Making good time, no issues so far.
+[15:01] Ashley: Still on schedule?
+[15:03] Victor Johnson: Just passed Atlanta, GA, everything's fine.
+[15:56] Ashley: How's LD-67448 looking?
+[15:58] Victor Johnson: Just crossed the state line, all good.
+[16:37] Ashley: How's LD-67448 looking?
+[16:39] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[17:25] Ashley: Any updates on your progress?
+[17:27] Victor Johnson: Just crossed the state line, all good.
+[18:22] Ashley: How's LD-67448 looking?
+[18:24] Victor Johnson: Making good time, no issues so far.
+[18:49] Ashley: Still on schedule?
+[18:51] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[19:38] Ashley: Where are you at right now?
+[19:40] Victor Johnson: Stopped for a quick break, back on the road in a few.
+[20:24] Ashley: What's your status?
+[20:26] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[20:50] Ashley: Still on schedule?
+[20:52] Victor Johnson: About 516 miles out from Atlanta, GA now.
+[21:42] Ashley: Still on schedule?
+[21:44] Victor Johnson: About 308 miles out from Atlanta, GA now.
+[22:32] Ashley: Still on schedule?
+[22:34] Victor Johnson: About 50 miles out from Atlanta, GA now.
+[23:09] Ashley: Any updates on your progress?
+[23:11] Victor Johnson: Just crossed the state line, all good.
+[23:48] Ashley: What's your status?
+[23:50] Victor Johnson: Traffic's a bit heavy but I'm still on schedule.
+[00:28] Ashley: Where are you at right now?
+[00:30] Victor Johnson: Stopped for a quick break, back on the road in a few.
+[01:31] Victor Johnson: Just delivered LD-67448 at Atlanta, GA, all good, no damages.
+[01:33] Ashley: Do you have the signed BOL?
+[01:35] Victor Johnson: Yep, taking a picture now.
+[01:36] Victor Johnson: [Image attached: signed_bol.jpg]
+[01:38] Ashley: Sending you the next load details shortly.
+[01:40] Victor Johnson: Copy that.
+[01:42] Ashley: Thanks for the update, drive safe.

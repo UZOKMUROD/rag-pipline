@@ -1,0 +1,151 @@
+Chat Log #313
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #110 (refrijerator)
+Operator: Feruza
+Load: LD-73783 | Route: Toshkent -> Samarqand
+Date: 2026-01-05
+--------------------------------------------------
+[08:19] Feruza: Xayrli tong, Ravshan, aloqadamisiz?
+[08:20] Ravshan Xolmatov: Ha, aytavering.
+[08:22] Feruza: Siz uchun yuk bor - LD-73783, refrijerator, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[08:24] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[08:26] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[08:28] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[08:30] Feruza: 2842 ming so'm, 594 km.
+[08:32] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[08:34] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:37] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[08:55] Feruza: Hozir qayerdasiz?
+[08:57] Ravshan Xolmatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[09:00] Feruza: Xabar berib turganingiz uchun rahmat.
+[09:02] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[09:44] Feruza: Yo'lda yangilik bormi?
+[09:46] Ravshan Xolmatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[09:48] Feruza: Taxminan qachon yetib borasiz?
+[09:50] Ravshan Xolmatov: Taxminan 3pmda yetib boraman.
+[10:12] Feruza: Holatingiz qanday?
+[10:14] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:17] Feruza: Xabar berib turganingiz uchun rahmat.
+[10:19] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[10:43] Feruza: Yo'lda yangilik bormi?
+[10:45] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[11:25] Feruza: Hozir qayerdasiz?
+[11:27] Ravshan Xolmatov: Samarqandgacha taxminan 229 km qoldi.
+[12:02] Feruza: Hozir qayerdasiz?
+[12:04] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[12:07] Feruza: Xabar berib turganingiz uchun rahmat.
+[12:09] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[12:31] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:33] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:35] Feruza: Taxminan qachon yetib borasiz?
+[12:37] Ravshan Xolmatov: Taxminan 10amda yetib boraman.
+[13:39] Feruza: Yo'lda yangilik bormi?
+[13:41] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[13:44] Feruza: Xabar berib turganingiz uchun rahmat.
+[13:46] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[13:48] Feruza: Taxminan qachon yetib borasiz?
+[13:50] Ravshan Xolmatov: Ehtimol 3pm, balki ertaroq.
+[14:38] Feruza: Yo'lda yangilik bormi?
+[14:40] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[15:43] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:45] Ravshan Xolmatov: Hozirgina yoqilg'i quydim.
+[16:10] Feruza: Yo'lda yangilik bormi?
+[16:12] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[17:31] Feruza: Holatingiz qanday?
+[17:33] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:00] Feruza: Hozir qayerdasiz?
+[19:02] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:05] Feruza: Xabar berib turganingiz uchun rahmat.
+[19:07] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[20:33] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:35] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:53] Feruza: Holatingiz qanday?
+[20:55] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:14] Ravshan Xolmatov: Muammo chiqdi, tirkama chiroqlarining saqlagichi kuydi LD-73783da. Yo'l chetiga to'xtadim.
+[21:15] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[21:17] Ravshan Xolmatov: Ha, men yaxshiman, faqat yordam kerak.
+[21:19] Feruza: M39 yo'lida 40-belgida turibman.
+[21:24] Feruza: Yordam mashinasi yo'lda, taxminan 45 mindan keyin yetib keladi.
+[22:51] Ravshan Xolmatov: Ta'mirlandi, yana yo'lga tushdim.
+[23:07] Feruza: Hozir qayerdasiz?
+[23:09] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:41] Feruza: Holatingiz qanday?
+[23:43] Ravshan Xolmatov: Samarqandgacha taxminan 334 km qoldi.
+[00:25] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:27] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:02] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[01:04] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:46] Feruza: Hozir qayerdasiz?
+[01:48] Ravshan Xolmatov: Samarqandgacha taxminan 256 km qoldi.
+[02:24] Feruza: Yo'lda yangilik bormi?
+[02:26] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[03:00] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:02] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:30] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:32] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:04] Feruza: LD-73783 bilan ishlar qalay?
+[04:06] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:45] Feruza: Holatingiz qanday?
+[04:47] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:16] Feruza: Yo'lda yangilik bormi?
+[05:18] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:03] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:05] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:30] Feruza: Holatingiz qanday?
+[06:32] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[07:12] Feruza: Holatingiz qanday?
+[07:14] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:05] Feruza: Hozir qayerdasiz?
+[08:07] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:03] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:05] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:43] Feruza: LD-73783 bilan ishlar qalay?
+[09:45] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:35] Feruza: LD-73783 bilan ishlar qalay?
+[10:37] Ravshan Xolmatov: Samarqandgacha taxminan 99 km qoldi.
+[11:16] Feruza: Hozir qayerdasiz?
+[11:18] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:12] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:14] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:10] Feruza: Hozir qayerdasiz?
+[13:12] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:12] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:14] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:49] Feruza: LD-73783 bilan ishlar qalay?
+[14:51] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:28] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:30] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:45] Feruza: Holatingiz qanday?
+[15:47] Ravshan Xolmatov: Samarqandgacha taxminan 24 km qoldi.
+[16:39] Feruza: LD-73783 bilan ishlar qalay?
+[16:41] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:38] Feruza: Hozir qayerdasiz?
+[17:40] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:23] Feruza: Holatingiz qanday?
+[18:25] Ravshan Xolmatov: Samarqandgacha taxminan 537 km qoldi.
+[19:04] Feruza: Hozir qayerdasiz?
+[19:06] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:52] Feruza: Holatingiz qanday?
+[19:54] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:51] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:53] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[21:35] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:37] Ravshan Xolmatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[21:57] Feruza: Yo'lda yangilik bormi?
+[21:59] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:18] Feruza: Hozir qayerdasiz?
+[22:20] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:39] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:41] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:08] Feruza: Holatingiz qanday?
+[23:10] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:52] Feruza: Hozir qayerdasiz?
+[23:54] Ravshan Xolmatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[00:37] Ravshan Xolmatov: LD-73783 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:39] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[00:41] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[00:42] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:44] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:46] Ravshan Xolmatov: Yaxshi.
+[00:48] Feruza: Ajoyib ish, rahmat.

@@ -1,0 +1,126 @@
+Chat Log #500
+Company: Silk Road Logistics
+Language: English
+Driver: Mike Young | Truck: #790 (flatbed)
+Operator: Megan
+Load: LD-71089 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-06-02
+--------------------------------------------------
+[12:50] Megan: Hey Mike, how's it going?
+[12:51] Mike Young: Morning, all good on my end.
+[12:53] Megan: Got a load for you - LD-71089, flatbed, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[12:55] Mike Young: Ok, what's the pickup window?
+[12:57] Megan: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[12:59] Mike Young: What's the rate on this one?
+[13:01] Megan: $1913 all in, 737 miles.
+[13:03] Mike Young: Sounds good, I'll take it.
+[13:05] Megan: Great, sending the rate confirmation now.
+[13:08] Mike Young: Got it, signed and sent back.
+[14:14] Megan: Any updates on your progress?
+[14:16] Mike Young: Will do, thanks for checking in.
+[15:39] Megan: How's LD-71089 looking?
+[15:41] Mike Young: Doing alright, just tired.
+[15:44] Megan: Let me know if you need anything.
+[15:46] Mike Young: Doing alright, just tired.
+[16:46] Megan: Where are you at right now?
+[16:48] Mike Young: About 142 miles out from Salt Lake City, UT now.
+[16:50] Megan: What's your ETA?
+[16:52] Mike Young: Probably 10am, maybe a bit earlier.
+[17:56] Megan: What's your status?
+[17:58] Mike Young: Yeah, long one, but manageable.
+[19:24] Megan: Where are you at right now?
+[19:26] Mike Young: Stopping for fuel in a bit.
+[20:50] Megan: Still on schedule?
+[20:52] Mike Young: Just passed Salt Lake City, UT, everything's fine.
+[20:55] Megan: Appreciate you keeping me posted.
+[20:57] Mike Young: Doing alright, just tired.
+[22:12] Megan: What's your status?
+[22:14] Mike Young: Yeah, long one, but manageable.
+[22:17] Megan: Appreciate you keeping me posted.
+[22:19] Mike Young: Yeah, long one, but manageable.
+[23:15] Megan: Where are you at right now?
+[23:17] Mike Young: No problem, just doing my job.
+[23:20] Megan: Appreciate you keeping me posted.
+[23:22] Mike Young: Doing alright, just tired.
+[00:46] Megan: Any updates on your progress?
+[00:48] Mike Young: Stopping for fuel in a bit.
+[00:50] Megan: What's your ETA?
+[00:52] Mike Young: Looking at 10am if traffic stays clear.
+[01:53] Megan: Still on schedule?
+[01:55] Mike Young: Just crossed the state line, all good.
+[03:15] Megan: How's LD-71089 looking?
+[03:17] Mike Young: Yeah, long one, but manageable.
+[03:19] Megan: What's your ETA?
+[03:21] Mike Young: Looking at 7pm if traffic stays clear.
+[04:18] Megan: Where are you at right now?
+[04:20] Mike Young: Will do, thanks for checking in.
+[04:23] Megan: Long trip, huh? Get some rest when you can.
+[04:25] Mike Young: Doing alright, just tired.
+[05:51] Megan: What's your status?
+[05:53] Mike Young: Traffic's a bit heavy but I'm still on schedule.
+[06:22] Megan: How's LD-71089 looking?
+[06:24] Mike Young: Just crossed the state line, all good.
+[06:27] Megan: Appreciate you keeping me posted.
+[06:29] Mike Young: No problem, just doing my job.
+[07:49] Megan: Still on schedule?
+[07:51] Mike Young: Stopped for a quick break, back on the road in a few.
+[08:26] Megan: Still on schedule?
+[08:28] Mike Young: Stopped for a quick break, back on the road in a few.
+[08:31] Megan: How are you holding up out there?
+[08:33] Mike Young: Will do, thanks for checking in.
+[09:28] Megan: What's your status?
+[09:30] Mike Young: Just topped off the tank.
+[10:30] Megan: Any updates on your progress?
+[10:32] Mike Young: Yeah, long one, but manageable.
+[10:35] Megan: Let me know if you need anything.
+[10:37] Mike Young: Doing alright, just tired.
+[10:57] Megan: Any updates on your progress?
+[10:59] Mike Young: Stopped for a quick break, back on the road in a few.
+[11:21] Mike Young: Still sitting at the warehouse dock, been here almost 3 hours already.
+[11:23] Megan: Let me call them and see what's going on.
+[11:33] Megan: Ok talked to them, they said 30 more minutes, forklift issue.
+[11:35] Mike Young: Make sure detention pay gets logged for this.
+[11:37] Megan: Already noted, don't worry, you'll get paid for the wait.
+[12:07] Megan: Any updates on your progress?
+[12:09] Mike Young: Making good time, no issues so far.
+[12:32] Megan: Any updates on your progress?
+[12:34] Mike Young: Stopped for a quick break, back on the road in a few.
+[13:34] Megan: Still on schedule?
+[13:36] Mike Young: About 527 miles out from Salt Lake City, UT now.
+[14:34] Megan: What's your status?
+[14:36] Mike Young: Traffic's a bit heavy but I'm still on schedule.
+[15:12] Megan: Still on schedule?
+[15:14] Mike Young: About 470 miles out from Salt Lake City, UT now.
+[15:31] Megan: Where are you at right now?
+[15:33] Mike Young: Just passed Denver, CO, everything's fine.
+[16:14] Megan: What's your status?
+[16:16] Mike Young: Just passed Denver, CO, everything's fine.
+[16:37] Megan: How's LD-71089 looking?
+[16:39] Mike Young: Making good time, no issues so far.
+[17:21] Megan: Any updates on your progress?
+[17:23] Mike Young: Making good time, no issues so far.
+[18:12] Megan: What's your status?
+[18:14] Mike Young: Traffic's a bit heavy but I'm still on schedule.
+[18:36] Megan: Still on schedule?
+[18:38] Mike Young: About 369 miles out from Salt Lake City, UT now.
+[19:05] Megan: What's your status?
+[19:07] Mike Young: Traffic's a bit heavy but I'm still on schedule.
+[19:29] Megan: What's your status?
+[19:31] Mike Young: Just crossed the state line, all good.
+[20:00] Megan: Where are you at right now?
+[20:02] Mike Young: Just passed Salt Lake City, UT, everything's fine.
+[20:20] Megan: Still on schedule?
+[20:22] Mike Young: Stopped for a quick break, back on the road in a few.
+[20:48] Megan: How's LD-71089 looking?
+[20:50] Mike Young: Just crossed the state line, all good.
+[21:34] Megan: What's your status?
+[21:36] Mike Young: Traffic's a bit heavy but I'm still on schedule.
+[22:12] Megan: Any updates on your progress?
+[22:14] Mike Young: Stopped for a quick break, back on the road in a few.
+[23:17] Mike Young: Just delivered LD-71089 at Salt Lake City, UT, all good, no damages.
+[23:19] Megan: Do you have the signed BOL?
+[23:21] Mike Young: Yep, taking a picture now.
+[23:22] Mike Young: [Image attached: signed_bol.jpg]
+[23:24] Megan: Sending you the next load details shortly.
+[23:26] Mike Young: Sounds good.
+[23:28] Megan: Thanks for the update, drive safe.

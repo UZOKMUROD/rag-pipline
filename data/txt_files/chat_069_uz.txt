@@ -1,0 +1,149 @@
+Chat Log #069
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #310 (past ramali tirkama)
+Operator: Nodira
+Load: LD-12987 | Route: Toshkent -> Namangan
+Date: 2026-04-26
+--------------------------------------------------
+[11:22] Nodira: Bobur, bir daqiqa bormi?
+[11:23] Bobur Mirzayev: Ha, aytavering.
+[11:25] Nodira: Siz uchun yuk bor - LD-12987, past ramali tirkama, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[11:27] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[11:29] Nodira: Yuklash 13:00-15:00, tushirish esa ertaga 16:00 bo'ladi.
+[11:31] Bobur Mirzayev: Bu reys uchun narx qancha?
+[11:33] Nodira: 3062 ming so'm, 436 km.
+[11:35] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[11:37] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:40] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[13:00] Nodira: Holatingiz qanday?
+[13:02] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:04] Nodira: Taxminan qachon yetib borasiz?
+[13:06] Bobur Mirzayev: Agar tirbandlik bo'lmasa 3pmda.
+[14:04] Nodira: LD-12987 bilan ishlar qalay?
+[14:06] Bobur Mirzayev: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[15:11] Nodira: Yo'lda yangilik bormi?
+[15:13] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:44] Nodira: Hozir qayerdasiz?
+[15:46] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[15:49] Nodira: Xabar berib turganingiz uchun rahmat.
+[15:51] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:21] Nodira: Holatingiz qanday?
+[17:23] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[17:43] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:45] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:00] Nodira: Yo'lda yangilik bormi?
+[19:02] Bobur Mirzayev: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:25] Nodira: LD-12987 bilan ishlar qalay?
+[20:27] Bobur Mirzayev: Namangangacha taxminan 155 km qoldi.
+[21:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:09] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:12] Nodira: Xabar berib turganingiz uchun rahmat.
+[21:14] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[21:44] Nodira: Hozir qayerdasiz?
+[21:46] Bobur Mirzayev: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[21:49] Nodira: O'zingizni qalay his qilyapsiz?
+[21:51] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[22:38] Nodira: LD-12987 bilan ishlar qalay?
+[22:40] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:42] Nodira: Taxminan qachon yetib borasiz?
+[22:44] Bobur Mirzayev: Agar tirbandlik bo'lmasa 3pmda.
+[00:08] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[00:10] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:20] Nodira: LD-12987 bilan ishlar qalay?
+[01:22] Bobur Mirzayev: Osmon ochiq, muammo yo'q.
+[01:24] Nodira: Taxminan qachon yetib borasiz?
+[01:26] Bobur Mirzayev: Agar tirbandlik bo'lmasa 7pmda.
+[02:53] Nodira: Holatingiz qanday?
+[02:55] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:58] Nodira: Biror narsa kerak bo'lsa ayting.
+[03:00] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[04:25] Nodira: LD-12987 bilan ishlar qalay?
+[04:27] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[04:40] Bobur Mirzayev: Haydash vaqtim limitiga yaqinlashyapman, atigi 45 minutes qoldi.
+[04:42] Nodira: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[05:09] Nodira: Holatingiz qanday?
+[05:11] Bobur Mirzayev: Namangangacha taxminan 203 km qoldi.
+[05:32] Nodira: LD-12987 bilan ishlar qalay?
+[05:34] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[05:56] Nodira: Hozir qayerdasiz?
+[05:58] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[06:23] Nodira: Hozir qayerdasiz?
+[06:25] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:24] Nodira: Hozir qayerdasiz?
+[07:26] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[08:01] Nodira: Yo'lda yangilik bormi?
+[08:03] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:38] Nodira: LD-12987 bilan ishlar qalay?
+[08:40] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:38] Nodira: LD-12987 bilan ishlar qalay?
+[09:40] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[10:12] Nodira: Yo'lda yangilik bormi?
+[10:14] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[11:05] Nodira: LD-12987 bilan ishlar qalay?
+[11:07] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:55] Nodira: Hozir qayerdasiz?
+[11:57] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:19] Nodira: Hozir qayerdasiz?
+[12:21] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:58] Nodira: LD-12987 bilan ishlar qalay?
+[13:00] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[13:54] Nodira: Yo'lda yangilik bormi?
+[13:56] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:33] Nodira: Holatingiz qanday?
+[14:35] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[15:18] Nodira: Hozir qayerdasiz?
+[15:20] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[15:39] Nodira: Yo'lda yangilik bormi?
+[15:41] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:20] Nodira: Hozir qayerdasiz?
+[16:22] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:54] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:56] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:18] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:20] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:37] Nodira: Yo'lda yangilik bormi?
+[17:39] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:55] Nodira: Holatingiz qanday?
+[17:57] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:35] Nodira: Yo'lda yangilik bormi?
+[18:37] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:54] Nodira: Yo'lda yangilik bormi?
+[18:56] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[19:18] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[19:20] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:18] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[20:20] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[21:09] Nodira: Holatingiz qanday?
+[21:11] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:52] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:54] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:25] Nodira: Yo'lda yangilik bormi?
+[22:27] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[22:42] Nodira: Hozir qayerdasiz?
+[22:44] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:59] Nodira: Holatingiz qanday?
+[23:01] Bobur Mirzayev: Namangangacha taxminan 509 km qoldi.
+[23:36] Nodira: Hozir qayerdasiz?
+[23:38] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:17] Nodira: Holatingiz qanday?
+[00:19] Bobur Mirzayev: Namangangacha taxminan 244 km qoldi.
+[00:52] Nodira: LD-12987 bilan ishlar qalay?
+[00:54] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[01:41] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[01:43] Bobur Mirzayev: Namangangacha taxminan 193 km qoldi.
+[02:28] Nodira: LD-12987 bilan ishlar qalay?
+[02:30] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:30] Nodira: Yo'lda yangilik bormi?
+[03:32] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:20] Nodira: Yo'lda yangilik bormi?
+[04:22] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[05:09] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:38] Bobur Mirzayev: LD-12987 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:40] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[06:42] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[06:43] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:45] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:47] Bobur Mirzayev: Yaxshi.
+[06:49] Nodira: Rahmat, aloqada bo'lamiz.

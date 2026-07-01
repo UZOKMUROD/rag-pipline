@@ -1,0 +1,133 @@
+Chat Log #043
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Taylor | Truck: #699 (step deck)
+Operator: Nicole
+Load: LD-59537 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-05-03
+--------------------------------------------------
+[18:28] Nicole: Morning Kevin, you there?
+[18:29] Kevin Taylor: Morning, all good on my end.
+[18:31] Nicole: Got a load for you - LD-59537, step deck, pickup in Chicago, IL, delivery to Memphis, TN.
+[18:33] Kevin Taylor: Ok, what's the pickup window?
+[18:35] Nicole: Pickup is 06:00-08:00, delivery appointment is 14:00 the next day.
+[18:37] Kevin Taylor: What's the rate on this one?
+[18:39] Nicole: $3363 all in, 759 miles.
+[18:41] Kevin Taylor: Sounds good, I'll take it.
+[18:43] Nicole: Great, sending the rate confirmation now.
+[18:46] Kevin Taylor: Got it, signed and sent back.
+[20:11] Nicole: Any updates on your progress?
+[20:13] Kevin Taylor: Just passed Memphis, TN, everything's fine.
+[20:15] Nicole: What's your ETA?
+[20:17] Kevin Taylor: Looking at noon if traffic stays clear.
+[20:44] Nicole: Any updates on your progress?
+[20:46] Kevin Taylor: Just crossed the state line, all good.
+[20:48] Nicole: What's your ETA?
+[20:50] Kevin Taylor: Looking at 5pm if traffic stays clear.
+[21:40] Nicole: How's LD-59537 looking?
+[21:42] Kevin Taylor: Rain is picking up here, slowing down a bit.
+[22:45] Nicole: Where are you at right now?
+[22:47] Kevin Taylor: Doing alright, just tired.
+[22:49] Nicole: What's your ETA?
+[22:51] Kevin Taylor: Probably noon, maybe a bit earlier.
+[23:34] Nicole: How's LD-59537 looking?
+[23:36] Kevin Taylor: Fuel prices are decent around here.
+[23:38] Nicole: What's your ETA?
+[23:40] Kevin Taylor: Looking at 10am if traffic stays clear.
+[00:30] Nicole: Where are you at right now?
+[00:32] Kevin Taylor: No problem, just doing my job.
+[01:37] Nicole: Still on schedule?
+[01:39] Kevin Taylor: Rain is picking up here, slowing down a bit.
+[02:26] Nicole: Any updates on your progress?
+[02:28] Kevin Taylor: Rain is picking up here, slowing down a bit.
+[03:10] Nicole: Where are you at right now?
+[03:12] Kevin Taylor: About 121 miles out from Memphis, TN now.
+[03:35] Nicole: Still on schedule?
+[03:37] Kevin Taylor: Making good time, no issues so far.
+[03:40] Nicole: Appreciate you keeping me posted.
+[03:42] Kevin Taylor: No problem, just doing my job.
+[04:18] Nicole: Where are you at right now?
+[04:20] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[04:23] Nicole: Appreciate you keeping me posted.
+[04:25] Kevin Taylor: Yeah, long one, but manageable.
+[04:59] Nicole: Any updates on your progress?
+[05:01] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[05:22] Nicole: Where are you at right now?
+[05:24] Kevin Taylor: Stopping for fuel in a bit.
+[05:27] Nicole: How are you holding up out there?
+[05:29] Kevin Taylor: Yeah, long one, but manageable.
+[05:52] Nicole: Still on schedule?
+[05:54] Kevin Taylor: About 466 miles out from Memphis, TN now.
+[06:30] Nicole: What's your status?
+[06:32] Kevin Taylor: Accident up ahead, traffic's backed up.
+[06:35] Nicole: How are you holding up out there?
+[06:37] Kevin Taylor: No problem, just doing my job.
+[07:13] Nicole: Where are you at right now?
+[07:15] Kevin Taylor: Construction zone slowing everyone down.
+[07:17] Nicole: What's your ETA?
+[07:19] Kevin Taylor: Should be there around noon.
+[07:59] Nicole: How's LD-59537 looking?
+[08:01] Kevin Taylor: Rain is picking up here, slowing down a bit.
+[08:03] Nicole: What's your ETA?
+[08:05] Kevin Taylor: Should be there around noon.
+[09:24] Nicole: How's LD-59537 looking?
+[09:26] Kevin Taylor: Doing alright, just tired.
+[09:28] Nicole: What's your ETA?
+[09:30] Kevin Taylor: Looking at 5pm if traffic stays clear.
+[09:57] Nicole: Still on schedule?
+[09:59] Kevin Taylor: Just topped off the tank.
+[10:02] Nicole: Long trip, huh? Get some rest when you can.
+[10:04] Kevin Taylor: Will do, thanks for checking in.
+[10:06] Nicole: What's your ETA?
+[10:08] Kevin Taylor: Probably 10am, maybe a bit earlier.
+[10:41] Nicole: Still on schedule?
+[10:43] Kevin Taylor: Stopping for fuel in a bit.
+[10:45] Nicole: What's your ETA?
+[10:47] Kevin Taylor: Should be there around noon.
+[11:42] Nicole: What's your status?
+[11:44] Kevin Taylor: Construction zone slowing everyone down.
+[11:47] Nicole: Let me know if you need anything.
+[11:49] Kevin Taylor: No problem, just doing my job.
+[12:37] Nicole: Any updates on your progress?
+[12:39] Kevin Taylor: Just crossed the state line, all good.
+[12:54] Nicole: What's your status?
+[12:56] Kevin Taylor: Just crossed the state line, all good.
+[13:46] Nicole: Still on schedule?
+[13:48] Kevin Taylor: Just crossed the state line, all good.
+[14:37] Nicole: Any updates on your progress?
+[14:39] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[15:20] Nicole: How's LD-59537 looking?
+[15:22] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[16:06] Nicole: Where are you at right now?
+[16:08] Kevin Taylor: About 528 miles out from Memphis, TN now.
+[16:53] Nicole: Still on schedule?
+[16:55] Kevin Taylor: Just passed Memphis, TN, everything's fine.
+[17:10] Nicole: Any updates on your progress?
+[17:12] Kevin Taylor: About 531 miles out from Memphis, TN now.
+[17:57] Nicole: Where are you at right now?
+[17:59] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[18:19] Nicole: Where are you at right now?
+[18:21] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[18:50] Nicole: Any updates on your progress?
+[18:52] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[19:07] Nicole: What's your status?
+[19:09] Kevin Taylor: Making good time, no issues so far.
+[20:06] Nicole: Any updates on your progress?
+[20:08] Kevin Taylor: Stopped for a quick break, back on the road in a few.
+[20:54] Nicole: How's LD-59537 looking?
+[20:56] Kevin Taylor: About 575 miles out from Memphis, TN now.
+[21:46] Nicole: Any updates on your progress?
+[21:48] Kevin Taylor: Traffic's a bit heavy but I'm still on schedule.
+[22:43] Nicole: How's LD-59537 looking?
+[22:45] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[23:27] Nicole: Still on schedule?
+[23:29] Kevin Taylor: Just passed Memphis, TN, everything's fine.
+[00:15] Nicole: What's your status?
+[00:17] Kevin Taylor: Just passed Chicago, IL, everything's fine.
+[01:23] Kevin Taylor: Just delivered LD-59537 at Memphis, TN, all good, no damages.
+[01:25] Nicole: Do you have the signed BOL?
+[01:27] Kevin Taylor: Yep, taking a picture now.
+[01:28] Kevin Taylor: [Image attached: signed_bol.jpg]
+[01:30] Nicole: Sending you the next load details shortly.
+[01:32] Kevin Taylor: Sounds good.
+[01:34] Nicole: Great work, thank you.

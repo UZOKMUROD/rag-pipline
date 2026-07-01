@@ -1,0 +1,151 @@
+Chat Log #033
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #582 (refrijerator)
+Operator: Malika
+Load: LD-95499 | Route: Toshkent -> Namangan
+Date: 2026-03-08
+--------------------------------------------------
+[08:46] Malika: Salom, Shavkat, ishlar qalay?
+[08:47] Shavkat Ergashev: Xayrli tong, menda hammasi yaxshi.
+[08:49] Malika: Siz uchun yuk bor - LD-95499, refrijerator, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[08:51] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[08:53] Malika: Yuklash 08:00-10:00, tushirish esa ertaga 07:30 bo'ladi.
+[08:55] Shavkat Ergashev: Bu reys uchun narx qancha?
+[08:57] Malika: 3379 ming so'm, 1001 km.
+[08:59] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[09:01] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[09:04] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[09:56] Malika: Yo'lda yangilik bormi?
+[09:58] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[10:01] Malika: O'zingizni qalay his qilyapsiz?
+[10:03] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[10:36] Malika: Yo'lda yangilik bormi?
+[10:38] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:28] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[11:30] Shavkat Ergashev: Osmon ochiq, muammo yo'q.
+[12:24] Malika: Holatingiz qanday?
+[12:26] Shavkat Ergashev: Toshkent yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[13:44] Malika: Yo'lda yangilik bormi?
+[13:46] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[13:48] Malika: Taxminan qachon yetib borasiz?
+[13:50] Shavkat Ergashev: Agar tirbandlik bo'lmasa 5pmda.
+[14:47] Malika: LD-95499 bilan ishlar qalay?
+[14:49] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:51] Malika: Taxminan qachon yetib borasiz?
+[14:53] Shavkat Ergashev: Taxminan noonda yetib boraman.
+[16:23] Malika: Yo'lda yangilik bormi?
+[16:25] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[16:28] Malika: Xabar berib turganingiz uchun rahmat.
+[16:30] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[17:21] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:23] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[17:25] Malika: Taxminan qachon yetib borasiz?
+[17:27] Shavkat Ergashev: Agar tirbandlik bo'lmasa noonda.
+[18:43] Malika: Yo'lda yangilik bormi?
+[18:45] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:16] Malika: Holatingiz qanday?
+[19:18] Shavkat Ergashev: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:20] Malika: Taxminan qachon yetib borasiz?
+[19:22] Shavkat Ergashev: Taxminan 5pmda yetib boraman.
+[19:42] Malika: LD-95499 bilan ishlar qalay?
+[19:44] Shavkat Ergashev: Hozirgina yoqilg'i quydim.
+[19:47] Malika: Biror narsa kerak bo'lsa ayting.
+[19:49] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:41] Malika: LD-95499 bilan ishlar qalay?
+[20:43] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:46] Malika: Biror narsa kerak bo'lsa ayting.
+[20:48] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[21:53] Malika: Hozir qayerdasiz?
+[21:55] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:06] Malika: Holatingiz qanday?
+[23:08] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:17] Malika: Hozir qayerdasiz?
+[00:19] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[00:21] Malika: Taxminan qachon yetib borasiz?
+[00:23] Shavkat Ergashev: Ehtimol 10am, balki ertaroq.
+[00:49] Malika: LD-95499 bilan ishlar qalay?
+[00:51] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:06] Malika: Yo'lda yangilik bormi?
+[01:08] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[01:41] Malika: LD-95499 bilan ishlar qalay?
+[01:43] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:41] Malika: Hozir qayerdasiz?
+[02:43] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:34] Malika: Holatingiz qanday?
+[03:36] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:22] Malika: Hozir qayerdasiz?
+[04:24] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:00] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:02] Shavkat Ergashev: Namangangacha taxminan 406 km qoldi.
+[05:17] Malika: LD-95499 bilan ishlar qalay?
+[05:19] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:12] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[06:14] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[06:33] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[06:35] Shavkat Ergashev: Namangangacha taxminan 434 km qoldi.
+[06:52] Malika: Holatingiz qanday?
+[06:54] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:43] Malika: Yo'lda yangilik bormi?
+[07:45] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:29] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[08:31] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:13] Malika: Holatingiz qanday?
+[09:15] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:45] Malika: LD-95499 bilan ishlar qalay?
+[09:47] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:40] Malika: Yo'lda yangilik bormi?
+[10:42] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:14] Malika: Yo'lda yangilik bormi?
+[11:16] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[12:04] Malika: LD-95499 bilan ishlar qalay?
+[12:06] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:52] Malika: Holatingiz qanday?
+[12:54] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:32] Malika: Holatingiz qanday?
+[13:34] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:58] Malika: Holatingiz qanday?
+[14:00] Shavkat Ergashev: Namangangacha taxminan 207 km qoldi.
+[14:20] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[14:22] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:01] Malika: Holatingiz qanday?
+[15:03] Shavkat Ergashev: Namangangacha taxminan 147 km qoldi.
+[15:51] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[15:53] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:30] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[16:32] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:21] Malika: LD-95499 bilan ishlar qalay?
+[17:23] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:50] Malika: Holatingiz qanday?
+[17:52] Shavkat Ergashev: Namangangacha taxminan 98 km qoldi.
+[18:42] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:44] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:32] Malika: Holatingiz qanday?
+[19:34] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:04] Malika: Holatingiz qanday?
+[20:06] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:00] Malika: Yo'lda yangilik bormi?
+[21:02] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:30] Malika: Hozir qayerdasiz?
+[21:32] Shavkat Ergashev: Namangangacha taxminan 129 km qoldi.
+[21:49] Malika: LD-95499 bilan ishlar qalay?
+[21:51] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:39] Malika: Yo'lda yangilik bormi?
+[22:41] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:19] Malika: LD-95499 bilan ishlar qalay?
+[23:21] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:18] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[00:20] Shavkat Ergashev: Namangangacha taxminan 64 km qoldi.
+[01:02] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:04] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:22] Malika: Hozir qayerdasiz?
+[01:24] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[01:56] Malika: Yo'lda yangilik bormi?
+[01:58] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:53] Shavkat Ergashev: LD-95499 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[02:55] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[02:57] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[02:58] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[03:00] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[03:02] Shavkat Ergashev: Tushundim.
+[03:04] Malika: Ajoyib ish, rahmat.

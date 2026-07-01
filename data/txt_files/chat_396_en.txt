@@ -1,0 +1,130 @@
+Chat Log #396
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Jackson | Truck: #861 (step deck)
+Operator: Nicole
+Load: LD-33219 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-03-11
+--------------------------------------------------
+[13:45] Nicole: Andrew, got a minute?
+[13:46] Andrew Jackson: Morning, all good on my end.
+[13:48] Nicole: Got a load for you - LD-33219, step deck, pickup in Detroit, MI, delivery to Cleveland, OH.
+[13:50] Andrew Jackson: Ok, what's the pickup window?
+[13:52] Nicole: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[13:54] Andrew Jackson: What's the rate on this one?
+[13:56] Nicole: $2134 all in, 916 miles.
+[13:58] Andrew Jackson: Sounds good, I'll take it.
+[14:00] Nicole: Great, sending the rate confirmation now.
+[14:03] Andrew Jackson: Got it, signed and sent back.
+[15:33] Nicole: Where are you at right now?
+[15:35] Andrew Jackson: About 349 miles out from Cleveland, OH now.
+[16:36] Nicole: What's your status?
+[16:38] Andrew Jackson: About 136 miles out from Cleveland, OH now.
+[16:41] Nicole: Appreciate you keeping me posted.
+[16:43] Andrew Jackson: No problem, just doing my job.
+[17:35] Nicole: How's LD-33219 looking?
+[17:37] Andrew Jackson: Yeah, long one, but manageable.
+[17:40] Nicole: Long trip, huh? Get some rest when you can.
+[17:42] Andrew Jackson: Will do, thanks for checking in.
+[18:24] Nicole: What's your status?
+[18:26] Andrew Jackson: Fuel prices are decent around here.
+[18:29] Nicole: How are you holding up out there?
+[18:31] Andrew Jackson: Will do, thanks for checking in.
+[18:33] Nicole: What's your ETA?
+[18:35] Andrew Jackson: Should be there around 10am.
+[19:53] Nicole: Still on schedule?
+[19:55] Andrew Jackson: Construction zone slowing everyone down.
+[19:57] Nicole: What's your ETA?
+[19:59] Andrew Jackson: Should be there around 5pm.
+[20:41] Nicole: Still on schedule?
+[20:43] Andrew Jackson: Stopping for fuel in a bit.
+[21:00] Nicole: What's your status?
+[21:02] Andrew Jackson: Rain is picking up here, slowing down a bit.
+[21:05] Nicole: Long trip, huh? Get some rest when you can.
+[21:07] Andrew Jackson: Yeah, long one, but manageable.
+[21:38] Nicole: How's LD-33219 looking?
+[21:40] Andrew Jackson: About 455 miles out from Cleveland, OH now.
+[22:39] Nicole: Still on schedule?
+[22:41] Andrew Jackson: Rain is picking up here, slowing down a bit.
+[22:44] Nicole: Appreciate you keeping me posted.
+[22:46] Andrew Jackson: Doing alright, just tired.
+[00:04] Nicole: Still on schedule?
+[00:06] Andrew Jackson: Roads are wet, taking it easy.
+[00:55] Nicole: Any updates on your progress?
+[00:57] Andrew Jackson: About 547 miles out from Cleveland, OH now.
+[01:58] Nicole: Where are you at right now?
+[02:00] Andrew Jackson: Stopping for fuel in a bit.
+[02:02] Nicole: What's your ETA?
+[02:04] Andrew Jackson: Probably noon, maybe a bit earlier.
+[03:04] Nicole: Any updates on your progress?
+[03:06] Andrew Jackson: Roads are clear now, moving well.
+[03:09] Nicole: Appreciate you keeping me posted.
+[03:11] Andrew Jackson: No problem, just doing my job.
+[04:07] Nicole: Any updates on your progress?
+[04:09] Andrew Jackson: Just passed Detroit, MI, everything's fine.
+[04:32] Nicole: Where are you at right now?
+[04:34] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[04:36] Nicole: What's your ETA?
+[04:38] Andrew Jackson: Looking at 7pm if traffic stays clear.
+[06:00] Nicole: Still on schedule?
+[06:02] Andrew Jackson: Making good time, no issues so far.
+[06:40] Nicole: How's LD-33219 looking?
+[06:42] Andrew Jackson: Construction zone slowing everyone down.
+[06:45] Nicole: How are you holding up out there?
+[06:47] Andrew Jackson: Yeah, long one, but manageable.
+[08:06] Nicole: What's your status?
+[08:08] Andrew Jackson: Fuel prices are decent around here.
+[09:27] Nicole: How's LD-33219 looking?
+[09:29] Andrew Jackson: Fuel prices are decent around here.
+[09:40] Andrew Jackson: Still sitting at the warehouse dock, been here almost 3 hours already.
+[09:42] Nicole: Let me call them and see what's going on.
+[09:52] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[09:54] Andrew Jackson: Make sure detention pay gets logged for this.
+[09:56] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[10:16] Nicole: How's LD-33219 looking?
+[10:18] Andrew Jackson: Just passed Cleveland, OH, everything's fine.
+[11:12] Nicole: How's LD-33219 looking?
+[11:14] Andrew Jackson: Just passed Detroit, MI, everything's fine.
+[11:34] Nicole: Where are you at right now?
+[11:36] Andrew Jackson: Making good time, no issues so far.
+[11:51] Nicole: How's LD-33219 looking?
+[11:53] Andrew Jackson: Making good time, no issues so far.
+[12:46] Nicole: How's LD-33219 looking?
+[12:48] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[13:28] Nicole: Any updates on your progress?
+[13:30] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[13:57] Nicole: Any updates on your progress?
+[13:59] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[14:41] Nicole: How's LD-33219 looking?
+[14:43] Andrew Jackson: About 174 miles out from Cleveland, OH now.
+[15:40] Nicole: Any updates on your progress?
+[15:42] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[16:28] Nicole: How's LD-33219 looking?
+[16:30] Andrew Jackson: Just crossed the state line, all good.
+[17:07] Nicole: Still on schedule?
+[17:09] Andrew Jackson: Just passed Detroit, MI, everything's fine.
+[17:35] Nicole: How's LD-33219 looking?
+[17:37] Andrew Jackson: Making good time, no issues so far.
+[18:36] Nicole: Where are you at right now?
+[18:38] Andrew Jackson: Stopped for a quick break, back on the road in a few.
+[19:20] Nicole: What's your status?
+[19:22] Andrew Jackson: Making good time, no issues so far.
+[19:42] Nicole: How's LD-33219 looking?
+[19:44] Andrew Jackson: Making good time, no issues so far.
+[20:00] Nicole: Any updates on your progress?
+[20:02] Andrew Jackson: Just crossed the state line, all good.
+[20:26] Nicole: What's your status?
+[20:28] Andrew Jackson: Making good time, no issues so far.
+[21:05] Nicole: What's your status?
+[21:07] Andrew Jackson: Just crossed the state line, all good.
+[21:33] Nicole: Where are you at right now?
+[21:35] Andrew Jackson: Stopped for a quick break, back on the road in a few.
+[22:01] Nicole: Where are you at right now?
+[22:03] Andrew Jackson: Traffic's a bit heavy but I'm still on schedule.
+[22:47] Andrew Jackson: Just delivered LD-33219 at Cleveland, OH, all good, no damages.
+[22:49] Nicole: Do you have the signed BOL?
+[22:51] Andrew Jackson: Yep, taking a picture now.
+[22:52] Andrew Jackson: [Image attached: signed_bol.jpg]
+[22:54] Nicole: Sending you the next load details shortly.
+[22:56] Andrew Jackson: Copy that.
+[22:58] Nicole: Thanks for the update, drive safe.

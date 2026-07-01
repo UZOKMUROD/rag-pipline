@@ -1,0 +1,127 @@
+Chat Log #012
+Company: Silk Road Logistics
+Language: English
+Driver: John Taylor | Truck: #834 (flatbed)
+Operator: Kayla
+Load: LD-95320 | Route: Chicago, IL -> Memphis, TN
+Date: 2026-05-06
+--------------------------------------------------
+[20:43] Kayla: John, got a minute?
+[20:44] John Taylor: Morning, all good on my end.
+[20:46] Kayla: Got a load for you - LD-95320, flatbed, pickup in Chicago, IL, delivery to Memphis, TN.
+[20:48] John Taylor: Ok, what's the pickup window?
+[20:50] Kayla: Pickup is 13:00-15:00, delivery appointment is 07:30 the next day.
+[20:52] John Taylor: What's the rate on this one?
+[20:54] Kayla: $3040 all in, 404 miles.
+[20:56] John Taylor: Sounds good, I'll take it.
+[20:58] Kayla: Great, sending the rate confirmation now.
+[21:01] John Taylor: Got it, signed and sent back.
+[22:31] Kayla: Any updates on your progress?
+[22:33] John Taylor: Accident up ahead, traffic's backed up.
+[22:36] Kayla: Let me know if you need anything.
+[22:38] John Taylor: Yeah, long one, but manageable.
+[22:40] Kayla: What's your ETA?
+[22:42] John Taylor: Probably 7pm, maybe a bit earlier.
+[00:08] Kayla: Any updates on your progress?
+[00:10] John Taylor: Doing alright, just tired.
+[00:13] Kayla: Appreciate you keeping me posted.
+[00:15] John Taylor: Will do, thanks for checking in.
+[01:21] Kayla: How's LD-95320 looking?
+[01:23] John Taylor: Making good time, no issues so far.
+[01:25] Kayla: What's your ETA?
+[01:27] John Taylor: Looking at 10am if traffic stays clear.
+[01:44] Kayla: How's LD-95320 looking?
+[01:46] John Taylor: No problem, just doing my job.
+[02:59] Kayla: Any updates on your progress?
+[03:01] John Taylor: Making good time, no issues so far.
+[03:53] Kayla: Where are you at right now?
+[03:55] John Taylor: Just crossed the state line, all good.
+[04:40] Kayla: How's LD-95320 looking?
+[04:42] John Taylor: Traffic's a bit heavy but I'm still on schedule.
+[04:45] Kayla: Let me know if you need anything.
+[04:47] John Taylor: Yeah, long one, but manageable.
+[05:30] Kayla: Where are you at right now?
+[05:32] John Taylor: No problem, just doing my job.
+[05:35] Kayla: Let me know if you need anything.
+[05:37] John Taylor: Yeah, long one, but manageable.
+[06:12] Kayla: What's your status?
+[06:14] John Taylor: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[06:17] Kayla: Long trip, huh? Get some rest when you can.
+[06:19] John Taylor: No problem, just doing my job.
+[07:06] Kayla: Where are you at right now?
+[07:08] John Taylor: Clear skies here, no problems.
+[07:11] Kayla: Let me know if you need anything.
+[07:13] John Taylor: No problem, just doing my job.
+[07:15] Kayla: What's your ETA?
+[07:17] John Taylor: Probably noon, maybe a bit earlier.
+[08:28] Kayla: Where are you at right now?
+[08:30] John Taylor: Will do, thanks for checking in.
+[08:33] Kayla: Appreciate you keeping me posted.
+[08:35] John Taylor: Doing alright, just tired.
+[09:53] Kayla: What's your status?
+[09:55] John Taylor: Hit some traffic near Chicago, IL, adding maybe 20 minutes.
+[10:25] Kayla: Still on schedule?
+[10:27] John Taylor: Accident up ahead, traffic's backed up.
+[10:46] Kayla: Where are you at right now?
+[10:48] John Taylor: Hit some traffic near Memphis, TN, adding maybe 20 minutes.
+[10:51] Kayla: How are you holding up out there?
+[10:53] John Taylor: No problem, just doing my job.
+[10:55] Kayla: What's your ETA?
+[10:57] John Taylor: Probably noon, maybe a bit earlier.
+[11:42] Kayla: Where are you at right now?
+[11:44] John Taylor: Stopping for fuel in a bit.
+[12:09] Kayla: What's your status?
+[12:11] John Taylor: Accident up ahead, traffic's backed up.
+[12:14] Kayla: Appreciate you keeping me posted.
+[12:16] John Taylor: Doing alright, just tired.
+[13:15] Kayla: Any updates on your progress?
+[13:17] John Taylor: Just passed Memphis, TN, everything's fine.
+[13:20] Kayla: Long trip, huh? Get some rest when you can.
+[13:22] John Taylor: Will do, thanks for checking in.
+[14:52] Kayla: Where are you at right now?
+[14:54] John Taylor: Will do, thanks for checking in.
+[14:56] Kayla: What's your ETA?
+[14:58] John Taylor: Looking at 7pm if traffic stays clear.
+[15:38] Kayla: Still on schedule?
+[15:40] John Taylor: Just passed Chicago, IL, everything's fine.
+[15:43] Kayla: Let me know if you need anything.
+[15:45] John Taylor: No problem, just doing my job.
+[17:00] Kayla: Where are you at right now?
+[17:02] John Taylor: Stopped for a quick break, back on the road in a few.
+[17:37] Kayla: Where are you at right now?
+[17:39] John Taylor: Stopped for a quick break, back on the road in a few.
+[17:58] Kayla: Where are you at right now?
+[18:00] John Taylor: Traffic's a bit heavy but I'm still on schedule.
+[18:48] Kayla: Where are you at right now?
+[18:50] John Taylor: Just crossed the state line, all good.
+[19:33] Kayla: How's LD-95320 looking?
+[19:35] John Taylor: Just passed Memphis, TN, everything's fine.
+[20:28] Kayla: Where are you at right now?
+[20:30] John Taylor: Making good time, no issues so far.
+[21:20] Kayla: How's LD-95320 looking?
+[21:22] John Taylor: Stopped for a quick break, back on the road in a few.
+[21:56] Kayla: Any updates on your progress?
+[21:58] John Taylor: Just crossed the state line, all good.
+[22:38] Kayla: What's your status?
+[22:40] John Taylor: Just crossed the state line, all good.
+[23:20] Kayla: What's your status?
+[23:22] John Taylor: Making good time, no issues so far.
+[00:22] Kayla: Any updates on your progress?
+[00:24] John Taylor: Stopped for a quick break, back on the road in a few.
+[00:47] Kayla: Any updates on your progress?
+[00:49] John Taylor: Making good time, no issues so far.
+[01:08] Kayla: Still on schedule?
+[01:10] John Taylor: Just passed Chicago, IL, everything's fine.
+[01:50] Kayla: Any updates on your progress?
+[01:52] John Taylor: Stopped for a quick break, back on the road in a few.
+[02:16] Kayla: Any updates on your progress?
+[02:18] John Taylor: Just crossed the state line, all good.
+[02:40] Kayla: Where are you at right now?
+[02:42] John Taylor: Just passed Memphis, TN, everything's fine.
+[03:20] John Taylor: Just delivered LD-95320 at Memphis, TN, all good, no damages.
+[03:22] Kayla: Do you have the signed BOL?
+[03:24] John Taylor: Yep, taking a picture now.
+[03:25] John Taylor: [Image attached: signed_bol.jpg]
+[03:27] Kayla: Sending you the next load details shortly.
+[03:29] John Taylor: Understood.
+[03:31] Kayla: Great work, thank you.

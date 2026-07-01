@@ -1,0 +1,129 @@
+Chat Log #072
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Brown | Truck: #241 (flatbed)
+Operator: Rachel
+Load: LD-80625 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-01-25
+--------------------------------------------------
+[14:55] Rachel: Morning Andrew, you there?
+[14:56] Andrew Brown: Yeah, go ahead.
+[14:58] Rachel: Got a load for you - LD-80625, flatbed, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[15:00] Andrew Brown: Ok, what's the pickup window?
+[15:02] Rachel: Pickup is 13:00-15:00, delivery appointment is 09:00 the next day.
+[15:04] Andrew Brown: What's the rate on this one?
+[15:06] Rachel: $2067 all in, 548 miles.
+[15:08] Andrew Brown: Sounds good, I'll take it.
+[15:10] Rachel: Great, sending the rate confirmation now.
+[15:13] Andrew Brown: Got it, signed and sent back.
+[16:30] Rachel: Any updates on your progress?
+[16:32] Andrew Brown: Just crossed the state line, all good.
+[16:35] Rachel: How are you holding up out there?
+[16:37] Andrew Brown: Doing alright, just tired.
+[18:00] Rachel: How's LD-80625 looking?
+[18:02] Andrew Brown: Hit some traffic near Minneapolis, MN, adding maybe 20 minutes.
+[18:58] Rachel: Still on schedule?
+[19:00] Andrew Brown: Hit some traffic near Minneapolis, MN, adding maybe 20 minutes.
+[19:25] Rachel: Still on schedule?
+[19:27] Andrew Brown: Rain is picking up here, slowing down a bit.
+[20:37] Rachel: How's LD-80625 looking?
+[20:39] Andrew Brown: No problem, just doing my job.
+[20:41] Rachel: What's your ETA?
+[20:43] Andrew Brown: Should be there around 10am.
+[21:46] Rachel: What's your status?
+[21:48] Andrew Brown: Rain is picking up here, slowing down a bit.
+[22:22] Rachel: Any updates on your progress?
+[22:24] Andrew Brown: Fuel prices are decent around here.
+[22:27] Rachel: Long trip, huh? Get some rest when you can.
+[22:29] Andrew Brown: Doing alright, just tired.
+[23:22] Rachel: Still on schedule?
+[23:24] Andrew Brown: Stopping for fuel in a bit.
+[23:27] Rachel: Long trip, huh? Get some rest when you can.
+[23:29] Andrew Brown: Yeah, long one, but manageable.
+[00:11] Rachel: Where are you at right now?
+[00:13] Andrew Brown: Fuel prices are decent around here.
+[00:16] Rachel: Long trip, huh? Get some rest when you can.
+[00:18] Andrew Brown: Yeah, long one, but manageable.
+[00:53] Rachel: Still on schedule?
+[00:55] Andrew Brown: Doing alright, just tired.
+[00:58] Rachel: Long trip, huh? Get some rest when you can.
+[01:00] Andrew Brown: No problem, just doing my job.
+[01:20] Rachel: How's LD-80625 looking?
+[01:22] Andrew Brown: Hit some traffic near Milwaukee, WI, adding maybe 20 minutes.
+[02:03] Rachel: Where are you at right now?
+[02:05] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[03:27] Rachel: Where are you at right now?
+[03:29] Andrew Brown: Just crossed the state line, all good.
+[04:43] Rachel: Where are you at right now?
+[04:45] Andrew Brown: Roads are clear now, moving well.
+[05:51] Rachel: Where are you at right now?
+[05:53] Andrew Brown: About 85 miles out from Milwaukee, WI now.
+[05:55] Rachel: What's your ETA?
+[05:57] Andrew Brown: Should be there around noon.
+[06:51] Rachel: What's your status?
+[06:53] Andrew Brown: Stopping for fuel in a bit.
+[07:35] Rachel: How's LD-80625 looking?
+[07:37] Andrew Brown: Will do, thanks for checking in.
+[07:40] Rachel: How are you holding up out there?
+[07:42] Andrew Brown: No problem, just doing my job.
+[08:01] Rachel: Any updates on your progress?
+[08:03] Andrew Brown: Weather's getting rough up ahead, heads up.
+[08:06] Rachel: Appreciate you keeping me posted.
+[08:08] Andrew Brown: Yeah, long one, but manageable.
+[08:10] Rachel: What's your ETA?
+[08:12] Andrew Brown: Probably 7pm, maybe a bit earlier.
+[09:30] Rachel: Any updates on your progress?
+[09:32] Andrew Brown: Will do, thanks for checking in.
+[09:34] Rachel: What's your ETA?
+[09:36] Andrew Brown: Should be there around 10am.
+[10:04] Rachel: Where are you at right now?
+[10:06] Andrew Brown: Making good time, no issues so far.
+[11:10] Rachel: What's your status?
+[11:12] Andrew Brown: Stopped for a quick break, back on the road in a few.
+[11:54] Rachel: Where are you at right now?
+[11:56] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[12:29] Rachel: Where are you at right now?
+[12:31] Andrew Brown: Just crossed the state line, all good.
+[13:00] Rachel: Still on schedule?
+[13:02] Andrew Brown: Stopped for a quick break, back on the road in a few.
+[13:51] Rachel: How's LD-80625 looking?
+[13:53] Andrew Brown: Stopped for a quick break, back on the road in a few.
+[14:50] Rachel: Still on schedule?
+[14:52] Andrew Brown: About 89 miles out from Milwaukee, WI now.
+[15:40] Rachel: How's LD-80625 looking?
+[15:42] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[16:18] Rachel: Any updates on your progress?
+[16:20] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[16:46] Rachel: What's your status?
+[16:48] Andrew Brown: Just passed Minneapolis, MN, everything's fine.
+[17:15] Rachel: How's LD-80625 looking?
+[17:17] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[17:41] Rachel: Any updates on your progress?
+[17:43] Andrew Brown: Just passed Milwaukee, WI, everything's fine.
+[18:33] Rachel: How's LD-80625 looking?
+[18:35] Andrew Brown: About 351 miles out from Milwaukee, WI now.
+[19:02] Rachel: Where are you at right now?
+[19:04] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[19:52] Rachel: Where are you at right now?
+[19:54] Andrew Brown: Just passed Milwaukee, WI, everything's fine.
+[20:36] Rachel: What's your status?
+[20:38] Andrew Brown: Just passed Minneapolis, MN, everything's fine.
+[21:15] Rachel: Any updates on your progress?
+[21:17] Andrew Brown: Just passed Milwaukee, WI, everything's fine.
+[22:12] Rachel: How's LD-80625 looking?
+[22:14] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[22:43] Rachel: What's your status?
+[22:45] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[23:23] Rachel: What's your status?
+[23:25] Andrew Brown: Making good time, no issues so far.
+[23:43] Rachel: How's LD-80625 looking?
+[23:45] Andrew Brown: Traffic's a bit heavy but I'm still on schedule.
+[00:06] Rachel: Where are you at right now?
+[00:08] Andrew Brown: Stopped for a quick break, back on the road in a few.
+[00:40] Andrew Brown: Just delivered LD-80625 at Milwaukee, WI, all good, no damages.
+[00:42] Rachel: Do you have the signed BOL?
+[00:44] Andrew Brown: Yep, taking a picture now.
+[00:45] Andrew Brown: [Image attached: signed_bol.jpg]
+[00:47] Rachel: Sending you the next load details shortly.
+[00:49] Andrew Brown: Will do.
+[00:51] Rachel: Great work, thank you.

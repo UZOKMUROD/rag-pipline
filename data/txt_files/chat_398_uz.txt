@@ -1,0 +1,151 @@
+Chat Log #398
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #574 (platforma)
+Operator: Dilnoza
+Load: LD-21722 | Route: Qarshi -> Termiz
+Date: 2026-06-09
+--------------------------------------------------
+[13:35] Dilnoza: Bobur, bir daqiqa bormi?
+[13:36] Bobur Mirzayev: Xayrli tong, menda hammasi yaxshi.
+[13:38] Dilnoza: Siz uchun yuk bor - LD-21722, platforma, Qarshidan yuklanadi, Termizga tushiriladi.
+[13:40] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[13:42] Dilnoza: Yuklash 13:00-15:00, tushirish esa ertaga 16:00 bo'ladi.
+[13:44] Bobur Mirzayev: Bu reys uchun narx qancha?
+[13:46] Dilnoza: 2051 ming so'm, 397 km.
+[13:48] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[13:50] Dilnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[13:53] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[15:18] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:20] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:07] Dilnoza: Hozir qayerdasiz?
+[16:09] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[16:12] Dilnoza: O'zingizni qalay his qilyapsiz?
+[16:14] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[16:51] Dilnoza: Yo'lda yangilik bormi?
+[16:53] Bobur Mirzayev: Hozirgina yoqilg'i quydim.
+[16:55] Dilnoza: Taxminan qachon yetib borasiz?
+[16:57] Bobur Mirzayev: Taxminan noonda yetib boraman.
+[17:18] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:20] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:49] Dilnoza: Yo'lda yangilik bormi?
+[17:51] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[17:54] Dilnoza: O'zingizni qalay his qilyapsiz?
+[17:56] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[17:58] Dilnoza: Taxminan qachon yetib borasiz?
+[18:00] Bobur Mirzayev: Taxminan 10amda yetib boraman.
+[18:51] Dilnoza: LD-21722 bilan ishlar qalay?
+[18:53] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:09] Dilnoza: Hozir qayerdasiz?
+[19:11] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[19:13] Dilnoza: Taxminan qachon yetib borasiz?
+[19:15] Bobur Mirzayev: Taxminan 10amda yetib boraman.
+[19:44] Dilnoza: Yo'lda yangilik bormi?
+[19:46] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[21:14] Dilnoza: Holatingiz qanday?
+[21:16] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[21:19] Dilnoza: Biror narsa kerak bo'lsa ayting.
+[21:21] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:44] Dilnoza: Yo'lda yangilik bormi?
+[22:46] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:49] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[22:51] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:04] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[00:06] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[00:09] Dilnoza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:11] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[01:25] Dilnoza: LD-21722 bilan ishlar qalay?
+[01:27] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:36] Dilnoza: Yo'lda yangilik bormi?
+[02:38] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[02:41] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[02:43] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[03:14] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:16] Bobur Mirzayev: Hozirgina Termizdan o'tdim, hammasi joyida.
+[03:19] Dilnoza: O'zingizni qalay his qilyapsiz?
+[03:21] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[03:58] Dilnoza: LD-21722 bilan ishlar qalay?
+[04:00] Bobur Mirzayev: Hammasi joyida, ishimni qilyapman.
+[04:03] Dilnoza: Xabar berib turganingiz uchun rahmat.
+[04:05] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[04:07] Dilnoza: Taxminan qachon yetib borasiz?
+[04:09] Bobur Mirzayev: Taxminan 3pmda yetib boraman.
+[04:25] Dilnoza: Hozir qayerdasiz?
+[04:27] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[04:30] Dilnoza: O'zingizni qalay his qilyapsiz?
+[04:32] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[04:34] Dilnoza: Taxminan qachon yetib borasiz?
+[04:36] Bobur Mirzayev: Agar tirbandlik bo'lmasa 10amda.
+[04:57] Dilnoza: Holatingiz qanday?
+[04:59] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:35] Dilnoza: LD-21722 bilan ishlar qalay?
+[05:37] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:57] Dilnoza: Hozir qayerdasiz?
+[05:59] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:42] Dilnoza: Yo'lda yangilik bormi?
+[06:44] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[07:19] Dilnoza: Hozir qayerdasiz?
+[07:21] Bobur Mirzayev: Hozirgina Termizdan o'tdim, hammasi joyida.
+[08:05] Dilnoza: Holatingiz qanday?
+[08:07] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:26] Dilnoza: LD-21722 bilan ishlar qalay?
+[08:28] Bobur Mirzayev: Termizgacha taxminan 34 km qoldi.
+[08:50] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:52] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:25] Dilnoza: LD-21722 bilan ishlar qalay?
+[09:27] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:22] Dilnoza: Holatingiz qanday?
+[10:24] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:24] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:26] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:55] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:57] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:36] Dilnoza: Yo'lda yangilik bormi?
+[12:38] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[13:01] Dilnoza: Holatingiz qanday?
+[13:03] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[13:36] Dilnoza: Holatingiz qanday?
+[13:38] Bobur Mirzayev: Termizgacha taxminan 78 km qoldi.
+[14:36] Dilnoza: Yo'lda yangilik bormi?
+[14:38] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[15:09] Dilnoza: LD-21722 bilan ishlar qalay?
+[15:11] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:05] Dilnoza: Holatingiz qanday?
+[16:07] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:34] Dilnoza: LD-21722 bilan ishlar qalay?
+[16:36] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:10] Dilnoza: LD-21722 bilan ishlar qalay?
+[17:12] Bobur Mirzayev: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[17:48] Dilnoza: LD-21722 bilan ishlar qalay?
+[17:50] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:33] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:35] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:01] Dilnoza: Yo'lda yangilik bormi?
+[19:03] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:28] Dilnoza: Yo'lda yangilik bormi?
+[19:30] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:08] Dilnoza: LD-21722 bilan ishlar qalay?
+[20:10] Bobur Mirzayev: Termizgacha taxminan 308 km qoldi.
+[21:01] Dilnoza: Holatingiz qanday?
+[21:03] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:32] Dilnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:34] Bobur Mirzayev: Termizgacha taxminan 543 km qoldi.
+[22:22] Dilnoza: Hozir qayerdasiz?
+[22:24] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:59] Dilnoza: LD-21722 bilan ishlar qalay?
+[23:01] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:51] Dilnoza: LD-21722 bilan ishlar qalay?
+[23:53] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:33] Dilnoza: Yo'lda yangilik bormi?
+[00:35] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:25] Dilnoza: Holatingiz qanday?
+[01:27] Bobur Mirzayev: Hozirgina Termizdan o'tdim, hammasi joyida.
+[01:50] Dilnoza: Holatingiz qanday?
+[01:52] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:28] Bobur Mirzayev: LD-21722 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[02:30] Dilnoza: Imzolangan hujjat (BOL) bormi sizda?
+[02:32] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[02:33] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[02:35] Dilnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[02:37] Bobur Mirzayev: Yaxshi.
+[02:39] Dilnoza: Rahmat, aloqada bo'lamiz.

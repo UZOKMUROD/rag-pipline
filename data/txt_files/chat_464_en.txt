@@ -1,0 +1,125 @@
+Chat Log #464
+Company: Silk Road Logistics
+Language: English
+Driver: David Rodriguez | Truck: #131 (flatbed)
+Operator: Megan
+Load: LD-99368 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-01-17
+--------------------------------------------------
+[16:32] Megan: David, got a minute?
+[16:33] David Rodriguez: Hey, yeah I'm here.
+[16:35] Megan: Got a load for you - LD-99368, flatbed, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[16:37] David Rodriguez: Ok, what's the pickup window?
+[16:39] Megan: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[16:41] David Rodriguez: What's the rate on this one?
+[16:43] Megan: $3826 all in, 721 miles.
+[16:45] David Rodriguez: Sounds good, I'll take it.
+[16:47] Megan: Great, sending the rate confirmation now.
+[16:50] David Rodriguez: Got it, signed and sent back.
+[18:03] Megan: How's LD-99368 looking?
+[18:05] David Rodriguez: Hit some traffic near Denver, CO, adding maybe 20 minutes.
+[18:40] Megan: What's your status?
+[18:42] David Rodriguez: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[18:45] Megan: Appreciate you keeping me posted.
+[18:47] David Rodriguez: Will do, thanks for checking in.
+[20:14] Megan: Still on schedule?
+[20:16] David Rodriguez: Rain is picking up here, slowing down a bit.
+[21:25] Megan: Any updates on your progress?
+[21:27] David Rodriguez: Rain is picking up here, slowing down a bit.
+[21:30] Megan: Long trip, huh? Get some rest when you can.
+[21:32] David Rodriguez: No problem, just doing my job.
+[22:48] Megan: How's LD-99368 looking?
+[22:50] David Rodriguez: No problem, just doing my job.
+[23:45] Megan: Any updates on your progress?
+[23:47] David Rodriguez: Doing alright, just tired.
+[23:50] Megan: Appreciate you keeping me posted.
+[23:52] David Rodriguez: Doing alright, just tired.
+[00:38] Megan: How's LD-99368 looking?
+[00:40] David Rodriguez: Just topped off the tank.
+[00:43] Megan: How are you holding up out there?
+[00:45] David Rodriguez: No problem, just doing my job.
+[02:00] Megan: Still on schedule?
+[02:02] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[02:42] Megan: Any updates on your progress?
+[02:44] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[03:06] Megan: Any updates on your progress?
+[03:08] David Rodriguez: Fuel prices are decent around here.
+[03:31] Megan: Where are you at right now?
+[03:33] David Rodriguez: Just crossed the state line, all good.
+[05:03] Megan: Any updates on your progress?
+[05:05] David Rodriguez: Stopping for fuel in a bit.
+[06:05] Megan: Any updates on your progress?
+[06:07] David Rodriguez: Just topped off the tank.
+[06:10] Megan: How are you holding up out there?
+[06:12] David Rodriguez: Will do, thanks for checking in.
+[06:14] Megan: What's your ETA?
+[06:16] David Rodriguez: Should be there around 7pm.
+[07:36] Megan: Still on schedule?
+[07:38] David Rodriguez: Making good time, no issues so far.
+[07:41] Megan: Appreciate you keeping me posted.
+[07:43] David Rodriguez: Yeah, long one, but manageable.
+[08:27] Megan: How's LD-99368 looking?
+[08:29] David Rodriguez: Just crossed the state line, all good.
+[08:32] Megan: Appreciate you keeping me posted.
+[08:34] David Rodriguez: No problem, just doing my job.
+[09:27] Megan: Still on schedule?
+[09:29] David Rodriguez: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[09:52] Megan: What's your status?
+[09:54] David Rodriguez: Weather's getting rough up ahead, heads up.
+[09:57] Megan: Let me know if you need anything.
+[09:59] David Rodriguez: Will do, thanks for checking in.
+[11:08] Megan: Any updates on your progress?
+[11:10] David Rodriguez: Weather's getting rough up ahead, heads up.
+[11:31] David Rodriguez: Coming up on my HOS limit, only got about 45 minutes left.
+[11:33] Megan: Understood, get your rest, I'll let the receiver know.
+[11:51] Megan: Any updates on your progress?
+[11:53] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[12:29] Megan: How's LD-99368 looking?
+[12:31] David Rodriguez: Making good time, no issues so far.
+[13:29] Megan: Where are you at right now?
+[13:31] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[14:12] Megan: Where are you at right now?
+[14:14] David Rodriguez: Just crossed the state line, all good.
+[14:50] Megan: Where are you at right now?
+[14:52] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[15:42] Megan: Where are you at right now?
+[15:44] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[16:27] Megan: Still on schedule?
+[16:29] David Rodriguez: Just passed Salt Lake City, UT, everything's fine.
+[17:20] Megan: Any updates on your progress?
+[17:22] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[18:11] Megan: Where are you at right now?
+[18:13] David Rodriguez: Just crossed the state line, all good.
+[18:53] Megan: What's your status?
+[18:55] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[19:49] Megan: Still on schedule?
+[19:51] David Rodriguez: Just crossed the state line, all good.
+[20:07] Megan: Still on schedule?
+[20:09] David Rodriguez: Just passed Denver, CO, everything's fine.
+[20:31] Megan: What's your status?
+[20:33] David Rodriguez: Just passed Denver, CO, everything's fine.
+[21:17] Megan: How's LD-99368 looking?
+[21:19] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[21:52] Megan: Where are you at right now?
+[21:54] David Rodriguez: Just crossed the state line, all good.
+[22:35] Megan: Still on schedule?
+[22:37] David Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[23:31] Megan: Any updates on your progress?
+[23:33] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[00:13] Megan: How's LD-99368 looking?
+[00:15] David Rodriguez: Making good time, no issues so far.
+[01:06] Megan: What's your status?
+[01:08] David Rodriguez: Just crossed the state line, all good.
+[01:49] Megan: How's LD-99368 looking?
+[01:51] David Rodriguez: Making good time, no issues so far.
+[02:16] Megan: How's LD-99368 looking?
+[02:18] David Rodriguez: Just crossed the state line, all good.
+[02:45] Megan: Where are you at right now?
+[02:47] David Rodriguez: Stopped for a quick break, back on the road in a few.
+[03:18] David Rodriguez: Just delivered LD-99368 at Salt Lake City, UT, all good, no damages.
+[03:20] Megan: Do you have the signed BOL?
+[03:22] David Rodriguez: Yep, taking a picture now.
+[03:23] David Rodriguez: [Image attached: signed_bol.jpg]
+[03:25] Megan: Sending you the next load details shortly.
+[03:27] David Rodriguez: Will do.
+[03:29] Megan: Thanks for the update, drive safe.

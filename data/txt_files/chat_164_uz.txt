@@ -1,0 +1,152 @@
+Chat Log #164
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #710 (tentli furgon)
+Operator: Zarina
+Load: LD-72766 | Route: Jizzax -> Guliston
+Date: 2026-01-25
+--------------------------------------------------
+[15:31] Zarina: Jasur, bir daqiqa bormi?
+[15:32] Jasur Toshpulatov: Ha, aytavering.
+[15:34] Zarina: Siz uchun yuk bor - LD-72766, tentli furgon, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[15:36] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[15:38] Zarina: Yuklash 06:00-08:00, tushirish esa ertaga 16:00 bo'ladi.
+[15:40] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[15:42] Zarina: 3909 ming so'm, 1003 km.
+[15:44] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[15:46] Zarina: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[15:49] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[16:57] Zarina: Holatingiz qanday?
+[16:59] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:43] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[17:45] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:48] Zarina: Biror narsa kerak bo'lsa ayting.
+[17:50] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:12] Zarina: Holatingiz qanday?
+[19:14] Jasur Toshpulatov: Jizzax yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[19:17] Zarina: Xabar berib turganingiz uchun rahmat.
+[19:19] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[20:31] Zarina: Holatingiz qanday?
+[20:33] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:54] Zarina: LD-72766 bilan ishlar qalay?
+[21:56] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:58] Zarina: Taxminan qachon yetib borasiz?
+[22:00] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 5pmda.
+[22:29] Zarina: Hozir qayerdasiz?
+[22:31] Jasur Toshpulatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[22:34] Zarina: O'zingizni qalay his qilyapsiz?
+[22:36] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[23:25] Zarina: Yo'lda yangilik bormi?
+[23:27] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:46] Zarina: Holatingiz qanday?
+[23:48] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:50] Zarina: Taxminan qachon yetib borasiz?
+[23:52] Jasur Toshpulatov: Ehtimol 7pm, balki ertaroq.
+[01:13] Zarina: Hozir qayerdasiz?
+[01:15] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[02:32] Zarina: LD-72766 bilan ishlar qalay?
+[02:34] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[02:54] Zarina: LD-72766 bilan ishlar qalay?
+[02:56] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[03:15] Zarina: Holatingiz qanday?
+[03:17] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[03:20] Zarina: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:22] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[03:24] Zarina: Taxminan qachon yetib borasiz?
+[03:26] Jasur Toshpulatov: Taxminan 3pmda yetib boraman.
+[03:48] Zarina: LD-72766 bilan ishlar qalay?
+[03:50] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:53] Zarina: Biror narsa kerak bo'lsa ayting.
+[03:55] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[03:57] Zarina: Taxminan qachon yetib borasiz?
+[03:59] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 10amda.
+[04:28] Zarina: Holatingiz qanday?
+[04:30] Jasur Toshpulatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[04:32] Zarina: Taxminan qachon yetib borasiz?
+[04:34] Jasur Toshpulatov: Taxminan 10amda yetib boraman.
+[05:14] Zarina: LD-72766 bilan ishlar qalay?
+[05:16] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[06:15] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[06:17] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[06:48] Zarina: Holatingiz qanday?
+[06:50] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[07:29] Zarina: Holatingiz qanday?
+[07:31] Jasur Toshpulatov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[07:34] Zarina: Xabar berib turganingiz uchun rahmat.
+[07:36] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[07:38] Zarina: Taxminan qachon yetib borasiz?
+[07:40] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 7pmda.
+[08:53] Zarina: Holatingiz qanday?
+[08:55] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[08:57] Zarina: Taxminan qachon yetib borasiz?
+[08:59] Jasur Toshpulatov: Ehtimol noon, balki ertaroq.
+[09:33] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[09:35] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:00] Zarina: Holatingiz qanday?
+[10:02] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[10:04] Zarina: Taxminan qachon yetib borasiz?
+[10:06] Jasur Toshpulatov: Ehtimol 3pm, balki ertaroq.
+[10:50] Zarina: Holatingiz qanday?
+[10:52] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[10:55] Zarina: O'zingizni qalay his qilyapsiz?
+[10:57] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[11:08] Jasur Toshpulatov: Hali ham jo'natuvchida turibman, deyarli 3 soat bo'ldi.
+[11:10] Zarina: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[11:20] Zarina: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[11:22] Jasur Toshpulatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[11:24] Zarina: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[12:17] Zarina: Hozir qayerdasiz?
+[12:19] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:41] Zarina: Yo'lda yangilik bormi?
+[12:43] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[13:37] Zarina: Yo'lda yangilik bormi?
+[13:39] Jasur Toshpulatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[14:04] Zarina: Hozir qayerdasiz?
+[14:06] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:03] Zarina: Holatingiz qanday?
+[15:05] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:38] Zarina: LD-72766 bilan ishlar qalay?
+[15:40] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:21] Zarina: Yo'lda yangilik bormi?
+[16:23] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:01] Zarina: LD-72766 bilan ishlar qalay?
+[17:03] Jasur Toshpulatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[17:35] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[17:37] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:04] Zarina: Holatingiz qanday?
+[18:06] Jasur Toshpulatov: Gulistongacha taxminan 33 km qoldi.
+[19:02] Zarina: Hozir qayerdasiz?
+[19:04] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:55] Zarina: LD-72766 bilan ishlar qalay?
+[19:57] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:19] Zarina: LD-72766 bilan ishlar qalay?
+[20:21] Jasur Toshpulatov: Gulistongacha taxminan 350 km qoldi.
+[20:36] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[20:38] Jasur Toshpulatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[21:10] Zarina: Hozir qayerdasiz?
+[21:12] Jasur Toshpulatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[21:50] Zarina: Holatingiz qanday?
+[21:52] Jasur Toshpulatov: Gulistongacha taxminan 333 km qoldi.
+[22:46] Zarina: Yo'lda yangilik bormi?
+[22:48] Jasur Toshpulatov: Gulistongacha taxminan 595 km qoldi.
+[23:34] Zarina: Yo'lda yangilik bormi?
+[23:36] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:22] Zarina: Yo'lda yangilik bormi?
+[00:24] Jasur Toshpulatov: Gulistongacha taxminan 117 km qoldi.
+[00:49] Zarina: LD-72766 bilan ishlar qalay?
+[00:51] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:32] Zarina: LD-72766 bilan ishlar qalay?
+[01:34] Jasur Toshpulatov: Gulistongacha taxminan 304 km qoldi.
+[02:03] Zarina: LD-72766 bilan ishlar qalay?
+[02:05] Jasur Toshpulatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[02:21] Zarina: Hali ham jadval bo'yicha ketyapsizmi?
+[02:23] Jasur Toshpulatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[02:50] Zarina: Holatingiz qanday?
+[02:52] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:10] Jasur Toshpulatov: LD-72766 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[04:12] Zarina: Imzolangan hujjat (BOL) bormi sizda?
+[04:14] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[04:15] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[04:17] Zarina: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[04:19] Jasur Toshpulatov: Tushunarli.
+[04:21] Zarina: Rahmat, aloqada bo'lamiz.

@@ -1,0 +1,125 @@
+Chat Log #148
+Company: Silk Road Logistics
+Language: English
+Driver: Robert Garcia | Truck: #276 (dry van)
+Operator: Sarah
+Load: LD-24856 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-02-01
+--------------------------------------------------
+[06:12] Sarah: Hey Robert, how's it going?
+[06:13] Robert Garcia: Hey, yeah I'm here.
+[06:15] Sarah: Got a load for you - LD-24856, dry van, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[06:17] Robert Garcia: Ok, what's the pickup window?
+[06:19] Sarah: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[06:21] Robert Garcia: What's the rate on this one?
+[06:23] Sarah: $4174 all in, 996 miles.
+[06:25] Robert Garcia: Sounds good, I'll take it.
+[06:27] Sarah: Great, sending the rate confirmation now.
+[06:30] Robert Garcia: Got it, signed and sent back.
+[07:16] Sarah: Any updates on your progress?
+[07:18] Robert Garcia: Just crossed the state line, all good.
+[07:20] Sarah: What's your ETA?
+[07:22] Robert Garcia: Looking at noon if traffic stays clear.
+[07:59] Sarah: Still on schedule?
+[08:01] Robert Garcia: Hit some traffic near Los Angeles, CA, adding maybe 20 minutes.
+[08:03] Sarah: What's your ETA?
+[08:05] Robert Garcia: Probably 5pm, maybe a bit earlier.
+[08:21] Sarah: What's your status?
+[08:23] Robert Garcia: About 310 miles out from Phoenix, AZ now.
+[08:26] Sarah: Long trip, huh? Get some rest when you can.
+[08:28] Robert Garcia: Yeah, long one, but manageable.
+[09:10] Sarah: Any updates on your progress?
+[09:12] Robert Garcia: Rain is picking up here, slowing down a bit.
+[09:15] Sarah: Let me know if you need anything.
+[09:17] Robert Garcia: No problem, just doing my job.
+[10:31] Sarah: What's your status?
+[10:33] Robert Garcia: Fuel prices are decent around here.
+[11:30] Sarah: Still on schedule?
+[11:32] Robert Garcia: About 380 miles out from Phoenix, AZ now.
+[12:12] Sarah: Where are you at right now?
+[12:14] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[12:17] Sarah: Appreciate you keeping me posted.
+[12:19] Robert Garcia: Yeah, long one, but manageable.
+[12:48] Sarah: What's your status?
+[12:50] Robert Garcia: Fuel prices are decent around here.
+[13:38] Sarah: What's your status?
+[13:40] Robert Garcia: Accident up ahead, traffic's backed up.
+[14:12] Sarah: Still on schedule?
+[14:14] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[14:54] Sarah: What's your status?
+[14:56] Robert Garcia: Making good time, no issues so far.
+[16:22] Sarah: Still on schedule?
+[16:24] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[16:27] Sarah: Let me know if you need anything.
+[16:29] Robert Garcia: Doing alright, just tired.
+[17:58] Sarah: What's your status?
+[18:00] Robert Garcia: About 347 miles out from Phoenix, AZ now.
+[18:02] Sarah: What's your ETA?
+[18:04] Robert Garcia: Should be there around 5pm.
+[18:39] Sarah: Where are you at right now?
+[18:41] Robert Garcia: About 370 miles out from Phoenix, AZ now.
+[18:44] Sarah: Appreciate you keeping me posted.
+[18:46] Robert Garcia: No problem, just doing my job.
+[18:48] Sarah: What's your ETA?
+[18:50] Robert Garcia: Probably noon, maybe a bit earlier.
+[20:06] Sarah: What's your status?
+[20:08] Robert Garcia: Clear skies here, no problems.
+[21:25] Sarah: What's your status?
+[21:27] Robert Garcia: Clear skies here, no problems.
+[21:58] Sarah: Still on schedule?
+[22:00] Robert Garcia: Accident up ahead, traffic's backed up.
+[22:28] Robert Garcia: I've got a problem, a DOT inspection on LD-24856. Pulled over on the shoulder.
+[22:29] Sarah: Are you safe? Anyone hurt?
+[22:31] Robert Garcia: Yeah I'm fine, just need roadside assistance.
+[22:33] Sarah: Mile marker 142 on I-35.
+[22:38] Sarah: Truck is on the way, ETA about 45 min.
+[00:01] Robert Garcia: Fixed and rolling again.
+[00:17] Sarah: Any updates on your progress?
+[00:19] Robert Garcia: Just passed Los Angeles, CA, everything's fine.
+[01:13] Sarah: Where are you at right now?
+[01:15] Robert Garcia: Just crossed the state line, all good.
+[01:56] Sarah: Still on schedule?
+[01:58] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[02:23] Sarah: What's your status?
+[02:25] Robert Garcia: Making good time, no issues so far.
+[03:25] Sarah: Any updates on your progress?
+[03:27] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[03:54] Sarah: Any updates on your progress?
+[03:56] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[04:41] Sarah: What's your status?
+[04:43] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[05:03] Sarah: Where are you at right now?
+[05:05] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[05:29] Sarah: Where are you at right now?
+[05:31] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[05:47] Sarah: What's your status?
+[05:49] Robert Garcia: Making good time, no issues so far.
+[06:18] Sarah: Where are you at right now?
+[06:20] Robert Garcia: About 288 miles out from Phoenix, AZ now.
+[07:05] Sarah: Where are you at right now?
+[07:07] Robert Garcia: Making good time, no issues so far.
+[07:30] Sarah: What's your status?
+[07:32] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[08:25] Sarah: What's your status?
+[08:27] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[09:18] Sarah: Where are you at right now?
+[09:20] Robert Garcia: Stopped for a quick break, back on the road in a few.
+[10:18] Sarah: Any updates on your progress?
+[10:20] Robert Garcia: Just crossed the state line, all good.
+[11:12] Sarah: Still on schedule?
+[11:14] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[11:45] Sarah: What's your status?
+[11:47] Robert Garcia: Making good time, no issues so far.
+[12:16] Sarah: What's your status?
+[12:18] Robert Garcia: Just passed Los Angeles, CA, everything's fine.
+[12:37] Sarah: Still on schedule?
+[12:39] Robert Garcia: Traffic's a bit heavy but I'm still on schedule.
+[12:59] Sarah: How's LD-24856 looking?
+[13:01] Robert Garcia: About 34 miles out from Phoenix, AZ now.
+[14:27] Robert Garcia: Just delivered LD-24856 at Phoenix, AZ, all good, no damages.
+[14:29] Sarah: Do you have the signed BOL?
+[14:31] Robert Garcia: Yep, taking a picture now.
+[14:32] Robert Garcia: [Image attached: signed_bol.jpg]
+[14:34] Sarah: Sending you the next load details shortly.
+[14:36] Robert Garcia: Understood.
+[14:38] Sarah: Appreciate it, talk soon.

@@ -1,0 +1,145 @@
+Chat Log #496
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bobur Mirzayev | Truck: #720 (past ramali tirkama)
+Operator: Feruza
+Load: LD-81232 | Route: Toshkent -> Namangan
+Date: 2026-01-26
+--------------------------------------------------
+[05:09] Feruza: Xayrli tong, Bobur, aloqadamisiz?
+[05:10] Bobur Mirzayev: Xayrli tong, menda hammasi yaxshi.
+[05:12] Feruza: Siz uchun yuk bor - LD-81232, past ramali tirkama, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[05:14] Bobur Mirzayev: Tushunarli, yuklash vaqti qachon?
+[05:16] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 14:00 bo'ladi.
+[05:18] Bobur Mirzayev: Bu reys uchun narx qancha?
+[05:20] Feruza: 2997 ming so'm, 842 km.
+[05:22] Bobur Mirzayev: Yaxshi, bu reysni olaman.
+[05:24] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[05:27] Bobur Mirzayev: Oldim, imzolab qaytarib yubordim.
+[06:46] Feruza: Holatingiz qanday?
+[06:48] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:15] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[07:17] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[07:20] Feruza: Xabar berib turganingiz uchun rahmat.
+[07:22] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:37] Feruza: Hozir qayerdasiz?
+[07:39] Bobur Mirzayev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[08:20] Feruza: Holatingiz qanday?
+[08:22] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:24] Feruza: Taxminan qachon yetib borasiz?
+[08:26] Bobur Mirzayev: Ehtimol 10am, balki ertaroq.
+[09:12] Feruza: Yo'lda yangilik bormi?
+[09:14] Bobur Mirzayev: Ha, uzoq, lekin chidayapman.
+[10:34] Feruza: Hozir qayerdasiz?
+[10:36] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[11:51] Feruza: LD-81232 bilan ishlar qalay?
+[11:53] Bobur Mirzayev: Oldinda avariya bo'lgan, tirbandlik bor.
+[11:55] Feruza: Taxminan qachon yetib borasiz?
+[11:57] Bobur Mirzayev: Agar tirbandlik bo'lmasa 7pmda.
+[13:24] Feruza: Yo'lda yangilik bormi?
+[13:26] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[13:29] Feruza: Xabar berib turganingiz uchun rahmat.
+[13:31] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[14:04] Feruza: Holatingiz qanday?
+[14:06] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:15] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:17] Bobur Mirzayev: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[15:20] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[15:22] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[16:03] Feruza: Yo'lda yangilik bormi?
+[16:05] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[16:08] Feruza: O'zingizni qalay his qilyapsiz?
+[16:10] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:12] Feruza: Taxminan qachon yetib borasiz?
+[16:14] Bobur Mirzayev: Ehtimol 3pm, balki ertaroq.
+[16:55] Feruza: Yo'lda yangilik bormi?
+[16:57] Bobur Mirzayev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[17:52] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:54] Bobur Mirzayev: Namangan yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[19:16] Feruza: Holatingiz qanday?
+[19:18] Bobur Mirzayev: Yo'llar bo'sh, yaxshi ketyapman.
+[20:20] Feruza: Hozir qayerdasiz?
+[20:22] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:25] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:27] Bobur Mirzayev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[20:29] Feruza: Taxminan qachon yetib borasiz?
+[20:31] Bobur Mirzayev: Taxminan 5pmda yetib boraman.
+[21:09] Feruza: LD-81232 bilan ishlar qalay?
+[21:11] Bobur Mirzayev: Namangangacha taxminan 456 km qoldi.
+[21:45] Feruza: Holatingiz qanday?
+[21:47] Bobur Mirzayev: Bu yerda yoqilg'i narxlari yomon emas.
+[21:49] Feruza: Taxminan qachon yetib borasiz?
+[21:51] Bobur Mirzayev: Taxminan 5pmda yetib boraman.
+[22:16] Feruza: Yo'lda yangilik bormi?
+[22:18] Bobur Mirzayev: Yaxshi, faqat biroz charchadim.
+[22:58] Feruza: LD-81232 bilan ishlar qalay?
+[23:00] Bobur Mirzayev: Namangangacha taxminan 563 km qoldi.
+[23:36] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:38] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[23:54] Feruza: Holatingiz qanday?
+[23:56] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[00:29] Feruza: LD-81232 bilan ishlar qalay?
+[00:31] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:01] Feruza: Holatingiz qanday?
+[01:03] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[01:29] Feruza: LD-81232 bilan ishlar qalay?
+[01:31] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:00] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:02] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[02:40] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[02:42] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[03:20] Feruza: Hozir qayerdasiz?
+[03:22] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:15] Feruza: Hozir qayerdasiz?
+[04:17] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:52] Feruza: Yo'lda yangilik bormi?
+[04:54] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[05:48] Feruza: LD-81232 bilan ishlar qalay?
+[05:50] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:39] Feruza: LD-81232 bilan ishlar qalay?
+[06:41] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:04] Feruza: Yo'lda yangilik bormi?
+[07:06] Bobur Mirzayev: Namangangacha taxminan 119 km qoldi.
+[07:53] Feruza: Hozir qayerdasiz?
+[07:55] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:46] Feruza: Holatingiz qanday?
+[08:48] Bobur Mirzayev: Namangangacha taxminan 30 km qoldi.
+[09:08] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:10] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:57] Feruza: Yo'lda yangilik bormi?
+[09:59] Bobur Mirzayev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[10:20] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:22] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:11] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:13] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:35] Feruza: LD-81232 bilan ishlar qalay?
+[11:37] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:56] Feruza: Yo'lda yangilik bormi?
+[11:58] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:54] Feruza: LD-81232 bilan ishlar qalay?
+[12:56] Bobur Mirzayev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:50] Feruza: LD-81232 bilan ishlar qalay?
+[13:52] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:09] Feruza: LD-81232 bilan ishlar qalay?
+[14:11] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:37] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:39] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:03] Feruza: Holatingiz qanday?
+[15:05] Bobur Mirzayev: Namangangacha taxminan 573 km qoldi.
+[15:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:48] Bobur Mirzayev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:38] Feruza: Yo'lda yangilik bormi?
+[16:40] Bobur Mirzayev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[17:37] Feruza: Yo'lda yangilik bormi?
+[17:39] Bobur Mirzayev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[18:30] Feruza: Holatingiz qanday?
+[18:32] Bobur Mirzayev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:01] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[19:03] Bobur Mirzayev: Namangangacha taxminan 574 km qoldi.
+[20:18] Bobur Mirzayev: LD-81232 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[20:20] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[20:22] Bobur Mirzayev: Ha, hozir rasmga olaman.
+[20:23] Bobur Mirzayev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[20:25] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[20:27] Bobur Mirzayev: Xo'p bo'ladi.
+[20:29] Feruza: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

@@ -1,0 +1,131 @@
+Chat Log #154
+Company: Silk Road Logistics
+Language: English
+Driver: Kevin Harris | Truck: #506 (flatbed)
+Operator: Emily
+Load: LD-19651 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-04-03
+--------------------------------------------------
+[09:31] Emily: Hey Kevin, how's it going?
+[09:32] Kevin Harris: Morning, all good on my end.
+[09:34] Emily: Got a load for you - LD-19651, flatbed, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[09:36] Kevin Harris: Ok, what's the pickup window?
+[09:38] Emily: Pickup is 09:00-11:00, delivery appointment is 16:00 the next day.
+[09:40] Kevin Harris: What's the rate on this one?
+[09:42] Emily: $1894 all in, 832 miles.
+[09:44] Kevin Harris: Sounds good, I'll take it.
+[09:46] Emily: Great, sending the rate confirmation now.
+[09:49] Kevin Harris: Got it, signed and sent back.
+[10:41] Emily: Any updates on your progress?
+[10:43] Kevin Harris: Just passed Las Vegas, NV, everything's fine.
+[10:45] Emily: What's your ETA?
+[10:47] Kevin Harris: Should be there around 5pm.
+[12:15] Emily: Where are you at right now?
+[12:17] Kevin Harris: Roads are clear now, moving well.
+[12:44] Emily: How's LD-19651 looking?
+[12:46] Kevin Harris: Roads are clear now, moving well.
+[13:19] Emily: How's LD-19651 looking?
+[13:21] Kevin Harris: Roads are clear now, moving well.
+[14:08] Emily: Where are you at right now?
+[14:10] Kevin Harris: Just topped off the tank.
+[14:49] Emily: What's your status?
+[14:51] Kevin Harris: Accident up ahead, traffic's backed up.
+[16:01] Emily: What's your status?
+[16:03] Kevin Harris: Roads are wet, taking it easy.
+[16:06] Emily: Appreciate you keeping me posted.
+[16:08] Kevin Harris: No problem, just doing my job.
+[16:58] Emily: Still on schedule?
+[17:00] Kevin Harris: Just topped off the tank.
+[17:03] Emily: Let me know if you need anything.
+[17:05] Kevin Harris: Will do, thanks for checking in.
+[18:25] Emily: What's your status?
+[18:27] Kevin Harris: Just topped off the tank.
+[19:03] Emily: Any updates on your progress?
+[19:05] Kevin Harris: Fuel prices are decent around here.
+[19:28] Emily: Still on schedule?
+[19:30] Kevin Harris: No problem, just doing my job.
+[20:27] Emily: Where are you at right now?
+[20:29] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[21:21] Emily: Still on schedule?
+[21:23] Kevin Harris: Yeah, long one, but manageable.
+[21:25] Emily: What's your ETA?
+[21:27] Kevin Harris: Should be there around 5pm.
+[22:13] Emily: Where are you at right now?
+[22:15] Kevin Harris: Weather's getting rough up ahead, heads up.
+[22:17] Emily: What's your ETA?
+[22:19] Kevin Harris: Probably noon, maybe a bit earlier.
+[23:47] Emily: Any updates on your progress?
+[23:49] Kevin Harris: Accident up ahead, traffic's backed up.
+[00:27] Emily: Where are you at right now?
+[00:29] Kevin Harris: Clear skies here, no problems.
+[01:12] Emily: Any updates on your progress?
+[01:14] Kevin Harris: Accident up ahead, traffic's backed up.
+[01:16] Emily: What's your ETA?
+[01:18] Kevin Harris: Looking at 3pm if traffic stays clear.
+[02:42] Emily: Any updates on your progress?
+[02:44] Kevin Harris: Will do, thanks for checking in.
+[02:46] Emily: What's your ETA?
+[02:48] Kevin Harris: Should be there around 10am.
+[03:15] Emily: Where are you at right now?
+[03:17] Kevin Harris: Stopping for fuel in a bit.
+[03:52] Emily: How's LD-19651 looking?
+[03:54] Kevin Harris: Just crossed the state line, all good.
+[04:44] Emily: Still on schedule?
+[04:46] Kevin Harris: Making good time, no issues so far.
+[05:15] Emily: Any updates on your progress?
+[05:17] Kevin Harris: Just passed Fresno, CA, everything's fine.
+[06:17] Emily: Any updates on your progress?
+[06:19] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[06:49] Emily: What's your status?
+[06:51] Kevin Harris: About 188 miles out from Las Vegas, NV now.
+[07:44] Emily: What's your status?
+[07:46] Kevin Harris: Stopped for a quick break, back on the road in a few.
+[08:40] Emily: How's LD-19651 looking?
+[08:42] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[09:19] Emily: How's LD-19651 looking?
+[09:21] Kevin Harris: Making good time, no issues so far.
+[09:44] Emily: Still on schedule?
+[09:46] Kevin Harris: Just passed Las Vegas, NV, everything's fine.
+[10:46] Emily: Any updates on your progress?
+[10:48] Kevin Harris: About 479 miles out from Las Vegas, NV now.
+[11:44] Emily: Still on schedule?
+[11:46] Kevin Harris: Just passed Las Vegas, NV, everything's fine.
+[12:04] Emily: Any updates on your progress?
+[12:06] Kevin Harris: Just passed Fresno, CA, everything's fine.
+[12:36] Emily: Where are you at right now?
+[12:38] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[13:33] Emily: Still on schedule?
+[13:35] Kevin Harris: Stopped for a quick break, back on the road in a few.
+[14:07] Emily: What's your status?
+[14:09] Kevin Harris: About 168 miles out from Las Vegas, NV now.
+[15:02] Emily: Where are you at right now?
+[15:04] Kevin Harris: About 197 miles out from Las Vegas, NV now.
+[15:35] Emily: Where are you at right now?
+[15:37] Kevin Harris: About 68 miles out from Las Vegas, NV now.
+[16:08] Emily: How's LD-19651 looking?
+[16:10] Kevin Harris: Stopped for a quick break, back on the road in a few.
+[16:53] Emily: Still on schedule?
+[16:55] Kevin Harris: Just passed Las Vegas, NV, everything's fine.
+[17:49] Emily: Where are you at right now?
+[17:51] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[18:11] Emily: Any updates on your progress?
+[18:13] Kevin Harris: Making good time, no issues so far.
+[19:03] Emily: What's your status?
+[19:05] Kevin Harris: Just crossed the state line, all good.
+[19:48] Emily: How's LD-19651 looking?
+[19:50] Kevin Harris: Just passed Fresno, CA, everything's fine.
+[20:28] Emily: Any updates on your progress?
+[20:30] Kevin Harris: Making good time, no issues so far.
+[20:48] Emily: Still on schedule?
+[20:50] Kevin Harris: Just passed Las Vegas, NV, everything's fine.
+[21:20] Emily: Any updates on your progress?
+[21:22] Kevin Harris: Traffic's a bit heavy but I'm still on schedule.
+[22:17] Emily: Any updates on your progress?
+[22:19] Kevin Harris: About 415 miles out from Las Vegas, NV now.
+[23:10] Kevin Harris: Just delivered LD-19651 at Las Vegas, NV, all good, no damages.
+[23:12] Emily: Do you have the signed BOL?
+[23:14] Kevin Harris: Yep, taking a picture now.
+[23:15] Kevin Harris: [Image attached: signed_bol.jpg]
+[23:17] Emily: Sending you the next load details shortly.
+[23:19] Kevin Harris: Sounds good.
+[23:21] Emily: Great work, thank you.

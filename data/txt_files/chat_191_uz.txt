@@ -1,0 +1,147 @@
+Chat Log #191
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Bakhtiyor Karimov | Truck: #988 (tentli furgon)
+Operator: Gulnora
+Load: LD-28953 | Route: Andijon -> Farg'ona
+Date: 2026-02-04
+--------------------------------------------------
+[19:03] Gulnora: Bakhtiyor, bir daqiqa bormi?
+[19:04] Bakhtiyor Karimov: Ha, aytavering.
+[19:06] Gulnora: Siz uchun yuk bor - LD-28953, tentli furgon, Andijondan yuklanadi, Farg'onaga tushiriladi.
+[19:08] Bakhtiyor Karimov: Tushunarli, yuklash vaqti qachon?
+[19:10] Gulnora: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[19:12] Bakhtiyor Karimov: Bu reys uchun narx qancha?
+[19:14] Gulnora: 2476 ming so'm, 611 km.
+[19:16] Bakhtiyor Karimov: Yaxshi, bu reysni olaman.
+[19:18] Gulnora: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[19:21] Bakhtiyor Karimov: Oldim, imzolab qaytarib yubordim.
+[20:45] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[20:47] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[22:01] Gulnora: Yo'lda yangilik bormi?
+[22:03] Bakhtiyor Karimov: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[22:06] Gulnora: Biror narsa kerak bo'lsa ayting.
+[22:08] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:41] Gulnora: Hozir qayerdasiz?
+[22:43] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:53] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[23:55] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:58] Gulnora: Biror narsa kerak bo'lsa ayting.
+[00:00] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[00:46] Gulnora: Yo'lda yangilik bormi?
+[00:48] Bakhtiyor Karimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[01:28] Gulnora: Holatingiz qanday?
+[01:30] Bakhtiyor Karimov: Bu yerda yoqilg'i narxlari yomon emas.
+[01:33] Gulnora: Xabar berib turganingiz uchun rahmat.
+[01:35] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[01:50] Gulnora: LD-28953 bilan ishlar qalay?
+[01:52] Bakhtiyor Karimov: Yaxshi, faqat biroz charchadim.
+[01:55] Gulnora: Biror narsa kerak bo'lsa ayting.
+[01:57] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:52] Gulnora: Yo'lda yangilik bormi?
+[02:54] Bakhtiyor Karimov: Hozirgina yoqilg'i quydim.
+[02:57] Gulnora: O'zingizni qalay his qilyapsiz?
+[02:59] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:01] Gulnora: Taxminan qachon yetib borasiz?
+[03:03] Bakhtiyor Karimov: Ehtimol 3pm, balki ertaroq.
+[04:27] Gulnora: Holatingiz qanday?
+[04:29] Bakhtiyor Karimov: Farg'onagacha taxminan 528 km qoldi.
+[05:15] Gulnora: Holatingiz qanday?
+[05:17] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:20] Gulnora: O'zingizni qalay his qilyapsiz?
+[05:22] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[05:24] Gulnora: Taxminan qachon yetib borasiz?
+[05:26] Bakhtiyor Karimov: Agar tirbandlik bo'lmasa 3pmda.
+[06:15] Gulnora: Hozir qayerdasiz?
+[06:17] Bakhtiyor Karimov: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[06:41] Gulnora: Hozir qayerdasiz?
+[06:43] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:46] Gulnora: Biror narsa kerak bo'lsa ayting.
+[06:48] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[08:17] Gulnora: LD-28953 bilan ishlar qalay?
+[08:19] Bakhtiyor Karimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[08:22] Gulnora: Biror narsa kerak bo'lsa ayting.
+[08:24] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[09:38] Gulnora: Yo'lda yangilik bormi?
+[09:40] Bakhtiyor Karimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[09:43] Gulnora: Xabar berib turganingiz uchun rahmat.
+[09:45] Bakhtiyor Karimov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:14] Gulnora: Holatingiz qanday?
+[11:16] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[11:19] Gulnora: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[11:21] Bakhtiyor Karimov: Ha, uzoq, lekin chidayapman.
+[12:33] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[12:35] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:50] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[13:52] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:55] Gulnora: Xabar berib turganingiz uchun rahmat.
+[13:57] Bakhtiyor Karimov: Hammasi joyida, ishimni qilyapman.
+[13:59] Gulnora: Taxminan qachon yetib borasiz?
+[14:01] Bakhtiyor Karimov: Taxminan 3pmda yetib boraman.
+[15:07] Gulnora: Hozir qayerdasiz?
+[15:09] Bakhtiyor Karimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[15:19] Bakhtiyor Karimov: Haydash vaqtim limitiga yaqinlashyapman, atigi 30 minutes qoldi.
+[15:21] Gulnora: Tushunarli, dam oling, men qabul qiluvchiga xabar beraman.
+[16:08] Gulnora: Yo'lda yangilik bormi?
+[16:10] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:54] Gulnora: Hozir qayerdasiz?
+[16:56] Bakhtiyor Karimov: Farg'onagacha taxminan 578 km qoldi.
+[17:48] Gulnora: Holatingiz qanday?
+[17:50] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[18:24] Gulnora: Yo'lda yangilik bormi?
+[18:26] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:13] Gulnora: Hozir qayerdasiz?
+[19:15] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[20:07] Gulnora: Yo'lda yangilik bormi?
+[20:09] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[20:56] Gulnora: LD-28953 bilan ishlar qalay?
+[20:58] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:21] Gulnora: Holatingiz qanday?
+[21:23] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:44] Gulnora: Hozir qayerdasiz?
+[21:46] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:22] Gulnora: Yo'lda yangilik bormi?
+[22:24] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:56] Gulnora: Yo'lda yangilik bormi?
+[22:58] Bakhtiyor Karimov: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[23:16] Gulnora: Hozir qayerdasiz?
+[23:18] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[00:02] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[00:04] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[00:59] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[01:01] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:33] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[01:35] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[01:56] Gulnora: LD-28953 bilan ishlar qalay?
+[01:58] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[02:57] Gulnora: LD-28953 bilan ishlar qalay?
+[02:59] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:56] Gulnora: LD-28953 bilan ishlar qalay?
+[03:58] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:40] Gulnora: LD-28953 bilan ishlar qalay?
+[04:42] Bakhtiyor Karimov: Farg'onagacha taxminan 564 km qoldi.
+[05:31] Gulnora: Hozir qayerdasiz?
+[05:33] Bakhtiyor Karimov: Hozirgina Andijondan o'tdim, hammasi joyida.
+[05:53] Gulnora: Holatingiz qanday?
+[05:55] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:50] Gulnora: Holatingiz qanday?
+[06:52] Bakhtiyor Karimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:52] Gulnora: LD-28953 bilan ishlar qalay?
+[07:54] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:21] Gulnora: Yo'lda yangilik bormi?
+[08:23] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:44] Gulnora: Hozir qayerdasiz?
+[08:46] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:17] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[09:19] Bakhtiyor Karimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:42] Gulnora: Holatingiz qanday?
+[09:44] Bakhtiyor Karimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:10] Gulnora: Hali ham jadval bo'yicha ketyapsizmi?
+[10:12] Bakhtiyor Karimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:36] Bakhtiyor Karimov: LD-28953 yukini Farg'onada hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[11:38] Gulnora: Imzolangan hujjat (BOL) bormi sizda?
+[11:40] Bakhtiyor Karimov: Ha, hozir rasmga olaman.
+[11:41] Bakhtiyor Karimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[11:43] Gulnora: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[11:45] Bakhtiyor Karimov: Yaxshi.
+[11:47] Gulnora: Rahmat, aloqada bo'lamiz.

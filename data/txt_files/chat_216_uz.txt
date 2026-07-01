@@ -1,0 +1,151 @@
+Chat Log #216
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #770 (refrijerator)
+Operator: Feruza
+Load: LD-80325 | Route: Toshkent -> Namangan
+Date: 2026-03-11
+--------------------------------------------------
+[06:26] Feruza: Shavkat, bir daqiqa bormi?
+[06:27] Shavkat Ergashev: Ha, aloqadaman.
+[06:29] Feruza: Siz uchun yuk bor - LD-80325, refrijerator, Toshkentdan yuklanadi, Namanganga tushiriladi.
+[06:31] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[06:33] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 07:30 bo'ladi.
+[06:35] Shavkat Ergashev: Bu reys uchun narx qancha?
+[06:37] Feruza: 3270 ming so'm, 411 km.
+[06:39] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[06:41] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[06:44] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[07:27] Feruza: LD-80325 bilan ishlar qalay?
+[07:29] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[07:32] Feruza: Biror narsa kerak bo'lsa ayting.
+[07:34] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[08:43] Feruza: Holatingiz qanday?
+[08:45] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:31] Feruza: Holatingiz qanday?
+[09:33] Shavkat Ergashev: Tez orada yoqilg'i quyish uchun to'xtayman.
+[09:36] Feruza: Xabar berib turganingiz uchun rahmat.
+[09:38] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[09:40] Feruza: Taxminan qachon yetib borasiz?
+[09:42] Shavkat Ergashev: Agar tirbandlik bo'lmasa 10amda.
+[10:28] Feruza: Holatingiz qanday?
+[10:30] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[10:33] Feruza: Biror narsa kerak bo'lsa ayting.
+[10:35] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[11:49] Feruza: LD-80325 bilan ishlar qalay?
+[11:51] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[11:54] Feruza: O'zingizni qalay his qilyapsiz?
+[11:56] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[13:15] Feruza: Holatingiz qanday?
+[13:17] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:28] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[14:30] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[14:32] Feruza: Taxminan qachon yetib borasiz?
+[14:34] Shavkat Ergashev: Ehtimol 5pm, balki ertaroq.
+[15:46] Feruza: Hozir qayerdasiz?
+[15:48] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[15:51] Feruza: Xabar berib turganingiz uchun rahmat.
+[15:53] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[16:51] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:53] Shavkat Ergashev: Namangangacha taxminan 237 km qoldi.
+[16:55] Feruza: Taxminan qachon yetib borasiz?
+[16:57] Shavkat Ergashev: Agar tirbandlik bo'lmasa 7pmda.
+[18:20] Feruza: Hozir qayerdasiz?
+[18:22] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:25] Feruza: Biror narsa kerak bo'lsa ayting.
+[18:27] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:17] Feruza: Yo'lda yangilik bormi?
+[19:19] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[19:22] Feruza: Biror narsa kerak bo'lsa ayting.
+[19:24] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[20:50] Feruza: Yo'lda yangilik bormi?
+[20:52] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[20:55] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:57] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[21:50] Feruza: Hozir qayerdasiz?
+[21:52] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[21:55] Feruza: Xabar berib turganingiz uchun rahmat.
+[21:57] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[21:59] Feruza: Taxminan qachon yetib borasiz?
+[22:01] Shavkat Ergashev: Ehtimol 10am, balki ertaroq.
+[23:04] Feruza: LD-80325 bilan ishlar qalay?
+[23:06] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[00:25] Feruza: Holatingiz qanday?
+[00:27] Shavkat Ergashev: Oldinda avariya bo'lgan, tirbandlik bor.
+[01:34] Feruza: Yo'lda yangilik bormi?
+[01:36] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[01:46] Shavkat Ergashev: Muammo chiqdi, avtomobil yo'lida avariya bo'lgan LD-80325da. Yo'l chetiga to'xtadim.
+[01:47] Feruza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[01:49] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[01:51] Feruza: M34 yo'lida 32-belgida turibman.
+[01:56] Feruza: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[03:26] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[04:00] Feruza: Holatingiz qanday?
+[04:02] Shavkat Ergashev: Namangangacha taxminan 71 km qoldi.
+[04:37] Feruza: Hozir qayerdasiz?
+[04:39] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:09] Feruza: LD-80325 bilan ishlar qalay?
+[05:11] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:50] Feruza: Holatingiz qanday?
+[05:52] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:52] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[06:54] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[07:09] Feruza: Hozir qayerdasiz?
+[07:11] Shavkat Ergashev: Namangangacha taxminan 212 km qoldi.
+[08:04] Feruza: Hozir qayerdasiz?
+[08:06] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:35] Feruza: Holatingiz qanday?
+[08:37] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[08:53] Feruza: LD-80325 bilan ishlar qalay?
+[08:55] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:49] Feruza: Hozir qayerdasiz?
+[09:51] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:31] Feruza: LD-80325 bilan ishlar qalay?
+[10:33] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[11:00] Feruza: Yo'lda yangilik bormi?
+[11:02] Shavkat Ergashev: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[11:48] Feruza: Yo'lda yangilik bormi?
+[11:50] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:35] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:37] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[12:57] Feruza: Hozir qayerdasiz?
+[12:59] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:34] Feruza: Holatingiz qanday?
+[13:36] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[14:20] Feruza: Hozir qayerdasiz?
+[14:22] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[14:38] Feruza: Holatingiz qanday?
+[14:40] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:15] Feruza: LD-80325 bilan ishlar qalay?
+[15:17] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:46] Feruza: LD-80325 bilan ishlar qalay?
+[15:48] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:46] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:48] Shavkat Ergashev: Namangangacha taxminan 587 km qoldi.
+[17:23] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:25] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[18:20] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[18:22] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:56] Feruza: LD-80325 bilan ishlar qalay?
+[18:58] Shavkat Ergashev: Namangangacha taxminan 203 km qoldi.
+[19:51] Feruza: Hozir qayerdasiz?
+[19:53] Shavkat Ergashev: Hozirgina Namangandan o'tdim, hammasi joyida.
+[20:45] Feruza: Hozir qayerdasiz?
+[20:47] Shavkat Ergashev: Namangangacha taxminan 420 km qoldi.
+[21:05] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:07] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[21:41] Feruza: Hozir qayerdasiz?
+[21:43] Shavkat Ergashev: Namangangacha taxminan 541 km qoldi.
+[22:16] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:18] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:57] Feruza: Holatingiz qanday?
+[22:59] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:18] Feruza: Holatingiz qanday?
+[23:20] Shavkat Ergashev: Namangangacha taxminan 41 km qoldi.
+[00:11] Shavkat Ergashev: LD-80325 yukini Namanganda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[00:13] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[00:15] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[00:16] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[00:18] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[00:20] Shavkat Ergashev: Tushundim.
+[00:22] Feruza: Rahmat, aloqada bo'lamiz.

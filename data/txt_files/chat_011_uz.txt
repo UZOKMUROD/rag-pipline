@@ -1,0 +1,151 @@
+Chat Log #011
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #524 (past ramali tirkama)
+Operator: Malika
+Load: LD-78919 | Route: Nukus -> Urganch
+Date: 2026-06-25
+--------------------------------------------------
+[05:06] Malika: Ravshan, bir daqiqa bormi?
+[05:07] Ravshan Xolmatov: Ha, aytavering.
+[05:09] Malika: Siz uchun yuk bor - LD-78919, past ramali tirkama, Nukusdan yuklanadi, Urganchga tushiriladi.
+[05:11] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[05:13] Malika: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[05:15] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[05:17] Malika: 3586 ming so'm, 774 km.
+[05:19] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[05:21] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[05:24] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[06:01] Malika: LD-78919 bilan ishlar qalay?
+[06:03] Ravshan Xolmatov: Yo'llar bo'sh, yaxshi ketyapman.
+[06:47] Malika: Yo'lda yangilik bormi?
+[06:49] Ravshan Xolmatov: Urganch yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[08:02] Malika: LD-78919 bilan ishlar qalay?
+[08:04] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:07] Malika: O'zingizni qalay his qilyapsiz?
+[08:09] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[08:31] Malika: Yo'lda yangilik bormi?
+[08:33] Ravshan Xolmatov: Hozirgina yoqilg'i quydim.
+[09:41] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:43] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[09:46] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:48] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[09:50] Malika: Taxminan qachon yetib borasiz?
+[09:52] Ravshan Xolmatov: Ehtimol noon, balki ertaroq.
+[11:13] Malika: Hozir qayerdasiz?
+[11:15] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:23] Malika: LD-78919 bilan ishlar qalay?
+[12:25] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:05] Malika: Yo'lda yangilik bormi?
+[13:07] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:40] Malika: Hozir qayerdasiz?
+[13:42] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:45] Malika: O'zingizni qalay his qilyapsiz?
+[13:47] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[13:49] Malika: Taxminan qachon yetib borasiz?
+[13:51] Ravshan Xolmatov: Taxminan 7pmda yetib boraman.
+[15:18] Malika: Hozir qayerdasiz?
+[15:20] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:23] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[15:25] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[16:36] Malika: Yo'lda yangilik bormi?
+[16:38] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[16:41] Malika: O'zingizni qalay his qilyapsiz?
+[16:43] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[16:45] Malika: Taxminan qachon yetib borasiz?
+[16:47] Ravshan Xolmatov: Taxminan 10amda yetib boraman.
+[18:05] Malika: Yo'lda yangilik bormi?
+[18:07] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:59] Malika: Yo'lda yangilik bormi?
+[19:01] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[20:22] Malika: LD-78919 bilan ishlar qalay?
+[20:24] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[21:11] Malika: Holatingiz qanday?
+[21:13] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[21:45] Malika: LD-78919 bilan ishlar qalay?
+[21:47] Ravshan Xolmatov: Urganchgacha taxminan 346 km qoldi.
+[22:41] Malika: Hozir qayerdasiz?
+[22:43] Ravshan Xolmatov: Urganchgacha taxminan 256 km qoldi.
+[22:46] Malika: O'zingizni qalay his qilyapsiz?
+[22:48] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[23:40] Malika: Yo'lda yangilik bormi?
+[23:42] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[23:45] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:47] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[00:53] Malika: LD-78919 bilan ishlar qalay?
+[00:55] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[02:17] Malika: LD-78919 bilan ishlar qalay?
+[02:19] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[02:22] Malika: Biror narsa kerak bo'lsa ayting.
+[02:24] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[03:48] Malika: LD-78919 bilan ishlar qalay?
+[03:50] Ravshan Xolmatov: Urganchgacha taxminan 327 km qoldi.
+[03:53] Malika: O'zingizni qalay his qilyapsiz?
+[03:55] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[04:06] Ravshan Xolmatov: Muammo chiqdi, yo'l ta'miri sekinlashtiryapti LD-78919da. Yo'l chetiga to'xtadim.
+[04:07] Malika: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[04:09] Ravshan Xolmatov: Ha, men yaxshiman, faqat yordam kerak.
+[04:11] Malika: A380 yo'lida 108-belgida turibman.
+[04:16] Malika: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[05:24] Ravshan Xolmatov: Ta'mirlandi, yana yo'lga tushdim.
+[06:09] Malika: Yo'lda yangilik bormi?
+[06:11] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[06:33] Malika: Hozir qayerdasiz?
+[06:35] Ravshan Xolmatov: Hozirgina Urganchdan o'tdim, hammasi joyida.
+[07:25] Malika: LD-78919 bilan ishlar qalay?
+[07:27] Ravshan Xolmatov: Urganchgacha taxminan 492 km qoldi.
+[07:44] Malika: LD-78919 bilan ishlar qalay?
+[07:46] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[08:42] Malika: Yo'lda yangilik bormi?
+[08:44] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:22] Malika: Yo'lda yangilik bormi?
+[09:24] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:00] Malika: LD-78919 bilan ishlar qalay?
+[10:02] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:26] Malika: Hozir qayerdasiz?
+[10:28] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[10:50] Malika: Yo'lda yangilik bormi?
+[10:52] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:41] Malika: LD-78919 bilan ishlar qalay?
+[11:43] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:08] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[12:10] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[12:41] Malika: Hozir qayerdasiz?
+[12:43] Ravshan Xolmatov: Urganchgacha taxminan 433 km qoldi.
+[13:33] Malika: Yo'lda yangilik bormi?
+[13:35] Ravshan Xolmatov: Urganchgacha taxminan 567 km qoldi.
+[14:22] Malika: Yo'lda yangilik bormi?
+[14:24] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[14:42] Malika: Holatingiz qanday?
+[14:44] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:04] Malika: Yo'lda yangilik bormi?
+[15:06] Ravshan Xolmatov: Urganchgacha taxminan 51 km qoldi.
+[15:48] Malika: Holatingiz qanday?
+[15:50] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:41] Malika: LD-78919 bilan ishlar qalay?
+[16:43] Ravshan Xolmatov: Hozirgina Nukusdan o'tdim, hammasi joyida.
+[17:13] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:15] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:34] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[17:36] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:04] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:06] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:42] Malika: LD-78919 bilan ishlar qalay?
+[18:44] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:19] Malika: Holatingiz qanday?
+[19:21] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:51] Malika: Yo'lda yangilik bormi?
+[19:53] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:30] Malika: Yo'lda yangilik bormi?
+[20:32] Ravshan Xolmatov: Urganchgacha taxminan 244 km qoldi.
+[21:30] Malika: Hozir qayerdasiz?
+[21:32] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[22:17] Malika: LD-78919 bilan ishlar qalay?
+[22:19] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:37] Ravshan Xolmatov: LD-78919 yukini Urganchda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:39] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[23:41] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[23:42] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:44] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[23:46] Ravshan Xolmatov: Tushunarli.
+[23:48] Malika: Yangilik uchun rahmat, ehtiyot bo'ling yo'lda.

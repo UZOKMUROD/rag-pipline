@@ -1,0 +1,150 @@
+Chat Log #338
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Ravshan Xolmatov | Truck: #184 (tentli furgon)
+Operator: Nodira
+Load: LD-48973 | Route: Jizzax -> Guliston
+Date: 2026-05-08
+--------------------------------------------------
+[11:25] Nodira: Xayrli tong, Ravshan, aloqadamisiz?
+[11:26] Ravshan Xolmatov: Ha, aloqadaman.
+[11:28] Nodira: Siz uchun yuk bor - LD-48973, tentli furgon, Jizzaxdan yuklanadi, Gulistonga tushiriladi.
+[11:30] Ravshan Xolmatov: Tushunarli, yuklash vaqti qachon?
+[11:32] Nodira: Yuklash 13:00-15:00, tushirish esa ertaga 07:30 bo'ladi.
+[11:34] Ravshan Xolmatov: Bu reys uchun narx qancha?
+[11:36] Nodira: 2180 ming so'm, 542 km.
+[11:38] Ravshan Xolmatov: Yaxshi, bu reysni olaman.
+[11:40] Nodira: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[11:43] Ravshan Xolmatov: Oldim, imzolab qaytarib yubordim.
+[12:11] Nodira: Yo'lda yangilik bormi?
+[12:13] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[12:55] Nodira: Yo'lda yangilik bormi?
+[12:57] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[13:00] Nodira: Biror narsa kerak bo'lsa ayting.
+[13:02] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[13:58] Nodira: Yo'lda yangilik bormi?
+[14:00] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:29] Nodira: Yo'lda yangilik bormi?
+[15:31] Ravshan Xolmatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[15:34] Nodira: Biror narsa kerak bo'lsa ayting.
+[15:36] Ravshan Xolmatov: Ha, uzoq, lekin chidayapman.
+[15:38] Nodira: Taxminan qachon yetib borasiz?
+[15:40] Ravshan Xolmatov: Ehtimol noon, balki ertaroq.
+[16:42] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[16:44] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[16:47] Nodira: O'zingizni qalay his qilyapsiz?
+[16:49] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[16:51] Nodira: Taxminan qachon yetib borasiz?
+[16:53] Ravshan Xolmatov: Ehtimol 5pm, balki ertaroq.
+[18:08] Nodira: Holatingiz qanday?
+[18:10] Ravshan Xolmatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[19:13] Nodira: Holatingiz qanday?
+[19:15] Ravshan Xolmatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[19:18] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:20] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[19:39] Nodira: LD-48973 bilan ishlar qalay?
+[19:41] Ravshan Xolmatov: Guliston yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[19:44] Nodira: Biror narsa kerak bo'lsa ayting.
+[19:46] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[21:15] Nodira: Yo'lda yangilik bormi?
+[21:17] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[22:24] Nodira: Yo'lda yangilik bormi?
+[22:26] Ravshan Xolmatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:50] Nodira: Hozir qayerdasiz?
+[23:52] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[23:55] Nodira: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[23:57] Ravshan Xolmatov: Yaxshi, faqat biroz charchadim.
+[00:50] Nodira: LD-48973 bilan ishlar qalay?
+[00:52] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[00:55] Nodira: Biror narsa kerak bo'lsa ayting.
+[00:57] Ravshan Xolmatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:07] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[02:09] Ravshan Xolmatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[02:11] Nodira: Taxminan qachon yetib borasiz?
+[02:13] Ravshan Xolmatov: Taxminan 7pmda yetib boraman.
+[03:39] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:41] Ravshan Xolmatov: Hammasi joyida, ishimni qilyapman.
+[03:43] Nodira: Taxminan qachon yetib borasiz?
+[03:45] Ravshan Xolmatov: Taxminan noonda yetib boraman.
+[04:15] Ravshan Xolmatov: Hali ham qabul qiluvchida turibman, deyarli 4 soat bo'ldi.
+[04:17] Nodira: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[04:27] Nodira: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[04:29] Ravshan Xolmatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[04:31] Nodira: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[04:59] Nodira: Holatingiz qanday?
+[05:01] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:42] Nodira: Hozir qayerdasiz?
+[05:44] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[06:41] Nodira: Hozir qayerdasiz?
+[06:43] Ravshan Xolmatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[07:36] Nodira: Hozir qayerdasiz?
+[07:38] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:33] Nodira: Yo'lda yangilik bormi?
+[08:35] Ravshan Xolmatov: Gulistongacha taxminan 55 km qoldi.
+[09:06] Nodira: Yo'lda yangilik bormi?
+[09:08] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[09:33] Nodira: Holatingiz qanday?
+[09:35] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[09:54] Nodira: Hozir qayerdasiz?
+[09:56] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:28] Nodira: Yo'lda yangilik bormi?
+[10:30] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[11:01] Nodira: Holatingiz qanday?
+[11:03] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[12:03] Nodira: Holatingiz qanday?
+[12:05] Ravshan Xolmatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[12:35] Nodira: LD-48973 bilan ishlar qalay?
+[12:37] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[13:08] Nodira: LD-48973 bilan ishlar qalay?
+[13:10] Ravshan Xolmatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[13:37] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[13:39] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:32] Nodira: Yo'lda yangilik bormi?
+[14:34] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[15:00] Nodira: Holatingiz qanday?
+[15:02] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[15:51] Nodira: Holatingiz qanday?
+[15:53] Ravshan Xolmatov: Gulistongacha taxminan 21 km qoldi.
+[16:08] Nodira: Hozir qayerdasiz?
+[16:10] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[16:37] Nodira: Holatingiz qanday?
+[16:39] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:05] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[17:07] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:59] Nodira: Hozir qayerdasiz?
+[18:01] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:49] Nodira: LD-48973 bilan ishlar qalay?
+[18:51] Ravshan Xolmatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:14] Nodira: Hozir qayerdasiz?
+[19:16] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:52] Nodira: Hozir qayerdasiz?
+[19:54] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[20:27] Nodira: Hozir qayerdasiz?
+[20:29] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[21:10] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[21:12] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[22:04] Nodira: LD-48973 bilan ishlar qalay?
+[22:06] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:39] Nodira: Hozir qayerdasiz?
+[22:41] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[23:31] Nodira: Holatingiz qanday?
+[23:33] Ravshan Xolmatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:51] Nodira: LD-48973 bilan ishlar qalay?
+[23:53] Ravshan Xolmatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[00:45] Nodira: Hozir qayerdasiz?
+[00:47] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:34] Nodira: Yo'lda yangilik bormi?
+[01:36] Ravshan Xolmatov: Hozirgina Gulistondan o'tdim, hammasi joyida.
+[02:15] Nodira: Hozir qayerdasiz?
+[02:17] Ravshan Xolmatov: Hozirgina Jizzaxdan o'tdim, hammasi joyida.
+[03:04] Nodira: Hali ham jadval bo'yicha ketyapsizmi?
+[03:06] Ravshan Xolmatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[03:55] Nodira: Holatingiz qanday?
+[03:57] Ravshan Xolmatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:51] Ravshan Xolmatov: LD-48973 yukini Gulistonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[04:53] Nodira: Imzolangan hujjat (BOL) bormi sizda?
+[04:55] Ravshan Xolmatov: Ha, hozir rasmga olaman.
+[04:56] Ravshan Xolmatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[04:58] Nodira: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:00] Ravshan Xolmatov: Yaxshi.
+[05:02] Nodira: Ajoyib ish, rahmat.

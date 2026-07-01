@@ -1,0 +1,151 @@
+Chat Log #362
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Sardor Rakhimov | Truck: #478 (refrijerator)
+Operator: Malika
+Load: LD-65630 | Route: Qarshi -> Termiz
+Date: 2026-03-02
+--------------------------------------------------
+[15:33] Malika: Sardor, bir daqiqa bormi?
+[15:34] Sardor Rakhimov: Ha, aytavering.
+[15:36] Malika: Siz uchun yuk bor - LD-65630, refrijerator, Qarshidan yuklanadi, Termizga tushiriladi.
+[15:38] Sardor Rakhimov: Tushunarli, yuklash vaqti qachon?
+[15:40] Malika: Yuklash 13:00-15:00, tushirish esa ertaga 09:00 bo'ladi.
+[15:42] Sardor Rakhimov: Bu reys uchun narx qancha?
+[15:44] Malika: 2777 ming so'm, 374 km.
+[15:46] Sardor Rakhimov: Yaxshi, bu reysni olaman.
+[15:48] Malika: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[15:51] Sardor Rakhimov: Oldim, imzolab qaytarib yubordim.
+[16:24] Malika: Holatingiz qanday?
+[16:26] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:15] Malika: Hozir qayerdasiz?
+[17:17] Sardor Rakhimov: Oldinda avariya bo'lgan, tirbandlik bor.
+[17:19] Malika: Taxminan qachon yetib borasiz?
+[17:21] Sardor Rakhimov: Ehtimol 5pm, balki ertaroq.
+[17:43] Malika: LD-65630 bilan ishlar qalay?
+[17:45] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:24] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[18:26] Sardor Rakhimov: Bu yerda yoqilg'i narxlari yomon emas.
+[18:59] Malika: Hozir qayerdasiz?
+[19:01] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[19:04] Malika: O'zingizni qalay his qilyapsiz?
+[19:06] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[19:43] Malika: Holatingiz qanday?
+[19:45] Sardor Rakhimov: Osmon ochiq, muammo yo'q.
+[20:24] Malika: Hozir qayerdasiz?
+[20:26] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[20:29] Malika: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[20:31] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[21:42] Malika: LD-65630 bilan ishlar qalay?
+[21:44] Sardor Rakhimov: Termiz yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[21:46] Malika: Taxminan qachon yetib borasiz?
+[21:48] Sardor Rakhimov: Taxminan 7pmda yetib boraman.
+[23:02] Malika: Holatingiz qanday?
+[23:04] Sardor Rakhimov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:07] Malika: Xabar berib turganingiz uchun rahmat.
+[23:09] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[00:09] Malika: Yo'lda yangilik bormi?
+[00:11] Sardor Rakhimov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[01:09] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[01:11] Sardor Rakhimov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[01:14] Malika: Xabar berib turganingiz uchun rahmat.
+[01:16] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[01:53] Malika: Holatingiz qanday?
+[01:55] Sardor Rakhimov: Bu yerda yoqilg'i narxlari yomon emas.
+[01:57] Malika: Taxminan qachon yetib borasiz?
+[01:59] Sardor Rakhimov: Ehtimol 3pm, balki ertaroq.
+[03:23] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[03:25] Sardor Rakhimov: Qarshi yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[03:28] Malika: Biror narsa kerak bo'lsa ayting.
+[03:30] Sardor Rakhimov: Ha, uzoq, lekin chidayapman.
+[04:35] Malika: Holatingiz qanday?
+[04:37] Sardor Rakhimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[04:40] Malika: Biror narsa kerak bo'lsa ayting.
+[04:42] Sardor Rakhimov: Hammasi joyida, ishimni qilyapman.
+[04:44] Malika: Taxminan qachon yetib borasiz?
+[04:46] Sardor Rakhimov: Agar tirbandlik bo'lmasa 10amda.
+[05:01] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:03] Sardor Rakhimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[05:53] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:55] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[06:47] Malika: Hozir qayerdasiz?
+[06:49] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[07:48] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[07:50] Sardor Rakhimov: Termizgacha taxminan 96 km qoldi.
+[08:06] Malika: Holatingiz qanday?
+[08:08] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[08:53] Malika: Hozir qayerdasiz?
+[08:55] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:22] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:24] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:39] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[09:41] Sardor Rakhimov: Termizgacha taxminan 342 km qoldi.
+[09:56] Malika: Hozir qayerdasiz?
+[09:58] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:36] Malika: Holatingiz qanday?
+[10:38] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[11:24] Malika: LD-65630 bilan ishlar qalay?
+[11:26] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[12:25] Malika: Hozir qayerdasiz?
+[12:27] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:22] Malika: Hozir qayerdasiz?
+[13:24] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:17] Malika: Hozir qayerdasiz?
+[14:19] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[14:41] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[14:43] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:06] Malika: Yo'lda yangilik bormi?
+[15:08] Sardor Rakhimov: Termizgacha taxminan 293 km qoldi.
+[15:47] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[15:49] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:11] Malika: Yo'lda yangilik bormi?
+[16:13] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:55] Malika: Hozir qayerdasiz?
+[16:57] Sardor Rakhimov: Termizgacha taxminan 72 km qoldi.
+[17:22] Malika: Holatingiz qanday?
+[17:24] Sardor Rakhimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[17:39] Malika: LD-65630 bilan ishlar qalay?
+[17:41] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:24] Malika: Hozir qayerdasiz?
+[18:26] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:53] Malika: LD-65630 bilan ishlar qalay?
+[18:55] Sardor Rakhimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[19:50] Malika: Hozir qayerdasiz?
+[19:52] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:39] Malika: Hozir qayerdasiz?
+[20:41] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[21:21] Malika: Yo'lda yangilik bormi?
+[21:23] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[21:40] Malika: Holatingiz qanday?
+[21:42] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:12] Malika: Yo'lda yangilik bormi?
+[22:14] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:45] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[22:47] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:02] Malika: LD-65630 bilan ishlar qalay?
+[23:04] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:47] Malika: Holatingiz qanday?
+[23:49] Sardor Rakhimov: Hozirgina Termizdan o'tdim, hammasi joyida.
+[00:29] Malika: LD-65630 bilan ishlar qalay?
+[00:31] Sardor Rakhimov: Hozirgina Qarshidan o'tdim, hammasi joyida.
+[01:29] Malika: Holatingiz qanday?
+[01:31] Sardor Rakhimov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:08] Malika: Holatingiz qanday?
+[02:10] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[03:07] Malika: Hozir qayerdasiz?
+[03:09] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[03:31] Malika: Holatingiz qanday?
+[03:33] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[04:09] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[04:11] Sardor Rakhimov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:54] Malika: Yo'lda yangilik bormi?
+[04:56] Sardor Rakhimov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:26] Malika: Hali ham jadval bo'yicha ketyapsizmi?
+[05:28] Sardor Rakhimov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:46] Sardor Rakhimov: LD-65630 yukini Termizda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[06:48] Malika: Imzolangan hujjat (BOL) bormi sizda?
+[06:50] Sardor Rakhimov: Ha, hozir rasmga olaman.
+[06:51] Sardor Rakhimov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[06:53] Malika: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[06:55] Sardor Rakhimov: Xo'p bo'ladi.
+[06:57] Malika: Rahmat, aloqada bo'lamiz.

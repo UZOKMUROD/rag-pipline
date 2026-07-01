@@ -1,0 +1,129 @@
+Chat Log #129
+Company: Silk Road Logistics
+Language: English
+Driver: Steve Davis | Truck: #109 (step deck)
+Operator: Kayla
+Load: LD-74636 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-03-20
+--------------------------------------------------
+[15:03] Kayla: Steve, got a minute?
+[15:04] Steve Davis: Yeah, go ahead.
+[15:06] Kayla: Got a load for you - LD-74636, step deck, pickup in Nashville, TN, delivery to Birmingham, AL.
+[15:08] Steve Davis: Ok, what's the pickup window?
+[15:10] Kayla: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[15:12] Steve Davis: What's the rate on this one?
+[15:14] Kayla: $2310 all in, 721 miles.
+[15:16] Steve Davis: Sounds good, I'll take it.
+[15:18] Kayla: Great, sending the rate confirmation now.
+[15:21] Steve Davis: Got it, signed and sent back.
+[16:42] Kayla: Any updates on your progress?
+[16:44] Steve Davis: Traffic's a bit heavy but I'm still on schedule.
+[16:46] Kayla: What's your ETA?
+[16:48] Steve Davis: Looking at 10am if traffic stays clear.
+[18:10] Kayla: Still on schedule?
+[18:12] Steve Davis: Doing alright, just tired.
+[19:25] Kayla: Any updates on your progress?
+[19:27] Steve Davis: Accident up ahead, traffic's backed up.
+[19:29] Kayla: What's your ETA?
+[19:31] Steve Davis: Should be there around 3pm.
+[19:53] Kayla: Where are you at right now?
+[19:55] Steve Davis: No problem, just doing my job.
+[19:58] Kayla: How are you holding up out there?
+[20:00] Steve Davis: Will do, thanks for checking in.
+[20:55] Kayla: What's your status?
+[20:57] Steve Davis: Traffic's a bit heavy but I'm still on schedule.
+[21:25] Kayla: Any updates on your progress?
+[21:27] Steve Davis: Rain is picking up here, slowing down a bit.
+[22:49] Kayla: Still on schedule?
+[22:51] Steve Davis: Just passed Nashville, TN, everything's fine.
+[22:53] Kayla: What's your ETA?
+[22:55] Steve Davis: Looking at 3pm if traffic stays clear.
+[23:31] Kayla: Any updates on your progress?
+[23:33] Steve Davis: Accident up ahead, traffic's backed up.
+[00:04] Kayla: Where are you at right now?
+[00:06] Steve Davis: Weather's getting rough up ahead, heads up.
+[00:09] Kayla: How are you holding up out there?
+[00:11] Steve Davis: Doing alright, just tired.
+[00:26] Kayla: How's LD-74636 looking?
+[00:28] Steve Davis: Weather's getting rough up ahead, heads up.
+[01:12] Kayla: Any updates on your progress?
+[01:14] Steve Davis: Stopped for a quick break, back on the road in a few.
+[01:17] Kayla: Appreciate you keeping me posted.
+[01:19] Steve Davis: Doing alright, just tired.
+[01:21] Kayla: What's your ETA?
+[01:23] Steve Davis: Looking at 7pm if traffic stays clear.
+[02:53] Kayla: Where are you at right now?
+[02:55] Steve Davis: Making good time, no issues so far.
+[02:57] Kayla: What's your ETA?
+[02:59] Steve Davis: Probably 10am, maybe a bit earlier.
+[04:10] Kayla: How's LD-74636 looking?
+[04:12] Steve Davis: Will do, thanks for checking in.
+[05:31] Kayla: Where are you at right now?
+[05:33] Steve Davis: Clear skies here, no problems.
+[05:36] Kayla: Let me know if you need anything.
+[05:38] Steve Davis: Yeah, long one, but manageable.
+[06:00] Kayla: How's LD-74636 looking?
+[06:02] Steve Davis: Just crossed the state line, all good.
+[06:05] Kayla: Long trip, huh? Get some rest when you can.
+[06:07] Steve Davis: No problem, just doing my job.
+[06:41] Steve Davis: I've got a problem, bad weather - heavy snow on LD-74636. Pulled over on the shoulder.
+[06:42] Kayla: Are you safe? Anyone hurt?
+[06:44] Steve Davis: Yeah I'm fine, just need roadside assistance.
+[06:46] Kayla: Mile marker 283 on I-35.
+[06:51] Kayla: Truck is on the way, ETA about 1 hour.
+[08:12] Steve Davis: Fixed and rolling again.
+[09:05] Kayla: Still on schedule?
+[09:07] Steve Davis: Just passed Nashville, TN, everything's fine.
+[09:43] Kayla: Still on schedule?
+[09:45] Steve Davis: Traffic's a bit heavy but I'm still on schedule.
+[10:35] Kayla: What's your status?
+[10:37] Steve Davis: About 505 miles out from Birmingham, AL now.
+[11:30] Kayla: How's LD-74636 looking?
+[11:32] Steve Davis: Stopped for a quick break, back on the road in a few.
+[12:01] Kayla: How's LD-74636 looking?
+[12:03] Steve Davis: About 489 miles out from Birmingham, AL now.
+[13:03] Kayla: What's your status?
+[13:05] Steve Davis: Making good time, no issues so far.
+[13:50] Kayla: Still on schedule?
+[13:52] Steve Davis: Making good time, no issues so far.
+[14:21] Kayla: What's your status?
+[14:23] Steve Davis: Just passed Nashville, TN, everything's fine.
+[14:48] Kayla: How's LD-74636 looking?
+[14:50] Steve Davis: Just crossed the state line, all good.
+[15:48] Kayla: Where are you at right now?
+[15:50] Steve Davis: Traffic's a bit heavy but I'm still on schedule.
+[16:36] Kayla: What's your status?
+[16:38] Steve Davis: Stopped for a quick break, back on the road in a few.
+[17:09] Kayla: What's your status?
+[17:11] Steve Davis: Just passed Nashville, TN, everything's fine.
+[17:48] Kayla: Where are you at right now?
+[17:50] Steve Davis: Traffic's a bit heavy but I'm still on schedule.
+[18:35] Kayla: Where are you at right now?
+[18:37] Steve Davis: Making good time, no issues so far.
+[19:04] Kayla: Where are you at right now?
+[19:06] Steve Davis: About 442 miles out from Birmingham, AL now.
+[19:28] Kayla: Any updates on your progress?
+[19:30] Steve Davis: Just passed Birmingham, AL, everything's fine.
+[19:45] Kayla: Still on schedule?
+[19:47] Steve Davis: Just passed Birmingham, AL, everything's fine.
+[20:14] Kayla: Any updates on your progress?
+[20:16] Steve Davis: Just passed Nashville, TN, everything's fine.
+[21:16] Kayla: Any updates on your progress?
+[21:18] Steve Davis: About 259 miles out from Birmingham, AL now.
+[21:41] Kayla: Any updates on your progress?
+[21:43] Steve Davis: Stopped for a quick break, back on the road in a few.
+[22:07] Kayla: What's your status?
+[22:09] Steve Davis: Making good time, no issues so far.
+[22:53] Kayla: Any updates on your progress?
+[22:55] Steve Davis: About 164 miles out from Birmingham, AL now.
+[23:37] Kayla: What's your status?
+[23:39] Steve Davis: Just crossed the state line, all good.
+[23:54] Kayla: Still on schedule?
+[23:56] Steve Davis: Just crossed the state line, all good.
+[01:08] Steve Davis: Just delivered LD-74636 at Birmingham, AL, all good, no damages.
+[01:10] Kayla: Do you have the signed BOL?
+[01:12] Steve Davis: Yep, taking a picture now.
+[01:13] Steve Davis: [Image attached: signed_bol.jpg]
+[01:15] Kayla: Sending you the next load details shortly.
+[01:17] Steve Davis: Understood.
+[01:19] Kayla: Appreciate it, talk soon.

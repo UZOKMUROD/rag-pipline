@@ -1,0 +1,129 @@
+Chat Log #162
+Company: Silk Road Logistics
+Language: English
+Driver: Jason Harris | Truck: #267 (reefer)
+Operator: Jessica
+Load: LD-63323 | Route: Portland, OR -> Seattle, WA
+Date: 2026-05-20
+--------------------------------------------------
+[18:44] Jessica: Hey Jason, how's it going?
+[18:45] Jason Harris: Yeah, go ahead.
+[18:47] Jessica: Got a load for you - LD-63323, reefer, pickup in Portland, OR, delivery to Seattle, WA.
+[18:49] Jason Harris: Ok, what's the pickup window?
+[18:51] Jessica: Pickup is 13:00-15:00, delivery appointment is 16:00 the next day.
+[18:53] Jason Harris: What's the rate on this one?
+[18:55] Jessica: $2460 all in, 576 miles.
+[18:57] Jason Harris: Sounds good, I'll take it.
+[18:59] Jessica: Great, sending the rate confirmation now.
+[19:02] Jason Harris: Got it, signed and sent back.
+[19:56] Jessica: Where are you at right now?
+[19:58] Jason Harris: Doing alright, just tired.
+[20:01] Jessica: Let me know if you need anything.
+[20:03] Jason Harris: Doing alright, just tired.
+[20:05] Jessica: What's your ETA?
+[20:07] Jason Harris: Should be there around noon.
+[21:37] Jessica: Any updates on your progress?
+[21:39] Jason Harris: Fuel prices are decent around here.
+[22:53] Jessica: Any updates on your progress?
+[22:55] Jason Harris: Accident up ahead, traffic's backed up.
+[22:57] Jessica: What's your ETA?
+[22:59] Jason Harris: Looking at 7pm if traffic stays clear.
+[23:50] Jessica: How's LD-63323 looking?
+[23:52] Jason Harris: Fuel prices are decent around here.
+[00:26] Jessica: Still on schedule?
+[00:28] Jason Harris: Stopping for fuel in a bit.
+[01:34] Jessica: Still on schedule?
+[01:36] Jason Harris: Clear skies here, no problems.
+[02:11] Jessica: Where are you at right now?
+[02:13] Jason Harris: Clear skies here, no problems.
+[03:43] Jessica: How's LD-63323 looking?
+[03:45] Jason Harris: Accident up ahead, traffic's backed up.
+[03:48] Jessica: Long trip, huh? Get some rest when you can.
+[03:50] Jason Harris: Yeah, long one, but manageable.
+[03:52] Jessica: What's your ETA?
+[03:54] Jason Harris: Probably 7pm, maybe a bit earlier.
+[04:35] Jessica: Still on schedule?
+[04:37] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[05:28] Jessica: What's your status?
+[05:30] Jason Harris: Just passed Portland, OR, everything's fine.
+[05:33] Jessica: Appreciate you keeping me posted.
+[05:35] Jason Harris: Will do, thanks for checking in.
+[06:23] Jessica: What's your status?
+[06:25] Jason Harris: Stopped for a quick break, back on the road in a few.
+[07:38] Jessica: Still on schedule?
+[07:40] Jason Harris: Rain is picking up here, slowing down a bit.
+[07:43] Jessica: Long trip, huh? Get some rest when you can.
+[07:45] Jason Harris: Yeah, long one, but manageable.
+[08:41] Jessica: Where are you at right now?
+[08:43] Jason Harris: Roads are wet, taking it easy.
+[09:17] Jessica: Any updates on your progress?
+[09:19] Jason Harris: Accident up ahead, traffic's backed up.
+[09:22] Jessica: Appreciate you keeping me posted.
+[09:24] Jason Harris: Will do, thanks for checking in.
+[09:26] Jessica: What's your ETA?
+[09:28] Jason Harris: Looking at 5pm if traffic stays clear.
+[09:49] Jessica: Any updates on your progress?
+[09:51] Jason Harris: Yeah, long one, but manageable.
+[09:53] Jessica: What's your ETA?
+[09:55] Jason Harris: Probably noon, maybe a bit earlier.
+[10:34] Jason Harris: I've got a problem, an accident blocking the highway on LD-63323. Pulled over on the shoulder.
+[10:35] Jessica: Are you safe? Anyone hurt?
+[10:37] Jason Harris: Yeah I'm fine, just need roadside assistance.
+[10:39] Jessica: Mile marker 232 on I-80.
+[10:44] Jessica: Truck is on the way, ETA about 45 min.
+[12:05] Jason Harris: Fixed and rolling again.
+[13:01] Jessica: Still on schedule?
+[13:03] Jason Harris: Making good time, no issues so far.
+[13:38] Jessica: How's LD-63323 looking?
+[13:40] Jason Harris: Stopped for a quick break, back on the road in a few.
+[14:14] Jessica: Still on schedule?
+[14:16] Jason Harris: Just crossed the state line, all good.
+[14:53] Jessica: How's LD-63323 looking?
+[14:55] Jason Harris: About 113 miles out from Seattle, WA now.
+[15:41] Jessica: Where are you at right now?
+[15:43] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[16:14] Jessica: Still on schedule?
+[16:16] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[17:15] Jessica: How's LD-63323 looking?
+[17:17] Jason Harris: About 165 miles out from Seattle, WA now.
+[18:07] Jessica: Any updates on your progress?
+[18:09] Jason Harris: About 372 miles out from Seattle, WA now.
+[18:30] Jessica: Where are you at right now?
+[18:32] Jason Harris: Making good time, no issues so far.
+[19:26] Jessica: Where are you at right now?
+[19:28] Jason Harris: Just crossed the state line, all good.
+[20:18] Jessica: Where are you at right now?
+[20:20] Jason Harris: Just crossed the state line, all good.
+[20:39] Jessica: Still on schedule?
+[20:41] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[21:22] Jessica: How's LD-63323 looking?
+[21:24] Jason Harris: Making good time, no issues so far.
+[22:12] Jessica: Any updates on your progress?
+[22:14] Jason Harris: Just crossed the state line, all good.
+[22:29] Jessica: How's LD-63323 looking?
+[22:31] Jason Harris: Making good time, no issues so far.
+[23:05] Jessica: What's your status?
+[23:07] Jason Harris: About 541 miles out from Seattle, WA now.
+[23:58] Jessica: Still on schedule?
+[00:00] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[00:43] Jessica: What's your status?
+[00:45] Jason Harris: Stopped for a quick break, back on the road in a few.
+[01:29] Jessica: How's LD-63323 looking?
+[01:31] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[01:46] Jessica: Any updates on your progress?
+[01:48] Jason Harris: Stopped for a quick break, back on the road in a few.
+[02:43] Jessica: How's LD-63323 looking?
+[02:45] Jason Harris: About 381 miles out from Seattle, WA now.
+[03:30] Jessica: What's your status?
+[03:32] Jason Harris: Traffic's a bit heavy but I'm still on schedule.
+[04:17] Jessica: Still on schedule?
+[04:19] Jason Harris: About 183 miles out from Seattle, WA now.
+[04:42] Jessica: How's LD-63323 looking?
+[04:44] Jason Harris: Making good time, no issues so far.
+[05:41] Jason Harris: Just delivered LD-63323 at Seattle, WA, all good, no damages.
+[05:43] Jessica: Do you have the signed BOL?
+[05:45] Jason Harris: Yep, taking a picture now.
+[05:46] Jason Harris: [Image attached: signed_bol.jpg]
+[05:48] Jessica: Sending you the next load details shortly.
+[05:50] Jason Harris: Will do.
+[05:52] Jessica: Thanks for the update, drive safe.

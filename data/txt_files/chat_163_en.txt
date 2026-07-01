@@ -1,0 +1,131 @@
+Chat Log #163
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Taylor | Truck: #724 (flatbed)
+Operator: Nicole
+Load: LD-46551 | Route: Detroit, MI -> Cleveland, OH
+Date: 2026-05-08
+--------------------------------------------------
+[05:36] Nicole: Morning Andrew, you there?
+[05:37] Andrew Taylor: Morning, all good on my end.
+[05:39] Nicole: Got a load for you - LD-46551, flatbed, pickup in Detroit, MI, delivery to Cleveland, OH.
+[05:41] Andrew Taylor: Ok, what's the pickup window?
+[05:43] Nicole: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[05:45] Andrew Taylor: What's the rate on this one?
+[05:47] Nicole: $3665 all in, 741 miles.
+[05:49] Andrew Taylor: Sounds good, I'll take it.
+[05:51] Nicole: Great, sending the rate confirmation now.
+[05:54] Andrew Taylor: Got it, signed and sent back.
+[07:01] Nicole: Still on schedule?
+[07:03] Andrew Taylor: Construction zone slowing everyone down.
+[07:05] Nicole: What's your ETA?
+[07:07] Andrew Taylor: Looking at 10am if traffic stays clear.
+[08:13] Nicole: How's LD-46551 looking?
+[08:15] Andrew Taylor: No problem, just doing my job.
+[08:18] Nicole: How are you holding up out there?
+[08:20] Andrew Taylor: Doing alright, just tired.
+[08:22] Nicole: What's your ETA?
+[08:24] Andrew Taylor: Looking at noon if traffic stays clear.
+[09:21] Nicole: Still on schedule?
+[09:23] Andrew Taylor: Doing alright, just tired.
+[09:26] Nicole: Let me know if you need anything.
+[09:28] Andrew Taylor: Doing alright, just tired.
+[09:54] Nicole: Where are you at right now?
+[09:56] Andrew Taylor: Roads are clear now, moving well.
+[10:13] Nicole: Still on schedule?
+[10:15] Andrew Taylor: Construction zone slowing everyone down.
+[10:45] Nicole: Where are you at right now?
+[10:47] Andrew Taylor: Making good time, no issues so far.
+[10:50] Nicole: Let me know if you need anything.
+[10:52] Andrew Taylor: No problem, just doing my job.
+[10:54] Nicole: What's your ETA?
+[10:56] Andrew Taylor: Probably 5pm, maybe a bit earlier.
+[11:18] Nicole: What's your status?
+[11:20] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[12:18] Nicole: Where are you at right now?
+[12:20] Andrew Taylor: No problem, just doing my job.
+[12:54] Nicole: What's your status?
+[12:56] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[13:34] Nicole: How's LD-46551 looking?
+[13:36] Andrew Taylor: Making good time, no issues so far.
+[14:54] Nicole: Any updates on your progress?
+[14:56] Andrew Taylor: Hit some traffic near Detroit, MI, adding maybe 20 minutes.
+[15:16] Nicole: Where are you at right now?
+[15:18] Andrew Taylor: Rain is picking up here, slowing down a bit.
+[16:33] Nicole: Where are you at right now?
+[16:35] Andrew Taylor: Accident up ahead, traffic's backed up.
+[16:38] Nicole: How are you holding up out there?
+[16:40] Andrew Taylor: Will do, thanks for checking in.
+[17:56] Nicole: Where are you at right now?
+[17:58] Andrew Taylor: Fuel prices are decent around here.
+[18:00] Nicole: What's your ETA?
+[18:02] Andrew Taylor: Looking at noon if traffic stays clear.
+[18:25] Nicole: What's your status?
+[18:27] Andrew Taylor: Fuel prices are decent around here.
+[18:30] Nicole: Appreciate you keeping me posted.
+[18:32] Andrew Taylor: Will do, thanks for checking in.
+[18:58] Nicole: Still on schedule?
+[19:00] Andrew Taylor: Fuel prices are decent around here.
+[19:02] Nicole: What's your ETA?
+[19:04] Andrew Taylor: Looking at 7pm if traffic stays clear.
+[20:34] Nicole: How's LD-46551 looking?
+[20:36] Andrew Taylor: Roads are clear now, moving well.
+[20:38] Nicole: What's your ETA?
+[20:40] Andrew Taylor: Looking at 3pm if traffic stays clear.
+[21:15] Nicole: Any updates on your progress?
+[21:17] Andrew Taylor: Just crossed the state line, all good.
+[22:07] Nicole: Any updates on your progress?
+[22:09] Andrew Taylor: Making good time, no issues so far.
+[22:46] Nicole: What's your status?
+[22:48] Andrew Taylor: Just crossed the state line, all good.
+[23:15] Nicole: Where are you at right now?
+[23:17] Andrew Taylor: Just crossed the state line, all good.
+[23:35] Nicole: Still on schedule?
+[23:37] Andrew Taylor: Making good time, no issues so far.
+[00:29] Nicole: Still on schedule?
+[00:31] Andrew Taylor: About 374 miles out from Cleveland, OH now.
+[01:23] Nicole: Where are you at right now?
+[01:25] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[02:18] Nicole: How's LD-46551 looking?
+[02:20] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[02:57] Nicole: Still on schedule?
+[02:59] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[03:39] Nicole: Still on schedule?
+[03:41] Andrew Taylor: Making good time, no issues so far.
+[04:08] Nicole: Any updates on your progress?
+[04:10] Andrew Taylor: Just crossed the state line, all good.
+[04:55] Nicole: What's your status?
+[04:57] Andrew Taylor: Stopped for a quick break, back on the road in a few.
+[05:51] Nicole: What's your status?
+[05:53] Andrew Taylor: Just crossed the state line, all good.
+[06:44] Nicole: Still on schedule?
+[06:46] Andrew Taylor: Just passed Detroit, MI, everything's fine.
+[07:08] Nicole: Any updates on your progress?
+[07:10] Andrew Taylor: About 466 miles out from Cleveland, OH now.
+[07:42] Nicole: How's LD-46551 looking?
+[07:44] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[08:22] Nicole: Where are you at right now?
+[08:24] Andrew Taylor: About 60 miles out from Cleveland, OH now.
+[09:03] Nicole: Still on schedule?
+[09:05] Andrew Taylor: Making good time, no issues so far.
+[09:32] Nicole: Still on schedule?
+[09:34] Andrew Taylor: Just passed Detroit, MI, everything's fine.
+[10:23] Nicole: What's your status?
+[10:25] Andrew Taylor: Making good time, no issues so far.
+[11:23] Nicole: What's your status?
+[11:25] Andrew Taylor: About 349 miles out from Cleveland, OH now.
+[11:52] Nicole: Still on schedule?
+[11:54] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[12:42] Nicole: Where are you at right now?
+[12:44] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[13:39] Nicole: How's LD-46551 looking?
+[13:41] Andrew Taylor: Traffic's a bit heavy but I'm still on schedule.
+[14:28] Nicole: How's LD-46551 looking?
+[14:30] Andrew Taylor: Just crossed the state line, all good.
+[15:55] Andrew Taylor: Just delivered LD-46551 at Cleveland, OH, all good, no damages.
+[15:57] Nicole: Do you have the signed BOL?
+[15:59] Andrew Taylor: Yep, taking a picture now.
+[16:00] Andrew Taylor: [Image attached: signed_bol.jpg]
+[16:02] Nicole: Sending you the next load details shortly.
+[16:04] Andrew Taylor: Copy that.
+[16:06] Nicole: Great work, thank you.

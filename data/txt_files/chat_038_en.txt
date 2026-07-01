@@ -1,0 +1,131 @@
+Chat Log #038
+Company: Silk Road Logistics
+Language: English
+Driver: Victor Rodriguez | Truck: #130 (reefer)
+Operator: Sarah
+Load: LD-82305 | Route: Fresno, CA -> Las Vegas, NV
+Date: 2026-05-14
+--------------------------------------------------
+[05:12] Sarah: Morning Victor, you there?
+[05:13] Victor Rodriguez: Morning, all good on my end.
+[05:15] Sarah: Got a load for you - LD-82305, reefer, pickup in Fresno, CA, delivery to Las Vegas, NV.
+[05:17] Victor Rodriguez: Ok, what's the pickup window?
+[05:19] Sarah: Pickup is 08:00-10:00, delivery appointment is 16:00 the next day.
+[05:21] Victor Rodriguez: What's the rate on this one?
+[05:23] Sarah: $2685 all in, 853 miles.
+[05:25] Victor Rodriguez: Sounds good, I'll take it.
+[05:27] Sarah: Great, sending the rate confirmation now.
+[05:30] Victor Rodriguez: Got it, signed and sent back.
+[06:05] Sarah: How's LD-82305 looking?
+[06:07] Victor Rodriguez: No problem, just doing my job.
+[06:10] Sarah: Long trip, huh? Get some rest when you can.
+[06:12] Victor Rodriguez: No problem, just doing my job.
+[06:37] Sarah: Any updates on your progress?
+[06:39] Victor Rodriguez: Roads are wet, taking it easy.
+[07:36] Sarah: Where are you at right now?
+[07:38] Victor Rodriguez: Just crossed the state line, all good.
+[07:40] Sarah: What's your ETA?
+[07:42] Victor Rodriguez: Looking at noon if traffic stays clear.
+[09:05] Sarah: Still on schedule?
+[09:07] Victor Rodriguez: Construction zone slowing everyone down.
+[09:10] Sarah: Let me know if you need anything.
+[09:12] Victor Rodriguez: Will do, thanks for checking in.
+[09:51] Sarah: What's your status?
+[09:53] Victor Rodriguez: Making good time, no issues so far.
+[09:55] Sarah: What's your ETA?
+[09:57] Victor Rodriguez: Should be there around 5pm.
+[10:54] Sarah: Where are you at right now?
+[10:56] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[12:21] Sarah: Still on schedule?
+[12:23] Victor Rodriguez: Roads are clear now, moving well.
+[12:26] Sarah: Long trip, huh? Get some rest when you can.
+[12:28] Victor Rodriguez: Yeah, long one, but manageable.
+[12:30] Sarah: What's your ETA?
+[12:32] Victor Rodriguez: Looking at 3pm if traffic stays clear.
+[12:52] Sarah: Still on schedule?
+[12:54] Victor Rodriguez: Hit some traffic near Fresno, CA, adding maybe 20 minutes.
+[13:11] Sarah: What's your status?
+[13:13] Victor Rodriguez: Will do, thanks for checking in.
+[13:15] Sarah: What's your ETA?
+[13:17] Victor Rodriguez: Probably noon, maybe a bit earlier.
+[13:49] Sarah: What's your status?
+[13:51] Victor Rodriguez: Construction zone slowing everyone down.
+[13:54] Sarah: Appreciate you keeping me posted.
+[13:56] Victor Rodriguez: Doing alright, just tired.
+[15:00] Sarah: How's LD-82305 looking?
+[15:02] Victor Rodriguez: Will do, thanks for checking in.
+[15:48] Sarah: What's your status?
+[15:50] Victor Rodriguez: About 355 miles out from Las Vegas, NV now.
+[15:53] Sarah: Let me know if you need anything.
+[15:55] Victor Rodriguez: Yeah, long one, but manageable.
+[16:22] Sarah: Any updates on your progress?
+[16:24] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[16:27] Sarah: How are you holding up out there?
+[16:29] Victor Rodriguez: Yeah, long one, but manageable.
+[16:31] Sarah: What's your ETA?
+[16:33] Victor Rodriguez: Should be there around 10am.
+[18:03] Sarah: How's LD-82305 looking?
+[18:05] Victor Rodriguez: Fuel prices are decent around here.
+[18:07] Sarah: What's your ETA?
+[18:09] Victor Rodriguez: Looking at 3pm if traffic stays clear.
+[19:16] Sarah: Still on schedule?
+[19:18] Victor Rodriguez: Clear skies here, no problems.
+[20:05] Sarah: What's your status?
+[20:07] Victor Rodriguez: Weather's getting rough up ahead, heads up.
+[21:23] Sarah: What's your status?
+[21:25] Victor Rodriguez: Yeah, long one, but manageable.
+[22:43] Sarah: Any updates on your progress?
+[22:45] Victor Rodriguez: Roads are wet, taking it easy.
+[22:48] Sarah: Appreciate you keeping me posted.
+[22:50] Victor Rodriguez: No problem, just doing my job.
+[22:52] Sarah: What's your ETA?
+[22:54] Victor Rodriguez: Should be there around noon.
+[00:10] Sarah: Still on schedule?
+[00:12] Victor Rodriguez: Weather's getting rough up ahead, heads up.
+[00:51] Sarah: Any updates on your progress?
+[00:53] Victor Rodriguez: Just passed Fresno, CA, everything's fine.
+[01:13] Sarah: Any updates on your progress?
+[01:15] Victor Rodriguez: Making good time, no issues so far.
+[01:51] Sarah: How's LD-82305 looking?
+[01:53] Victor Rodriguez: Making good time, no issues so far.
+[02:53] Sarah: What's your status?
+[02:55] Victor Rodriguez: Just passed Las Vegas, NV, everything's fine.
+[03:26] Sarah: What's your status?
+[03:28] Victor Rodriguez: About 100 miles out from Las Vegas, NV now.
+[03:56] Sarah: What's your status?
+[03:58] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[04:38] Sarah: Where are you at right now?
+[04:40] Victor Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[04:56] Sarah: How's LD-82305 looking?
+[04:58] Victor Rodriguez: About 290 miles out from Las Vegas, NV now.
+[05:24] Sarah: How's LD-82305 looking?
+[05:26] Victor Rodriguez: About 203 miles out from Las Vegas, NV now.
+[06:00] Sarah: Any updates on your progress?
+[06:02] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[06:39] Sarah: How's LD-82305 looking?
+[06:41] Victor Rodriguez: About 326 miles out from Las Vegas, NV now.
+[07:12] Sarah: What's your status?
+[07:14] Victor Rodriguez: Just crossed the state line, all good.
+[08:09] Sarah: How's LD-82305 looking?
+[08:11] Victor Rodriguez: About 339 miles out from Las Vegas, NV now.
+[08:50] Sarah: Still on schedule?
+[08:52] Victor Rodriguez: About 417 miles out from Las Vegas, NV now.
+[09:29] Sarah: What's your status?
+[09:31] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[10:28] Sarah: Still on schedule?
+[10:30] Victor Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[11:03] Sarah: Still on schedule?
+[11:05] Victor Rodriguez: Making good time, no issues so far.
+[11:36] Sarah: Any updates on your progress?
+[11:38] Victor Rodriguez: Just passed Fresno, CA, everything's fine.
+[12:25] Sarah: Where are you at right now?
+[12:27] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[13:13] Sarah: Still on schedule?
+[13:15] Victor Rodriguez: Stopped for a quick break, back on the road in a few.
+[14:00] Victor Rodriguez: Just delivered LD-82305 at Las Vegas, NV, all good, no damages.
+[14:02] Sarah: Do you have the signed BOL?
+[14:04] Victor Rodriguez: Yep, taking a picture now.
+[14:05] Victor Rodriguez: [Image attached: signed_bol.jpg]
+[14:07] Sarah: Sending you the next load details shortly.
+[14:09] Victor Rodriguez: Sounds good.
+[14:11] Sarah: Thanks for the update, drive safe.

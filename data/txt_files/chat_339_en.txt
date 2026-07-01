@@ -1,0 +1,133 @@
+Chat Log #339
+Company: Silk Road Logistics
+Language: English
+Driver: Carlos Jackson | Truck: #243 (reefer)
+Operator: Jessica
+Load: LD-75748 | Route: Nashville, TN -> Birmingham, AL
+Date: 2026-01-24
+--------------------------------------------------
+[12:38] Jessica: Carlos, got a minute?
+[12:39] Carlos Jackson: Yeah, go ahead.
+[12:41] Jessica: Got a load for you - LD-75748, reefer, pickup in Nashville, TN, delivery to Birmingham, AL.
+[12:43] Carlos Jackson: Ok, what's the pickup window?
+[12:45] Jessica: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[12:47] Carlos Jackson: What's the rate on this one?
+[12:49] Jessica: $2221 all in, 364 miles.
+[12:51] Carlos Jackson: Sounds good, I'll take it.
+[12:53] Jessica: Great, sending the rate confirmation now.
+[12:56] Carlos Jackson: Got it, signed and sent back.
+[13:37] Jessica: Where are you at right now?
+[13:39] Carlos Jackson: Yeah, long one, but manageable.
+[14:33] Jessica: What's your status?
+[14:35] Carlos Jackson: Rain is picking up here, slowing down a bit.
+[15:05] Jessica: Still on schedule?
+[15:07] Carlos Jackson: Fuel prices are decent around here.
+[15:48] Jessica: Still on schedule?
+[15:50] Carlos Jackson: Making good time, no issues so far.
+[15:52] Jessica: What's your ETA?
+[15:54] Carlos Jackson: Probably 5pm, maybe a bit earlier.
+[16:55] Jessica: Still on schedule?
+[16:57] Carlos Jackson: Rain is picking up here, slowing down a bit.
+[17:00] Jessica: Appreciate you keeping me posted.
+[17:02] Carlos Jackson: Yeah, long one, but manageable.
+[17:04] Jessica: What's your ETA?
+[17:06] Carlos Jackson: Should be there around 5pm.
+[17:40] Jessica: Any updates on your progress?
+[17:42] Carlos Jackson: Hit some traffic near Nashville, TN, adding maybe 20 minutes.
+[17:45] Jessica: How are you holding up out there?
+[17:47] Carlos Jackson: Will do, thanks for checking in.
+[18:19] Jessica: Any updates on your progress?
+[18:21] Carlos Jackson: No problem, just doing my job.
+[18:47] Jessica: Still on schedule?
+[18:49] Carlos Jackson: Construction zone slowing everyone down.
+[18:52] Jessica: Appreciate you keeping me posted.
+[18:54] Carlos Jackson: Yeah, long one, but manageable.
+[19:53] Jessica: How's LD-75748 looking?
+[19:55] Carlos Jackson: Rain is picking up here, slowing down a bit.
+[20:50] Jessica: Where are you at right now?
+[20:52] Carlos Jackson: Fuel prices are decent around here.
+[20:55] Jessica: Appreciate you keeping me posted.
+[20:57] Carlos Jackson: Doing alright, just tired.
+[21:48] Jessica: Any updates on your progress?
+[21:50] Carlos Jackson: Roads are clear now, moving well.
+[21:53] Jessica: How are you holding up out there?
+[21:55] Carlos Jackson: Will do, thanks for checking in.
+[23:07] Jessica: Any updates on your progress?
+[23:09] Carlos Jackson: Accident up ahead, traffic's backed up.
+[23:11] Jessica: What's your ETA?
+[23:13] Carlos Jackson: Should be there around 3pm.
+[00:42] Jessica: Still on schedule?
+[00:44] Carlos Jackson: Hit some traffic near Birmingham, AL, adding maybe 20 minutes.
+[02:05] Jessica: Any updates on your progress?
+[02:07] Carlos Jackson: Making good time, no issues so far.
+[03:35] Jessica: How's LD-75748 looking?
+[03:37] Carlos Jackson: About 558 miles out from Birmingham, AL now.
+[05:07] Jessica: Where are you at right now?
+[05:09] Carlos Jackson: Roads are wet, taking it easy.
+[05:12] Jessica: Let me know if you need anything.
+[05:14] Carlos Jackson: Doing alright, just tired.
+[06:19] Jessica: How's LD-75748 looking?
+[06:21] Carlos Jackson: Just passed Nashville, TN, everything's fine.
+[06:23] Jessica: What's your ETA?
+[06:25] Carlos Jackson: Looking at 10am if traffic stays clear.
+[07:14] Jessica: What's your status?
+[07:16] Carlos Jackson: Just topped off the tank.
+[08:42] Jessica: Still on schedule?
+[08:44] Carlos Jackson: No problem, just doing my job.
+[08:47] Jessica: How are you holding up out there?
+[08:49] Carlos Jackson: No problem, just doing my job.
+[08:51] Jessica: What's your ETA?
+[08:53] Carlos Jackson: Probably 7pm, maybe a bit earlier.
+[10:03] Jessica: What's your status?
+[10:05] Carlos Jackson: Accident up ahead, traffic's backed up.
+[10:08] Jessica: Appreciate you keeping me posted.
+[10:10] Carlos Jackson: Will do, thanks for checking in.
+[10:32] Carlos Jackson: Coming up on my HOS limit, only got about 30 minutes left.
+[10:34] Jessica: Understood, get your rest, I'll let the receiver know.
+[10:50] Jessica: Where are you at right now?
+[10:52] Carlos Jackson: Stopped for a quick break, back on the road in a few.
+[11:13] Jessica: Any updates on your progress?
+[11:15] Carlos Jackson: Making good time, no issues so far.
+[12:12] Jessica: Where are you at right now?
+[12:14] Carlos Jackson: Just passed Birmingham, AL, everything's fine.
+[13:11] Jessica: Still on schedule?
+[13:13] Carlos Jackson: Just crossed the state line, all good.
+[13:39] Jessica: How's LD-75748 looking?
+[13:41] Carlos Jackson: Making good time, no issues so far.
+[14:12] Jessica: Any updates on your progress?
+[14:14] Carlos Jackson: Just passed Nashville, TN, everything's fine.
+[14:36] Jessica: Still on schedule?
+[14:38] Carlos Jackson: Traffic's a bit heavy but I'm still on schedule.
+[15:30] Jessica: Any updates on your progress?
+[15:32] Carlos Jackson: Traffic's a bit heavy but I'm still on schedule.
+[16:09] Jessica: How's LD-75748 looking?
+[16:11] Carlos Jackson: Making good time, no issues so far.
+[17:00] Jessica: What's your status?
+[17:02] Carlos Jackson: Making good time, no issues so far.
+[17:29] Jessica: Any updates on your progress?
+[17:31] Carlos Jackson: Just passed Birmingham, AL, everything's fine.
+[18:01] Jessica: What's your status?
+[18:03] Carlos Jackson: Making good time, no issues so far.
+[18:31] Jessica: What's your status?
+[18:33] Carlos Jackson: Just passed Nashville, TN, everything's fine.
+[19:29] Jessica: Any updates on your progress?
+[19:31] Carlos Jackson: Just passed Birmingham, AL, everything's fine.
+[19:52] Jessica: Still on schedule?
+[19:54] Carlos Jackson: Making good time, no issues so far.
+[20:28] Jessica: What's your status?
+[20:30] Carlos Jackson: Making good time, no issues so far.
+[20:54] Jessica: Still on schedule?
+[20:56] Carlos Jackson: Making good time, no issues so far.
+[21:15] Jessica: Any updates on your progress?
+[21:17] Carlos Jackson: Just crossed the state line, all good.
+[21:44] Jessica: How's LD-75748 looking?
+[21:46] Carlos Jackson: Making good time, no issues so far.
+[22:19] Jessica: Where are you at right now?
+[22:21] Carlos Jackson: Just crossed the state line, all good.
+[22:54] Carlos Jackson: Just delivered LD-75748 at Birmingham, AL, all good, no damages.
+[22:56] Jessica: Do you have the signed BOL?
+[22:58] Carlos Jackson: Yep, taking a picture now.
+[22:59] Carlos Jackson: [Image attached: signed_bol.jpg]
+[23:01] Jessica: Sending you the next load details shortly.
+[23:03] Carlos Jackson: Will do.
+[23:05] Jessica: Appreciate it, talk soon.

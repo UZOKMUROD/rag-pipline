@@ -1,0 +1,124 @@
+Chat Log #467
+Company: Silk Road Logistics
+Language: English
+Driver: Daniel Davis | Truck: #752 (flatbed)
+Operator: Ashley
+Load: LD-46358 | Route: Denver, CO -> Salt Lake City, UT
+Date: 2026-01-27
+--------------------------------------------------
+[14:53] Ashley: Hey Daniel, how's it going?
+[14:54] Daniel Davis: Yeah, go ahead.
+[14:56] Ashley: Got a load for you - LD-46358, flatbed, pickup in Denver, CO, delivery to Salt Lake City, UT.
+[14:58] Daniel Davis: Ok, what's the pickup window?
+[15:00] Ashley: Pickup is 08:00-10:00, delivery appointment is 14:00 the next day.
+[15:02] Daniel Davis: What's the rate on this one?
+[15:04] Ashley: $2076 all in, 920 miles.
+[15:06] Daniel Davis: Sounds good, I'll take it.
+[15:08] Ashley: Great, sending the rate confirmation now.
+[15:11] Daniel Davis: Got it, signed and sent back.
+[15:43] Ashley: Still on schedule?
+[15:45] Daniel Davis: Clear skies here, no problems.
+[15:48] Ashley: How are you holding up out there?
+[15:50] Daniel Davis: Yeah, long one, but manageable.
+[16:42] Ashley: Where are you at right now?
+[16:44] Daniel Davis: Roads are clear now, moving well.
+[16:46] Ashley: What's your ETA?
+[16:48] Daniel Davis: Probably 7pm, maybe a bit earlier.
+[17:34] Ashley: Still on schedule?
+[17:36] Daniel Davis: About 211 miles out from Salt Lake City, UT now.
+[17:39] Ashley: Long trip, huh? Get some rest when you can.
+[17:41] Daniel Davis: Yeah, long one, but manageable.
+[18:01] Ashley: What's your status?
+[18:03] Daniel Davis: Doing alright, just tired.
+[18:06] Ashley: Let me know if you need anything.
+[18:08] Daniel Davis: Doing alright, just tired.
+[18:35] Ashley: Still on schedule?
+[18:37] Daniel Davis: Weather's getting rough up ahead, heads up.
+[18:40] Ashley: Appreciate you keeping me posted.
+[18:42] Daniel Davis: Yeah, long one, but manageable.
+[18:44] Ashley: What's your ETA?
+[18:46] Daniel Davis: Should be there around 10am.
+[19:45] Ashley: Any updates on your progress?
+[19:47] Daniel Davis: Yeah, long one, but manageable.
+[20:28] Ashley: How's LD-46358 looking?
+[20:30] Daniel Davis: Stopping for fuel in a bit.
+[20:52] Ashley: Still on schedule?
+[20:54] Daniel Davis: Doing alright, just tired.
+[20:56] Ashley: What's your ETA?
+[20:58] Daniel Davis: Should be there around 10am.
+[21:37] Ashley: How's LD-46358 looking?
+[21:39] Daniel Davis: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[22:53] Ashley: What's your status?
+[22:55] Daniel Davis: Accident up ahead, traffic's backed up.
+[23:58] Ashley: What's your status?
+[00:00] Daniel Davis: Hit some traffic near Salt Lake City, UT, adding maybe 20 minutes.
+[00:28] Ashley: Still on schedule?
+[00:30] Daniel Davis: About 195 miles out from Salt Lake City, UT now.
+[01:11] Ashley: How's LD-46358 looking?
+[01:13] Daniel Davis: Fuel prices are decent around here.
+[01:50] Ashley: Where are you at right now?
+[01:52] Daniel Davis: Construction zone slowing everyone down.
+[03:04] Ashley: Any updates on your progress?
+[03:06] Daniel Davis: Just crossed the state line, all good.
+[03:43] Ashley: Still on schedule?
+[03:45] Daniel Davis: Just topped off the tank.
+[04:44] Ashley: Still on schedule?
+[04:46] Daniel Davis: Will do, thanks for checking in.
+[04:49] Ashley: Let me know if you need anything.
+[04:51] Daniel Davis: Yeah, long one, but manageable.
+[05:06] Daniel Davis: Still sitting at the shipper, been here almost 3 hours already.
+[05:08] Ashley: Let me call them and see what's going on.
+[05:18] Ashley: Ok talked to them, they said 30 more minutes, forklift issue.
+[05:20] Daniel Davis: Make sure detention pay gets logged for this.
+[05:22] Ashley: Already noted, don't worry, you'll get paid for the wait.
+[06:06] Ashley: How's LD-46358 looking?
+[06:08] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[06:38] Ashley: How's LD-46358 looking?
+[06:40] Daniel Davis: Just crossed the state line, all good.
+[07:10] Ashley: What's your status?
+[07:12] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[08:04] Ashley: Any updates on your progress?
+[08:06] Daniel Davis: About 406 miles out from Salt Lake City, UT now.
+[09:03] Ashley: How's LD-46358 looking?
+[09:05] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[09:33] Ashley: Any updates on your progress?
+[09:35] Daniel Davis: Just crossed the state line, all good.
+[10:35] Ashley: What's your status?
+[10:37] Daniel Davis: About 168 miles out from Salt Lake City, UT now.
+[10:59] Ashley: What's your status?
+[11:01] Daniel Davis: Making good time, no issues so far.
+[11:43] Ashley: Any updates on your progress?
+[11:45] Daniel Davis: About 485 miles out from Salt Lake City, UT now.
+[12:05] Ashley: Where are you at right now?
+[12:07] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[13:00] Ashley: What's your status?
+[13:02] Daniel Davis: Making good time, no issues so far.
+[13:21] Ashley: Where are you at right now?
+[13:23] Daniel Davis: Just crossed the state line, all good.
+[13:41] Ashley: Where are you at right now?
+[13:43] Daniel Davis: About 565 miles out from Salt Lake City, UT now.
+[14:42] Ashley: What's your status?
+[14:44] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[15:41] Ashley: Where are you at right now?
+[15:43] Daniel Davis: About 169 miles out from Salt Lake City, UT now.
+[16:41] Ashley: What's your status?
+[16:43] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[17:36] Ashley: How's LD-46358 looking?
+[17:38] Daniel Davis: About 280 miles out from Salt Lake City, UT now.
+[18:09] Ashley: Any updates on your progress?
+[18:11] Daniel Davis: Making good time, no issues so far.
+[19:04] Ashley: Still on schedule?
+[19:06] Daniel Davis: Traffic's a bit heavy but I'm still on schedule.
+[19:53] Ashley: Where are you at right now?
+[19:55] Daniel Davis: Just crossed the state line, all good.
+[20:55] Ashley: Any updates on your progress?
+[20:57] Daniel Davis: About 256 miles out from Salt Lake City, UT now.
+[21:48] Ashley: Where are you at right now?
+[21:50] Daniel Davis: Stopped for a quick break, back on the road in a few.
+[22:39] Daniel Davis: Just delivered LD-46358 at Salt Lake City, UT, all good, no damages.
+[22:41] Ashley: Do you have the signed BOL?
+[22:43] Daniel Davis: Yep, taking a picture now.
+[22:44] Daniel Davis: [Image attached: signed_bol.jpg]
+[22:46] Ashley: Sending you the next load details shortly.
+[22:48] Daniel Davis: Will do.
+[22:50] Ashley: Great work, thank you.

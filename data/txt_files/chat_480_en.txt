@@ -1,0 +1,128 @@
+Chat Log #480
+Company: Silk Road Logistics
+Language: English
+Driver: Anthony Martinez | Truck: #104 (reefer)
+Operator: Nicole
+Load: LD-11126 | Route: Los Angeles, CA -> Phoenix, AZ
+Date: 2026-03-12
+--------------------------------------------------
+[09:51] Nicole: Anthony, got a minute?
+[09:52] Anthony Martinez: Hey, yeah I'm here.
+[09:54] Nicole: Got a load for you - LD-11126, reefer, pickup in Los Angeles, CA, delivery to Phoenix, AZ.
+[09:56] Anthony Martinez: Ok, what's the pickup window?
+[09:58] Nicole: Pickup is 08:00-10:00, delivery appointment is 09:00 the next day.
+[10:00] Anthony Martinez: What's the rate on this one?
+[10:02] Nicole: $3325 all in, 996 miles.
+[10:04] Anthony Martinez: Sounds good, I'll take it.
+[10:06] Nicole: Great, sending the rate confirmation now.
+[10:09] Anthony Martinez: Got it, signed and sent back.
+[11:30] Nicole: How's LD-11126 looking?
+[11:32] Anthony Martinez: Making good time, no issues so far.
+[12:35] Nicole: Still on schedule?
+[12:37] Anthony Martinez: About 164 miles out from Phoenix, AZ now.
+[13:51] Nicole: Where are you at right now?
+[13:53] Anthony Martinez: Hit some traffic near Phoenix, AZ, adding maybe 20 minutes.
+[13:55] Nicole: What's your ETA?
+[13:57] Anthony Martinez: Looking at noon if traffic stays clear.
+[15:01] Nicole: How's LD-11126 looking?
+[15:03] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[15:06] Nicole: Appreciate you keeping me posted.
+[15:08] Anthony Martinez: Will do, thanks for checking in.
+[16:15] Nicole: Any updates on your progress?
+[16:17] Anthony Martinez: Rain is picking up here, slowing down a bit.
+[16:41] Nicole: What's your status?
+[16:43] Anthony Martinez: Just passed Phoenix, AZ, everything's fine.
+[17:48] Nicole: Still on schedule?
+[17:50] Anthony Martinez: Clear skies here, no problems.
+[18:30] Nicole: Where are you at right now?
+[18:32] Anthony Martinez: Just passed Phoenix, AZ, everything's fine.
+[18:35] Nicole: How are you holding up out there?
+[18:37] Anthony Martinez: Will do, thanks for checking in.
+[19:49] Nicole: Any updates on your progress?
+[19:51] Anthony Martinez: About 303 miles out from Phoenix, AZ now.
+[19:54] Nicole: Long trip, huh? Get some rest when you can.
+[19:56] Anthony Martinez: Doing alright, just tired.
+[21:06] Nicole: Any updates on your progress?
+[21:08] Anthony Martinez: Will do, thanks for checking in.
+[22:04] Nicole: Any updates on your progress?
+[22:06] Anthony Martinez: Just passed Los Angeles, CA, everything's fine.
+[23:32] Nicole: What's your status?
+[23:34] Anthony Martinez: Weather's getting rough up ahead, heads up.
+[23:37] Nicole: Let me know if you need anything.
+[23:39] Anthony Martinez: Will do, thanks for checking in.
+[23:41] Nicole: What's your ETA?
+[23:43] Anthony Martinez: Should be there around 10am.
+[00:55] Nicole: What's your status?
+[00:57] Anthony Martinez: Fuel prices are decent around here.
+[00:59] Nicole: What's your ETA?
+[01:01] Anthony Martinez: Should be there around 5pm.
+[01:34] Nicole: Any updates on your progress?
+[01:36] Anthony Martinez: About 82 miles out from Phoenix, AZ now.
+[02:49] Nicole: Any updates on your progress?
+[02:51] Anthony Martinez: Construction zone slowing everyone down.
+[02:54] Nicole: How are you holding up out there?
+[02:56] Anthony Martinez: No problem, just doing my job.
+[02:58] Nicole: What's your ETA?
+[03:00] Anthony Martinez: Should be there around 5pm.
+[03:29] Anthony Martinez: Still sitting at the shipper, been here almost 4 hours already.
+[03:31] Nicole: Let me call them and see what's going on.
+[03:41] Nicole: Ok talked to them, they said 30 more minutes, forklift issue.
+[03:43] Anthony Martinez: Make sure detention pay gets logged for this.
+[03:45] Nicole: Already noted, don't worry, you'll get paid for the wait.
+[04:11] Nicole: What's your status?
+[04:13] Anthony Martinez: About 595 miles out from Phoenix, AZ now.
+[05:07] Nicole: Any updates on your progress?
+[05:09] Anthony Martinez: Just passed Phoenix, AZ, everything's fine.
+[05:47] Nicole: Still on schedule?
+[05:49] Anthony Martinez: About 25 miles out from Phoenix, AZ now.
+[06:31] Nicole: How's LD-11126 looking?
+[06:33] Anthony Martinez: Just crossed the state line, all good.
+[07:18] Nicole: What's your status?
+[07:20] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[08:08] Nicole: Still on schedule?
+[08:10] Anthony Martinez: Just crossed the state line, all good.
+[08:41] Nicole: Any updates on your progress?
+[08:43] Anthony Martinez: Just crossed the state line, all good.
+[09:35] Nicole: How's LD-11126 looking?
+[09:37] Anthony Martinez: Making good time, no issues so far.
+[09:59] Nicole: Where are you at right now?
+[10:01] Anthony Martinez: Just passed Phoenix, AZ, everything's fine.
+[10:42] Nicole: How's LD-11126 looking?
+[10:44] Anthony Martinez: Just crossed the state line, all good.
+[11:22] Nicole: Any updates on your progress?
+[11:24] Anthony Martinez: About 134 miles out from Phoenix, AZ now.
+[11:54] Nicole: Any updates on your progress?
+[11:56] Anthony Martinez: Traffic's a bit heavy but I'm still on schedule.
+[12:24] Nicole: How's LD-11126 looking?
+[12:26] Anthony Martinez: Making good time, no issues so far.
+[13:06] Nicole: Where are you at right now?
+[13:08] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[13:49] Nicole: Where are you at right now?
+[13:51] Anthony Martinez: Just crossed the state line, all good.
+[14:25] Nicole: Still on schedule?
+[14:27] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[15:17] Nicole: Still on schedule?
+[15:19] Anthony Martinez: Just passed Los Angeles, CA, everything's fine.
+[15:52] Nicole: Where are you at right now?
+[15:54] Anthony Martinez: Just passed Los Angeles, CA, everything's fine.
+[16:45] Nicole: Where are you at right now?
+[16:47] Anthony Martinez: Stopped for a quick break, back on the road in a few.
+[17:35] Nicole: What's your status?
+[17:37] Anthony Martinez: Just crossed the state line, all good.
+[18:08] Nicole: Still on schedule?
+[18:10] Anthony Martinez: Just passed Phoenix, AZ, everything's fine.
+[18:30] Nicole: Still on schedule?
+[18:32] Anthony Martinez: About 108 miles out from Phoenix, AZ now.
+[18:54] Nicole: How's LD-11126 looking?
+[18:56] Anthony Martinez: Making good time, no issues so far.
+[19:56] Nicole: What's your status?
+[19:58] Anthony Martinez: Just crossed the state line, all good.
+[20:19] Nicole: Any updates on your progress?
+[20:21] Anthony Martinez: Making good time, no issues so far.
+[21:08] Anthony Martinez: Just delivered LD-11126 at Phoenix, AZ, all good, no damages.
+[21:10] Nicole: Do you have the signed BOL?
+[21:12] Anthony Martinez: Yep, taking a picture now.
+[21:13] Anthony Martinez: [Image attached: signed_bol.jpg]
+[21:15] Nicole: Sending you the next load details shortly.
+[21:17] Anthony Martinez: Will do.
+[21:19] Nicole: Appreciate it, talk soon.

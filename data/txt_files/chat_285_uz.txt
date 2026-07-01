@@ -1,0 +1,151 @@
+Chat Log #285
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #715 (refrijerator)
+Operator: Feruza
+Load: LD-39469 | Route: Buxoro -> Navoiy
+Date: 2026-03-25
+--------------------------------------------------
+[15:25] Feruza: Jasur, bir daqiqa bormi?
+[15:26] Jasur Toshpulatov: Xayrli tong, menda hammasi yaxshi.
+[15:28] Feruza: Siz uchun yuk bor - LD-39469, refrijerator, Buxorodan yuklanadi, Navoiyga tushiriladi.
+[15:30] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[15:32] Feruza: Yuklash 09:00-11:00, tushirish esa ertaga 16:00 bo'ladi.
+[15:34] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[15:36] Feruza: 1915 ming so'm, 849 km.
+[15:38] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[15:40] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[15:43] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[17:03] Feruza: Yo'lda yangilik bormi?
+[17:05] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:34] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:36] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[17:39] Feruza: Xabar berib turganingiz uchun rahmat.
+[17:41] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[18:22] Feruza: Yo'lda yangilik bormi?
+[18:24] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:27] Feruza: O'zingizni qalay his qilyapsiz?
+[18:29] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[18:31] Feruza: Taxminan qachon yetib borasiz?
+[18:33] Jasur Toshpulatov: Ehtimol 3pm, balki ertaroq.
+[19:47] Feruza: LD-39469 bilan ishlar qalay?
+[19:49] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[19:51] Feruza: Taxminan qachon yetib borasiz?
+[19:53] Jasur Toshpulatov: Taxminan 3pmda yetib boraman.
+[21:22] Feruza: Hozir qayerdasiz?
+[21:24] Jasur Toshpulatov: Osmon ochiq, muammo yo'q.
+[21:27] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[21:29] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[22:19] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:21] Jasur Toshpulatov: Osmon ochiq, muammo yo'q.
+[22:24] Feruza: Biror narsa kerak bo'lsa ayting.
+[22:26] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[23:40] Feruza: Yo'lda yangilik bormi?
+[23:42] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[00:35] Feruza: Yo'lda yangilik bormi?
+[00:37] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:40] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[00:42] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[01:24] Feruza: Holatingiz qanday?
+[01:26] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[01:29] Feruza: Biror narsa kerak bo'lsa ayting.
+[01:31] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[02:34] Feruza: Holatingiz qanday?
+[02:36] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[02:38] Feruza: Taxminan qachon yetib borasiz?
+[02:40] Jasur Toshpulatov: Taxminan 7pmda yetib boraman.
+[03:46] Feruza: Holatingiz qanday?
+[03:48] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[03:51] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[03:53] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[04:30] Feruza: Hozir qayerdasiz?
+[04:32] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[04:35] Feruza: Biror narsa kerak bo'lsa ayting.
+[04:37] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[05:22] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:24] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[05:26] Feruza: Taxminan qachon yetib borasiz?
+[05:28] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 7pmda.
+[06:18] Feruza: Hozir qayerdasiz?
+[06:20] Jasur Toshpulatov: Navoiygacha taxminan 465 km qoldi.
+[07:05] Feruza: LD-39469 bilan ishlar qalay?
+[07:07] Jasur Toshpulatov: Navoiygacha taxminan 360 km qoldi.
+[07:10] Feruza: O'zingizni qalay his qilyapsiz?
+[07:12] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[07:54] Feruza: Hozir qayerdasiz?
+[07:56] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[07:58] Feruza: Taxminan qachon yetib borasiz?
+[08:00] Jasur Toshpulatov: Ehtimol 10am, balki ertaroq.
+[08:45] Feruza: LD-39469 bilan ishlar qalay?
+[08:47] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[09:52] Feruza: LD-39469 bilan ishlar qalay?
+[09:54] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[11:15] Feruza: Yo'lda yangilik bormi?
+[11:17] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[11:20] Feruza: Biror narsa kerak bo'lsa ayting.
+[11:22] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[11:41] Feruza: Hozir qayerdasiz?
+[11:43] Jasur Toshpulatov: Navoiygacha taxminan 31 km qoldi.
+[12:39] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[12:41] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[12:59] Feruza: Holatingiz qanday?
+[13:01] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[13:53] Feruza: Yo'lda yangilik bormi?
+[13:55] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[14:27] Feruza: Holatingiz qanday?
+[14:29] Jasur Toshpulatov: Navoiygacha taxminan 477 km qoldi.
+[14:54] Feruza: Holatingiz qanday?
+[14:56] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:23] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:25] Jasur Toshpulatov: Navoiygacha taxminan 504 km qoldi.
+[15:45] Feruza: Holatingiz qanday?
+[15:47] Jasur Toshpulatov: Navoiygacha taxminan 464 km qoldi.
+[16:20] Feruza: Hozir qayerdasiz?
+[16:22] Jasur Toshpulatov: Navoiygacha taxminan 581 km qoldi.
+[16:49] Feruza: LD-39469 bilan ishlar qalay?
+[16:51] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[17:33] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:35] Jasur Toshpulatov: Navoiygacha taxminan 528 km qoldi.
+[18:06] Feruza: Yo'lda yangilik bormi?
+[18:08] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[19:05] Feruza: LD-39469 bilan ishlar qalay?
+[19:07] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:23] Feruza: Hozir qayerdasiz?
+[19:25] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[20:14] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:16] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[20:51] Feruza: Yo'lda yangilik bormi?
+[20:53] Jasur Toshpulatov: Navoiygacha taxminan 235 km qoldi.
+[21:48] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:50] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[22:49] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[22:51] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:11] Feruza: Hozir qayerdasiz?
+[23:13] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[23:46] Feruza: LD-39469 bilan ishlar qalay?
+[23:48] Jasur Toshpulatov: Hozirgina Navoiydan o'tdim, hammasi joyida.
+[00:41] Feruza: Hozir qayerdasiz?
+[00:43] Jasur Toshpulatov: Navoiygacha taxminan 296 km qoldi.
+[01:03] Feruza: LD-39469 bilan ishlar qalay?
+[01:05] Jasur Toshpulatov: Navoiygacha taxminan 195 km qoldi.
+[01:58] Feruza: Hozir qayerdasiz?
+[02:00] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:16] Feruza: LD-39469 bilan ishlar qalay?
+[02:18] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[02:42] Feruza: Hozir qayerdasiz?
+[02:44] Jasur Toshpulatov: Hozirgina Buxorodan o'tdim, hammasi joyida.
+[03:28] Feruza: LD-39469 bilan ishlar qalay?
+[03:30] Jasur Toshpulatov: Navoiygacha taxminan 127 km qoldi.
+[03:45] Feruza: Yo'lda yangilik bormi?
+[03:47] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:40] Feruza: Hozir qayerdasiz?
+[04:42] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:00] Feruza: Hozir qayerdasiz?
+[05:02] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[05:35] Jasur Toshpulatov: LD-39469 yukini Navoiyda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[05:37] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[05:39] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[05:40] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[05:42] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[05:44] Jasur Toshpulatov: Tushunarli.
+[05:46] Feruza: Ajoyib ish, rahmat.

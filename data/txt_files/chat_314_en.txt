@@ -1,0 +1,129 @@
+Chat Log #314
+Company: Silk Road Logistics
+Language: English
+Driver: William Harris | Truck: #294 (flatbed)
+Operator: Megan
+Load: LD-45152 | Route: Indianapolis, IN -> Louisville, KY
+Date: 2026-04-13
+--------------------------------------------------
+[19:28] Megan: Hey William, how's it going?
+[19:29] William Harris: Yeah, go ahead.
+[19:31] Megan: Got a load for you - LD-45152, flatbed, pickup in Indianapolis, IN, delivery to Louisville, KY.
+[19:33] William Harris: Ok, what's the pickup window?
+[19:35] Megan: Pickup is 09:00-11:00, delivery appointment is 09:00 the next day.
+[19:37] William Harris: What's the rate on this one?
+[19:39] Megan: $2330 all in, 463 miles.
+[19:41] William Harris: Sounds good, I'll take it.
+[19:43] Megan: Great, sending the rate confirmation now.
+[19:46] William Harris: Got it, signed and sent back.
+[20:28] Megan: How's LD-45152 looking?
+[20:30] William Harris: Stopping for fuel in a bit.
+[21:30] Megan: Where are you at right now?
+[21:32] William Harris: Making good time, no issues so far.
+[21:48] Megan: What's your status?
+[21:50] William Harris: About 253 miles out from Louisville, KY now.
+[21:53] Megan: How are you holding up out there?
+[21:55] William Harris: Will do, thanks for checking in.
+[22:12] Megan: Where are you at right now?
+[22:14] William Harris: Just topped off the tank.
+[22:16] Megan: What's your ETA?
+[22:18] William Harris: Should be there around 10am.
+[23:07] Megan: How's LD-45152 looking?
+[23:09] William Harris: Rain is picking up here, slowing down a bit.
+[23:12] Megan: Appreciate you keeping me posted.
+[23:14] William Harris: No problem, just doing my job.
+[00:10] Megan: Any updates on your progress?
+[00:12] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[00:15] Megan: Appreciate you keeping me posted.
+[00:17] William Harris: Will do, thanks for checking in.
+[00:45] Megan: Still on schedule?
+[00:47] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[01:09] Megan: Where are you at right now?
+[01:11] William Harris: Stopping for fuel in a bit.
+[01:14] Megan: Let me know if you need anything.
+[01:16] William Harris: Will do, thanks for checking in.
+[02:05] Megan: Any updates on your progress?
+[02:07] William Harris: Fuel prices are decent around here.
+[02:27] Megan: Where are you at right now?
+[02:29] William Harris: Construction zone slowing everyone down.
+[03:21] Megan: Where are you at right now?
+[03:23] William Harris: Construction zone slowing everyone down.
+[03:25] Megan: What's your ETA?
+[03:27] William Harris: Probably 5pm, maybe a bit earlier.
+[04:28] Megan: Still on schedule?
+[04:30] William Harris: Just passed Louisville, KY, everything's fine.
+[04:33] Megan: Appreciate you keeping me posted.
+[04:35] William Harris: No problem, just doing my job.
+[05:04] Megan: Still on schedule?
+[05:06] William Harris: Will do, thanks for checking in.
+[05:08] Megan: What's your ETA?
+[05:10] William Harris: Looking at noon if traffic stays clear.
+[05:56] Megan: Still on schedule?
+[05:58] William Harris: Hit some traffic near Louisville, KY, adding maybe 20 minutes.
+[06:00] Megan: What's your ETA?
+[06:02] William Harris: Should be there around 10am.
+[07:28] Megan: Any updates on your progress?
+[07:30] William Harris: Construction zone slowing everyone down.
+[08:14] Megan: Any updates on your progress?
+[08:16] William Harris: Making good time, no issues so far.
+[08:19] Megan: How are you holding up out there?
+[08:21] William Harris: Doing alright, just tired.
+[08:58] Megan: Still on schedule?
+[09:00] William Harris: No problem, just doing my job.
+[09:02] Megan: What's your ETA?
+[09:04] William Harris: Looking at 7pm if traffic stays clear.
+[09:25] Megan: What's your status?
+[09:27] William Harris: Stopped for a quick break, back on the road in a few.
+[10:52] Megan: Any updates on your progress?
+[10:54] William Harris: Stopping for fuel in a bit.
+[10:56] Megan: What's your ETA?
+[10:58] William Harris: Probably 7pm, maybe a bit earlier.
+[11:56] Megan: Still on schedule?
+[11:58] William Harris: Hit some traffic near Louisville, KY, adding maybe 20 minutes.
+[12:01] Megan: Long trip, huh? Get some rest when you can.
+[12:03] William Harris: Doing alright, just tired.
+[12:37] William Harris: I've got a problem, a blown fuse on the trailer lights on LD-45152. Pulled over on the shoulder.
+[12:38] Megan: Are you safe? Anyone hurt?
+[12:40] William Harris: Yeah I'm fine, just need roadside assistance.
+[12:42] Megan: Mile marker 93 on I-10.
+[12:47] Megan: Truck is on the way, ETA about 1.5 hours.
+[13:54] William Harris: Fixed and rolling again.
+[14:45] Megan: How's LD-45152 looking?
+[14:47] William Harris: Just crossed the state line, all good.
+[15:02] Megan: What's your status?
+[15:04] William Harris: Stopped for a quick break, back on the road in a few.
+[15:47] Megan: Still on schedule?
+[15:49] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[16:18] Megan: How's LD-45152 looking?
+[16:20] William Harris: About 59 miles out from Louisville, KY now.
+[17:10] Megan: How's LD-45152 looking?
+[17:12] William Harris: Just passed Indianapolis, IN, everything's fine.
+[17:57] Megan: Where are you at right now?
+[17:59] William Harris: Stopped for a quick break, back on the road in a few.
+[18:27] Megan: Still on schedule?
+[18:29] William Harris: About 570 miles out from Louisville, KY now.
+[19:22] Megan: Still on schedule?
+[19:24] William Harris: Traffic's a bit heavy but I'm still on schedule.
+[19:43] Megan: What's your status?
+[19:45] William Harris: About 417 miles out from Louisville, KY now.
+[20:38] Megan: Any updates on your progress?
+[20:40] William Harris: Just passed Indianapolis, IN, everything's fine.
+[21:13] Megan: Any updates on your progress?
+[21:15] William Harris: About 569 miles out from Louisville, KY now.
+[21:30] Megan: How's LD-45152 looking?
+[21:32] William Harris: About 301 miles out from Louisville, KY now.
+[22:31] Megan: Any updates on your progress?
+[22:33] William Harris: About 254 miles out from Louisville, KY now.
+[23:18] Megan: Where are you at right now?
+[23:20] William Harris: Just passed Indianapolis, IN, everything's fine.
+[23:48] Megan: What's your status?
+[23:50] William Harris: Making good time, no issues so far.
+[00:27] Megan: How's LD-45152 looking?
+[00:29] William Harris: Just passed Louisville, KY, everything's fine.
+[01:13] William Harris: Just delivered LD-45152 at Louisville, KY, all good, no damages.
+[01:15] Megan: Do you have the signed BOL?
+[01:17] William Harris: Yep, taking a picture now.
+[01:18] William Harris: [Image attached: signed_bol.jpg]
+[01:20] Megan: Sending you the next load details shortly.
+[01:22] William Harris: Will do.
+[01:24] Megan: Thanks for the update, drive safe.

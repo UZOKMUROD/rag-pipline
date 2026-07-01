@@ -1,0 +1,148 @@
+Chat Log #245
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Jasur Toshpulatov | Truck: #894 (refrijerator)
+Operator: Feruza
+Load: LD-88781 | Route: Toshkent -> Samarqand
+Date: 2026-02-03
+--------------------------------------------------
+[07:49] Feruza: Salom, Jasur, ishlar qalay?
+[07:50] Jasur Toshpulatov: Ha, aytavering.
+[07:52] Feruza: Siz uchun yuk bor - LD-88781, refrijerator, Toshkentdan yuklanadi, Samarqandga tushiriladi.
+[07:54] Jasur Toshpulatov: Tushunarli, yuklash vaqti qachon?
+[07:56] Feruza: Yuklash 06:00-08:00, tushirish esa ertaga 09:00 bo'ladi.
+[07:58] Jasur Toshpulatov: Bu reys uchun narx qancha?
+[08:00] Feruza: 4026 ming so'm, 460 km.
+[08:02] Jasur Toshpulatov: Yaxshi, bu reysni olaman.
+[08:04] Feruza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[08:07] Jasur Toshpulatov: Oldim, imzolab qaytarib yubordim.
+[09:14] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:16] Jasur Toshpulatov: Oldinda avariya bo'lgan, tirbandlik bor.
+[09:19] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[09:21] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[10:39] Feruza: Hozir qayerdasiz?
+[10:41] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[11:47] Feruza: Holatingiz qanday?
+[11:49] Jasur Toshpulatov: Oldinda ob-havo yomonlashyapti, ehtiyot bo'ling.
+[11:52] Feruza: O'zingizni qalay his qilyapsiz?
+[11:54] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[12:39] Feruza: LD-88781 bilan ishlar qalay?
+[12:41] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[12:44] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[12:46] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[14:09] Feruza: Yo'lda yangilik bormi?
+[14:11] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:14] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[14:16] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[15:18] Feruza: LD-88781 bilan ishlar qalay?
+[15:20] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[15:22] Feruza: Taxminan qachon yetib borasiz?
+[15:24] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 5pmda.
+[16:36] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:38] Jasur Toshpulatov: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[17:14] Feruza: Hozir qayerdasiz?
+[17:16] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[18:09] Feruza: Yo'lda yangilik bormi?
+[18:11] Jasur Toshpulatov: Hozirgina yoqilg'i quydim.
+[18:14] Feruza: O'zingizni qalay his qilyapsiz?
+[18:16] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[18:18] Feruza: Taxminan qachon yetib borasiz?
+[18:20] Jasur Toshpulatov: Ehtimol noon, balki ertaroq.
+[18:58] Feruza: Holatingiz qanday?
+[19:00] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[19:03] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[19:05] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[20:27] Feruza: LD-88781 bilan ishlar qalay?
+[20:29] Jasur Toshpulatov: Yo'llar bo'sh, yaxshi ketyapman.
+[20:32] Feruza: Biror narsa kerak bo'lsa ayting.
+[20:34] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[21:56] Feruza: Hozir qayerdasiz?
+[21:58] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[23:15] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:17] Jasur Toshpulatov: Yomg'ir kuchayyapti, tezlikni pasaytirdim.
+[23:54] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[23:56] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[23:59] Feruza: O'zingizni qalay his qilyapsiz?
+[00:01] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[00:59] Feruza: LD-88781 bilan ishlar qalay?
+[01:01] Jasur Toshpulatov: Bu yerda yoqilg'i narxlari yomon emas.
+[01:04] Feruza: O'zingizni qalay his qilyapsiz?
+[01:06] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[01:08] Feruza: Taxminan qachon yetib borasiz?
+[01:10] Jasur Toshpulatov: Agar tirbandlik bo'lmasa 3pmda.
+[01:49] Feruza: Yo'lda yangilik bormi?
+[01:51] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[01:54] Feruza: Biror narsa kerak bo'lsa ayting.
+[01:56] Jasur Toshpulatov: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[02:46] Feruza: Hozir qayerdasiz?
+[02:48] Jasur Toshpulatov: Tez orada yoqilg'i quyish uchun to'xtayman.
+[04:06] Feruza: Yo'lda yangilik bormi?
+[04:08] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[04:10] Feruza: Taxminan qachon yetib borasiz?
+[04:12] Jasur Toshpulatov: Ehtimol 10am, balki ertaroq.
+[04:42] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:44] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[05:58] Feruza: LD-88781 bilan ishlar qalay?
+[06:00] Jasur Toshpulatov: Samarqand yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[06:03] Feruza: Uzoq yo'l ekan, imkoniyat bo'lsa dam oling.
+[06:05] Jasur Toshpulatov: Yaxshi, faqat biroz charchadim.
+[06:07] Feruza: Taxminan qachon yetib borasiz?
+[06:09] Jasur Toshpulatov: Taxminan 7pmda yetib boraman.
+[06:50] Feruza: Hozir qayerdasiz?
+[06:52] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[06:55] Feruza: O'zingizni qalay his qilyapsiz?
+[06:57] Jasur Toshpulatov: Hammasi joyida, ishimni qilyapman.
+[07:53] Feruza: Hozir qayerdasiz?
+[07:55] Jasur Toshpulatov: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[07:58] Feruza: Xabar berib turganingiz uchun rahmat.
+[08:00] Jasur Toshpulatov: Ha, uzoq, lekin chidayapman.
+[08:20] Jasur Toshpulatov: Hali ham omborda turibman, deyarli 3 soat bo'ldi.
+[08:22] Feruza: Hozir ularga qo'ng'iroq qilib, nima gapligini bilib olaman.
+[08:32] Feruza: Ular bilan gaplashdim, yana 30 daqiqa deyishdi, yuk ko'targich muammosi bor ekan.
+[08:34] Jasur Toshpulatov: Bu kutish uchun to'lov qayd etilishiga ishonch hosil qiling.
+[08:36] Feruza: Allaqachon qayd etdim, xavotir olmang, kutgan vaqtingiz uchun to'lov bo'ladi.
+[09:06] Feruza: LD-88781 bilan ishlar qalay?
+[09:08] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[09:27] Feruza: Hozir qayerdasiz?
+[09:29] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[09:44] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:46] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[10:04] Feruza: Hozir qayerdasiz?
+[10:06] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[10:51] Feruza: Holatingiz qanday?
+[10:53] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[11:15] Feruza: Hozir qayerdasiz?
+[11:17] Jasur Toshpulatov: Hozirgina Samarqanddan o'tdim, hammasi joyida.
+[11:45] Feruza: LD-88781 bilan ishlar qalay?
+[11:47] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:14] Feruza: LD-88781 bilan ishlar qalay?
+[12:16] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:42] Feruza: Yo'lda yangilik bormi?
+[12:44] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[13:32] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:34] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:12] Feruza: Hozir qayerdasiz?
+[14:14] Jasur Toshpulatov: Samarqandgacha taxminan 578 km qoldi.
+[14:32] Feruza: Yo'lda yangilik bormi?
+[14:34] Jasur Toshpulatov: Hozirgina Toshkentdan o'tdim, hammasi joyida.
+[14:59] Feruza: Yo'lda yangilik bormi?
+[15:01] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[15:35] Feruza: Hozir qayerdasiz?
+[15:37] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[16:09] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[16:11] Jasur Toshpulatov: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:33] Feruza: Hozir qayerdasiz?
+[16:35] Jasur Toshpulatov: Yaxshi ketyapman, hozircha muammo yo'q.
+[17:13] Feruza: Yo'lda yangilik bormi?
+[17:15] Jasur Toshpulatov: Samarqandgacha taxminan 323 km qoldi.
+[17:54] Feruza: Hali ham jadval bo'yicha ketyapsizmi?
+[17:56] Jasur Toshpulatov: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[18:28] Feruza: Hozir qayerdasiz?
+[18:30] Jasur Toshpulatov: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[19:52] Jasur Toshpulatov: LD-88781 yukini Samarqandda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[19:54] Feruza: Imzolangan hujjat (BOL) bormi sizda?
+[19:56] Jasur Toshpulatov: Ha, hozir rasmga olaman.
+[19:57] Jasur Toshpulatov: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[19:59] Feruza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[20:01] Jasur Toshpulatov: Yaxshi.
+[20:03] Feruza: Ajoyib ish, rahmat.

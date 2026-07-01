@@ -1,0 +1,129 @@
+Chat Log #161
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Williams | Truck: #208 (reefer)
+Operator: Ashley
+Load: LD-58848 | Route: Portland, OR -> Seattle, WA
+Date: 2026-01-17
+--------------------------------------------------
+[09:06] Ashley: Andrew, got a minute?
+[09:07] Andrew Williams: Yeah, go ahead.
+[09:09] Ashley: Got a load for you - LD-58848, reefer, pickup in Portland, OR, delivery to Seattle, WA.
+[09:11] Andrew Williams: Ok, what's the pickup window?
+[09:13] Ashley: Pickup is 06:00-08:00, delivery appointment is 07:30 the next day.
+[09:15] Andrew Williams: What's the rate on this one?
+[09:17] Ashley: $2865 all in, 840 miles.
+[09:19] Andrew Williams: Sounds good, I'll take it.
+[09:21] Ashley: Great, sending the rate confirmation now.
+[09:24] Andrew Williams: Got it, signed and sent back.
+[09:42] Ashley: What's your status?
+[09:44] Andrew Williams: Will do, thanks for checking in.
+[09:47] Ashley: Long trip, huh? Get some rest when you can.
+[09:49] Andrew Williams: Doing alright, just tired.
+[10:14] Ashley: Where are you at right now?
+[10:16] Andrew Williams: About 217 miles out from Seattle, WA now.
+[10:50] Ashley: Still on schedule?
+[10:52] Andrew Williams: Just crossed the state line, all good.
+[10:54] Ashley: What's your ETA?
+[10:56] Andrew Williams: Probably 3pm, maybe a bit earlier.
+[12:18] Ashley: Where are you at right now?
+[12:20] Andrew Williams: Hit some traffic near Seattle, WA, adding maybe 20 minutes.
+[12:22] Ashley: What's your ETA?
+[12:24] Andrew Williams: Should be there around 10am.
+[13:33] Ashley: Any updates on your progress?
+[13:35] Andrew Williams: Fuel prices are decent around here.
+[14:27] Ashley: How's LD-58848 looking?
+[14:29] Andrew Williams: Doing alright, just tired.
+[15:10] Ashley: Where are you at right now?
+[15:12] Andrew Williams: Just passed Portland, OR, everything's fine.
+[15:15] Ashley: Appreciate you keeping me posted.
+[15:17] Andrew Williams: Doing alright, just tired.
+[16:28] Ashley: Still on schedule?
+[16:30] Andrew Williams: Just topped off the tank.
+[17:14] Ashley: Where are you at right now?
+[17:16] Andrew Williams: Just topped off the tank.
+[17:19] Ashley: Long trip, huh? Get some rest when you can.
+[17:21] Andrew Williams: Yeah, long one, but manageable.
+[17:23] Ashley: What's your ETA?
+[17:25] Andrew Williams: Should be there around 5pm.
+[18:44] Ashley: What's your status?
+[18:46] Andrew Williams: Construction zone slowing everyone down.
+[18:49] Ashley: How are you holding up out there?
+[18:51] Andrew Williams: Yeah, long one, but manageable.
+[20:05] Ashley: Where are you at right now?
+[20:07] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[20:10] Ashley: Appreciate you keeping me posted.
+[20:12] Andrew Williams: Will do, thanks for checking in.
+[20:29] Ashley: Any updates on your progress?
+[20:31] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[21:26] Ashley: Where are you at right now?
+[21:28] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[21:31] Ashley: Appreciate you keeping me posted.
+[21:33] Andrew Williams: Doing alright, just tired.
+[22:57] Ashley: How's LD-58848 looking?
+[22:59] Andrew Williams: Rain is picking up here, slowing down a bit.
+[23:50] Ashley: Still on schedule?
+[23:52] Andrew Williams: Stopping for fuel in a bit.
+[00:49] Ashley: Still on schedule?
+[00:51] Andrew Williams: Just topped off the tank.
+[01:10] Ashley: Any updates on your progress?
+[01:12] Andrew Williams: Making good time, no issues so far.
+[01:14] Ashley: What's your ETA?
+[01:16] Andrew Williams: Looking at 10am if traffic stays clear.
+[01:29] Andrew Williams: I've got a problem, a DOT inspection on LD-58848. Pulled over on the shoulder.
+[01:30] Ashley: Are you safe? Anyone hurt?
+[01:32] Andrew Williams: Yeah I'm fine, just need roadside assistance.
+[01:34] Ashley: Mile marker 184 on I-70.
+[01:39] Ashley: Truck is on the way, ETA about 30 min.
+[02:33] Andrew Williams: Fixed and rolling again.
+[03:22] Ashley: Any updates on your progress?
+[03:24] Andrew Williams: Making good time, no issues so far.
+[04:15] Ashley: How's LD-58848 looking?
+[04:17] Andrew Williams: Just passed Portland, OR, everything's fine.
+[04:44] Ashley: Where are you at right now?
+[04:46] Andrew Williams: Just crossed the state line, all good.
+[05:07] Ashley: Any updates on your progress?
+[05:09] Andrew Williams: Just crossed the state line, all good.
+[05:37] Ashley: Still on schedule?
+[05:39] Andrew Williams: Traffic's a bit heavy but I'm still on schedule.
+[06:32] Ashley: Still on schedule?
+[06:34] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[07:09] Ashley: Still on schedule?
+[07:11] Andrew Williams: Making good time, no issues so far.
+[07:31] Ashley: Still on schedule?
+[07:33] Andrew Williams: About 388 miles out from Seattle, WA now.
+[07:59] Ashley: Still on schedule?
+[08:01] Andrew Williams: Making good time, no issues so far.
+[08:42] Ashley: What's your status?
+[08:44] Andrew Williams: Just crossed the state line, all good.
+[09:08] Ashley: Any updates on your progress?
+[09:10] Andrew Williams: About 164 miles out from Seattle, WA now.
+[09:56] Ashley: Where are you at right now?
+[09:58] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[10:44] Ashley: Any updates on your progress?
+[10:46] Andrew Williams: Just passed Seattle, WA, everything's fine.
+[11:02] Ashley: Still on schedule?
+[11:04] Andrew Williams: Traffic's a bit heavy but I'm still on schedule.
+[11:38] Ashley: Where are you at right now?
+[11:40] Andrew Williams: Just crossed the state line, all good.
+[12:23] Ashley: Still on schedule?
+[12:25] Andrew Williams: About 70 miles out from Seattle, WA now.
+[12:42] Ashley: Still on schedule?
+[12:44] Andrew Williams: Traffic's a bit heavy but I'm still on schedule.
+[13:14] Ashley: How's LD-58848 looking?
+[13:16] Andrew Williams: Making good time, no issues so far.
+[14:06] Ashley: How's LD-58848 looking?
+[14:08] Andrew Williams: Just passed Seattle, WA, everything's fine.
+[15:08] Ashley: Still on schedule?
+[15:10] Andrew Williams: Stopped for a quick break, back on the road in a few.
+[15:49] Ashley: How's LD-58848 looking?
+[15:51] Andrew Williams: Traffic's a bit heavy but I'm still on schedule.
+[16:34] Ashley: Any updates on your progress?
+[16:36] Andrew Williams: Just crossed the state line, all good.
+[17:18] Andrew Williams: Just delivered LD-58848 at Seattle, WA, all good, no damages.
+[17:20] Ashley: Do you have the signed BOL?
+[17:22] Andrew Williams: Yep, taking a picture now.
+[17:23] Andrew Williams: [Image attached: signed_bol.jpg]
+[17:25] Ashley: Sending you the next load details shortly.
+[17:27] Andrew Williams: Copy that.
+[17:29] Ashley: Appreciate it, talk soon.

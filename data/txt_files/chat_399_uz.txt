@@ -1,0 +1,147 @@
+Chat Log #399
+Company: Silk Road Logistics
+Language: Uzbek
+Driver: Shavkat Ergashev | Truck: #857 (past ramali tirkama)
+Operator: Shahnoza
+Load: LD-23027 | Route: Farg'ona -> Andijon
+Date: 2026-04-04
+--------------------------------------------------
+[10:17] Shahnoza: Salom, Shavkat, ishlar qalay?
+[10:18] Shavkat Ergashev: Ha, aloqadaman.
+[10:20] Shahnoza: Siz uchun yuk bor - LD-23027, past ramali tirkama, Farg'onadan yuklanadi, Andijonga tushiriladi.
+[10:22] Shavkat Ergashev: Tushunarli, yuklash vaqti qachon?
+[10:24] Shahnoza: Yuklash 08:00-10:00, tushirish esa ertaga 14:00 bo'ladi.
+[10:26] Shavkat Ergashev: Bu reys uchun narx qancha?
+[10:28] Shahnoza: 1912 ming so'm, 612 km.
+[10:30] Shavkat Ergashev: Yaxshi, bu reysni olaman.
+[10:32] Shahnoza: Ajoyib, hozir narx tasdiqnomasini yuboraman.
+[10:35] Shavkat Ergashev: Oldim, imzolab qaytarib yubordim.
+[11:14] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[11:16] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[12:16] Shahnoza: LD-23027 bilan ishlar qalay?
+[12:18] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[13:25] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:27] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[13:30] Shahnoza: O'zingizni qalay his qilyapsiz?
+[13:32] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[14:11] Shahnoza: Holatingiz qanday?
+[14:13] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[15:25] Shahnoza: LD-23027 bilan ishlar qalay?
+[15:27] Shavkat Ergashev: Yo'l ta'mirlanyapti, hamma sekin ketyapti.
+[15:30] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[15:32] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[16:22] Shahnoza: Yo'lda yangilik bormi?
+[16:24] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:27] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[16:29] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[16:31] Shahnoza: Taxminan qachon yetib borasiz?
+[16:33] Shavkat Ergashev: Ehtimol 3pm, balki ertaroq.
+[17:11] Shahnoza: Yo'lda yangilik bormi?
+[17:13] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[17:38] Shahnoza: Yo'lda yangilik bormi?
+[17:40] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[17:43] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[17:45] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[18:46] Shahnoza: Holatingiz qanday?
+[18:48] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[18:51] Shahnoza: Xabar berib turganingiz uchun rahmat.
+[18:53] Shavkat Ergashev: Xo'p bo'ladi, qo'ng'iroq uchun rahmat.
+[19:32] Shahnoza: LD-23027 bilan ishlar qalay?
+[19:34] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[19:37] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[19:39] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[19:58] Shahnoza: Holatingiz qanday?
+[20:00] Shavkat Ergashev: Andijongacha taxminan 263 km qoldi.
+[20:03] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[20:05] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[20:20] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:22] Shavkat Ergashev: Yo'llar bo'sh, yaxshi ketyapman.
+[20:43] Shahnoza: Yo'lda yangilik bormi?
+[20:45] Shavkat Ergashev: Andijon yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[20:48] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[20:50] Shavkat Ergashev: Hammasi joyida, ishimni qilyapman.
+[21:46] Shahnoza: Yo'lda yangilik bormi?
+[21:48] Shavkat Ergashev: Farg'ona yaqinida tirbandlikka tushdim, taxminan 20 daqiqa qo'shiladi.
+[21:50] Shahnoza: Taxminan qachon yetib borasiz?
+[21:52] Shavkat Ergashev: Agar tirbandlik bo'lmasa 10amda.
+[23:02] Shahnoza: LD-23027 bilan ishlar qalay?
+[23:04] Shavkat Ergashev: Yo'l ho'l, ehtiyotkorlik bilan ketyapman.
+[23:07] Shahnoza: O'zingizni qalay his qilyapsiz?
+[23:09] Shavkat Ergashev: Yaxshi, faqat biroz charchadim.
+[23:54] Shahnoza: Holatingiz qanday?
+[23:56] Shavkat Ergashev: Bu yerda yoqilg'i narxlari yomon emas.
+[23:59] Shahnoza: O'zingizni qalay his qilyapsiz?
+[00:01] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[01:21] Shahnoza: Hozir qayerdasiz?
+[01:23] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[01:26] Shahnoza: Biror narsa kerak bo'lsa ayting.
+[01:28] Shavkat Ergashev: Ha, uzoq, lekin chidayapman.
+[02:01] Shavkat Ergashev: Muammo chiqdi, avtomobil yo'lida avariya bo'lgan LD-23027da. Yo'l chetiga to'xtadim.
+[02:02] Shahnoza: O'zingiz xavfsizmisiz? Birov jarohat oldimi?
+[02:04] Shavkat Ergashev: Ha, men yaxshiman, faqat yordam kerak.
+[02:06] Shahnoza: A376 yo'lida 148-belgida turibman.
+[02:11] Shahnoza: Yordam mashinasi yo'lda, taxminan 30 mindan keyin yetib keladi.
+[02:59] Shavkat Ergashev: Ta'mirlandi, yana yo'lga tushdim.
+[03:16] Shahnoza: Hozir qayerdasiz?
+[03:18] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[03:33] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[03:35] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[04:26] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[04:28] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[05:18] Shahnoza: Hozir qayerdasiz?
+[05:20] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[05:54] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[05:56] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[06:41] Shahnoza: LD-23027 bilan ishlar qalay?
+[06:43] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[07:05] Shahnoza: LD-23027 bilan ishlar qalay?
+[07:07] Shavkat Ergashev: Tirbandlik bor, lekin jadvaldan qolmayapman.
+[08:00] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[08:02] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[08:27] Shahnoza: LD-23027 bilan ishlar qalay?
+[08:29] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[08:59] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[09:01] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[09:58] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[10:00] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[10:41] Shahnoza: Hozir qayerdasiz?
+[10:43] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[11:33] Shahnoza: Hozir qayerdasiz?
+[11:35] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[12:34] Shahnoza: Yo'lda yangilik bormi?
+[12:36] Shavkat Ergashev: Andijongacha taxminan 304 km qoldi.
+[13:27] Shahnoza: Holatingiz qanday?
+[13:29] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[13:45] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[13:47] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[14:07] Shahnoza: Hozir qayerdasiz?
+[14:09] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[15:02] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:04] Shavkat Ergashev: Yaxshi ketyapman, hozircha muammo yo'q.
+[15:44] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[15:46] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[16:18] Shahnoza: Yo'lda yangilik bormi?
+[16:20] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[16:37] Shahnoza: LD-23027 bilan ishlar qalay?
+[16:39] Shavkat Ergashev: Bir oz dam olish uchun to'xtadim, tez orada davom etaman.
+[17:31] Shahnoza: LD-23027 bilan ishlar qalay?
+[17:33] Shavkat Ergashev: Andijongacha taxminan 24 km qoldi.
+[18:26] Shahnoza: LD-23027 bilan ishlar qalay?
+[18:28] Shavkat Ergashev: Andijongacha taxminan 338 km qoldi.
+[19:12] Shahnoza: Holatingiz qanday?
+[19:14] Shavkat Ergashev: Hozirgina Andijondan o'tdim, hammasi joyida.
+[19:34] Shahnoza: Yo'lda yangilik bormi?
+[19:36] Shavkat Ergashev: Hozirgina viloyat chegarasidan o'tdim, hammasi yaxshi.
+[20:24] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[20:26] Shavkat Ergashev: Hozirgina Farg'onadan o'tdim, hammasi joyida.
+[21:14] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:16] Shavkat Ergashev: Andijongacha taxminan 389 km qoldi.
+[21:57] Shahnoza: Hali ham jadval bo'yicha ketyapsizmi?
+[21:59] Shavkat Ergashev: Andijongacha taxminan 578 km qoldi.
+[23:21] Shavkat Ergashev: LD-23027 yukini Andijonda hozirgina tushirdim, hammasi joyida, shikast yo'q.
+[23:23] Shahnoza: Imzolangan hujjat (BOL) bormi sizda?
+[23:25] Shavkat Ergashev: Ha, hozir rasmga olaman.
+[23:26] Shavkat Ergashev: [Rasm biriktirildi: imzolangan_hujjat.jpg]
+[23:28] Shahnoza: Keyingi yuk tafsilotlarini tez orada yuboraman.
+[23:30] Shavkat Ergashev: Yaxshi.
+[23:32] Shahnoza: Ajoyib ish, rahmat.

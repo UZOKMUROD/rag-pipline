@@ -1,0 +1,128 @@
+Chat Log #247
+Company: Silk Road Logistics
+Language: English
+Driver: Jason Anderson | Truck: #499 (reefer)
+Operator: Jessica
+Load: LD-99059 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-06-20
+--------------------------------------------------
+[13:12] Jessica: Hey Jason, how's it going?
+[13:13] Jason Anderson: Hey, yeah I'm here.
+[13:15] Jessica: Got a load for you - LD-99059, reefer, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[13:17] Jason Anderson: Ok, what's the pickup window?
+[13:19] Jessica: Pickup is 09:00-11:00, delivery appointment is 14:00 the next day.
+[13:21] Jason Anderson: What's the rate on this one?
+[13:23] Jessica: $3972 all in, 1014 miles.
+[13:25] Jason Anderson: Sounds good, I'll take it.
+[13:27] Jessica: Great, sending the rate confirmation now.
+[13:30] Jason Anderson: Got it, signed and sent back.
+[14:21] Jessica: Still on schedule?
+[14:23] Jason Anderson: Just topped off the tank.
+[15:10] Jessica: Any updates on your progress?
+[15:12] Jason Anderson: Roads are wet, taking it easy.
+[16:36] Jessica: Any updates on your progress?
+[16:38] Jason Anderson: Yeah, long one, but manageable.
+[17:31] Jessica: Still on schedule?
+[17:33] Jason Anderson: Just passed Milwaukee, WI, everything's fine.
+[17:35] Jessica: What's your ETA?
+[17:37] Jason Anderson: Looking at 5pm if traffic stays clear.
+[18:45] Jessica: What's your status?
+[18:47] Jason Anderson: Just passed Minneapolis, MN, everything's fine.
+[18:50] Jessica: How are you holding up out there?
+[18:52] Jason Anderson: No problem, just doing my job.
+[19:45] Jessica: Where are you at right now?
+[19:47] Jason Anderson: Hit some traffic near Minneapolis, MN, adding maybe 20 minutes.
+[19:50] Jessica: Let me know if you need anything.
+[19:52] Jason Anderson: Yeah, long one, but manageable.
+[21:06] Jessica: How's LD-99059 looking?
+[21:08] Jason Anderson: Roads are clear now, moving well.
+[21:10] Jessica: What's your ETA?
+[21:12] Jason Anderson: Probably 3pm, maybe a bit earlier.
+[21:34] Jessica: Any updates on your progress?
+[21:36] Jason Anderson: Just crossed the state line, all good.
+[21:39] Jessica: Long trip, huh? Get some rest when you can.
+[21:41] Jason Anderson: Will do, thanks for checking in.
+[21:43] Jessica: What's your ETA?
+[21:45] Jason Anderson: Looking at 3pm if traffic stays clear.
+[23:12] Jessica: Any updates on your progress?
+[23:14] Jason Anderson: Rain is picking up here, slowing down a bit.
+[00:12] Jessica: Any updates on your progress?
+[00:14] Jason Anderson: Roads are clear now, moving well.
+[00:17] Jessica: Let me know if you need anything.
+[00:19] Jason Anderson: No problem, just doing my job.
+[00:21] Jessica: What's your ETA?
+[00:23] Jason Anderson: Looking at 3pm if traffic stays clear.
+[01:02] Jessica: Still on schedule?
+[01:04] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[01:07] Jessica: Let me know if you need anything.
+[01:09] Jason Anderson: No problem, just doing my job.
+[01:35] Jessica: How's LD-99059 looking?
+[01:37] Jason Anderson: Making good time, no issues so far.
+[01:40] Jessica: How are you holding up out there?
+[01:42] Jason Anderson: Will do, thanks for checking in.
+[02:51] Jessica: What's your status?
+[02:53] Jason Anderson: Just passed Minneapolis, MN, everything's fine.
+[03:52] Jessica: Where are you at right now?
+[03:54] Jason Anderson: Just crossed the state line, all good.
+[04:30] Jessica: Still on schedule?
+[04:32] Jason Anderson: Rain is picking up here, slowing down a bit.
+[04:35] Jessica: Let me know if you need anything.
+[04:37] Jason Anderson: Yeah, long one, but manageable.
+[05:37] Jessica: Still on schedule?
+[05:39] Jason Anderson: Yeah, long one, but manageable.
+[05:42] Jessica: How are you holding up out there?
+[05:44] Jason Anderson: Will do, thanks for checking in.
+[05:46] Jessica: What's your ETA?
+[05:48] Jason Anderson: Probably 5pm, maybe a bit earlier.
+[06:06] Jessica: What's your status?
+[06:08] Jason Anderson: Just passed Milwaukee, WI, everything's fine.
+[06:11] Jessica: Let me know if you need anything.
+[06:13] Jason Anderson: Yeah, long one, but manageable.
+[06:43] Jessica: Still on schedule?
+[06:45] Jason Anderson: Construction zone slowing everyone down.
+[06:48] Jessica: How are you holding up out there?
+[06:50] Jason Anderson: Yeah, long one, but manageable.
+[08:15] Jessica: How's LD-99059 looking?
+[08:17] Jason Anderson: Accident up ahead, traffic's backed up.
+[08:57] Jason Anderson: Still sitting at the receiver, been here almost 3 hours already.
+[08:59] Jessica: Let me call them and see what's going on.
+[09:09] Jessica: Ok talked to them, they said 30 more minutes, forklift issue.
+[09:11] Jason Anderson: Make sure detention pay gets logged for this.
+[09:13] Jessica: Already noted, don't worry, you'll get paid for the wait.
+[09:53] Jessica: Still on schedule?
+[09:55] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[10:42] Jessica: Where are you at right now?
+[10:44] Jason Anderson: About 302 miles out from Milwaukee, WI now.
+[11:04] Jessica: Any updates on your progress?
+[11:06] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[11:38] Jessica: What's your status?
+[11:40] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[12:10] Jessica: Any updates on your progress?
+[12:12] Jason Anderson: Just crossed the state line, all good.
+[12:44] Jessica: Any updates on your progress?
+[12:46] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[13:46] Jessica: Where are you at right now?
+[13:48] Jason Anderson: Making good time, no issues so far.
+[14:21] Jessica: How's LD-99059 looking?
+[14:23] Jason Anderson: About 312 miles out from Milwaukee, WI now.
+[15:13] Jessica: Where are you at right now?
+[15:15] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[16:03] Jessica: What's your status?
+[16:05] Jason Anderson: Traffic's a bit heavy but I'm still on schedule.
+[16:42] Jessica: How's LD-99059 looking?
+[16:44] Jason Anderson: Just crossed the state line, all good.
+[17:15] Jessica: Still on schedule?
+[17:17] Jason Anderson: Just crossed the state line, all good.
+[18:12] Jessica: Still on schedule?
+[18:14] Jason Anderson: Just crossed the state line, all good.
+[18:59] Jessica: Any updates on your progress?
+[19:01] Jason Anderson: Just passed Minneapolis, MN, everything's fine.
+[19:49] Jessica: Any updates on your progress?
+[19:51] Jason Anderson: Just crossed the state line, all good.
+[20:21] Jason Anderson: Just delivered LD-99059 at Milwaukee, WI, all good, no damages.
+[20:23] Jessica: Do you have the signed BOL?
+[20:25] Jason Anderson: Yep, taking a picture now.
+[20:26] Jason Anderson: [Image attached: signed_bol.jpg]
+[20:28] Jessica: Sending you the next load details shortly.
+[20:30] Jason Anderson: Sounds good.
+[20:32] Jessica: Great work, thank you.

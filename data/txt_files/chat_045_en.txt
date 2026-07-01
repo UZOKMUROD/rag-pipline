@@ -1,0 +1,128 @@
+Chat Log #045
+Company: Silk Road Logistics
+Language: English
+Driver: Andrew Rodriguez | Truck: #901 (dry van)
+Operator: Brittany
+Load: LD-68484 | Route: Minneapolis, MN -> Milwaukee, WI
+Date: 2026-02-11
+--------------------------------------------------
+[12:30] Brittany: Andrew, got a minute?
+[12:31] Andrew Rodriguez: Hey, yeah I'm here.
+[12:33] Brittany: Got a load for you - LD-68484, dry van, pickup in Minneapolis, MN, delivery to Milwaukee, WI.
+[12:35] Andrew Rodriguez: Ok, what's the pickup window?
+[12:37] Brittany: Pickup is 09:00-11:00, delivery appointment is 07:30 the next day.
+[12:39] Andrew Rodriguez: What's the rate on this one?
+[12:41] Brittany: $2274 all in, 655 miles.
+[12:43] Andrew Rodriguez: Sounds good, I'll take it.
+[12:45] Brittany: Great, sending the rate confirmation now.
+[12:48] Andrew Rodriguez: Got it, signed and sent back.
+[13:35] Brittany: Still on schedule?
+[13:37] Andrew Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[13:40] Brittany: Long trip, huh? Get some rest when you can.
+[13:42] Andrew Rodriguez: No problem, just doing my job.
+[14:34] Brittany: How's LD-68484 looking?
+[14:36] Andrew Rodriguez: Just topped off the tank.
+[14:38] Brittany: What's your ETA?
+[14:40] Andrew Rodriguez: Probably 7pm, maybe a bit earlier.
+[15:04] Brittany: Still on schedule?
+[15:06] Andrew Rodriguez: No problem, just doing my job.
+[16:08] Brittany: Any updates on your progress?
+[16:10] Andrew Rodriguez: Clear skies here, no problems.
+[16:12] Brittany: What's your ETA?
+[16:14] Andrew Rodriguez: Should be there around 7pm.
+[17:25] Brittany: What's your status?
+[17:27] Andrew Rodriguez: About 219 miles out from Milwaukee, WI now.
+[17:30] Brittany: Let me know if you need anything.
+[17:32] Andrew Rodriguez: Will do, thanks for checking in.
+[18:53] Brittany: What's your status?
+[18:55] Andrew Rodriguez: Roads are wet, taking it easy.
+[18:57] Brittany: What's your ETA?
+[18:59] Andrew Rodriguez: Should be there around 5pm.
+[19:58] Brittany: How's LD-68484 looking?
+[20:00] Andrew Rodriguez: Stopping for fuel in a bit.
+[20:16] Brittany: What's your status?
+[20:18] Andrew Rodriguez: Accident up ahead, traffic's backed up.
+[21:16] Brittany: Any updates on your progress?
+[21:18] Andrew Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[21:21] Brittany: Appreciate you keeping me posted.
+[21:23] Andrew Rodriguez: Will do, thanks for checking in.
+[22:24] Brittany: Where are you at right now?
+[22:26] Andrew Rodriguez: Just topped off the tank.
+[23:27] Brittany: Any updates on your progress?
+[23:29] Andrew Rodriguez: Making good time, no issues so far.
+[23:32] Brittany: Long trip, huh? Get some rest when you can.
+[23:34] Andrew Rodriguez: Will do, thanks for checking in.
+[00:44] Brittany: What's your status?
+[00:46] Andrew Rodriguez: About 575 miles out from Milwaukee, WI now.
+[00:48] Brittany: What's your ETA?
+[00:50] Andrew Rodriguez: Looking at 5pm if traffic stays clear.
+[02:18] Brittany: Any updates on your progress?
+[02:20] Andrew Rodriguez: Accident up ahead, traffic's backed up.
+[02:22] Brittany: What's your ETA?
+[02:24] Andrew Rodriguez: Should be there around noon.
+[02:39] Brittany: Any updates on your progress?
+[02:41] Andrew Rodriguez: Construction zone slowing everyone down.
+[02:43] Brittany: What's your ETA?
+[02:45] Andrew Rodriguez: Probably 3pm, maybe a bit earlier.
+[03:21] Brittany: Any updates on your progress?
+[03:23] Andrew Rodriguez: About 229 miles out from Milwaukee, WI now.
+[04:48] Brittany: Where are you at right now?
+[04:50] Andrew Rodriguez: Fuel prices are decent around here.
+[04:52] Brittany: What's your ETA?
+[04:54] Andrew Rodriguez: Should be there around 3pm.
+[05:50] Brittany: What's your status?
+[05:52] Andrew Rodriguez: Just crossed the state line, all good.
+[07:01] Brittany: What's your status?
+[07:03] Andrew Rodriguez: Roads are wet, taking it easy.
+[07:06] Brittany: Let me know if you need anything.
+[07:08] Andrew Rodriguez: Doing alright, just tired.
+[07:10] Brittany: What's your ETA?
+[07:12] Andrew Rodriguez: Looking at noon if traffic stays clear.
+[07:41] Andrew Rodriguez: Still sitting at the shipper, been here almost 4 hours already.
+[07:43] Brittany: Let me call them and see what's going on.
+[07:53] Brittany: Ok talked to them, they said 30 more minutes, forklift issue.
+[07:55] Andrew Rodriguez: Make sure detention pay gets logged for this.
+[07:57] Brittany: Already noted, don't worry, you'll get paid for the wait.
+[08:53] Brittany: Any updates on your progress?
+[08:55] Andrew Rodriguez: About 205 miles out from Milwaukee, WI now.
+[09:20] Brittany: How's LD-68484 looking?
+[09:22] Andrew Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[09:41] Brittany: Any updates on your progress?
+[09:43] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[10:41] Brittany: Where are you at right now?
+[10:43] Andrew Rodriguez: Just crossed the state line, all good.
+[11:30] Brittany: How's LD-68484 looking?
+[11:32] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[12:11] Brittany: How's LD-68484 looking?
+[12:13] Andrew Rodriguez: About 258 miles out from Milwaukee, WI now.
+[13:02] Brittany: Where are you at right now?
+[13:04] Andrew Rodriguez: About 364 miles out from Milwaukee, WI now.
+[13:51] Brittany: Still on schedule?
+[13:53] Andrew Rodriguez: Just crossed the state line, all good.
+[14:38] Brittany: How's LD-68484 looking?
+[14:40] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[15:11] Brittany: Where are you at right now?
+[15:13] Andrew Rodriguez: Traffic's a bit heavy but I'm still on schedule.
+[15:42] Brittany: What's your status?
+[15:44] Andrew Rodriguez: Just crossed the state line, all good.
+[16:23] Brittany: Where are you at right now?
+[16:25] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[17:10] Brittany: How's LD-68484 looking?
+[17:12] Andrew Rodriguez: Making good time, no issues so far.
+[18:02] Brittany: Still on schedule?
+[18:04] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[18:38] Brittany: Still on schedule?
+[18:40] Andrew Rodriguez: Stopped for a quick break, back on the road in a few.
+[19:04] Brittany: Still on schedule?
+[19:06] Andrew Rodriguez: Making good time, no issues so far.
+[19:58] Brittany: Any updates on your progress?
+[20:00] Andrew Rodriguez: Just passed Minneapolis, MN, everything's fine.
+[20:27] Brittany: Still on schedule?
+[20:29] Andrew Rodriguez: Making good time, no issues so far.
+[21:20] Andrew Rodriguez: Just delivered LD-68484 at Milwaukee, WI, all good, no damages.
+[21:22] Brittany: Do you have the signed BOL?
+[21:24] Andrew Rodriguez: Yep, taking a picture now.
+[21:25] Andrew Rodriguez: [Image attached: signed_bol.jpg]
+[21:27] Brittany: Sending you the next load details shortly.
+[21:29] Andrew Rodriguez: Will do.
+[21:31] Brittany: Thanks for the update, drive safe.
